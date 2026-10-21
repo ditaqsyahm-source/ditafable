@@ -1,0 +1,26 @@
+{
+  "channel": "@ditafable",
+  "active_day": 1,
+  "next_day": 1,
+  "total_published": 0,
+  "last_updated": "2026-10-21T16:38:00.000Z",
+  "pipeline_status": {},
+  "distribution": {
+    "tiktok": {
+      "username": "ditafable",
+      "account_id": "6ad8acf3c24aa78753a651ef",
+      "status": "CONNECTED"
+    },
+    "instagram": {
+      "username": "ditafable",
+      "account_id": "6ad8acd9aad76462b1a71e23",
+      "status": "CONNECTED"
+    },
+    "youtube": {
+      "username": "@ditafable",
+      "channel_id": "UCxEyHnK7ru1XM7Ri0EWywLw",
+      "channel_title": " Dita Dongeng Fabel",
+      "status": "CONNECTED"
+    }
+  }
+}

@@ -1,0 +1,85 @@
+name: Daily Fable Shorts Pipeline
+
+on:
+  schedule:
+    # 19:30 WIB = 12:30 UTC (Bedtime Story Primetime)
+    - cron: '30 12 * * *'
+  workflow_dispatch:
+    inputs:
+      day:
+        description: 'Day index to render & publish (e.g. 1, 2, 3)'
+        required: false
+        default: ''
+
+jobs:
+  build-and-publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install System Dependencies (Chrome & FFmpeg)
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y google-chrome-stable ffmpeg curl
+
+      - name: Install Python Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install edge-tts pillow requests
+
+      - name: Install Node Dependencies
+        run: npm install
+
+      - name: Execute Daily Pipeline
+        env:
+          ZERNIO_API_KEY: ${{ secrets.ZERNIO_API_KEY }}
+          TIKTOK_ACCOUNT_ID: ${{ secrets.TIKTOK_ACCOUNT_ID }}
+          TIKTOK_USERNAME: ${{ secrets.TIKTOK_USERNAME }}
+          INSTAGRAM_ACCOUNT_ID: ${{ secrets.INSTAGRAM_ACCOUNT_ID }}
+          INSTAGRAM_USERNAME: ${{ secrets.INSTAGRAM_USERNAME }}
+          GOOGLE_CLIENT_ID: ${{ secrets.GOOGLE_CLIENT_ID }}
+          GOOGLE_CLIENT_SECRET: ${{ secrets.GOOGLE_CLIENT_SECRET }}
+          YT_REFRESH_TOKEN: ${{ secrets.YT_REFRESH_TOKEN }}
+          PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
+          REMOTION_BROWSER_EXECUTABLE: /usr/bin/google-chrome-stable
+        run: |
+          echo "=========================================================="
+          echo "Running Dita Dongeng Fabel (@ditafable) Autonomous CI/CD..."
+          echo "=========================================================="
+          if [ -n "${{ github.event.inputs.day }}" ]; then
+            npm run pipeline -- --day "${{ github.event.inputs.day }}"
+          else
+            npm run pipeline
+          fi
+
+      - name: Commit State & Receipts
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add state/
+          git diff --staged --quiet || git commit -m "chore(pipeline): update campaign and published state [skip ci]"
+          git push
+
+      - name: Upload Video Artifacts
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: dita-fable-video
+          path: output/
+          retention-days: 3

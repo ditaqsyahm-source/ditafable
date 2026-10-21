@@ -1,0 +1,296 @@
+{
+  "metadata": {
+    "channel_id": "DITA-04",
+    "channel_name": "Dita Dongeng & Fabel",
+    "handle": "@ditafable",
+    "day_number": 2,
+    "cycle_number": 1,
+    "cycle_theme": "Fondasi Kejujuran & Nilai Moral Luhur Anak",
+    "topic_pillar_id": "P2",
+    "topic_pillar_name": "Kebaikan Tulus, Empati & Berbagi (Kindness, Empathy & Generosity)",
+    "narrative_format_id": "F2",
+    "narrative_format_name": "Pembalik Prasangka (The Misunderstood Hero)",
+    "emotional_trigger": "Empati Mengharukan & Kehangatan Kasih (Warmth & Empathy)",
+    "visual_pacing": "Hujan Badai Menegangkan beralih ke Fajar Emas Hangat (Pacing Kontras Sinematik)",
+    "target_duration_range": "45-60 detik",
+    "cta_hook_type": "Refleksi Pengantar Tidur & Diskusi Nilai Bersama Anak",
+    "target_audience": "Balita & anak usia dini (3-8 tahun) bersama orang tua (Ayah & Bunda)",
+    "created_by": "Content Research & Narrative Architect (@content-researcher)",
+    "reviewed_by": "Herman (Command Point / @hermes)",
+    "intended_executor": "Director (@fullmontage) & Fleet Operator (@social-operator)"
+  },
+  "scientific_research_dossier": {
+    "core_topic": "Menumbuhkan Empati Melalui Pembalikan Prasangka: Mengapa Anak Perlu Belajar Melihat Kebaikan di Balik Penampilan Luar",
+    "academic_citations": [
+      {
+        "author": "Dr. Albert Bandura",
+        "publication": "Social Foundations of Thought and Action: A Social Cognitive Theory (Prentice-Hall, 1986)",
+        "key_findings": "Teori Pembelajaran Sosial membuktikan bahwa anak usia dini menyerap perilaku prososial melalui pemodelan karakter (vicarious reinforcement). Kisah fabel hewan yang disalahpahami mengajarkan anak untuk tidak menghakimi teman berdasarkan atribut fisik."
+      },
+      {
+        "author": "Dr. Robert L. Selman",
+        "publication": "The Growth of Interpersonal Understanding: Developmental and Clinical Analyses (Academic Press, 1980)",
+        "key_findings": "Tahap Pengambilan Sudut Pandang Sosial (Social Perspective-Taking). Anak usia 4-7 tahun mulai belajar bahwa orang lain memiliki perasaan dan niat yang mungkin berbeda dari penampilan fisiknya."
+      },
+      {
+        "author": "Dr. Nancy Eisenberg",
+        "publication": "The Development of Prosocial Behavior (Academic Press, 1982)",
+        "key_findings": "Empati berkembang ketika anak terpapar narasi pengorbanan tanpa pamrih. Karakter yang rela menahan sakit demi melindungi yang lebih lemah memicu respon afektif mendalam pada anak."
+      }
+    ],
+    "psychological_mechanism_breakdown": {
+      "child_developmental_stage": "Anak balita sering kali takut pada hal-hal yang tampak berduri, kasar, atau asing. Narasi Duri si Landak membongkar ketakutan tersebut menjadi rasa kagum dan sayang.",
+      "moral_internalization_process": "Melihat Duri melindungi sarang lebah mengaktifkan sistem mirror neuron anak, menanamkan keyakinan bahwa kebaikan sejati melampaui rupa fisik.",
+      "common_parenting_challenge": "Anak-anak rentan menjauhi teman yang memiliki perbedaan fisik atau cara bicara. Cerita ini menjadi jembatan edukasi anti-bullying yang sangat halus dan mengena.",
+      "moral_syariah_alignment": "Selaras dengan sabda Nabi SAW: 'Sesungguhnya Allah tidak melihat pada rupa dan harta kalian, melainkan melihat pada hati dan amal perbuatan kalian' (HR. Muslim)."
+    }
+  },
+  "script_architecture_breakdown": {
+    "anatomy": [
+      {
+        "segment_id": "SEG_01",
+        "phase": "Thumb-Stopping Hook",
+        "timestamp_range": "00:00 - 00:03",
+        "duration_seconds": 3,
+        "spoken_text": "Semua hewan hutan menjauhi Duri si landak kecil, sampai hujan badai datang malam itu.",
+        "word_count": 14,
+        "pacing_wpm": 280,
+        "visual_direction": "Medium shot dramatis: Duri si landak kecil berjalan menunduk di jalan setapak hutan yang basah, hewan-hewan lain (kelinci, tupai) bersembunyi di balik pohon melihatnya dengan cemas. Langit mendung gelap bergemuruh kilat.",
+        "text_on_screen": {
+          "headline": "DIJAUHI KARENA BERDURI...",
+          "sub_headline": "Rahasia Hati Duri si Landak Kecil",
+          "style": "Font tebal rounded putih dengan outline biru tua malam, animasi petir lembut."
+        },
+        "audio_design": {
+          "voice_inflection": "Misterius, menggugah rasa iba dan penasaran anak.",
+          "sfx": "Gemuruh petir jauh dan rintik hujan lembut di dedaunan.",
+          "bgm": "Nada piano pelan dengan gesekan biola syahdu bernuansa haru."
+        }
+      },
+      {
+        "segment_id": "SEG_02",
+        "phase": "Pengenalan Karakter & Dilema",
+        "timestamp_range": "00:03 - 00:15",
+        "duration_seconds": 12,
+        "spoken_text": "Tubuhnya yang penuh duri runcing membuat kawan-kawannya takut terluka dan enggan mendekat. Duri sering merasa sedih dan menangis sendirian di dalam sarangnya yang sepi.",
+        "word_count": 26,
+        "pacing_wpm": 130,
+        "visual_direction": "Close-up emosional: Duri duduk di depan daun talas besar, menatap bayangan dirinya di genangan air hujan dengan mata berair jernih. Jarum-jarum di punggungnya bergoyang lembut tertiup angin.",
+        "text_on_screen": {
+          "headline": "Tak Punya Sahabat...",
+          "sub_headline": "Duri di luar, sepi di dalam dada",
+          "style": "Teks elegan biru pastel di sepertiga bawah, transisi fade-in lembut."
+        },
+        "audio_design": {
+          "voice_inflection": "Empatik, lembut, merangkul rasa sepi anak-anak.",
+          "sfx": "Tetes air hujan jatuh menimpa genangan (drip-drop).",
+          "bgm": "Alunan celesta berpadu string melankolis yang menenangkan."
+        }
+      },
+      {
+        "segment_id": "SEG_03",
+        "phase": "Konflik Cerita & Pembalikan Mindset",
+        "timestamp_range": "00:15 - 00:35",
+        "duration_seconds": 20,
+        "spoken_text": "Namun saat angin kencang merobohkan sarang lebah madu ke tanah basah, Duri tidak ragu sedikit pun. Ia segera melengkungkan tubuhnya di atas sarang rapuh itu, rela menahan dinginnya air hujan demi melindungi bayi-bayi lebah sepanjang malam.",
+        "word_count": 38,
+        "pacing_wpm": 114,
+        "visual_direction": "Aksi heroik mengharukan 3D Pixar: Hujan lebat mengguyur. Duri melengkungkan tubuhnya membentuk kubah pelindung di atas sarang lebah yang terjatuh di tanah. Duri menahan guyuran air dan terpaan angin dengan mata terpejam teguh, sementara bayi-bayi lebah tidur aman di bawah perutnya yang hangat.",
+        "text_on_screen": {
+          "headline": "MENJADI PERISAI KASIH",
+          "sub_headline": "Rela Menahan Dingin Demi Menyelamatkan Kawan",
+          "style": "Highlight emas keemasan dengan efek pendaran cahaya perisai pelindung."
+        },
+        "audio_design": {
+          "voice_inflection": "Penuh kekaguman, berwibawa, menyentuh rasa haru mendalam.",
+          "sfx": "Suara deburan angin kencang yang perlahan mereda menjadi hembusan hangat.",
+          "bgm": "Musik orkestra crescendo lembut bernuansa kepahlawanan tulus."
+        }
+      },
+      {
+        "segment_id": "SEG_04",
+        "phase": "Titik Balik Moral & Kalimat Bijak",
+        "timestamp_range": "00:35 - 00:50",
+        "duration_seconds": 15,
+        "spoken_text": "Saat fajar menyingsing indah, Ratu Lebah berbisik penuh haru: 'Duri di punggungmu tajam, tapi hatimu selembut sutra.' Jangan pernah menilai indahnya kebaikan hanya dari penampilan luarnya.",
+        "word_count": 27,
+        "pacing_wpm": 108,
+        "visual_direction": "Golden morning sunlight: Sinar matahari pagi menembus celah pepohonan. Ratu lebah bersayap berkilau mendarat di hidung Duri, memberikan mahkota nektar bunga bercahaya. Seluruh satwa hutan berkumpul mengelilingi Duri dengan senyum penuh hormat dan persahabatan hangat.",
+        "text_on_screen": {
+          "headline": "\"HATIMU SELEMBUT SUTRA\" 🌸",
+          "sub_headline": "Jangan Menilai dari Rupa Luar",
+          "style": "Kotak kutipan hijau mint bercahaya lembut dengan bingkai bunga hutan."
+        },
+        "audio_design": {
+          "voice_inflection": "Hangat, damai, melegakan jiwa, penuh nada pencerahan budi pekerti.",
+          "sfx": "Kicau burung pagi hari dan dentang bel angin merdu.",
+          "bgm": "Melodi harpa dan piano berpadu manis menyongsong kehangatan mentari."
+        }
+      },
+      {
+        "segment_id": "SEG_05",
+        "phase": "Refleksi Pengantar Tidur & Seamless Loop",
+        "timestamp_range": "00:50 - 00:58",
+        "duration_seconds": 8,
+        "spoken_text": "Ingatlah kehangatan ini setiap kali kamu mendengar...",
+        "word_count": 7,
+        "pacing_wpm": 52,
+        "visual_direction": "Kamera perlahan mundur ke pemandangan hutan pagi berkabut emas yang damai. Duri berjalan bersama kawan-kawan barunya sambil tertawa bahagia. Transisi cepat menyambung ke frame pembuka di jalan setapak.",
+        "text_on_screen": {
+          "headline": "Hati yang Indah Memancarkan Cahaya ✨",
+          "sub_headline": "Peluk si kecil dan ceritakan kebaikan ini",
+          "style": "Teks putih berbayang lembut dengan tombol bookmark dan ikon hati mekar."
+        },
+        "audio_design": {
+          "voice_inflection": "Lembut berbisik pengantar tidur, intonasi naik menggantung yang mengalir kembali ke awal.",
+          "sfx": "Gemerisik dedaunan pagi dan desah nafas damai.",
+          "bgm": "Akord penutup yang menyatu sempurna dengan ketukan pembuka video."
+        }
+      }
+    ]
+  },
+  "seamless_loop_mechanism": {
+    "loop_phrase_ending": "Ingatlah kehangatan ini setiap kali kamu mendengar...",
+    "hook_phrase_beginning": "Semua hewan hutan menjauhi Duri si landak kecil, sampai hujan badai datang malam itu.",
+    "full_loop_sentence": "Ingatlah kehangatan ini setiap kali kamu mendengar... Semua hewan hutan menjauhi Duri si landak kecil, sampai hujan badai datang malam itu.",
+    "retention_mechanic": "Frasa penghubung penutup mengantarkan pendengar kembali ke awal kisah tanpa jeda, mengoptimalkan algoritma completion rate."
+  },
+  "verbatim_script_master": {
+    "full_spoken_text_id": "Semua hewan hutan menjauhi Duri si landak kecil, sampai hujan badai datang malam itu. Tubuhnya yang penuh duri runcing membuat kawan-kawannya takut terluka dan enggan mendekat. Duri sering merasa sedih dan menangis sendirian di dalam sarangnya yang sepi. Namun saat angin kencang merobohkan sarang lebah madu ke tanah basah, Duri tidak ragu sedikit pun. Ia segera melengkungkan tubuhnya di atas sarang rapuh itu, rela menahan dinginnya air hujan demi melindungi bayi-bayi lebah sepanjang malam. Saat fajar menyingsing indah, Ratu Lebah berbisik penuh haru: 'Duri di punggungmu tajam, tapi hatimu selembut sutra.' Jangan pernah menilai indahnya kebaikan hanya dari penampilan luarnya. Ingatlah kehangatan ini setiap kali kamu mendengar...",
+    "total_word_count": 106,
+    "estimated_reading_duration_seconds": 53,
+    "average_wpm": 120.0,
+    "voiceover_profile": {
+      "speaker_persona": "Kak Dita (Pendongeng hangat, ramah anak, intonasi lembut pengantar tidur, ekspresif namun menenangkan)",
+      "speed_multiplier": 1.0,
+      "tone_notes": "Warm bedtime storytelling, soothing, expressive character voices, calming bedtime cadence. No harsh tone."
+    }
+  },
+  "production_prompts_for_fullmontage": {
+    "midjourney_flux_visual_cues": [
+      {
+        "scene_id": "SCENE_01",
+        "timecode": "00:00 - 00:03",
+        "aspect_ratio": "9:16",
+        "prompt": "Adorable cute 3D Pixar style little hedgehog walking lonely on wet mossy forest trail, dark moody storm clouds, distant lightning flash, big round soulful sad eyes, soft prickly quills, photorealistic Disney 3D animation style, cinematic depth of field --ar 9:16"
+      },
+      {
+        "scene_id": "SCENE_02",
+        "timecode": "00:03 - 00:15",
+        "aspect_ratio": "9:16",
+        "prompt": "Heartbreaking emotional close-up of the cute little hedgehog sitting under a giant green taro leaf, looking at his own reflection in a rainwater puddle with gentle tears, raindrops falling, warm melancholic lighting, hyper-detailed 3D render --ar 9:16"
+      },
+      {
+        "scene_id": "SCENE_03",
+        "timecode": "00:15 - 00:35",
+        "aspect_ratio": "9:16",
+        "prompt": "Heroic heartwarming scene in heavy forest rain, the brave little hedgehog curling into a protective umbrella dome over a fallen honeycomb hive, tiny cute baby bees sleeping safely beneath his warm belly, dramatic rainfall, glowing golden honey droplets, 8k Pixar quality --ar 9:16"
+      },
+      {
+        "scene_id": "SCENE_04",
+        "timecode": "00:35 - 00:50",
+        "aspect_ratio": "9:16",
+        "prompt": "Golden sunrise in enchanted fairytale forest, beautiful glowing queen bee crowning the smiling little hedgehog with a flower nectar garland, friendly forest animals rabbits and squirrels clapping with admiration, warm golden morning mist, breathtaking 3D art --ar 9:16"
+      },
+      {
+        "scene_id": "SCENE_05",
+        "timecode": "00:50 - 00:58",
+        "aspect_ratio": "9:16",
+        "prompt": "Peaceful morning landscape of enchanted woodland forest bathed in soft pastel sunbeams, blooming colorful wildflowers, serene harmony, bedtime storybook aesthetic, ultra-high resolution --ar 9:16"
+      }
+    ],
+    "voiceover_audio_generation_specs": {
+      "text": "Semua hewan hutan menjauhi Duri si landak kecil, sampai hujan badai datang malam itu. Tubuhnya yang penuh duri runcing membuat kawan-kawannya takut terluka dan enggan mendekat. Duri sering merasa sedih dan menangis sendirian di dalam sarangnya yang sepi. Namun saat angin kencang merobohkan sarang lebah madu ke tanah basah, Duri tidak ragu sedikit pun. Ia segera melengkungkan tubuhnya di atas sarang rapuh itu, rela menahan dinginnya air hujan demi melindungi bayi-bayi lebah sepanjang malam. Saat fajar menyingsing indah, Ratu Lebah berbisik penuh haru: 'Duri di punggungmu tajam, tapi hatimu selembut sutra.' Jangan pernah menilai indahnya kebaikan hanya dari penampilan luarnya. Ingatlah kehangatan ini setiap kali kamu mendengar...",
+      "target_wpm": 120,
+      "pause_cues": [
+        {
+          "after_word": "itu.",
+          "pause_ms": 500
+        },
+        {
+          "after_word": "mendekat.",
+          "pause_ms": 400
+        },
+        {
+          "after_word": "sepi.",
+          "pause_ms": 550
+        },
+        {
+          "after_word": "pun.",
+          "pause_ms": 350
+        },
+        {
+          "after_word": "malam.",
+          "pause_ms": 600
+        },
+        {
+          "after_word": "sutra.'",
+          "pause_ms": 650
+        },
+        {
+          "after_word": "luarnya.",
+          "pause_ms": 550
+        },
+        {
+          "after_word": "mendengar...",
+          "pause_ms": 750
+        }
+      ]
+    },
+    "broll_queries": [
+      {
+        "scene_id": "SCENE_01",
+        "timeStart": 0,
+        "timeEnd": 3,
+        "query": "cute 3d hedgehog walking forest"
+      },
+      {
+        "scene_id": "SCENE_02",
+        "timeStart": 3,
+        "timeEnd": 9,
+        "query": "sad hedgehog alone puddle rain"
+      },
+      {
+        "scene_id": "SCENE_03",
+        "timeStart": 9,
+        "timeEnd": 15,
+        "query": "heavy storm enchanted woodland"
+      },
+      {
+        "scene_id": "SCENE_04",
+        "timeStart": 15,
+        "timeEnd": 25,
+        "query": "hedgehog protecting fallen nest"
+      },
+      {
+        "scene_id": "SCENE_05",
+        "timeStart": 25,
+        "timeEnd": 35,
+        "query": "tiny bees sleeping honey hive"
+      },
+      {
+        "scene_id": "SCENE_06",
+        "timeStart": 35,
+        "timeEnd": 45,
+        "query": "golden morning sun enchanted forest"
+      },
+      {
+        "scene_id": "SCENE_07",
+        "timeStart": 45,
+        "timeEnd": 50,
+        "query": "queen bee hovering flower garland"
+      },
+      {
+        "scene_id": "SCENE_08",
+        "timeStart": 50,
+        "timeEnd": 58,
+        "query": "woodland animals happy friendship"
+      }
+    ]
+  },
+  "social_fleet_distribution_metadata": {
+    "title": "Duri si Landak & Payung Sarang Lebah (Jangan Menilai dari Rupa Luar)",
+    "caption_instagram_tiktok": "Pernah nggak si kecil merasa minder atau takut dijauhi teman karena merasa berbeda? 🥺🦔\n\nDongeng fabel Duri si Landak Kecil ini mengajarkan buah hati kita tentang indahnya kebaikan hati yang melampaui penampilan fisik.\n\nSeringkali kita tergoda menilai seseorang dari luar, padahal di balik duri yang tajam bisa tersimpan hati yang paling lembut dan tulus melindungi sesama. Ajak si kecil merenungkan kisah ini sebelum tidur agar mereka tumbuh menjadi anak yang penuh empati dan tidak mudah berprasangka buruk pada orang lain.\n\nSimpan video ini untuk dongeng malam ini ya Ayah Bunda! ❤️✨\n\n#ditafable #dongenganak #fabelanak #ceritapengantartidur #parentinganak #edukasianak #empati #kebaikanhati #nilaimoral #kisahinspiratif",
+    "youtube_shorts_title": "Duri si Landak & Sarang Lebah: Jangan Nilai dari Rupa Luar #shorts #dongenganak #fabel"
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "channel_id": "DITA-04",
+  "channel_name": "Dita Dongeng & Fabel",
+  "channel_handle": "@ditafable",
+  "audio_path": "public/voiceover_day_001.mp3",
+  "voice": "id-ID-GadisNeural",
+  "rate": "-3%",
+  "total_words": 97,
+  "duration_seconds": 56.09,
+  "duration_frames": 1346,
+  "fps": 24,
+  "sentences": [
+    {
+      "start": 0.05,
+      "end": 4.857,
+      "duration": 4.807,
+      "text": "Jangan sembunyikan apel yang sudah terbelah itu di balik semak!"
+    },
+    {
+      "start": 4.857,
+      "end": 12.782,
+      "duration": 7.925,
+      "text": "Kancil kecil bernama Ciko gemetar saat apel emas kesayangan kakek beruang pecah karena kecerobohannya."
+    },
+    {
+      "start": 12.782,
+      "end": 16.339,
+      "duration": 3.557,
+      "text": "Ia sempat ingin lari dan berbohong."
+    },
+    {
+      "start": 16.339,
+      "end": 25.707,
+      "duration": 9.369,
+      "text": "Tapi di dalam dadanya, detak jantungnya berbisik bahwa rasa bersalah itu terasa jauh lebih berat daripada hukuman apapun."
+    },
+    {
+      "start": 25.707,
+      "end": 36.107,
+      "duration": 10.399,
+      "text": "Dengan napas pelan, Ciko menghampiri kakek beruang dan berkata jujur: 'Kakek, Ciko minta maaf, Ciko yang memecahkannya.'"
+    },
+    {
+      "start": 36.107,
+      "end": 45.656,
+      "duration": 9.549,
+      "text": "Kakek beruang tersenyum hangat, lalu memeluknya erat: 'Mengakui kesalahan butuh keberanian ksatria sejati, Ciko.'"
+    },
+    {
+      "start": 45.656,
+      "end": 51.005,
+      "duration": 5.349,
+      "text": "Karena kejujuran selalu membasuh rasa takut menjadi rasa tenang."
+    },
+    {
+      "start": 51.005,
+      "end": 56.081,
+      "duration": 5.076,
+      "text": "Maka malam ini sebelum tidur, ingatlah selalu pesan ini..."
+    }
+  ],
+  "timed_subtitles": [
+    {
+      "start": 0.05,
+      "end": 2.256,
+      "text": "Jangan sembunyikan apel yang"
+    },
+    {
+      "start": 2.256,
+      "end": 3.911,
+      "text": "sudah terbelah itu di"
+    },
+    {
+      "start": 3.911,
+      "end": 4.857,
+      "text": "balik semak!"
+    },
+    {
+      "start": 4.857,
+      "end": 6.858,
+      "text": "Kancil kecil bernama Ciko"
+    },
+    {
+      "start": 6.858,
+      "end": 8.619,
+      "text": "gemetar saat apel emas"
+    },
+    {
+      "start": 8.619,
+      "end": 11.021,
+      "text": "kesayangan kakek beruang pecah"
+    },
+    {
+      "start": 11.021,
+      "end": 12.782,
+      "text": "karena kecerobohannya."
+    },
+    {
+      "start": 12.782,
+      "end": 14.874,
+      "text": "Ia sempat ingin lari"
+    },
+    {
+      "start": 14.874,
+      "end": 16.339,
+      "text": "dan berbohong."
+    },
+    {
+      "start": 16.339,
+      "end": 18.101,
+      "text": "Tapi di dalam dadanya,"
+    },
+    {
+      "start": 18.101,
+      "end": 20.583,
+      "text": "detak jantungnya berbisik bahwa"
+    },
+    {
+      "start": 20.583,
+      "end": 22.504,
+      "text": "rasa bersalah itu terasa"
+    },
+    {
+      "start": 22.504,
+      "end": 24.506,
+      "text": "jauh lebih berat daripada"
+    },
+    {
+      "start": 24.506,
+      "end": 25.707,
+      "text": "hukuman apapun."
+    },
+    {
+      "start": 25.707,
+      "end": 27.859,
+      "text": "Dengan napas pelan, Ciko"
+    },
+    {
+      "start": 27.859,
+      "end": 30.459,
+      "text": "menghampiri kakek beruang dan"
+    },
+    {
+      "start": 30.459,
+      "end": 32.879,
+      "text": "berkata jujur: 'Kakek, Ciko"
+    },
+    {
+      "start": 32.879,
+      "end": 34.762,
+      "text": "minta maaf, Ciko yang"
+    },
+    {
+      "start": 34.762,
+      "end": 36.107,
+      "text": "memecahkannya.'"
+    },
+    {
+      "start": 36.107,
+      "end": 38.798,
+      "text": "Kakek beruang tersenyum hangat,"
+    },
+    {
+      "start": 38.798,
+      "end": 41.489,
+      "text": "lalu memeluknya erat: 'Mengakui"
+    },
+    {
+      "start": 41.489,
+      "end": 44.441,
+      "text": "kesalahan butuh keberanian ksatria"
+    },
+    {
+      "start": 44.441,
+      "end": 45.656,
+      "text": "sejati, Ciko.'"
+    },
+    {
+      "start": 45.656,
+      "end": 48.417,
+      "text": "Karena kejujuran selalu membasuh"
+    },
+    {
+      "start": 48.417,
+      "end": 50.401,
+      "text": "rasa takut menjadi rasa"
+    },
+    {
+      "start": 50.401,
+      "end": 51.005,
+      "text": "tenang."
+    },
+    {
+      "start": 51.005,
+      "end": 52.999,
+      "text": "Maka malam ini sebelum"
+    },
+    {
+      "start": 52.999,
+      "end": 55.537,
+      "text": "tidur, ingatlah selalu pesan"
+    },
+    {
+      "start": 55.537,
+      "end": 56.081,
+      "text": "ini..."
+    }
+  ]
+}

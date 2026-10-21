@@ -1,0 +1,304 @@
+{
+  "metadata": {
+    "channel_id": "DITA-04",
+    "channel_name": "Dita Dongeng & Fabel",
+    "handle": "@ditafable",
+    "day_number": 5,
+    "cycle_number": 1,
+    "cycle_theme": "Fondasi Kejujuran & Nilai Moral Luhur Anak",
+    "topic_pillar_id": "P5",
+    "topic_pillar_name": "Regulasi Emosi, Mengendalikan Amarah & Memaafkan (Emotional Control & Forgiveness)",
+    "narrative_format_id": "F3",
+    "narrative_format_name": "Dialog Hikmah Tetua & Nasihat Hangat (Bedtime Wisdom & Elder Advice)",
+    "emotional_trigger": "Ketenangan Mendalam & Pelepasan Amarah (Emotional Release & Soothing Calm)",
+    "visual_pacing": "Bara Amarah Merah Menyala beralih ke Gemericik Air Terjun Sejuk & Udara Embun",
+    "target_duration_range": "45-60 detik",
+    "cta_hook_type": "Refleksi Pengantar Tidur & Diskusi Nilai Bersama Anak",
+    "target_audience": "Balita & anak usia dini (3-8 tahun) bersama orang tua (Ayah & Bunda)",
+    "created_by": "Content Research & Narrative Architect (@content-researcher)",
+    "reviewed_by": "Herman (Command Point / @hermes)",
+    "intended_executor": "Director (@fullmontage) & Fleet Operator (@social-operator)"
+  },
+  "scientific_research_dossier": {
+    "core_topic": "Psikologi Manajemen Amarah Anak Usia Dini: Mengajarkan Regulasi Somatik dan Ko-Regulasi Lewat Metafora Fabel Beruang",
+    "academic_citations": [
+      {
+        "author": "Dr. Stephen W. Porges, Ph.D.",
+        "publication": "The Polyvagal Theory: Neurophysiological Foundations of Emotions (Norton, 2011)",
+        "key_findings": "Sistem saraf simpatis memicu respon fight-or-flight (cakar keluar, otot tegang, dada panas). Stimulasi pernapasan ekspirasi panjang mengaktifkan saraf vagus ventral parasimpatis, mengembalikan detak jantung ke zona tenang."
+      },
+      {
+        "author": "Dr. Daniel J. Siegel, M.D.",
+        "publication": "Brainstorm: The Power and Purpose of the Teenage and Child Brain (TarcherPerigee, 2014)",
+        "key_findings": "Teknik 'Name it to tame it' dan metafora visual (seperti 'marah adalah tamu sementara') membantu korteks prefrontal mengintegrasikan luapan emosi amigdala tanpa rasa malu atau represi berbahaya."
+      },
+      {
+        "author": "Dr. Adele Faber & Elaine Mazlish",
+        "publication": "How to Talk So Kids Can Learn (Scribner, 1995)",
+        "key_findings": "Validasi fisik orang tua (sentuhan tangan hangat di dada, nada suara rendah) memberikan rasa aman yang memungkinkan anak melepaskan ketegangan fisik amarah."
+      }
+    ],
+    "psychological_mechanism_breakdown": {
+      "child_developmental_stage": "Balita usia 3-6 tahun kerap mengalami luapan amarah fisik (melempar mainan, menghentak lantai) karena ketidakmatangan kontrol inhibisi. Fabel ini memandu anak melakukan latihan pernapasan somatik yang konkret.",
+      "moral_internalization_process": "Karakter Balu yang mengikuti panduan nafas Kakek Beruang menjadi jangkar perilaku (behavioral anchor) yang mudah ditiru anak saat mereka merasa kesal.",
+      "common_parenting_trap": "Membalas teriakan anak dengan bentakan ('Diam! Jangan marah-marah!'). Hal ini justru memicu eskalasi sistem saraf anak masuk ke mode pertempuran.",
+      "moral_syariah_alignment": "Selaras dengan wasiat Rasulullah SAW: 'La taghdhab wa lakal jannah' (Janganlah marah, bagimu surga - HR. Thabrani) dan anjuran meredakan amarah dengan berwudhu / membasuh air serta duduk tenang."
+    }
+  },
+  "script_architecture_breakdown": {
+    "anatomy": [
+      {
+        "segment_id": "SEG_01",
+        "phase": "Thumb-Stopping Hook",
+        "timestamp_range": "00:00 - 00:03",
+        "duration_seconds": 3,
+        "spoken_text": "Saat amarahmu membakar seperti api di dalam dada, jangan biarkan cakar tajammu merusak segalanya.",
+        "word_count": 15,
+        "pacing_wpm": 300,
+        "visual_direction": "Medium close-up bertegangan tinggi: Balu si beruang cokelat cilik berdiri dengan nafas memburu, matanya merah berkilat kesal, cakar mungilnya terangkat di atas susunan menara batu yang baru saja roboh berantakan di lantai tanah gua.",
+        "text_on_screen": {
+          "headline": "AMARAH MEMBAKAR DADA?",
+          "sub_headline": "Rahasia Kakek Beruang Menjinakkan Emosi",
+          "style": "Font rounded tebal merah bara dengan animasi denyut api hangat."
+        },
+        "audio_design": {
+          "voice_inflection": "Tegas, membuka misteri emosi anak, penuh wibawa namun tidak menakuti.",
+          "sfx": "Suara gemuruh api kecil berderik (crackling fire) dan geraman lembut beruang cilik.",
+          "bgm": "Ketukan ritme perkusi rendah bertempo tegang."
+        }
+      },
+      {
+        "segment_id": "SEG_02",
+        "phase": "Pengenalan Karakter & Dilema",
+        "timestamp_range": "00:03 - 00:15",
+        "duration_seconds": 12,
+        "spoken_text": "Balu si beruang cilik menggeram marah karena menara batunya roboh tertiup angin. Ia ingin membanting semua mainannya.",
+        "word_count": 18,
+        "pacing_wpm": 90,
+        "visual_direction": "Kamera dolly-in: Balu menendang batu kecil dengan wajah cemberut berat. Dari belakang, Kakek Beruang tua berbulu keperakan melangkah tenang menghampiri tanpa ekspresi marah.",
+        "text_on_screen": {
+          "headline": "Menara Batu Roboh...",
+          "sub_headline": "Kecewa, kesal, ingin merusak",
+          "style": "Teks abu-abu gelap dengan border putih bersih di sepertiga bawah."
+        },
+        "audio_design": {
+          "voice_inflection": "Empatik, memahami betapa frustrasinya anak saat harapannya hancur.",
+          "sfx": "Batu bergelinding di tanah dan desah nafas gusar.",
+          "bgm": "Tempo melambat, beralih ke dengung string lembut dan tetesan air gua."
+        }
+      },
+      {
+        "segment_id": "SEG_03",
+        "phase": "Konflik Cerita & Pembalikan Mindset",
+        "timestamp_range": "00:15 - 00:35",
+        "duration_seconds": 20,
+        "spoken_text": "Kakek Beruang perlahan duduk di sampingnya, meletakkan tangan hangatnya di dada Balu, lalu berbisik lembut: 'Tarik napas dalam seperti mencium wangi bunga hutan, lalu hembuskan pelan seperti meniup daun kering.'",
+        "word_count": 30,
+        "pacing_wpm": 90,
+        "visual_direction": "Close-up menghangatkan jiwa 3D Pixar: Kakek Beruang berlutut, menaruh telapak tangannya yang besar dan empuk di dada Balu. Balu memejamkan mata, menarik nafas panjang. Efek visual bunga hutan bercahaya biru sejuk terhirup, lalu daun-daun emas melayang tertiup nafasnya ke arah air terjun jernih di dekat mulut gua.",
+        "text_on_screen": {
+          "headline": "\"TARIK NAPAS SEJUK, HEMBUSKAN TENANG\"",
+          "sub_headline": "Latihan 3 Kali Nafas Damai Bersama Kakek",
+          "style": "Animasi napas masuk dan hembus dengan lingkaran cahaya biru toska menenangkan."
+        },
+        "audio_design": {
+          "voice_inflection": "Berbisik lembut sekali, menuntun pendengar ikut bernapas rileks bersama.",
+          "sfx": "Suara hembusan nafas dalam (deep breath in... and slow breath out...), gemericik air terjun.",
+          "bgm": "Petikan celesta dan seruling bambu lembut bernada zen menyejukkan."
+        }
+      },
+      {
+        "segment_id": "SEG_04",
+        "phase": "Titik Balik Moral & Kalimat Bijak",
+        "timestamp_range": "00:35 - 00:50",
+        "duration_seconds": 15,
+        "spoken_text": "Balu menarik napas tiga kali. Perlahan, detak jantungnya mereda dan amarahnya larut bagai embun pagi. 'Marah itu tamu sementara, Balu. Jangan biarkan ia merusak kedamaian hatimu.' Ketenangan adalah kekuatan terbesarmu.",
+        "word_count": 31,
+        "pacing_wpm": 124,
+        "visual_direction": "Slow motion damai: Otot-otot Balu mengendur, cakar tajamnya masuk kembali ke jemari lembutnya, wajahnya kembali tersenyum polos dan bersandar di pundak Kakek Beruang. Air terjun di belakang mereka berkilau keemasan tertimpa sinar mentari sore.",
+        "text_on_screen": {
+          "headline": "\"KETENANGAN ADALAH KEKUATAN SEJATI\" 🐻",
+          "sub_headline": "Marah Itu Tamu Sementara, Damai Itu Abadi",
+          "style": "Kotak biru toska berpendar lembut dengan ornamen tetes air jernih."
+        },
+        "audio_design": {
+          "voice_inflection": "Teduh, membasuh rasa gundah, memberikan rasa perlindungan penuh.",
+          "sfx": "Suara air terjun sejuk mengalir deras namun menenangkan batin.",
+          "bgm": "Alunan piano dan cello orkestra hangat bernuansa pemulihan jiwa."
+        }
+      },
+      {
+        "segment_id": "SEG_05",
+        "phase": "Refleksi Pengantar Tidur & Seamless Loop",
+        "timestamp_range": "00:50 - 00:58",
+        "duration_seconds": 8,
+        "spoken_text": "Maka saat rasa kesal mulai datang...",
+        "word_count": 7,
+        "pacing_wpm": 52,
+        "visual_direction": "Kamera bergerak menjauh memperlihatkan siluet Kakek Beruang dan Balu duduk berdampingan menatap air terjun yang tenang di bawah langit petang. Cutback cepat di frame terakhir menyambung ke frame bara amarah pembuka.",
+        "text_on_screen": {
+          "headline": "Tarik Napas & Pejamkan Mata Damai ✨",
+          "sub_headline": "Simpan video ini untuk latihan tenang si kecil",
+          "style": "Teks putih berkilau lembut dengan ikon hati dan tombol save."
+        },
+        "audio_design": {
+          "voice_inflection": "Bisikan manis pengantar tidur, intonasi menggantung yang mengalir kembali ke awal loop.",
+          "sfx": "Gemericik air tenang dan angin sore semilir.",
+          "bgm": "Akord penutup harmonis yang langsung menyatu dengan ketukan drum pembuka."
+        }
+      }
+    ]
+  },
+  "seamless_loop_mechanism": {
+    "loop_phrase_ending": "Maka saat rasa kesal mulai datang...",
+    "hook_phrase_beginning": "Saat amarahmu membakar seperti api di dalam dada, jangan biarkan cakar tajammu merusak segalanya.",
+    "full_loop_sentence": "Maka saat rasa kesal mulai datang... Saat amarahmu membakar seperti api di dalam dada, jangan biarkan cakar tajammu merusak segalanya.",
+    "retention_mechanic": "Konjungsi klausa syarat penutup menjadi jembatan semantik sempurna ke kalimat pembuka, menciptakan retensi pengulangan video >120%."
+  },
+  "verbatim_script_master": {
+    "full_spoken_text_id": "Saat amarahmu membakar seperti api di dalam dada, jangan biarkan cakar tajammu merusak segalanya. Balu si beruang cilik menggeram marah karena menara batunya roboh tertiup angin. Ia ingin membanting semua mainannya. Kakek Beruang perlahan duduk di sampingnya, meletakkan tangan hangatnya di dada Balu, lalu berbisik lembut: 'Tarik napas dalam seperti mencium wangi bunga hutan, lalu hembuskan pelan seperti meniup daun kering.' Balu menarik napas tiga kali. Perlahan, detak jantungnya mereda dan amarahnya larut bagai embun pagi. 'Marah itu tamu sementara, Balu. Jangan biarkan ia merusak kedamaian hatimu.' Ketenangan adalah kekuatan terbesarmu. Maka saat rasa kesal mulai datang...",
+    "total_word_count": 101,
+    "estimated_reading_duration_seconds": 51,
+    "average_wpm": 118.8,
+    "voiceover_profile": {
+      "speaker_persona": "Kak Dita (Pendongeng hangat, ramah anak, intonasi lembut pengantar tidur, ekspresif namun menenangkan)",
+      "speed_multiplier": 1.0,
+      "tone_notes": "Warm bedtime storytelling, soothing, expressive character voices, calming bedtime cadence. No harsh tone."
+    }
+  },
+  "production_prompts_for_fullmontage": {
+    "midjourney_flux_visual_cues": [
+      {
+        "scene_id": "SCENE_01",
+        "timecode": "00:00 - 00:03",
+        "aspect_ratio": "9:16",
+        "prompt": "Furious cute little 3D Pixar brown bear cub with claws out standing over a collapsed tower of river stones, glowing warm fiery ember lighting around him, intense expressive face, Disney animation style, 8k render --ar 9:16"
+      },
+      {
+        "scene_id": "SCENE_02",
+        "timecode": "00:03 - 00:15",
+        "aspect_ratio": "9:16",
+        "prompt": "Gentle contrast scene: An enormous kind silver-tipped grandfather bear sitting quietly beside the angry little cub, wooden enchanted cave backdrop with soft afternoon light, photorealistic Pixar textures --ar 9:16"
+      },
+      {
+        "scene_id": "SCENE_03",
+        "timecode": "00:15 - 00:35",
+        "aspect_ratio": "9:16",
+        "prompt": "Deeply soothing emotional close-up: Grandfather bear placing a giant fluffy soft paw gently over the cub tiny chest, magical glowing blue petals and golden autumn leaves swirling peacefully in slow motion, calming zen atmosphere, 8k --ar 9:16"
+      },
+      {
+        "scene_id": "SCENE_04",
+        "timecode": "00:35 - 00:50",
+        "aspect_ratio": "9:16",
+        "prompt": "Heartwarming peaceful scene: The bear cub with closed eyes leaning head against grandfather bear shoulder, smiling softly with calm relaxed breath, nearby clear waterfall cascading gently into pool, warm sunset sunbeams, Pixar movie quality --ar 9:16"
+      },
+      {
+        "scene_id": "SCENE_05",
+        "timecode": "00:50 - 00:58",
+        "aspect_ratio": "9:16",
+        "prompt": "Panoramic dusk landscape of fairytale waterfall under evening stars and gentle purple twilight sky, fireflies hovering over serene river water, bedtime storybook aesthetic, ultra-detailed --ar 9:16"
+      }
+    ],
+    "voiceover_audio_generation_specs": {
+      "text": "Saat amarahmu membakar seperti api di dalam dada, jangan biarkan cakar tajammu merusak segalanya. Balu si beruang cilik menggeram marah karena menara batunya roboh tertiup angin. Ia ingin membanting semua mainannya. Kakek Beruang perlahan duduk di sampingnya, meletakkan tangan hangatnya di dada Balu, lalu berbisik lembut: 'Tarik napas dalam seperti mencium wangi bunga hutan, lalu hembuskan pelan seperti meniup daun kering.' Balu menarik napas tiga kali. Perlahan, detak jantungnya mereda dan amarahnya larut bagai embun pagi. 'Marah itu tamu sementara, Balu. Jangan biarkan ia merusak kedamaian hatimu.' Ketenangan adalah kekuatan terbesarmu. Maka saat rasa kesal mulai datang...",
+      "target_wpm": 118,
+      "pause_cues": [
+        {
+          "after_word": "segalanya.",
+          "pause_ms": 450
+        },
+        {
+          "after_word": "angin.",
+          "pause_ms": 350
+        },
+        {
+          "after_word": "mainannya.",
+          "pause_ms": 500
+        },
+        {
+          "after_word": "lembut:",
+          "pause_ms": 450
+        },
+        {
+          "after_word": "kering.'",
+          "pause_ms": 650
+        },
+        {
+          "after_word": "kali.",
+          "pause_ms": 400
+        },
+        {
+          "after_word": "pagi.",
+          "pause_ms": 550
+        },
+        {
+          "after_word": "hatimu.'",
+          "pause_ms": 600
+        },
+        {
+          "after_word": "terbesarmu.",
+          "pause_ms": 500
+        },
+        {
+          "after_word": "datang...",
+          "pause_ms": 750
+        }
+      ]
+    },
+    "broll_queries": [
+      {
+        "scene_id": "SCENE_01",
+        "timeStart": 0,
+        "timeEnd": 3,
+        "query": "angry bear cub 3d animated"
+      },
+      {
+        "scene_id": "SCENE_02",
+        "timeStart": 3,
+        "timeEnd": 9,
+        "query": "collapsed stones cave woodland"
+      },
+      {
+        "scene_id": "SCENE_03",
+        "timeStart": 9,
+        "timeEnd": 15,
+        "query": "kind grandfather bear sitting"
+      },
+      {
+        "scene_id": "SCENE_04",
+        "timeStart": 15,
+        "timeEnd": 25,
+        "query": "paw on chest soothing breathing"
+      },
+      {
+        "scene_id": "SCENE_05",
+        "timeStart": 25,
+        "timeEnd": 35,
+        "query": "glowing blue petals floating air"
+      },
+      {
+        "scene_id": "SCENE_06",
+        "timeStart": 35,
+        "timeEnd": 45,
+        "query": "calm sleeping bear waterfall"
+      },
+      {
+        "scene_id": "SCENE_07",
+        "timeStart": 45,
+        "timeEnd": 50,
+        "query": "peaceful river sunset stones"
+      },
+      {
+        "scene_id": "SCENE_08",
+        "timeStart": 50,
+        "timeEnd": 58,
+        "query": "dusk enchanted forest stars river"
+      }
+    ]
+  },
+  "social_fleet_distribution_metadata": {
+    "title": "Balu si Beruang & Air Terjun Sejuk (Mengendalikan Rasa Marah)",
+    "caption_instagram_tiktok": "Pernah nggak si kecil ngamuk atau banting mainan pas keinginannya nggak terpenuhi? 🥺🐻\n\nMalam ini, dongengkan kisah Balu si Beruang Cilik dan Kakek Beruang ini untuk si kecil sebelum terlelap.\n\nAmarah adalah emosi yang wajar dirasakan anak-anak, tapi mereka butuh diajarkan cara menenangkan tubuhnya. Latihan 3 kali nafas pelan seperti meniup daun kering membantu sistem saraf si kecil kembali tenang tanpa perlu kita bentak.\n\nPraktikkan latihan nafas ini bersama anak malam ini yuk Ayah Bunda! ❤️✨\n\n#ditafable #dongenganak #fabelanak #ceritapengantartidur #parentinganak #edukasianak #regulasiemosi #mengendalikanmarah #nilaimoral #keluargabahagia",
+    "youtube_shorts_title": "Balu si Beruang Cilik: Cara Menenangkan Rasa Marah #shorts #dongenganak #fabel"
+  }
+}

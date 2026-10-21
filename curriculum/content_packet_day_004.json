@@ -1,0 +1,300 @@
+{
+  "metadata": {
+    "channel_id": "DITA-04",
+    "channel_name": "Dita Dongeng & Fabel",
+    "handle": "@ditafable",
+    "day_number": 4,
+    "cycle_number": 1,
+    "cycle_theme": "Fondasi Kejujuran & Nilai Moral Luhur Anak",
+    "topic_pillar_id": "P4",
+    "topic_pillar_name": "Kerendahan Hati & Menghargai Sesama (Humility & Mutual Respect)",
+    "narrative_format_id": "F1",
+    "narrative_format_name": "Dilema Moral & Akibat Kesombongan (Moral Dilemma & Consequence)",
+    "emotional_trigger": "Rasa Keinsyafan & Manisnya Kerendahan Hati (Humility & Genuine Friendship)",
+    "visual_pacing": "Kilau Bulu Megah Menyilaukan beralih ke Keteduhan Ranting Sederhana",
+    "target_duration_range": "45-60 detik",
+    "cta_hook_type": "Refleksi Pengantar Tidur & Diskusi Nilai Bersama Anak",
+    "target_audience": "Balita & anak usia dini (3-8 tahun) bersama orang tua (Ayah & Bunda)",
+    "created_by": "Content Research & Narrative Architect (@content-researcher)",
+    "reviewed_by": "Herman (Command Point / @hermes)",
+    "intended_executor": "Director (@fullmontage) & Fleet Operator (@social-operator)"
+  },
+  "scientific_research_dossier": {
+    "core_topic": "Mengikis Kesombongan dan Membangun Kerendahan Hati: Belajar Menghargai Teman Tanpa Memandang Status Fisik atau Kelebihan",
+    "academic_citations": [
+      {
+        "author": "Dr. Mildred Parten",
+        "publication": "Social Participation Among Pre-School Children (Journal of Abnormal and Social Psychology, 1932)",
+        "key_findings": "Tahapan Sosialisasi Anak Usia Dini. Anak yang memiliki tendensi superioritas atau suka memamerkan kepemilikan rentan mengalami isolasi sosial di masa bermain asosiatif dan kooperatif."
+      },
+      {
+        "author": "Dr. C. Nathan DeWall & Dr. Roy F. Baumeister",
+        "publication": "From Self-Esteem to Humility: Cultivating Prosociality (Psychological Inquiry, 2011)",
+        "key_findings": "Kerendahan hati (humility) sejati memperkuat hubungan sosial dan penerimaan rekan sebaya. Membedakan antara rasa percaya diri sehat (healthy self-esteem) dengan kesombongan pamer (narcissistic boasting)."
+      },
+      {
+        "author": "Dr. Martin L. Hoffman",
+        "publication": "Empathy and Moral Development: Implications for Caring and Justice (Cambridge University Press, 2000)",
+        "key_findings": "Transisi dari empati egosentris menuju empati prososial terjadi ketika anak menyadari bahwa kelebihan dirinya tidak membuatnya lebih berharga di atas rasa kemanusiaan kawan lain."
+      }
+    ],
+    "psychological_mechanism_breakdown": {
+      "child_developmental_stage": "Anak balita sering mengalami fase egosentrisme, di mana mereka membanggakan mainan baru, baju baru, atau kelebihan fisik secara berlebihan. Kisah Miko si Merak membantu mereka melihat kerapuhan kesombongan.",
+      "moral_internalization_process": "Saat Miko yang megah tersangkut duri dan diselamatkan oleh Pipit kecil, anak memahami hukum timbal balik sosial: kita selalu membutuhkan bantuan orang lain suatu hari nanti.",
+      "common_parenting_challenge": "Orang tua terkadang secara tidak sengaja menumbuhkan toxic praise ('Kamu anak paling pintar dan paling cantik sedunia, yang lain kalah!'). Hal ini membuat anak takut gagal dan bersikap meremehkan orang lain.",
+      "moral_syariah_alignment": "Selaras dengan larangan sombong dalam Islam: 'Dan janganlah kamu memalingkan mukamu dari manusia (karena sombong) dan janganlah kamu berjalan di muka bumi dengan angkuh' (QS. Luqman: 18)."
+    }
+  },
+  "script_architecture_breakdown": {
+    "anatomy": [
+      {
+        "segment_id": "SEG_01",
+        "phase": "Thumb-Stopping Hook",
+        "timestamp_range": "00:00 - 00:03",
+        "duration_seconds": 3,
+        "spoken_text": "Pernahkah kamu melihat burung merak yang begitu bangga dengan bulunya, sampai lupa menyapa sahabatnya?",
+        "word_count": 15,
+        "pacing_wpm": 300,
+        "visual_direction": "Medium shot glamor: Burung merak jantan muda (Miko) membuka ekornya yang bermata hijau zamrud dan bertepikan emas gemerlap, membusungkan dada dengan dagu terangkat tinggi, mengabaikan burung pipit kecil di ranting bawah.",
+        "text_on_screen": {
+          "headline": "BULU PALING INDAH DI RIMBA?",
+          "sub_headline": "Kisah Miko si Merak yang Sombong",
+          "style": "Font rounded mewah warna emas zamrud dengan animasi kilau permata."
+        },
+        "audio_design": {
+          "voice_inflection": "Membuka rasa penasaran dengan nada bertanya lembut yang menawan.",
+          "sfx": "Suara kibasan bulu sutra megah dan denting kilau permata (shimmer).",
+          "bgm": "Musik harpa bernada elegan berpadu orkestra istana dongeng klasik."
+        }
+      },
+      {
+        "segment_id": "SEG_02",
+        "phase": "Pengenalan Karakter & Dilema",
+        "timestamp_range": "00:03 - 00:15",
+        "duration_seconds": 12,
+        "spoken_text": "Miko si merak emas selalu memamerkan ekornya yang berkilau di hadapan burung pipit kecil. 'Lihat, buluku adalah yang paling indah di seluruh rimba!' serunya sombong.",
+        "word_count": 27,
+        "pacing_wpm": 135,
+        "visual_direction": "Kamera menyorot Miko menari di atas dahan pohon kenari berbunga, membalikkan badan angkuh. Pipit kecil berbulu cokelat sederhana menatap dengan mata sedih sambil memegang buah beri kecil.",
+        "text_on_screen": {
+          "headline": "\"Buluku Paling Indah!\"",
+          "sub_headline": "Kesombongan yang melukai hati kawan",
+          "style": "Kutipan teks ungu kemerahan di sepertiga bawah layar."
+        },
+        "audio_design": {
+          "voice_inflection": "Sedikit pongah saat menirukan dialog Miko, lalu kembali empati hangat.",
+          "sfx": "Kicau pelan burung pipit yang murung.",
+          "bgm": "Iringan melodi istana yang perlahan melandai cemas."
+        }
+      },
+      {
+        "segment_id": "SEG_03",
+        "phase": "Konflik Cerita & Pembalikan Mindset",
+        "timestamp_range": "00:15 - 00:35",
+        "duration_seconds": 20,
+        "spoken_text": "Suatu sore, angin kencang menghembuskan duri-duri tajam yang tersangkut di sayapnya. Miko terjatuh tak berdaya. Si burung pipit kecil yang sederhana segera datang membawakan air dan mencabut duri itu satu per satu dengan sabar.",
+        "word_count": 36,
+        "pacing_wpm": 108,
+        "visual_direction": "Aksi dramatis 3D: Angin puting beliung mini mengguncang dahan. Miko terbelit semak berduri tajam di tanah hutan, sayap indahnya kusut dan terjepit. Burung pipit kecil terbang cepat membawakan setetes embun di daun, lalu dengan paruh kecilnya mencabuti duri tajam dengan penuh kehati-hatian.",
+        "text_on_screen": {
+          "headline": "TERSANGKUT DURI TAJAM...",
+          "sub_headline": "Kawan yang Diremehkan Datang Menolong",
+          "style": "Badge kontras dramatis merah bata beralih ke hijau zamrud lembut."
+        },
+        "audio_design": {
+          "voice_inflection": "Tegang, emosional, beralih ke nada ketulusan penuh kasih.",
+          "sfx": "Suara deru angin kencang lalu gemerisik halus dedaunan saat pipit datang.",
+          "bgm": "Petikan biola dan piano haru yang menyentuh nurani."
+        }
+      },
+      {
+        "segment_id": "SEG_04",
+        "phase": "Titik Balik Moral & Kalimat Bijak",
+        "timestamp_range": "00:35 - 00:50",
+        "duration_seconds": 15,
+        "spoken_text": "Miko menangis terharu dan berbisik: 'Bulu indahku tak ada gunanya tanpa sahabat yang tulus.' Keindahan sejati terpancar dari kerendahan hati.",
+        "word_count": 21,
+        "pacing_wpm": 84,
+        "visual_direction": "Slow motion emosional: Miko menundukkan leher jenjangnya ke dekat pipit kecil, air mata bening jatuh di pipinya. Pipit mengelus sayap Miko dengan lembut. Senja keemasan menyelimuti kedua sahabat yang kini duduk berdampingan tanpa jarak.",
+        "text_on_screen": {
+          "headline": "\"KERENDAHAN HATI ADALAH KEINDAHAN SEJATI\" 🦚",
+          "sub_headline": "Sahabat Tulus Lebih Berharga dari Kilau Permata",
+          "style": "Kotak emas bersinar lembut dengan kaligrafi indah di sepertiga bawah."
+        },
+        "audio_design": {
+          "voice_inflection": "Tulus, berbisik penuh penyesalan dan kehangatan persaudaraan.",
+          "sfx": "Suara tetesan air mata lembut dan kepakan sayap damai.",
+          "bgm": "Melodi piano akustik hangat orkestrasi Disney yang menghanyutkan."
+        }
+      },
+      {
+        "segment_id": "SEG_05",
+        "phase": "Refleksi Pengantar Tidur & Seamless Loop",
+        "timestamp_range": "00:50 - 00:58",
+        "duration_seconds": 8,
+        "spoken_text": "Kisah ini mengajarkan kita mengapa...",
+        "word_count": 5,
+        "pacing_wpm": 37,
+        "visual_direction": "Kamera panning up ke langit senja berhias lentera pohon kenari. Miko dan Pipit tidur saling bersandar hangat di bawah dahan rindang. Cutback cepat di frame terakhir ke ekor merak yang mekar di awal video.",
+        "text_on_screen": {
+          "headline": "Hati yang Rendah Selalu Dicintai ❤️",
+          "sub_headline": "Peluk si kecil dan bisikkan pesan ini",
+          "style": "Teks putih bercahaya lembut dengan ikon bulan sabit dan bookmark."
+        },
+        "audio_design": {
+          "voice_inflection": "Lembut mengalun pengantar tidur, intonasi menggantung yang mulus menyambung ke awal.",
+          "sfx": "Jangkrik malam bernyanyi pelan.",
+          "bgm": "Akord harpa tunggal yang harmonis menyatu dengan beat pembuka."
+        }
+      }
+    ]
+  },
+  "seamless_loop_mechanism": {
+    "loop_phrase_ending": "Kisah ini mengajarkan kita mengapa...",
+    "hook_phrase_beginning": "Pernahkah kamu melihat burung merak yang begitu bangga dengan bulunya, sampai lupa menyapa sahabatnya?",
+    "full_loop_sentence": "Kisah ini mengajarkan kita mengapa... Pernahkah kamu melihat burung merak yang begitu bangga dengan bulunya, sampai lupa menyapa sahabatnya?",
+    "retention_mechanic": "Kata tanya retoris penutup menyambung langsung menjadi subjek kalimat pembuka, menciptakan retensi tontonan berulang secara otomatis."
+  },
+  "verbatim_script_master": {
+    "full_spoken_text_id": "Pernahkah kamu melihat burung merak yang begitu bangga dengan bulunya, sampai lupa menyapa sahabatnya? Miko si merak emas selalu memamerkan ekornya yang berkilau di hadapan burung pipit kecil. 'Lihat, buluku adalah yang paling indah di seluruh rimba!' serunya sombong. Suatu sore, angin kencang menghembuskan duri-duri tajam yang tersangkut di sayapnya. Miko terjatuh tak berdaya. Si burung pipit kecil yang sederhana segera datang membawakan air dan mencabut duri itu satu per satu dengan sabar. Miko menangis terharu dan berbisik: 'Bulu indahku tak ada gunanya tanpa sahabat yang tulus.' Keindahan sejati terpancar dari kerendahan hati. Kisah ini mengajarkan kita mengapa...",
+    "total_word_count": 104,
+    "estimated_reading_duration_seconds": 53,
+    "average_wpm": 117.7,
+    "voiceover_profile": {
+      "speaker_persona": "Kak Dita (Pendongeng hangat, ramah anak, intonasi lembut pengantar tidur, ekspresif namun menenangkan)",
+      "speed_multiplier": 1.0,
+      "tone_notes": "Warm bedtime storytelling, soothing, expressive character voices, calming bedtime cadence. No harsh tone."
+    }
+  },
+  "production_prompts_for_fullmontage": {
+    "midjourney_flux_visual_cues": [
+      {
+        "scene_id": "SCENE_01",
+        "timecode": "00:00 - 00:03",
+        "aspect_ratio": "9:16",
+        "prompt": "Magnificent young 3D Pixar peacock showing off his iridescent emerald and gold glowing tail feathers, proud arrogant expression with chin up, enchanted fairytale garden background, bright sunny day, highly detailed 3D render --ar 9:16"
+      },
+      {
+        "scene_id": "SCENE_02",
+        "timecode": "00:03 - 00:15",
+        "aspect_ratio": "9:16",
+        "prompt": "Heartwarming contrasting scene of the proud peacock strutting on an ancient mossy branch, ignoring a tiny humble brown sparrow bird holding a red wild berry, soft sunbeams filtering through leaves, Disney animation aesthetic --ar 9:16"
+      },
+      {
+        "scene_id": "SCENE_03",
+        "timecode": "00:15 - 00:35",
+        "aspect_ratio": "9:16",
+        "prompt": "Dramatic emotional scene where the peacock is trapped in thorny bramble vines on forest floor, ruffled damaged feathers, the brave tiny brown sparrow gently using its tiny beak to pull sharp thorns out one by one, golden sunset rim light, 8k --ar 9:16"
+      },
+      {
+        "scene_id": "SCENE_04",
+        "timecode": "00:35 - 00:50",
+        "aspect_ratio": "9:16",
+        "prompt": "Tearful heartwarming close-up of the humbled peacock lowering his head with gentle loving tears, the tiny sparrow perching affectionately against the peacock wing, warm golden hour glow, deep emotional friendship, Pixar quality --ar 9:16"
+      },
+      {
+        "scene_id": "SCENE_05",
+        "timecode": "00:50 - 00:58",
+        "aspect_ratio": "9:16",
+        "prompt": "Cozy twilight scene of the peacock and tiny sparrow sleeping peacefully nestled together on an ancient flowering branch under glowing starry sky, soft bedtime storybook illustration, 8k --ar 9:16"
+      }
+    ],
+    "voiceover_audio_generation_specs": {
+      "text": "Pernahkah kamu melihat burung merak yang begitu bangga dengan bulunya, sampai lupa menyapa sahabatnya? Miko si merak emas selalu memamerkan ekornya yang berkilau di hadapan burung pipit kecil. 'Lihat, buluku adalah yang paling indah di seluruh rimba!' serunya sombong. Suatu sore, angin kencang menghembuskan duri-duri tajam yang tersangkut di sayapnya. Miko terjatuh tak berdaya. Si burung pipit kecil yang sederhana segera datang membawakan air dan mencabut duri itu satu per satu dengan sabar. Miko menangis terharu dan berbisik: 'Bulu indahku tak ada gunanya tanpa sahabat yang tulus.' Keindahan sejati terpancar dari kerendahan hati. Kisah ini mengajarkan kita mengapa...",
+      "target_wpm": 118,
+      "pause_cues": [
+        {
+          "after_word": "sahabatnya?",
+          "pause_ms": 500
+        },
+        {
+          "after_word": "kecil.",
+          "pause_ms": 400
+        },
+        {
+          "after_word": "sombong.",
+          "pause_ms": 600
+        },
+        {
+          "after_word": "sayapnya.",
+          "pause_ms": 450
+        },
+        {
+          "after_word": "berdaya.",
+          "pause_ms": 550
+        },
+        {
+          "after_word": "sabar.",
+          "pause_ms": 500
+        },
+        {
+          "after_word": "tulus.'",
+          "pause_ms": 650
+        },
+        {
+          "after_word": "hati.",
+          "pause_ms": 500
+        },
+        {
+          "after_word": "mengapa...",
+          "pause_ms": 750
+        }
+      ]
+    },
+    "broll_queries": [
+      {
+        "scene_id": "SCENE_01",
+        "timeStart": 0,
+        "timeEnd": 3,
+        "query": "peacock feathers emerald gold 3d"
+      },
+      {
+        "scene_id": "SCENE_02",
+        "timeStart": 3,
+        "timeEnd": 9,
+        "query": "peacock strutting proud branch"
+      },
+      {
+        "scene_id": "SCENE_03",
+        "timeStart": 9,
+        "timeEnd": 15,
+        "query": "tiny brown sparrow bird sitting branch"
+      },
+      {
+        "scene_id": "SCENE_04",
+        "timeStart": 15,
+        "timeEnd": 25,
+        "query": "wind blowing leaves thorns forest"
+      },
+      {
+        "scene_id": "SCENE_05",
+        "timeStart": 25,
+        "timeEnd": 35,
+        "query": "sparrow helping peacock thorns"
+      },
+      {
+        "scene_id": "SCENE_06",
+        "timeStart": 35,
+        "timeEnd": 45,
+        "query": "emotional animal friendship hug"
+      },
+      {
+        "scene_id": "SCENE_07",
+        "timeStart": 45,
+        "timeEnd": 50,
+        "query": "golden sunset fairytale forest tree"
+      },
+      {
+        "scene_id": "SCENE_08",
+        "timeStart": 50,
+        "timeEnd": 58,
+        "query": "birds sleeping together cozy twilight"
+      }
+    ]
+  },
+  "social_fleet_distribution_metadata": {
+    "title": "Miko si Merak & Duri Sayap (Kisah Indahnya Kerendahan Hati)",
+    "caption_instagram_tiktok": "Pernah nggak si kecil suka pamer mainan baru atau merasa lebih hebat dari temannya? 🥺🦚\n\nMalam ini, ajak buah hati kita mendengarkan kisah Miko si Merak Emas dan Burung Pipit kecil ini sebelum tidur.\n\nKecantikan fisik, barang mewah, atau kepintaran tidak ada artinya jika membuat kita sombong dan melupakan sahabat di sekitar. Pada akhirnya, yang menyelamatkan kita saat terjatuh bukanlah kilau bulu di luar, melainkan ketulusan tangan seorang sahabat sejati.\n\nSimpan video dongeng ini untuk pengantar tidur nanti malam ya Ayah Bunda! ❤️✨\n\n#ditafable #dongenganak #fabelanak #ceritapengantartidur #parentinganak #edukasianak #kerendahanhati #antibullying #persahabatan #nilaimoral",
+    "youtube_shorts_title": "Miko si Merak Emas: Indahnya Kerendahan Hati #shorts #dongenganak #fabel"
+  }
+}

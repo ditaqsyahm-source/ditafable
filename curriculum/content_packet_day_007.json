@@ -1,0 +1,300 @@
+{
+  "metadata": {
+    "channel_id": "DITA-04",
+    "channel_name": "Dita Dongeng & Fabel",
+    "handle": "@ditafable",
+    "day_number": 7,
+    "cycle_number": 1,
+    "cycle_theme": "Fondasi Kejujuran & Nilai Moral Luhur Anak",
+    "topic_pillar_id": "P1-P6",
+    "topic_pillar_name": "Refleksi Kasih Sayang, Rasa Syukur & Dongeng Pengantar Tidur Nyenyak (Gratitude & Bedtime Lullaby)",
+    "narrative_format_id": "F5",
+    "narrative_format_name": "Dongeng Penenang Malam & Syukur (Calming Nature & Gratitude Lullaby)",
+    "emotional_trigger": "Rasa Aman Mutlak, Kehangatan Cinta Kasih, Ketenangan Jiwa Menuju Tidur (Deep Attachment Safety & Serene Sleep)",
+    "visual_pacing": "Ritme Sangat Lembut, Slow Panning, Pendaran Kunang-Kunang Emas di Bawah Bulan Sabit Perak",
+    "target_duration_range": "45-60 detik",
+    "cta_hook_type": "Refleksi Pengantar Tidur & Afirmasi Kasih Sayang Orang Tua",
+    "target_audience": "Balita & anak usia dini (3-8 tahun) bersama orang tua (Ayah & Bunda)",
+    "created_by": "Content Research & Narrative Architect (@content-researcher)",
+    "reviewed_by": "Herman (Command Point / @hermes)",
+    "intended_executor": "Director (@fullmontage) & Fleet Operator (@social-operator)"
+  },
+  "scientific_research_dossier": {
+    "core_topic": "Psikologi Kelekatan Aman (Secure Attachment) dan Regulasi Tidur Anak: Mengapa Dongeng Afirmasi Menurunkan Kortisol Malam Hari",
+    "academic_citations": [
+      {
+        "author": "Dr. John Bowlby",
+        "publication": "Attachment and Loss: Vol. 1 Attachment (Basic Books, 1969)",
+        "key_findings": "Teori Kelekatan (Attachment Theory). Kebutuhan dasar anak sebelum tidur adalah rasa aman dari basis kelekatan (safe haven). Penegasan kasih sayang tanpa syarat menstabilkan sistem saraf otonom menjelang fase istirahat."
+      },
+      {
+        "author": "Dr. Tiffany Field, Ph.D.",
+        "publication": "Bedtime Rituals and Child Sleep Quality (Infant Behavior and Development, 2010)",
+        "key_findings": "Rutinitas dongeng tidur dengan intonasi rendah menenangkan (hypnotic prosody) memicu sekresi hormon melatonin dan oksitosin, mempercepat latensi tidur dan mencegah mimpi buruk."
+      },
+      {
+        "author": "Dr. Robert A. Emmons, Ph.D.",
+        "publication": "Thanks! How the New Science of Gratitude Can Make You Happier (Houghton Mifflin, 2007)",
+        "key_findings": "Praktik bersyukur (gratitude) di akhir hari mengalihkan fokus mental anak dari kecemasan ke rasa berkecukupan dan damai, memperpanjang durasi gelombang delta saat deep sleep."
+      }
+    ],
+    "psychological_mechanism_breakdown": {
+      "child_developmental_stage": "Anak balita sering mengalami bedtime resistance atau ketakutan malam (takut gelap, monster, atau cemas berpisah). Dialog hangat Ibu Rusa dan Roni meredam kecemasan separasi tersebut.",
+      "moral_internalization_process": "Afirmasi 'kamu anak yang hebat, berani, dan selalu dicintai seutuhnya' menanamkan rasa berharga diri (self-worth) yang kokoh dalam memori jangka panjang anak.",
+      "common_parenting_challenge": "Orang tua yang lelah di penghujung pekan rentan kehilangan kesabaran saat anak susah tidur. Fabel ini menjadi sarana ko-regulasi yang menenangkan orang tua sekaligus buah hati.",
+      "moral_syariah_alignment": "Selaras dengan sunnah mendoakan anak menjelang tidur, menepuk lembut pundak anak, dan menanamkan rasa syukur atas nikmat hari ini: 'Segala puji bagi Allah yang telah memberi kami makan, minum, dan mencukupi kami serta memberi tempat berteduh' (HR. Muslim)."
+    }
+  },
+  "script_architecture_breakdown": {
+    "anatomy": [
+      {
+        "segment_id": "SEG_01",
+        "phase": "Thumb-Stopping Hook",
+        "timestamp_range": "00:00 - 00:03",
+        "duration_seconds": 3,
+        "spoken_text": "Malam telah turun menyelimuti dahan pohon kenari, dan bintang kecil mulai berkedip lembut di langit.",
+        "word_count": 16,
+        "pacing_wpm": 320,
+        "visual_direction": "Slow motion sinematik magis: Langit senja keemasan perlahan meredup menjadi ungu kebiruan bertabur bintang gemerlap. Kamera perlahan turun melewati dedaunan pohon kenari tua yang rimbun dan damai.",
+        "text_on_screen": {
+          "headline": "MALAM TELAH TIBA...",
+          "sub_headline": "Saatnya Hutan Rimba Beristirahat Nyenyak",
+          "style": "Font rounded lembut warna putih berbayang emas temaram, animasi fade-in mengalun."
+        },
+        "audio_design": {
+          "voice_inflection": "Sangat lembut, berbisik tenang pengantar tidur, penuh kehangatan dekapan seorang ibu.",
+          "sfx": "Suara gemerisik daun ditiup angin semilir dan dengung jangkrik malam lembut.",
+          "bgm": "Petikan harpa akustik tunggal berpadu alunan piano tidur bernada hening."
+        }
+      },
+      {
+        "segment_id": "SEG_02",
+        "phase": "Pengenalan Karakter & Dilema",
+        "timestamp_range": "00:03 - 00:15",
+        "duration_seconds": 12,
+        "spoken_text": "Roni si rusa kecil merebahkan kepalanya di atas lumut hijau yang empuk. 'Ibu, apakah besok hutan masih seindah hari ini?' bisiknya dengan mata yang mulai mengantuk.",
+        "word_count": 27,
+        "pacing_wpm": 135,
+        "visual_direction": "Medium close-up yang sangat teduh: Seekor anak rusa bertotol putih (Roni) berbaring meringkuk nyaman di sarang lumut hijau beludru di samping induknya (Ibu Rusa). Kelopak mata Roni berkedip pelan dan mengantuk.",
+        "text_on_screen": {
+          "headline": "\"Apakah Besok Masih Indah, Ibu?\"",
+          "sub_headline": "Bisikan manis anak rusa menjelang terlelap",
+          "style": "Teks elegan hijau sage di sepertiga bawah layar."
+        },
+        "audio_design": {
+          "voice_inflection": "Membawakan bisikan anak yang polos, diikuti suara ibu yang menentramkan batin.",
+          "sfx": "Desahan nafas halus mengantuk.",
+          "bgm": "Alunan celesta dan melodi kotak musik kuno berirama pelan."
+        }
+      },
+      {
+        "segment_id": "SEG_03",
+        "phase": "Konflik Cerita & Pembalikan Mindset",
+        "timestamp_range": "00:15 - 00:35",
+        "duration_seconds": 20,
+        "spoken_text": "Ibu Rusa mengelus kepalanya lembut dan berbisik: 'Selama hatimu dipenuhi rasa syukur dan kasih sayang, setiap fajar akan membawa keajaiban baru, sayangku.' Ratusan kunang-kunang menyalakan lenteranya, menyanyikan simfoni angin malam yang syahdu.",
+        "word_count": 33,
+        "pacing_wpm": 99,
+        "visual_direction": "Visual memukau 3D Pixar: Ibu Rusa menempelkan hidungnya yang hangat ke kening Roni. Ratusan kunang-kunang berpendar emas melayang pelan mengelilingi mereka, menerangi lumut dan bunga-bunga malam yang menutup kelopaknya dengan damai. Cahaya bulan sabit perak menyiram seluruh pemandangan dengan kelembutan.",
+        "text_on_screen": {
+          "headline": "\"SETIAP FAJAR MEMBAWA KEAJAIBAN BARU\" ✨",
+          "sub_headline": "Hati yang Penuh Syukur Selalu Tenang",
+          "style": "Badge bercahaya kuning temaram dengan partikel debu peri melayang pelan."
+        },
+        "audio_design": {
+          "voice_inflection": "Penuh kasih sayang tanpa batas, hangat, mengendapkan segala kekhawatiran.",
+          "sfx": "Suara gemerincing lembut debu kunang-kunang (magical sparkle chime).",
+          "bgm": "Gesekan biola lembut dan pad string hangat yang mengalir bagai pelukan selimut tebal."
+        }
+      },
+      {
+        "segment_id": "SEG_04",
+        "phase": "Titik Balik Moral & Kalimat Bijak",
+        "timestamp_range": "00:35 - 00:50",
+        "duration_seconds": 15,
+        "spoken_text": "Pejamkan matamu, lepaskan semua lelah hari ini. Kamu anak yang hebat, berani, dan selalu dicintai seutuhnya.",
+        "word_count": 17,
+        "pacing_wpm": 68,
+        "visual_direction": "Extreme close-up damai: Mata Roni terpejam tenang, tersenyum dalam tidurnya. Ibu Rusa melingkarkan lehernya melingkari tubuh mungil Roni, menjaga tidurnya dari hawa dingin malam. Nafas mereka berdua teratur dan tenteram.",
+        "text_on_screen": {
+          "headline": "KAMU SELALU DICINTAI SEUTUHNYA ❤️",
+          "sub_headline": "Lepaskan Semua Lelah, Tidurlah Nyenyak",
+          "style": "Tipografi kaligrafi emas lembut di tengah bawah layar."
+        },
+        "audio_design": {
+          "voice_inflection": "Afirmasi terdalam orang tua, menyejukkan jiwa anak yang terdalam.",
+          "sfx": "Desahan nafas tidur pulas yang sangat teratur.",
+          "bgm": "Nada piano tunggal mengalun lambat menuju keheningan malam."
+        }
+      },
+      {
+        "segment_id": "SEG_05",
+        "phase": "Refleksi Pengantar Tidur & Seamless Loop",
+        "timestamp_range": "00:50 - 00:58",
+        "duration_seconds": 8,
+        "spoken_text": "Selamat tidur bidadari dan ksatria kecil, hingga esok fajar kembali menyapa...",
+        "word_count": 11,
+        "pacing_wpm": 82,
+        "visual_direction": "Kamera melayang naik perlahan menjauh ke langit malam berbintang, memperlihatkan hutan rimba yang damai terlelap di bawah sinar rembulan. Cutback lembut di frame terakhir menyambung ke frame dahan kenari pertama.",
+        "text_on_screen": {
+          "headline": "Selamat Tidur Mimpi Indah 🌙✨",
+          "sub_headline": "Peluk si kecil dan ucapkan 'Aku sayang kamu'",
+          "style": "Teks putih berkilau lembut dengan ikon bulan sabit dan hati."
+        },
+        "audio_design": {
+          "voice_inflection": "Berbisik pelan sekali seperti buaian lullaby, intonasi menggantung manis yang mengalir kembali ke awal loop.",
+          "sfx": "Angin malam semilir dan jangkrik sayup-sayup.",
+          "bgm": "Akord harpa tunggal terakhir yang harmonis menyatu ke nada pembuka video."
+        }
+      }
+    ]
+  },
+  "seamless_loop_mechanism": {
+    "loop_phrase_ending": "Selamat tidur bidadari dan ksatria kecil, hingga esok fajar kembali menyapa...",
+    "hook_phrase_beginning": "Malam telah turun menyelimuti dahan pohon kenari, dan bintang kecil mulai berkedip lembut di langit.",
+    "full_loop_sentence": "Selamat tidur bidadari dan ksatria kecil, hingga esok fajar kembali menyapa... Malam telah turun menyelimuti dahan pohon kenari, dan bintang kecil mulai berkedip lembut di langit.",
+    "retention_mechanic": "Frasa perpisahan tidur yang mengalun lembut menjadi transisi puitis tanpa jeda saat video mengulang di layar smartphone orang tua, mendongkrak durasi tontonan malam."
+  },
+  "verbatim_script_master": {
+    "full_spoken_text_id": "Malam telah turun menyelimuti dahan pohon kenari, dan bintang kecil mulai berkedip lembut di langit. Roni si rusa kecil merebahkan kepalanya di atas lumut hijau yang empuk. 'Ibu, apakah besok hutan masih seindah hari ini?' bisiknya dengan mata yang mulai mengantuk. Ibu Rusa mengelus kepalanya lembut dan berbisik: 'Selama hatimu dipenuhi rasa syukur dan kasih sayang, setiap fajar akan membawa keajaiban baru, sayangku.' Ratusan kunang-kunang menyalakan lenteranya, menyanyikan simfoni angin malam yang syahdu. Pejamkan matamu, lepaskan semua lelah hari ini. Kamu anak yang hebat, berani, dan selalu dicintai seutuhnya. Selamat tidur bidadari dan ksatria kecil, hingga esok fajar kembali menyapa...",
+    "total_word_count": 104,
+    "estimated_reading_duration_seconds": 53,
+    "average_wpm": 117.7,
+    "voiceover_profile": {
+      "speaker_persona": "Kak Dita (Pendongeng hangat, ramah anak, intonasi lembut pengantar tidur, ekspresif namun menenangkan)",
+      "speed_multiplier": 1.0,
+      "tone_notes": "Warm bedtime storytelling, soothing, expressive character voices, calming bedtime cadence. No harsh tone."
+    }
+  },
+  "production_prompts_for_fullmontage": {
+    "midjourney_flux_visual_cues": [
+      {
+        "scene_id": "SCENE_01",
+        "timecode": "00:00 - 00:03",
+        "aspect_ratio": "9:16",
+        "prompt": "Breathtaking enchanted fairytale forest at twilight, purple and deep indigo starry sky with first evening stars, giant ancient oak tree canopy with soft glowing leaves, 3D Pixar Disney aesthetic, 8k render --ar 9:16"
+      },
+      {
+        "scene_id": "SCENE_02",
+        "timecode": "00:03 - 00:15",
+        "aspect_ratio": "9:16",
+        "prompt": "Ultra-cute baby fawn deer resting head on a bed of plush emerald green moss, sleepy heavy eyes blinking slowly, mother deer lying protectively beside him, warm twilight glow, photorealistic 3D fur textures --ar 9:16"
+      },
+      {
+        "scene_id": "SCENE_03",
+        "timecode": "00:15 - 00:35",
+        "aspect_ratio": "9:16",
+        "prompt": "Magical emotional scene: Mother deer gently nuzzling baby fawn forehead with immense tenderness, hundreds of glowing golden fireflies swirling softly around them, soft moonlight casting silver rays through the trees, Pixar quality --ar 9:16"
+      },
+      {
+        "scene_id": "SCENE_04",
+        "timecode": "00:35 - 00:50",
+        "aspect_ratio": "9:16",
+        "prompt": "Heartwarming peaceful sleeping portrait: Baby deer sleeping soundly with a gentle peaceful smile, mother deer wrapping her neck around the fawn like a cozy blanket, soft warm backlighting, ultimate safe haven bedtime storybook --ar 9:16"
+      },
+      {
+        "scene_id": "SCENE_05",
+        "timecode": "00:50 - 00:58",
+        "aspect_ratio": "9:16",
+        "prompt": "Serene panoramic view of the sleeping magical fairytale woodland sanctuary under crescent moon, twinkling stars, bedtime storybook illustration, peaceful dreamland aesthetic, 8k --ar 9:16"
+      }
+    ],
+    "voiceover_audio_generation_specs": {
+      "text": "Malam telah turun menyelimuti dahan pohon kenari, dan bintang kecil mulai berkedip lembut di langit. Roni si rusa kecil merebahkan kepalanya di atas lumut hijau yang empuk. 'Ibu, apakah besok hutan masih seindah hari ini?' bisiknya dengan mata yang mulai mengantuk. Ibu Rusa mengelus kepalanya lembut dan berbisik: 'Selama hatimu dipenuhi rasa syukur dan kasih sayang, setiap fajar akan membawa keajaiban baru, sayangku.' Ratusan kunang-kunang menyalakan lenteranya, menyanyikan simfoni angin malam yang syahdu. Pejamkan matamu, lepaskan semua lelah hari ini. Kamu anak yang hebat, berani, dan selalu dicintai seutuhnya. Selamat tidur bidadari dan ksatria kecil, hingga esok fajar kembali menyapa...",
+      "target_wpm": 115,
+      "pause_cues": [
+        {
+          "after_word": "langit.",
+          "pause_ms": 500
+        },
+        {
+          "after_word": "empuk.",
+          "pause_ms": 400
+        },
+        {
+          "after_word": "mengantuk.",
+          "pause_ms": 600
+        },
+        {
+          "after_word": "berbisik:",
+          "pause_ms": 450
+        },
+        {
+          "after_word": "sayangku.'",
+          "pause_ms": 650
+        },
+        {
+          "after_word": "syahdu.",
+          "pause_ms": 550
+        },
+        {
+          "after_word": "ini.",
+          "pause_ms": 450
+        },
+        {
+          "after_word": "seutuhnya.",
+          "pause_ms": 600
+        },
+        {
+          "after_word": "menyapa...",
+          "pause_ms": 750
+        }
+      ]
+    },
+    "broll_queries": [
+      {
+        "scene_id": "SCENE_01",
+        "timeStart": 0,
+        "timeEnd": 3,
+        "query": "twilight fairytale forest stars"
+      },
+      {
+        "scene_id": "SCENE_02",
+        "timeStart": 3,
+        "timeEnd": 9,
+        "query": "cute baby deer lying moss 3d"
+      },
+      {
+        "scene_id": "SCENE_03",
+        "timeStart": 9,
+        "timeEnd": 15,
+        "query": "mother deer licking baby fawn"
+      },
+      {
+        "scene_id": "SCENE_04",
+        "timeStart": 15,
+        "timeEnd": 25,
+        "query": "glowing fireflies enchanted forest night"
+      },
+      {
+        "scene_id": "SCENE_05",
+        "timeStart": 25,
+        "timeEnd": 35,
+        "query": "crescent moon shining through branches"
+      },
+      {
+        "scene_id": "SCENE_06",
+        "timeStart": 35,
+        "timeEnd": 45,
+        "query": "mother deer hugging fawn sleeping"
+      },
+      {
+        "scene_id": "SCENE_07",
+        "timeStart": 45,
+        "timeEnd": 50,
+        "query": "peaceful sleeping child night bed"
+      },
+      {
+        "scene_id": "SCENE_08",
+        "timeStart": 50,
+        "timeEnd": 58,
+        "query": "night forest moonlight peaceful"
+      }
+    ]
+  },
+  "social_fleet_distribution_metadata": {
+    "title": "Lentera Kunang-Kunang & Pelukan Ibu Rusa (Dongeng Pengantar Tidur Nyenyak)",
+    "caption_instagram_tiktok": "Malam ini, luangkan waktu 1 menit untuk memeluk buah hati kita sebelum mereka terlelap 🥺🦌🌙\n\nSetelah sepekan penuh aktivitas dan lelah, anak-anak membutuhkan satu hal terpenting di malam hari: rasa aman bahwa mereka sangat dicintai apa adanya.\n\nDongeng Ibu Rusa dan Roni ini dirancang khusus dengan nada relaksatif pengantar tidur untuk membantu si kecil melepaskan lelah, menurunkan hormon stres, dan menyongsong mimpi indah.\n\nBisikkan di telinganya malam ini: 'Sayang, kamu anak hebat, berani, dan Ayah Bunda selalu mencintaimu seutuhnya.' ❤️✨\n\nSelamat tidur nyenyak bidadari dan ksatria kecil!\n\n#ditafable #dongenganak #fabelanak #ceritapengantartidur #bedtimestory #parentinganak #edukasianak #kasihsayang #afirmasianak #keluargabahagia",
+    "youtube_shorts_title": "Lentera Kunang-Kunang: Dongeng Pengantar Tidur Penuh Kasih #shorts #dongenganak #fabel"
+  }
+}

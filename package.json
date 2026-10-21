@@ -1,0 +1,35 @@
+{
+  "name": "dita-04-dongeng-fabel",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Sovereign Video Engine & Remotion Storybook Studio for DITA-04 (@ditafable)",
+  "scripts": {
+    "render": "tsx scripts/render-video.ts",
+    "render:720p": "tsx scripts/render-video.ts --comp FableStorybookShorts720p --out output/dita_fable_day_001_preview720p.mp4",
+    "render:1080p": "tsx scripts/render-video.ts --comp FableStorybookShorts --out output/dita_fable_day_001_master.mp4",
+    "tts": "python scripts/generate-voiceover.py",
+    "broll": "python scripts/fetch-broll.py",
+    "pipeline": "tsx scripts/pipeline-daily.ts",
+    "publish": "python scripts/publish_video.py",
+    "eval": "python scripts/monthly_fleet_evaluator.py",
+    "build": "tsc -p tsconfig.json"
+  },
+  "dependencies": {
+    "@remotion/bundler": "^4.0.505",
+    "@remotion/cli": "^4.0.505",
+    "@remotion/renderer": "^4.0.505",
+    "@zernio/node": "^0.2.536",
+    "dotenv": "^17.4.2",
+    "hyperframes": "^0.8.167",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "remotion": "^4.0.505"
+  },
+  "devDependencies": {
+    "@types/node": "^22",
+    "@types/react": "^19",
+    "tsx": "^4",
+    "typescript": "^5"
+  }
+}

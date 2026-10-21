@@ -1,0 +1,305 @@
+{
+  "metadata": {
+    "channel_id": "DITA-04",
+    "channel_name": "Dita Dongeng & Fabel",
+    "handle": "@ditafable",
+    "day_number": 1,
+    "cycle_number": 1,
+    "cycle_theme": "Fondasi Kejujuran: Berani Mengakui Kesalahan Lebih Berharga dari Sekadar Menang",
+    "topic_pillar_id": "P1",
+    "topic_pillar_name": "Kejujuran & Keberanian Berkata Benar (Honesty & Moral Courage)",
+    "narrative_format_id": "F1",
+    "narrative_format_name": "Dilema Moral & Konsekuensi Aksi (Moral Dilemma & Consequence)",
+    "emotional_trigger": "Rasa Ingin Tahu Menegangkan & Kelegaan Hati (Relief & Moral Courage)",
+    "visual_pacing": "Transisi dari Cemas-Tegang ke Kehangatan Emosional (Pacing Kontras Sinematik)",
+    "target_duration_range": "45-60 detik",
+    "cta_hook_type": "Refleksi Pengantar Tidur & Diskusi Nilai Bersama Anak",
+    "target_audience": "Balita & anak usia dini (3-8 tahun) bersama orang tua (Ayah & Bunda)",
+    "created_by": "Content Research & Narrative Architect (@content-researcher)",
+    "reviewed_by": "Herman (Command Point / @hermes)",
+    "intended_executor": "Director (@fullmontage) & Fleet Operator (@social-operator)"
+  },
+  "scientific_research_dossier": {
+    "core_topic": "Psikologi Pengakuan Kesalahan pada Anak: Mengapa Berbohong Adalah Respons Perlindungan Diri dan Cara Menumbuhkan Keberanian Berkata Jujur",
+    "academic_citations": [
+      {
+        "author": "Dr. Jean Piaget",
+        "publication": "The Moral Judgement of the Child (Routledge & Kegan Paul, 1932)",
+        "key_findings": "Tahap Realisme Moral (Heteronomous Morality) pada anak usia dini mengartikan kesalahan berdasarkan beratnya akibat fisik, bukan niat. Anak cenderung berbohong karena panik terhadap konsekuensi hukuman, bukan karena berniat jahat."
+      },
+      {
+        "author": "Dr. Thomas Lickona, Ph.D.",
+        "publication": "Educating for Character: How Our Schools Can Teach Respect and Responsibility (Bantam, 1991)",
+        "key_findings": "Keberanian moral (moral courage) tumbuh saat lingkungan memberikan rasa aman emosional ketika anak mengakui kekeliruan. Penghargaan atas kejujuran jauh lebih efektif menanamkan integritas seumur hidup dibanding hukuman keras."
+      },
+      {
+        "author": "Dr. Kang Lee, Ph.D.",
+        "publication": "Little Liars: The Development of Lying in Childhood (Child Development Perspectives, 2013)",
+        "key_findings": "Evolusi perilaku berbohong pada anak usia 3-5 tahun adalah tanda fungsi eksekutif otak dan teori pikiran (theory of mind). Menanggapi pengakuan dengan kehangatan mengajarkan anak bahwa kejujuran memperbaiki hubungan."
+      },
+      {
+        "author": "Dr. Daniel J. Siegel & Dr. Tina Payne Bryson",
+        "publication": "The Power of Showing Up (Ballantine Books, 2020)",
+        "key_findings": "Kebutuhan utama anak saat berbuat salah adalah 'Safe & Seen' (rasa aman dan didengar). Sikap tenang orang tua saat anak berbuat salah mencegah amigdala anak masuk ke mode flight-or-freeze."
+      }
+    ],
+    "psychological_mechanism_breakdown": {
+      "child_developmental_stage": "Usia 3-6 tahun masih dalam pembentukan pemahaman sebab-akibat moral. Identifikasi tokoh fabel (Kancil Ciko) membantu anak memproses rasa bersalah secara aman tanpa merasa dihakimi langsung.",
+      "moral_internalization_process": "Saat Kancil Ciko memilih jujur dan diterima dengan pelukan kakek beruang, amigdala anak menyerap asosiasi positif: kejujuran = ketenangan batin dan kasih sayang.",
+      "common_parenting_trap": "Orang tua sering bereaksi meledak atau membentak ketika barang berharga rusak. Respon ini memperkuat respon pertahanan diri anak untuk berbohong di masa depan.",
+      "moral_syariah_alignment": "Selaras dengan prinsip ash-shidq (kejujuran hakiki) dan ar-rifq (kelembutan): 'Sesungguhnya kejujuran membawa kepada kebaikan' (HR. Bukhari-Muslim). Menolak intimidasi verbal pada anak kecil."
+    }
+  },
+  "script_architecture_breakdown": {
+    "anatomy": [
+      {
+        "segment_id": "SEG_01",
+        "phase": "Thumb-Stopping Hook",
+        "timestamp_range": "00:00 - 00:03",
+        "duration_seconds": 3,
+        "spoken_text": "Jangan sembunyikan apel yang sudah terbelah itu di balik semak!",
+        "word_count": 10,
+        "pacing_wpm": 200,
+        "visual_direction": "Extreme close-up dinamis: Seekor kancil kecil berbulu halus (Ciko) memegang belahan apel emas yang merekah di tanah berlumut, matanya membesar terkejut, telinganya turun cemas. Latar hutan dongeng 3D Pixar berkabut senja.",
+        "text_on_screen": {
+          "headline": "JANGAN SEMBUNYIKAN!",
+          "sub_headline": "Rahasia Kancil Ciko di Hutan Kenari",
+          "style": "Font tebal rounded warna emas keemasan dengan outline gelap hangat, pop-up tajam."
+        },
+        "audio_design": {
+          "voice_inflection": "Membuka rasa penasaran dramatis, hangat, tidak menakuti.",
+          "sfx": "Suara gemerisik daun cepat (rustle) dan denting petikan harpa halus.",
+          "bgm": "Melodi kotak musik enchanted forest berpadu string lembut berdetak pelan."
+        }
+      },
+      {
+        "segment_id": "SEG_02",
+        "phase": "Pengenalan Karakter & Dilema",
+        "timestamp_range": "00:03 - 00:15",
+        "duration_seconds": 12,
+        "spoken_text": "Kancil kecil bernama Ciko gemetar saat apel emas kesayangan kakek beruang pecah karena kecerobohannya. Ia sempat ingin lari dan berbohong.",
+        "word_count": 21,
+        "pacing_wpm": 105,
+        "visual_direction": "Kamera dolly-back perlahan: Menampilkan Ciko berdiri di depan pohon kenari raksasa berongga hangat. Di dalam rongga pohon terlihat Kakek Beruang tua yang sedang menyiapkan mangkok kayu. Ciko memegang buah dengan tangan bergetar.",
+        "text_on_screen": {
+          "headline": "Apel Emas Terbelah...",
+          "sub_headline": "Takut, bingung, ingin berbohong",
+          "style": "Teks elegan di sepertiga bawah, gaya buku cerita anak bergambar."
+        },
+        "audio_design": {
+          "voice_inflection": "Empatik, bernada naratif dongeng klasik, menyuarakan kecemasan anak secara lembut.",
+          "sfx": "Detak jam kayu halus berdetik (tick-tock) menandakan debaran jantung.",
+          "bgm": "Petikan selo lembut bernuansa haru dan melankolis."
+        }
+      },
+      {
+        "segment_id": "SEG_03",
+        "phase": "Konflik Cerita & Pembalikan Mindset",
+        "timestamp_range": "00:15 - 00:35",
+        "duration_seconds": 20,
+        "spoken_text": "Tapi di dalam dadanya, detak jantungnya berbisik bahwa rasa bersalah itu terasa jauh lebih berat daripada hukuman apapun. Dengan napas pelan, Ciko menghampiri kakek beruang dan berkata jujur: 'Kakek, Ciko minta maaf, Ciko yang memecahkannya.'",
+        "word_count": 36,
+        "pacing_wpm": 108,
+        "visual_direction": "Medium shot sinematik: Ciko menundukkan kepala, menarik nafas panjang, lalu melangkah pelan mendekati Kakek Beruang. Kakek Beruang berlutut dengan senyum teduh, menaruh tangan berbulu lebatnya di pundak mungil Ciko. Cahaya lentera menyinari tetesan air mata haru.",
+        "text_on_screen": {
+          "headline": "\"Kakek, Ciko Minta Maaf...\"",
+          "sub_headline": "Keberanian ksatria sejati",
+          "style": "Kotak dialog kutipan kuning madu bercahaya lembut dengan ikon lentera."
+        },
+        "audio_design": {
+          "voice_inflection": "Suara berbisik lembut penuh ketulusan, intonasi emosional menyentuh kalbu.",
+          "sfx": "Suara desau angin sore di dedaunan dan hembusan nafas lega.",
+          "bgm": "Alunan piano akustik hangat dan pad string orkestra Disney-Pixar yang mengharukan."
+        }
+      },
+      {
+        "segment_id": "SEG_04",
+        "phase": "Titik Balik Moral & Kalimat Bijak",
+        "timestamp_range": "00:35 - 00:50",
+        "duration_seconds": 15,
+        "spoken_text": "Kakek beruang tersenyum hangat, lalu memeluknya erat: 'Mengakui kesalahan butuh keberanian ksatria sejati, Ciko.' Karena kejujuran selalu membasuh rasa takut menjadi rasa tenang.",
+        "word_count": 24,
+        "pacing_wpm": 96,
+        "visual_direction": "Slow motion 60fps hangat: Pelukan penuh kasih antara Kakek Beruang dan Kancil Ciko. Daun-daun emas berguguran perlahan di sekeliling mereka. Senyum lega merekah di wajah Ciko, matanya berbinar ceria kembali.",
+        "text_on_screen": {
+          "headline": "KEJUJURAN MEMBAWA KETENANGAN ❤️",
+          "sub_headline": "Berani Mengaku = Jiwa Ksatria",
+          "style": "Tipografi kaligrafi modern elegan dengan animasi hati bersinar."
+        },
+        "audio_design": {
+          "voice_inflection": "Hangat, kebapakan, menenangkan jiwa, penuh rasa penerimaan mutlak.",
+          "sfx": "Dentang lonceng angin lembut (wind chimes) bergemerincing merdu.",
+          "bgm": "Klimaks melodi piano lembut berangsur tenang menuju suasana hening malam."
+        }
+      },
+      {
+        "segment_id": "SEG_05",
+        "phase": "Refleksi Pengantar Tidur & Seamless Loop",
+        "timestamp_range": "00:50 - 00:58",
+        "duration_seconds": 8,
+        "spoken_text": "Maka malam ini sebelum tidur, ingatlah selalu pesan ini...",
+        "word_count": 9,
+        "pacing_wpm": 67,
+        "visual_direction": "Kamera bergerak naik ke langit senja yang mulai dihiasi bintang gemerlap dan bulan sabit perak. Cahaya lentera di pohon kenari berpendar damai. Match-cut halus di frame terakhir menyambung ke frame buah apel emas.",
+        "text_on_screen": {
+          "headline": "Selamat Tidur Bidadari & Ksatria Kecil ✨",
+          "sub_headline": "Simpan cerita ini untuk dongeng nanti malam",
+          "style": "Teks putih berkilau emas dengan ikon bulan bintang dan tombol simpan video."
+        },
+        "audio_design": {
+          "voice_inflection": "Berbisik lembut, intonasi menggantung manis yang mengalir kembali ke kalimat pertama pembuka.",
+          "sfx": "Suara jangkrik malam dan gemersik dedaunan syahdu.",
+          "bgm": "Nada senar tunggal harpa yang mengalun harmonis menyambung ke beat awal."
+        }
+      }
+    ]
+  },
+  "seamless_loop_mechanism": {
+    "loop_phrase_ending": "Maka malam ini sebelum tidur, ingatlah selalu pesan ini...",
+    "hook_phrase_beginning": "Jangan sembunyikan apel yang sudah terbelah itu di balik semak!",
+    "full_loop_sentence": "Maka malam ini sebelum tidur, ingatlah selalu pesan ini: Jangan sembunyikan apel yang sudah terbelah itu di balik semak!",
+    "retention_mechanic": "Kalimat penutup bertindak sebagai jembatan naratif langsung ke kalimat peringatan di detik 00:00. Algoritma membaca tontonan berulang secara mulus tanpa jeda janggal."
+  },
+  "verbatim_script_master": {
+    "full_spoken_text_id": "Jangan sembunyikan apel yang sudah terbelah itu di balik semak! Kancil kecil bernama Ciko gemetar saat apel emas kesayangan kakek beruang pecah karena kecerobohannya. Ia sempat ingin lari dan berbohong. Tapi di dalam dadanya, detak jantungnya berbisik bahwa rasa bersalah itu terasa jauh lebih berat daripada hukuman apapun. Dengan napas pelan, Ciko menghampiri kakek beruang dan berkata jujur: 'Kakek, Ciko minta maaf, Ciko yang memecahkannya.' Kakek beruang tersenyum hangat, lalu memeluknya erat: 'Mengakui kesalahan butuh keberanian ksatria sejati, Ciko.' Karena kejujuran selalu membasuh rasa takut menjadi rasa tenang. Maka malam ini sebelum tidur, ingatlah selalu pesan ini...",
+    "total_word_count": 100,
+    "estimated_reading_duration_seconds": 52,
+    "average_wpm": 115.4,
+    "voiceover_profile": {
+      "speaker_persona": "Kak Dita (Pendongeng hangat, ramah anak, intonasi lembut pengantar tidur, ekspresif namun menenangkan)",
+      "speed_multiplier": 1.0,
+      "tone_notes": "Warm bedtime storytelling, soothing, expressive character voices, calming bedtime cadence. No harsh tone."
+    }
+  },
+  "production_prompts_for_fullmontage": {
+    "midjourney_flux_visual_cues": [
+      {
+        "scene_id": "SCENE_01",
+        "timecode": "00:00 - 00:03",
+        "aspect_ratio": "9:16",
+        "prompt": "Adorable cute 3D Pixar style little mouse deer (kancil) holding a cracked golden glowing apple on lush green mossy enchanted forest floor, big expressive guilty eyes, ears drooped, evening golden rim lighting, 3D Disney Pixar animation aesthetic, vibrant woodland atmosphere, 8k render --ar 9:16"
+      },
+      {
+        "scene_id": "SCENE_02",
+        "timecode": "00:03 - 00:15",
+        "aspect_ratio": "9:16",
+        "prompt": "Cinematic wide 3D storybook scene of an ancient hollow oak tree with warm glowing lanterns, an elderly grandfather brown bear inside carving a wooden bowl, cute trembling baby mouse deer outside peeking with hesitation, soft magical twilight, photorealistic Pixar 3D style --ar 9:16"
+      },
+      {
+        "scene_id": "SCENE_03",
+        "timecode": "00:15 - 00:35",
+        "aspect_ratio": "9:16",
+        "prompt": "Emotional eye-level shot of grandfather bear kneeling gently before the little mouse deer, grandfather bear placing a soft loving paw on the little deer shoulder, tears of relief, warm candlelight glow, highly emotional heartwarming 3D animation, rich textures --ar 9:16"
+      },
+      {
+        "scene_id": "SCENE_04",
+        "timecode": "00:35 - 00:50",
+        "aspect_ratio": "9:16",
+        "prompt": "Heartwarming tight embrace between a giant fluffy kind grandfather bear and tiny cute mouse deer, golden autumn leaves floating gently in the air, glowing fairy dust, soft warm backlight, Disney Pixar feature film quality, emotional resolution --ar 9:16"
+      },
+      {
+        "scene_id": "SCENE_05",
+        "timecode": "00:50 - 00:58",
+        "aspect_ratio": "9:16",
+        "prompt": "Magical fairytale forest at night, crescent moon in purple starry sky, twinkling fireflies dancing around cozy hollow tree house, peaceful sleeping woodland sanctuary, bedtime storybook aesthetic, ultra-detailed 8k --ar 9:16"
+      }
+    ],
+    "voiceover_audio_generation_specs": {
+      "text": "Jangan sembunyikan apel yang sudah terbelah itu di balik semak! Kancil kecil bernama Ciko gemetar saat apel emas kesayangan kakek beruang pecah karena kecerobohannya. Ia sempat ingin lari dan berbohong. Tapi di dalam dadanya, detak jantungnya berbisik bahwa rasa bersalah itu terasa jauh lebih berat daripada hukuman apapun. Dengan napas pelan, Ciko menghampiri kakek beruang dan berkata jujur: 'Kakek, Ciko minta maaf, Ciko yang memecahkannya.' Kakek beruang tersenyum hangat, lalu memeluknya erat: 'Mengakui kesalahan butuh keberanian ksatria sejati, Ciko.' Karena kejujuran selalu membasuh rasa takut menjadi rasa tenang. Maka malam ini sebelum tidur, ingatlah selalu pesan ini...",
+      "target_wpm": 115,
+      "pause_cues": [
+        {
+          "after_word": "semak!",
+          "pause_ms": 500
+        },
+        {
+          "after_word": "kecerobohannya.",
+          "pause_ms": 400
+        },
+        {
+          "after_word": "berbohong.",
+          "pause_ms": 600
+        },
+        {
+          "after_word": "apapun.",
+          "pause_ms": 500
+        },
+        {
+          "after_word": "jujur:",
+          "pause_ms": 450
+        },
+        {
+          "after_word": "memecahkannya.'",
+          "pause_ms": 700
+        },
+        {
+          "after_word": "Ciko.'",
+          "pause_ms": 650
+        },
+        {
+          "after_word": "tenang.",
+          "pause_ms": 550
+        },
+        {
+          "after_word": "ini...",
+          "pause_ms": 750
+        }
+      ]
+    },
+    "broll_queries": [
+      {
+        "scene_id": "SCENE_01",
+        "timeStart": 0,
+        "timeEnd": 3,
+        "query": "cute 3d deer animal surprised"
+      },
+      {
+        "scene_id": "SCENE_02",
+        "timeStart": 3,
+        "timeEnd": 9,
+        "query": "enchanted forest fairy tale tree"
+      },
+      {
+        "scene_id": "SCENE_03",
+        "timeStart": 9,
+        "timeEnd": 15,
+        "query": "cozy woodland animal house hollow"
+      },
+      {
+        "scene_id": "SCENE_04",
+        "timeStart": 15,
+        "timeEnd": 25,
+        "query": "friendly kind bear smiling 3d"
+      },
+      {
+        "scene_id": "SCENE_05",
+        "timeStart": 25,
+        "timeEnd": 35,
+        "query": "animal character confessing emotional"
+      },
+      {
+        "scene_id": "SCENE_06",
+        "timeStart": 35,
+        "timeEnd": 45,
+        "query": "warm hug woodland animals 3d"
+      },
+      {
+        "scene_id": "SCENE_07",
+        "timeStart": 45,
+        "timeEnd": 50,
+        "query": "golden leaves falling forest"
+      },
+      {
+        "scene_id": "SCENE_08",
+        "timeStart": 50,
+        "timeEnd": 58,
+        "query": "night starry sky enchanted forest fireflies"
+      }
+    ]
+  },
+  "social_fleet_distribution_metadata": {
+    "title": "Kancil Ciko & Apel Emas yang Terbelah (Kisah Keberanian Berkata Jujur)",
+    "caption_instagram_tiktok": "Pernah nggak si kecil takut banget ngaku pas mecahin barang atau berbuat salah di rumah? 🥺🍎\n\nMalam ini, dongengkan kisah Kancil Ciko dan Kakek Beruang ini untuk si kecil sebelum terlelap.\n\nAnak-anak belajar bahwa berani mengakui kesalahan bukanlah kelemahan, melainkan tanda jiwa ksatria yang hebat. Saat kita menyambut kejujuran anak dengan pelukan hangat dan bukan bentakan, mereka akan tumbuh menjadi pribadi yang berintegritas dan selalu merasa aman bercerita pada orang tuanya.\n\nSimpan video ini untuk dongeng pengantar tidur nanti malam, dan bagikan ke sesama Ayah Bunda ya! ✨❤️\n\n#ditafable #dongenganak #fabelanak #ceritapengantartidur #parentinganak #edukasianak #kejujuran #nilaimoral #kisahinspiratif #keluargabahagia",
+    "youtube_shorts_title": "Kancil Ciko & Apel Emas: Berani Mengakui Kesalahan #shorts #dongenganak #fabel"
+  }
+}

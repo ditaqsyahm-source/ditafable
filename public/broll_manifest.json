@@ -1,0 +1,42 @@
+[
+  {
+    "scene_id": "SCENE_01_KANCIL_APEL",
+    "timeStart": 0.0,
+    "timeEnd": 4.86,
+    "videoSrc": null,
+    "imageSrc": "images/scene1_kancil_apel.jpg",
+    "description": "Kancil Ciko memegang belahan apel emas di tanah berlumut senja"
+  },
+  {
+    "scene_id": "SCENE_02_POHON_KENARI",
+    "timeStart": 4.86,
+    "timeEnd": 16.34,
+    "videoSrc": null,
+    "imageSrc": "images/scene2_pohon_kenari.jpg",
+    "description": "Pohon kenari raksasa berongga hangat dengan lentera menyala"
+  },
+  {
+    "scene_id": "SCENE_03_PENGAKUAN_CIKO",
+    "timeStart": 16.34,
+    "timeEnd": 36.11,
+    "videoSrc": null,
+    "imageSrc": "images/scene3_pengakuan_ciko.jpg",
+    "description": "Kakek Beruang berlutut lembut menyambut pengakuan jujur Ciko"
+  },
+  {
+    "scene_id": "SCENE_04_PELUKAN_HANGAT",
+    "timeStart": 36.11,
+    "timeEnd": 51.01,
+    "videoSrc": null,
+    "imageSrc": "images/scene4_pelukan_hangat.jpg",
+    "description": "Pelukan hangat penuh kasih & daun-daun emas berguguran"
+  },
+  {
+    "scene_id": "SCENE_05_MALAM_BINTANG",
+    "timeStart": 51.01,
+    "timeEnd": 56.1,
+    "videoSrc": null,
+    "imageSrc": "images/scene5_malam_bintang.jpg",
+    "description": "Langit malam berhias bintang, bulan sabit & kunang-kunang"
+  }
+]

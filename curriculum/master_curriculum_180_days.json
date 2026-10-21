@@ -1,0 +1,2212 @@
+[
+  {
+    "week_number": 1,
+    "week_label": "Minggu 01",
+    "theme_title": "Fondasi Kejujuran: Berani Mengakui Kesalahan Lebih Berharga dari Sekadar Menang",
+    "pillar_focus": "Kejujuran & Keberanian Berkata Benar",
+    "days": [
+      {
+        "day_number": 1,
+        "day_of_week": "Senin",
+        "pillar_id": "P1",
+        "pillar_name": "Kejujuran & Keberanian",
+        "narrative_format": "F1",
+        "topic_title": "Kancil Ciko & Buah Apel Emas yang Terbelah (Keberanian Mengakui Kesalahan)",
+        "character_cast": "Ciko si Kancil & Kakek Beruang",
+        "core_moral_message": "Mengakui kesalahan membutuhkan keberanian besar, namun membebaskan hati dari rasa bersalah.",
+        "status": "PACKET_READY"
+      },
+      {
+        "day_number": 2,
+        "day_of_week": "Selasa",
+        "pillar_id": "P2",
+        "pillar_name": "Empati & Berbagi",
+        "narrative_format": "F2",
+        "topic_title": "Duri si Landak Kecil & Payung Sarang Lebah (Pembalik Prasangka)",
+        "character_cast": "Duri si Landak & Ratu Lebah",
+        "core_moral_message": "Jangan menilai kebaikan hati seseorang dari tampilan luarnya yang berduri.",
+        "status": "PACKET_READY"
+      },
+      {
+        "day_number": 3,
+        "day_of_week": "Rabu",
+        "pillar_id": "P3",
+        "pillar_name": "Ketekunan & Kesabaran",
+        "narrative_format": "F4",
+        "topic_title": "Kuki si Kura-Kura & Jembatan Daun Teratai (Langkah Kecil Tak Terhentikan)",
+        "character_cast": "Kuki si Kura-Kura & Roki si Kelinci",
+        "core_moral_message": "Langkah kecil yang konsisten selalu mengalahkan lompatan cepat yang sombong.",
+        "status": "PACKET_READY"
+      },
+      {
+        "day_number": 4,
+        "day_of_week": "Kamis",
+        "pillar_id": "P4",
+        "pillar_name": "Kerendahan Hati",
+        "narrative_format": "F1",
+        "topic_title": "Miko si Merak Emas & Duri di Sayap Indah (Bulu Emas vs Ketulusan Hati)",
+        "character_cast": "Miko si Merak & Pipit Cilik",
+        "core_moral_message": "Keindahan sejati bukan dari tampilan fisik, melainkan ketulusan membantu sesama.",
+        "status": "PACKET_READY"
+      },
+      {
+        "day_number": 5,
+        "day_of_week": "Jumat",
+        "pillar_id": "P5",
+        "pillar_name": "Pengendalian Amarah",
+        "narrative_format": "F3",
+        "topic_title": "Balu si Beruang Cilik & Rahasia Air Terjun Sejuk (Menjinakkan Amarah)",
+        "character_cast": "Balu si Beruang & Kakek Beruang",
+        "core_moral_message": "Amarah adalah tamu sementara; nafas tenang memadamkan kobaran api emosi.",
+        "status": "PACKET_READY"
+      },
+      {
+        "day_number": 6,
+        "day_of_week": "Sabtu",
+        "pillar_id": "P6",
+        "pillar_name": "Kecerdikan & Kerjasama",
+        "narrative_format": "F1",
+        "topic_title": "Tupi si Tupai & Bobi si Berang-Berang (Membangun Jembatan Rimba)",
+        "character_cast": "Tupi si Tupai & Bobi si Berang-Berang",
+        "core_moral_message": "Kekuatan ranting yang bersatu tak akan pernah bisa dipatahkan arus sungai.",
+        "status": "PACKET_READY"
+      },
+      {
+        "day_number": 7,
+        "day_of_week": "Minggu",
+        "pillar_id": "P1-P6",
+        "pillar_name": "Dongeng Tidur & Kasih Sayang",
+        "narrative_format": "F5",
+        "topic_title": "Lentera Kunang-Kunang & Pelukan Rimba Menjelang Tidur (Rasa Aman & Syukur)",
+        "character_cast": "Ibu Rusa & Roni si Rusa Kecil",
+        "core_moral_message": "Cinta kasih keluarga adalah tempat pulang terhangat untuk beristirahat nyenyak.",
+        "status": "PACKET_READY"
+      }
+    ]
+  },
+  {
+    "week_number": 2,
+    "week_label": "Minggu 02",
+    "theme_title": "Kehangatan Berbagi: Mengapa Memberi Tidak Pernah Mengurangi Kebahagiaan",
+    "pillar_focus": "Kebaikan Tulus & Dermawan",
+    "days": [
+      {
+        "day_number": 8,
+        "day_of_week": "Senin",
+        "pillar_id": "P1",
+        "pillar_name": "Kejujuran & Amanah",
+        "narrative_format": "F1",
+        "topic_title": "Loli si Tupai & Rahasia Kacang Walnut Terakhir",
+        "character_cast": "Loli si Tupai & Nenek Kelinci",
+        "core_moral_message": "Menjaga amanah makanan simpanan di musim gugur membawa berkah persahabatan.",
+        "status": "CURRICULUM_PLANNED"
+      },
+      {
+        "day_number": 9,
+        "day_of_week": "Selasa",
+        "pillar_id": "P2",
+        "pillar_name": "Kebaikan & Berbagi",
+        "narrative_format": "F2",
+        "topic_title": "Serigala Berbulu Kelabu yang Mengantar Anak Domba Pulang",
+        "character_cast": "Bara si Serigala & Moli si Anak Domba",
+        "core_moral_message": "Kasih sayang menembus batas perbedaan jenis dan prasangka lama.",
+        "status": "CURRICULUM_PLANNED"
+      },
+      {
+        "day_number": 10,
+        "day_of_week": "Rabu",
+        "pillar_id": "P3",
+        "pillar_name": "Ketekunan & Kerja Keras",
+        "narrative_format": "F4",
+        "topic_title": "Semut Merah Mini yang Membawa Sebutir Gula ke Puncak Bukit",
+        "character_cast": "Sami si Semut & Belalang",
+        "core_moral_message": "Kerja keras di masa muda menjamin kehangatan di musim dingin.",
+        "status": "CURRICULUM_PLANNED"
+      },
+      {
+        "day_number": 11,
+        "day_of_week": "Kamis",
+        "pillar_id": "P4",
+        "pillar_name": "Kerendahan Hati",
+        "narrative_format": "F1",
+        "topic_title": "Gajah Gempa yang Belajar Menghargai Sarang Burung Gereja",
+        "character_cast": "Gani si Gajah & Pipit Cilik",
+        "core_moral_message": "Kekuatan sejati terlihat dari cara menjaga makhluk yang paling lemah.",
+        "status": "CURRICULUM_PLANNED"
+      },
+      {
+        "day_number": 12,
+        "day_of_week": "Jumat",
+        "pillar_id": "P5",
+        "pillar_name": "Memaafkan Kesalahan",
+        "narrative_format": "F3",
+        "topic_title": "Kucing Hutan Milo & Ikan Mas Kolam Kenari",
+        "character_cast": "Milo si Kucing & Kakek Kura-Kura",
+        "core_moral_message": "Memaafkan kecerobohan sahabat membuka pintu damai di telaga.",
+        "status": "CURRICULUM_PLANNED"
+      },
+      {
+        "day_number": 13,
+        "day_of_week": "Sabtu",
+        "pillar_id": "P6",
+        "pillar_name": "Gotong Royong Rimba",
+        "narrative_format": "F1",
+        "topic_title": "Pesta Buah Hutan Kenari: Siapa yang Menyiapkan Mangkok Terbesar?",
+        "character_cast": "Hewan Hutan Rimba",
+        "core_moral_message": "Berbagi hidangan melipatgandakan rasa manis dan keakraban.",
+        "status": "CURRICULUM_PLANNED"
+      },
+      {
+        "day_number": 14,
+        "day_of_week": "Minggu",
+        "pillar_id": "P1-P6",
+        "pillar_name": "Refleksi Pengantar Tidur",
+        "narrative_format": "F5",
+        "topic_title": "Angin Malam yang Mengusap Daun-Daun Mengantuk",
+        "character_cast": "Keluarga Burung Pipit",
+        "core_moral_message": "Bersyukur atas rezeki hari ini membuat mimpi malam terasa damai.",
+        "status": "CURRICULUM_PLANNED"
+      }
+    ]
+  },
+  {
+    "week_number": 3,
+    "week_label": "Minggu 03",
+    "theme_title": "Langkah Kecil yang Konsisten: Seni Kesabaran Mengalahkan Keinginan Instan",
+    "pillar_focus": "Kesabaran & Delayed Gratification",
+    "days": [
+      {
+        "day_number": 15,
+        "day_of_week": "Senin",
+        "pillar_id": "P1",
+        "pillar_name": "Kejujuran pada Diri",
+        "narrative_format": "F1",
+        "topic_title": "Kancil dan Perlombaan Menanam Bibit Jagung Emas",
+        "character_cast": "Kancil & Kancil Cilik",
+        "core_moral_message": "Kejujuran dalam proses bertumbuh lebih penting daripada hasil instan.",
+        "status": "CURRICULUM_PLANNED"
+      },
+      {
+        "day_number": 16,
+        "day_of_week": "Selasa",
+        "pillar_id": "P2",
+        "pillar_name": "Empati & Perhatian",
+        "narrative_format": "F2",
+        "topic_title": "Burung Hantu Bijak yang Mendengarkan Keluh Kesah Rusa Patah Tanduk",
+        "character_cast": "Owi si Burung Hantu & Rusa",
+        "core_moral_message": "Mendengarkan dengan penuh empati adalah obat bagi luka hati.",
+        "status": "CURRICULUM_PLANNED"
+      },
+      {
+        "day_number": 17,
+        "day_of_week": "Rabu",
+        "pillar_id": "P3",
+        "pillar_name": "Ketekunan Tanpa Lelah",
+        "narrative_format": "F4",
+        "topic_title": "Burung Pelatuk Kecil yang Melubangi Batang Kayu Kering",
+        "character_cast": "Piko si Pelatuk & Katak",
+        "core_moral_message": "Ketukan kecil berulang kali mampu menembus kayu paling keras.",
+        "status": "CURRICULUM_PLANNED"
+      },
+      {
+        "day_number": 18,
+        "day_of_week": "Kamis",
+        "pillar_id": "P4",
+        "pillar_name": "Kerendahan Hati",
+        "narrative_format": "F1",
+        "topic_title": "Kuda Belang yang Bangga dengan Garis Hitam Putihnya",
+        "character_cast": "Ziko si Zebra & Kuda Poni",
+        "core_moral_message": "Kelebihan fisik adalah anugerah untuk disyukuri, bukan disombongkan.",
+        "status": "CURRICULUM_PLANNED"
+      },
+      {
+        "day_number": 19,
+        "day_of_week": "Jumat",
+        "pillar_id": "P5",
+        "pillar_name": "Mengendalikan Emosi",
+        "narrative_format": "F3",
+        "topic_title": "Monyet Ciko yang Belajar Menahan Diri dari Buah Mentah",
+        "character_cast": "Ciko si Monyet & Ibu Kera",
+        "core_moral_message": "Sabar menunggu saat yang tepat mendatangkan rasa buah yang termanis.",
+        "status": "CURRICULUM_PLANNED"
+      },
+      {
+        "day_number": 20,
+        "day_of_week": "Sabtu",
+        "pillar_id": "P6",
+        "pillar_name": "Penyelesaian Masalah",
+        "narrative_format": "F1",
+        "topic_title": "Mencari Air di Musim Kemarau: Kerjasama Kawanan Rimba",
+        "character_cast": "Gajah, Rusa, & Kancil",
+        "core_moral_message": "Kecerdikan menemukan mata air menyelamatkan seluruh penghuni hutan.",
+        "status": "CURRICULUM_PLANNED"
+      },
+      {
+        "day_number": 21,
+        "day_of_week": "Minggu",
+        "pillar_id": "P1-P6",
+        "pillar_name": "Dongeng Pengantar Tidur",
+        "narrative_format": "F5",
+        "topic_title": "Tetes Embun yang Berbisik Selamat Malam pada Bunga Mawar",
+        "character_cast": "Bunga Mawar & Kupu-kupu Malam",
+        "core_moral_message": "Rebahkan badan dengan tenang, esok fajar menjanjikan harapan baru.",
+        "status": "CURRICULUM_PLANNED"
+      }
+    ]
+  },
+  {
+    "week_number": 4,
+    "week_label": "Minggu 04",
+    "theme_title": "Melihat dengan Mata Hati: Jangan Menilai Sahabat dari Rupa dan Suaranya",
+    "pillar_focus": "Penerimaan & Anti-Bullying",
+    "days": [
+      {
+        "day_number": 22,
+        "day_of_week": "Senin",
+        "pillar_id": "P1",
+        "pillar_name": "Keberanian Berkata Benar",
+        "narrative_format": "F1",
+        "topic_title": "Anak Rubah yang Membela Angsa Bersuara Serak",
+        "character_cast": "Robi si Rubah & Angsa",
+        "core_moral_message": "Membela kawan yang lemah adalah tanda ksatria sejati.",
+        "status": "CURRICULUM_PLANNED"
+      },
+      {
+        "day_number": 23,
+        "day_of_week": "Selasa",
+        "pillar_id": "P2",
+        "pillar_name": "Kasih Sayang Tersembunyi",
+        "narrative_format": "F2",
+        "topic_title": "Kelelawar Malam yang Menyelamatkan Anak Kelinci yang Tersesat",
+        "character_cast": "Kelo si Kelelawar & Kiki Kelinci",
+        "core_moral_message": "Makhluk malam pun memiliki cinta kasih dan ketulusan menjaga sesama.",
+        "status": "CURRICULUM_PLANNED"
+      },
+      {
+        "day_number": 24,
+        "day_of_week": "Rabu",
+        "pillar_id": "P3",
+        "pillar_name": "Semangat Pantang Menyerah",
+        "narrative_format": "F4",
+        "topic_title": "Ulat Bulu Kecil yang Sabar Menunggu Menjadi Kupu-kupu Emas",
+        "character_cast": "Uli si Ulat & Belalang",
+        "core_moral_message": "Perubahan indah membutuhkan masa penantian dan kesabaran dalam kepompong.",
+        "status": "CURRICULUM_PLANNED"
+      },
+      {
+        "day_number": 25,
+        "day_of_week": "Kamis",
+        "pillar_id": "P4",
+        "pillar_name": "Rasa Syukur & Qanaah",
+        "narrative_format": "F1",
+        "topic_title": "Bebek Berbulu Kusam yang Bahagia Berenang di Danau Embun",
+        "character_cast": "Diko si Bebek & Angsa Putih",
+        "core_moral_message": "Rasa syukur membuat warna bulu yang kusam tampak berkilau menawan.",
+        "status": "CURRICULUM_PLANNED"
+      },
+      {
+        "day_number": 26,
+        "day_of_week": "Jumat",
+        "pillar_id": "P5",
+        "pillar_name": "Menghapus Rasa Iri",
+        "narrative_format": "F3",
+        "topic_title": "Burung Gagak yang Belajar Mencintai Bulu Hitamnya yang Mengkilap",
+        "character_cast": "Gaga si Gagak & Cendrawasih",
+        "core_moral_message": "Setiap makhluk diciptakan dengan keunikan dan keindahan tak ternilai.",
+        "status": "CURRICULUM_PLANNED"
+      },
+      {
+        "day_number": 27,
+        "day_of_week": "Sabtu",
+        "pillar_id": "P6",
+        "pillar_name": "Kecerdikan Rukun",
+        "narrative_format": "F1",
+        "topic_title": "Tikus Hutan dan Singa Tua yang Terjerat Jala",
+        "character_cast": "Tiko si Tikus & Singa Rimba",
+        "core_moral_message": "Bantuan dari makhluk terkecil mampu melepaskan jeratan terbesar.",
+        "status": "CURRICULUM_PLANNED"
+      },
+      {
+        "day_number": 28,
+        "day_of_week": "Minggu",
+        "pillar_id": "P1-P6",
+        "pillar_name": "Dongeng Tidur Damai",
+        "narrative_format": "F5",
+        "topic_title": "Cahaya Bulan Sabit yang Menyinari Sarang-Sarang Hangat",
+        "character_cast": "Keluarga Beruang Hutan",
+        "core_moral_message": "Tidurlah nyenyak di bawah naungan kasih sayang semesta.",
+        "status": "CURRICULUM_PLANNED"
+      }
+    ]
+  },
+  {
+    "week_number": 5,
+    "week_label": "Minggu 05",
+    "theme_title": "Menjinakkan Badai Amarah: Rahasia Beruang Menenangkan Hati yang Membara",
+    "pillar_focus": "Regulasi Emosi & Self-Soothing",
+    "days": [
+      {
+        "day_number": 29,
+        "day_of_week": "Senin",
+        "pillar_id": "P1",
+        "pillar_name": "Kejujuran Emosi",
+        "narrative_format": "F1",
+        "topic_title": "Singa Cilik yang Mengaku Takut pada Petir Menggelegar",
+        "character_cast": "Leo si Singa & Ayah Singa",
+        "core_moral_message": "Mengakui rasa takut bukan tanda kelemahan, tapi langkah awal keberanian.",
+        "status": "CURRICULUM_PLANNED"
+      },
+      {
+        "day_number": 30,
+        "day_of_week": "Selasa",
+        "pillar_id": "P2",
+        "pillar_name": "Kebaikan yang Menyembuhkan",
+        "narrative_format": "F2",
+        "topic_title": "Kambing Gunung yang Membagikan Rumput Segar pada Musuhnya",
+        "character_cast": "Kimo si Kambing & Serigala Sakit",
+        "core_moral_message": "Kebaikan tak terduga mampu melunakkan hati yang paling keras.",
+        "status": "CURRICULUM_PLANNED"
+      },
+      {
+        "day_number": 31,
+        "day_of_week": "Rabu",
+        "pillar_id": "P3",
+        "pillar_name": "Fokus pada Tujuan",
+        "narrative_format": "F4",
+        "topic_title": "Burung Walet yang Menenun Sarang Helai Demi Helai di Tebing Karang",
+        "character_cast": "Wali si Walet & Angin Laut",
+        "core_moral_message": "Ketekunan merajut masa depan helai demi helai menghasilkan tempat bernaung abadi.",
+        "status": "CURRICULUM_PLANNED"
+      },
+      {
+        "day_number": 32,
+        "day_of_week": "Kamis",
+        "pillar_id": "P4",
+        "pillar_name": "Sikap Santun Berbicara",
+        "narrative_format": "F1",
+        "topic_title": "Kancil yang Menyesal Mengejek Kura-kura Lambat",
+        "character_cast": "Kancil & Tetua Hutan",
+        "core_moral_message": "Kata yang terlanjur diucapkan tak bisa ditarik, rawatlah lidah dengan santun.",
+        "status": "CURRICULUM_PLANNED"
+      },
+      {
+        "day_number": 33,
+        "day_of_week": "Jumat",
+        "pillar_id": "P5",
+        "pillar_name": "Menghela Nafas Panjang",
+        "narrative_format": "F3",
+        "topic_title": "Harimau Cilik yang Belajar Menghitung Bintang Saat Kesal",
+        "character_cast": "Haru si Harimau & Ibu Harimau",
+        "core_moral_message": "Menghitung bintang di langit menenangkan amarah yang membara di dada.",
+        "status": "CURRICULUM_PLANNED"
+      },
+      {
+        "day_number": 34,
+        "day_of_week": "Sabtu",
+        "pillar_id": "P6",
+        "pillar_name": "Siasat Cerdas Menghadapi Masalah",
+        "narrative_format": "F1",
+        "topic_title": "Musang Cerdik dan Teka-Teki Gua Kristal Hutan",
+        "character_cast": "Miko si Musang & Kawan-kawan",
+        "core_moral_message": "Pikiran yang tenang menemukan jalan keluar di lorong paling gelap.",
+        "status": "CURRICULUM_PLANNED"
+      },
+      {
+        "day_number": 35,
+        "day_of_week": "Minggu",
+        "pillar_id": "P1-P6",
+        "pillar_name": "Refleksi Malam Hangat",
+        "narrative_format": "F5",
+        "topic_title": "Gemericik Air Sungai yang Menghanyutkan Beban Lelah Hari Ini",
+        "character_cast": "Keluarga Berang-berang",
+        "core_moral_message": "Biarkan air sungai membilas lelahmu, pejamkan mata dalam damai.",
+        "status": "CURRICULUM_PLANNED"
+      }
+    ]
+  },
+  {
+    "week_number": 6,
+    "week_label": "Minggu 06",
+    "theme_title": "Kekuatan Gotong Royong: Beban Berat Menjadi Ringan Saat Dipikul Bersama",
+    "pillar_focus": "Kerjasama & Solidaritas",
+    "days": [
+      {
+        "day_number": 36,
+        "day_of_week": "Senin",
+        "pillar_id": "P1",
+        "pillar_name": "Integritas Tugas",
+        "narrative_format": "F1",
+        "topic_title": "Anak Anjing Hutan yang Menjaga Pos Pengawas Rimba",
+        "character_cast": "Bobi si Anjing & Kawanan",
+        "core_moral_message": "Tanggung jawab kecil yang dijaga setia menjamin keselamatan bersama.",
+        "status": "CURRICULUM_PLANNED"
+      },
+      {
+        "day_number": 37,
+        "day_of_week": "Selasa",
+        "pillar_id": "P2",
+        "pillar_name": "Menghibur Sahabat yang Sedih",
+        "narrative_format": "F2",
+        "topic_title": "Koala Pemalu yang Membawa Daun Eukaliptus Wangi untuk Beruang Sakit",
+        "character_cast": "Koli si Koala & Beruang Madu",
+        "core_moral_message": "Hadiah paling berharga adalah perhatian tulus di saat kawan terbaring.",
+        "status": "CURRICULUM_PLANNED"
+      },
+      {
+        "day_number": 38,
+        "day_of_week": "Rabu",
+        "pillar_id": "P3",
+        "pillar_name": "Melawan Rasa Malas",
+        "narrative_format": "F4",
+        "topic_title": "Marmut yang Bangun Pagi Mengumpulkan Biji Bunga Matahari",
+        "character_cast": "Mimi si Marmut & Musang",
+        "core_moral_message": "Kemenangan pertama setiap hari diraih saat melangkah bangun pagi.",
+        "status": "CURRICULUM_PLANNED"
+      },
+      {
+        "day_number": 39,
+        "day_of_week": "Kamis",
+        "pillar_id": "P4",
+        "pillar_name": "Menghormati Peran Orang Lain",
+        "narrative_format": "F1",
+        "topic_title": "Katak Kolam yang Belajar Mengapresiasi Nyanyian Jangkrik Malam",
+        "character_cast": "Koko si Katak & Jangkrik",
+        "core_moral_message": "Setiap suara di alam memiliki melodi indah dalam harmoni semesta.",
+        "status": "CURRICULUM_PLANNED"
+      },
+      {
+        "day_number": 40,
+        "day_of_week": "Jumat",
+        "pillar_id": "P5",
+        "pillar_name": "Menahan Diri dari Membalas",
+        "narrative_format": "F3",
+        "topic_title": "Kijang Emas yang Memilih Memaafkan Ranting yang Menusuk Kakinya",
+        "character_cast": "Kiki si Kijang & Pohon Kenari",
+        "core_moral_message": "Melepaskan dendam menjaga langkah kaki tetap lincah melompat.",
+        "status": "CURRICULUM_PLANNED"
+      },
+      {
+        "day_number": 41,
+        "day_of_week": "Sabtu",
+        "pillar_id": "P6",
+        "pillar_name": "Membangun Bendungan Bersama",
+        "narrative_format": "F1",
+        "topic_title": "Rombongan Berang-Berang dan Rusa Membersihkan Sungai Tercemar",
+        "character_cast": "Seluruh Hewan Rimba",
+        "core_moral_message": "Bersama-sama, sungai yang tersumbat kembali mengalirkan air jernih.",
+        "status": "CURRICULUM_PLANNED"
+      },
+      {
+        "day_number": 42,
+        "day_of_week": "Minggu",
+        "pillar_id": "P1-P6",
+        "pillar_name": "Dongeng Pengantar Tidur",
+        "narrative_format": "F5",
+        "topic_title": "Pohon Beringin Kuno yang Memeluk Seluruh Penghuni Hutan dalam Tidur",
+        "character_cast": "Pohon Beringin & Satwa Rimba",
+        "core_moral_message": "Kamu aman di sini, di bawah naungan pohon cinta yang rindang.",
+        "status": "CURRICULUM_PLANNED"
+      }
+    ]
+  },
+  {
+    "week_number": 7,
+    "week_label": "Minggu 07",
+    "theme_title": "Janji Adalah Hutang Kehormatan: Mengapa Kata-Kata Berharga Lebih dari Emas",
+    "pillar_focus": "Integritas & Janji",
+    "days": [
+      {
+        "day_number": 43,
+        "day_of_week": "Senin",
+        "pillar_id": "P1",
+        "pillar_name": "Kejujuran & Integritas",
+        "narrative_format": "F1",
+        "topic_title": "Senin W07: Hikmah Fabel Rimba - Integritas & Janji (Kejujuran & Integritas)",
+        "character_cast": "Karakter Satwa Hutan Rimba",
+        "core_moral_message": "Menumbuhkan nilai integritas & janji dalam kehidupan sehari-hari anak.",
+        "status": "CURRICULUM_PLANNED"
+      },
+      {
+        "day_number": 44,
+        "day_of_week": "Selasa",
+        "pillar_id": "P2",
+        "pillar_name": "Kebaikan & Empati",
+        "narrative_format": "F2",
+        "topic_title": "Selasa W07: Hikmah Fabel Rimba - Integritas & Janji (Kebaikan & Empati)",
+        "character_cast": "Karakter Satwa Hutan Rimba",
+        "core_moral_message": "Menumbuhkan nilai integritas & janji dalam kehidupan sehari-hari anak.",
+        "status": "CURRICULUM_PLANNED"
+      },
+      {
+        "day_number": 45,
+        "day_of_week": "Rabu",
+        "pillar_id": "P3",
+        "pillar_name": "Ketekunan & Kerja Keras",
+        "narrative_format": "F4",
+        "topic_title": "Rabu W07: Hikmah Fabel Rimba - Integritas & Janji (Ketekunan & Kerja Keras)",
+        "character_cast": "Karakter Satwa Hutan Rimba",
+        "core_moral_message": "Menumbuhkan nilai integritas & janji dalam kehidupan sehari-hari anak.",
+        "status": "CURRICULUM_PLANNED"
+      },
+      {
+        "day_number": 46,
+        "day_of_week": "Kamis",
+        "pillar_id": "P4",
+        "pillar_name": "Kerendahan Hati",
+        "narrative_format": "F1",
+        "topic_title": "Kamis W07: Hikmah Fabel Rimba - Integritas & Janji (Kerendahan Hati)",
+        "character_cast": "Karakter Satwa Hutan Rimba",
+        "core_moral_message": "Menumbuhkan nilai integritas & janji dalam kehidupan sehari-hari anak.",
+        "status": "CURRICULUM_PLANNED"
+      },
+      {
+        "day_number": 47,
+        "day_of_week": "Jumat",
+        "pillar_id": "P5",
+        "pillar_name": "Pengendalian Emosi & Pemaaf",
+        "narrative_format": "F3",
+        "topic_title": "Jumat W07: Hikmah Fabel Rimba - Integritas & Janji (Pengendalian Emosi & Pemaaf)",
+        "character_cast": "Karakter Satwa Hutan Rimba",
+        "core_moral_message": "Menumbuhkan nilai integritas & janji dalam kehidupan sehari-hari anak.",
+        "status": "CURRICULUM_PLANNED"
+      },
+      {
+        "day_number": 48,
+        "day_of_week": "Sabtu",
+        "pillar_id": "P6",
+        "pillar_name": "Kecerdikan & Kerjasama",
+        "narrative_format": "F1",
+        "topic_title": "Sabtu W07: Hikmah Fabel Rimba - Integritas & Janji (Kecerdikan & Kerjasama)",
+        "character_cast": "Karakter Satwa Hutan Rimba",
+        "core_moral_message": "Menumbuhkan nilai integritas & janji dalam kehidupan sehari-hari anak.",
+        "status": "CURRICULUM_PLANNED"
+      },
+      {
+        "day_number": 49,
+        "day_of_week": "Minggu",
+        "pillar_id": "P1-P6",
+        "pillar_name": "Dongeng Pengantar Tidur",
+        "narrative_format": "F5",
+        "topic_title": "Minggu W07: Hikmah Fabel Rimba - Integritas & Janji (Dongeng Pengantar Tidur)",
+        "character_cast": "Karakter Satwa Hutan Rimba",
+        "core_moral_message": "Menumbuhkan nilai integritas & janji dalam kehidupan sehari-hari anak.",
+        "status": "CURRICULUM_PLANNED"
+      }
+    ]
+  },
+  {
+    "week_number": 8,
+    "week_label": "Minggu 08",
+    "theme_title": "Mengatasi Rasa Iri & Dengki: Menghargai Bakat Unik Setiap Penghuni Hutan",
+    "pillar_focus": "Apresiasi Diri & Qanaah",
+    "days": [
+      {
+        "day_number": 50,
+        "day_of_week": "Senin",
+        "pillar_id": "P1",
+        "pillar_name": "Kejujuran & Integritas",
+        "narrative_format": "F1",
+        "topic_title": "Senin W08: Hikmah Fabel Rimba - Apresiasi Diri & Qanaah (Kejujuran & Integritas)",
+        "character_cast": "Karakter Satwa Hutan Rimba",
+        "core_moral_message": "Menumbuhkan nilai apresiasi diri & qanaah dalam kehidupan sehari-hari anak.",
+        "status": "CURRICULUM_PLANNED"
+      },
+      {
+        "day_number": 51,
+        "day_of_week": "Selasa",
+        "pillar_id": "P2",
+        "pillar_name": "Kebaikan & Empati",
+        "narrative_format": "F2",
+        "topic_title": "Selasa W08: Hikmah Fabel Rimba - Apresiasi Diri & Qanaah (Kebaikan & Empati)",
+        "character_cast": "Karakter Satwa Hutan Rimba",
+        "core_moral_message": "Menumbuhkan nilai apresiasi diri & qanaah dalam kehidupan sehari-hari anak.",
+        "status": "CURRICULUM_PLANNED"
+      },
+      {
+        "day_number": 52,
+        "day_of_week": "Rabu",
+        "pillar_id": "P3",
+        "pillar_name": "Ketekunan & Kerja Keras",
+        "narrative_format": "F4",
+        "topic_title": "Rabu W08: Hikmah Fabel Rimba - Apresiasi Diri & Qanaah (Ketekunan & Kerja Keras)",
+        "character_cast": "Karakter Satwa Hutan Rimba",
+        "core_moral_message": "Menumbuhkan nilai apresiasi diri & qanaah dalam kehidupan sehari-hari anak.",
+        "status": "CURRICULUM_PLANNED"
+      },
+      {
+        "day_number": 53,
+        "day_of_week": "Kamis",
+        "pillar_id": "P4",
+        "pillar_name": "Kerendahan Hati",
+        "narrative_format": "F1",
+        "topic_title": "Kamis W08: Hikmah Fabel Rimba - Apresiasi Diri & Qanaah (Kerendahan Hati)",
+        "character_cast": "Karakter Satwa Hutan Rimba",
+        "core_moral_message": "Menumbuhkan nilai apresiasi diri & qanaah dalam kehidupan sehari-hari anak.",
+        "status": "CURRICULUM_PLANNED"
+      },
+      {
+        "day_number": 54,
+        "day_of_week": "Jumat",
+        "pillar_id": "P5",
+        "pillar_name": "Pengendalian Emosi & Pemaaf",
+        "narrative_format": "F3",
+        "topic_title": "Jumat W08: Hikmah Fabel Rimba - Apresiasi Diri & Qanaah (Pengendalian Emosi & Pemaaf)",
+        "character_cast": "Karakter Satwa Hutan Rimba",
+        "core_moral_message": "Menumbuhkan nilai apresiasi diri & qanaah dalam kehidupan sehari-hari anak.",
+        "status": "CURRICULUM_PLANNED"
+      },
+      {
+        "day_number": 55,
+        "day_of_week": "Sabtu",
+        "pillar_id": "P6",
+        "pillar_name": "Kecerdikan & Kerjasama",
+        "narrative_format": "F1",
+        "topic_title": "Sabtu W08: Hikmah Fabel Rimba - Apresiasi Diri & Qanaah (Kecerdikan & Kerjasama)",
+        "character_cast": "Karakter Satwa Hutan Rimba",
+        "core_moral_message": "Menumbuhkan nilai apresiasi diri & qanaah dalam kehidupan sehari-hari anak.",
+        "status": "CURRICULUM_PLANNED"
+      },
+      {
+        "day_number": 56,
+        "day_of_week": "Minggu",
+        "pillar_id": "P1-P6",
+        "pillar_name": "Dongeng Pengantar Tidur",
+        "narrative_format": "F5",
+        "topic_title": "Minggu W08: Hikmah Fabel Rimba - Apresiasi Diri & Qanaah (Dongeng Pengantar Tidur)",
+        "character_cast": "Karakter Satwa Hutan Rimba",
+        "core_moral_message": "Menumbuhkan nilai apresiasi diri & qanaah dalam kehidupan sehari-hari anak.",
+        "status": "CURRICULUM_PLANNED"
+      }
+    ]
+  },
+  {
+    "week_number": 9,
+    "week_label": "Minggu 09",
+    "theme_title": "Menghadapi Rasa Takut: Keberanian Muncul Saat Melangkah Walau Gemetar",
+    "pillar_focus": "Keberanian Sejati",
+    "days": [
+      {
+        "day_number": 57,
+        "day_of_week": "Senin",
+        "pillar_id": "P1",
+        "pillar_name": "Kejujuran & Integritas",
+        "narrative_format": "F1",
+        "topic_title": "Senin W09: Hikmah Fabel Rimba - Keberanian Sejati (Kejujuran & Integritas)",
+        "character_cast": "Karakter Satwa Hutan Rimba",
+        "core_moral_message": "Menumbuhkan nilai keberanian sejati dalam kehidupan sehari-hari anak.",
+        "status": "CURRICULUM_PLANNED"
+      },
+      {
+        "day_number": 58,
+        "day_of_week": "Selasa",
+        "pillar_id": "P2",
+        "pillar_name": "Kebaikan & Empati",
+        "narrative_format": "F2",
+        "topic_title": "Selasa W09: Hikmah Fabel Rimba - Keberanian Sejati (Kebaikan & Empati)",
+        "character_cast": "Karakter Satwa Hutan Rimba",
+        "core_moral_message": "Menumbuhkan nilai keberanian sejati dalam kehidupan sehari-hari anak.",
+        "status": "CURRICULUM_PLANNED"
+      },
+      {
+        "day_number": 59,
+        "day_of_week": "Rabu",
+        "pillar_id": "P3",
+        "pillar_name": "Ketekunan & Kerja Keras",
+        "narrative_format": "F4",
+        "topic_title": "Rabu W09: Hikmah Fabel Rimba - Keberanian Sejati (Ketekunan & Kerja Keras)",
+        "character_cast": "Karakter Satwa Hutan Rimba",
+        "core_moral_message": "Menumbuhkan nilai keberanian sejati dalam kehidupan sehari-hari anak.",
+        "status": "CURRICULUM_PLANNED"
+      },
+      {
+        "day_number": 60,
+        "day_of_week": "Kamis",
+        "pillar_id": "P4",
+        "pillar_name": "Kerendahan Hati",
+        "narrative_format": "F1",
+        "topic_title": "Kamis W09: Hikmah Fabel Rimba - Keberanian Sejati (Kerendahan Hati)",
+        "character_cast": "Karakter Satwa Hutan Rimba",
+        "core_moral_message": "Menumbuhkan nilai keberanian sejati dalam kehidupan sehari-hari anak.",
+        "status": "CURRICULUM_PLANNED"
+      },
+      {
+        "day_number": 61,
+        "day_of_week": "Jumat",
+        "pillar_id": "P5",
+        "pillar_name": "Pengendalian Emosi & Pemaaf",
+        "narrative_format": "F3",
+        "topic_title": "Jumat W09: Hikmah Fabel Rimba - Keberanian Sejati (Pengendalian Emosi & Pemaaf)",
+        "character_cast": "Karakter Satwa Hutan Rimba",
+        "core_moral_message": "Menumbuhkan nilai keberanian sejati dalam kehidupan sehari-hari anak.",
+        "status": "CURRICULUM_PLANNED"
+      },
+      {
+        "day_number": 62,
+        "day_of_week": "Sabtu",
+        "pillar_id": "P6",
+        "pillar_name": "Kecerdikan & Kerjasama",
+        "narrative_format": "F1",
+        "topic_title": "Sabtu W09: Hikmah Fabel Rimba - Keberanian Sejati (Kecerdikan & Kerjasama)",
+        "character_cast": "Karakter Satwa Hutan Rimba",
+        "core_moral_message": "Menumbuhkan nilai keberanian sejati dalam kehidupan sehari-hari anak.",
+        "status": "CURRICULUM_PLANNED"
+      },
+      {
+        "day_number": 63,
+        "day_of_week": "Minggu",
+        "pillar_id": "P1-P6",
+        "pillar_name": "Dongeng Pengantar Tidur",
+        "narrative_format": "F5",
+        "topic_title": "Minggu W09: Hikmah Fabel Rimba - Keberanian Sejati (Dongeng Pengantar Tidur)",
+        "character_cast": "Karakter Satwa Hutan Rimba",
+        "core_moral_message": "Menumbuhkan nilai keberanian sejati dalam kehidupan sehari-hari anak.",
+        "status": "CURRICULUM_PLANNED"
+      }
+    ]
+  },
+  {
+    "week_number": 10,
+    "week_label": "Minggu 10",
+    "theme_title": "Mengendalikan Keserakahan: Mengapa Sepotong Roti Cukup Menghidupkan Jiwa",
+    "pillar_focus": "Kesederhanaan & Anti-Tamak",
+    "days": [
+      {
+        "day_number": 64,
+        "day_of_week": "Senin",
+        "pillar_id": "P1",
+        "pillar_name": "Kejujuran & Integritas",
+        "narrative_format": "F1",
+        "topic_title": "Senin W10: Hikmah Fabel Rimba - Kesederhanaan & Anti-Tamak (Kejujuran & Integritas)",
+        "character_cast": "Karakter Satwa Hutan Rimba",
+        "core_moral_message": "Menumbuhkan nilai kesederhanaan & anti-tamak dalam kehidupan sehari-hari anak.",
+        "status": "CURRICULUM_PLANNED"
+      },
+      {
+        "day_number": 65,
+        "day_of_week": "Selasa",
+        "pillar_id": "P2",
+        "pillar_name": "Kebaikan & Empati",
+        "narrative_format": "F2",
+        "topic_title": "Selasa W10: Hikmah Fabel Rimba - Kesederhanaan & Anti-Tamak (Kebaikan & Empati)",
+        "character_cast": "Karakter Satwa Hutan Rimba",
+        "core_moral_message": "Menumbuhkan nilai kesederhanaan & anti-tamak dalam kehidupan sehari-hari anak.",
+        "status": "CURRICULUM_PLANNED"
+      },
+      {
+        "day_number": 66,
+        "day_of_week": "Rabu",
+        "pillar_id": "P3",
+        "pillar_name": "Ketekunan & Kerja Keras",
+        "narrative_format": "F4",
+        "topic_title": "Rabu W10: Hikmah Fabel Rimba - Kesederhanaan & Anti-Tamak (Ketekunan & Kerja Keras)",
+        "character_cast": "Karakter Satwa Hutan Rimba",
+        "core_moral_message": "Menumbuhkan nilai kesederhanaan & anti-tamak dalam kehidupan sehari-hari anak.",
+        "status": "CURRICULUM_PLANNED"
+      },
+      {
+        "day_number": 67,
+        "day_of_week": "Kamis",
+        "pillar_id": "P4",
+        "pillar_name": "Kerendahan Hati",
+        "narrative_format": "F1",
+        "topic_title": "Kamis W10: Hikmah Fabel Rimba - Kesederhanaan & Anti-Tamak (Kerendahan Hati)",
+        "character_cast": "Karakter Satwa Hutan Rimba",
+        "core_moral_message": "Menumbuhkan nilai kesederhanaan & anti-tamak dalam kehidupan sehari-hari anak.",
+        "status": "CURRICULUM_PLANNED"
+      },
+      {
+        "day_number": 68,
+        "day_of_week": "Jumat",
+        "pillar_id": "P5",
+        "pillar_name": "Pengendalian Emosi & Pemaaf",
+        "narrative_format": "F3",
+        "topic_title": "Jumat W10: Hikmah Fabel Rimba - Kesederhanaan & Anti-Tamak (Pengendalian Emosi & Pemaaf)",
+        "character_cast": "Karakter Satwa Hutan Rimba",
+        "core_moral_message": "Menumbuhkan nilai kesederhanaan & anti-tamak dalam kehidupan sehari-hari anak.",
+        "status": "CURRICULUM_PLANNED"
+      },
+      {
+        "day_number": 69,
+        "day_of_week": "Sabtu",
+        "pillar_id": "P6",
+        "pillar_name": "Kecerdikan & Kerjasama",
+        "narrative_format": "F1",
+        "topic_title": "Sabtu W10: Hikmah Fabel Rimba - Kesederhanaan & Anti-Tamak (Kecerdikan & Kerjasama)",
+        "character_cast": "Karakter Satwa Hutan Rimba",
+        "core_moral_message": "Menumbuhkan nilai kesederhanaan & anti-tamak dalam kehidupan sehari-hari anak.",
+        "status": "CURRICULUM_PLANNED"
+      },
+      {
+        "day_number": 70,
+        "day_of_week": "Minggu",
+        "pillar_id": "P1-P6",
+        "pillar_name": "Dongeng Pengantar Tidur",
+        "narrative_format": "F5",
+        "topic_title": "Minggu W10: Hikmah Fabel Rimba - Kesederhanaan & Anti-Tamak (Dongeng Pengantar Tidur)",
+        "character_cast": "Karakter Satwa Hutan Rimba",
+        "core_moral_message": "Menumbuhkan nilai kesederhanaan & anti-tamak dalam kehidupan sehari-hari anak.",
+        "status": "CURRICULUM_PLANNED"
+      }
+    ]
+  },
+  {
+    "week_number": 11,
+    "week_label": "Minggu 11",
+    "theme_title": "Memaafkan yang Melukai: Melepaskan Beban Dendam Demi Kedamaian Rimba",
+    "pillar_focus": "Pemaaf & Berdamai",
+    "days": [
+      {
+        "day_number": 71,
+        "day_of_week": "Senin",
+        "pillar_id": "P1",
+        "pillar_name": "Kejujuran & Integritas",
+        "narrative_format": "F1",
+        "topic_title": "Senin W11: Hikmah Fabel Rimba - Pemaaf & Berdamai (Kejujuran & Integritas)",
+        "character_cast": "Karakter Satwa Hutan Rimba",
+        "core_moral_message": "Menumbuhkan nilai pemaaf & berdamai dalam kehidupan sehari-hari anak.",
+        "status": "CURRICULUM_PLANNED"
+      },
+      {
+        "day_number": 72,
+        "day_of_week": "Selasa",
+        "pillar_id": "P2",
+        "pillar_name": "Kebaikan & Empati",
+        "narrative_format": "F2",
+        "topic_title": "Selasa W11: Hikmah Fabel Rimba - Pemaaf & Berdamai (Kebaikan & Empati)",
+        "character_cast": "Karakter Satwa Hutan Rimba",
+        "core_moral_message": "Menumbuhkan nilai pemaaf & berdamai dalam kehidupan sehari-hari anak.",
+        "status": "CURRICULUM_PLANNED"
+      },
+      {
+        "day_number": 73,
+        "day_of_week": "Rabu",
+        "pillar_id": "P3",
+        "pillar_name": "Ketekunan & Kerja Keras",
+        "narrative_format": "F4",
+        "topic_title": "Rabu W11: Hikmah Fabel Rimba - Pemaaf & Berdamai (Ketekunan & Kerja Keras)",
+        "character_cast": "Karakter Satwa Hutan Rimba",
+        "core_moral_message": "Menumbuhkan nilai pemaaf & berdamai dalam kehidupan sehari-hari anak.",
+        "status": "CURRICULUM_PLANNED"
+      },
+      {
+        "day_number": 74,
+        "day_of_week": "Kamis",
+        "pillar_id": "P4",
+        "pillar_name": "Kerendahan Hati",
+        "narrative_format": "F1",
+        "topic_title": "Kamis W11: Hikmah Fabel Rimba - Pemaaf & Berdamai (Kerendahan Hati)",
+        "character_cast": "Karakter Satwa Hutan Rimba",
+        "core_moral_message": "Menumbuhkan nilai pemaaf & berdamai dalam kehidupan sehari-hari anak.",
+        "status": "CURRICULUM_PLANNED"
+      },
+      {
+        "day_number": 75,
+        "day_of_week": "Jumat",
+        "pillar_id": "P5",
+        "pillar_name": "Pengendalian Emosi & Pemaaf",
+        "narrative_format": "F3",
+        "topic_title": "Jumat W11: Hikmah Fabel Rimba - Pemaaf & Berdamai (Pengendalian Emosi & Pemaaf)",
+        "character_cast": "Karakter Satwa Hutan Rimba",
+        "core_moral_message": "Menumbuhkan nilai pemaaf & berdamai dalam kehidupan sehari-hari anak.",
+        "status": "CURRICULUM_PLANNED"
+      },
+      {
+        "day_number": 76,
+        "day_of_week": "Sabtu",
+        "pillar_id": "P6",
+        "pillar_name": "Kecerdikan & Kerjasama",
+        "narrative_format": "F1",
+        "topic_title": "Sabtu W11: Hikmah Fabel Rimba - Pemaaf & Berdamai (Kecerdikan & Kerjasama)",
+        "character_cast": "Karakter Satwa Hutan Rimba",
+        "core_moral_message": "Menumbuhkan nilai pemaaf & berdamai dalam kehidupan sehari-hari anak.",
+        "status": "CURRICULUM_PLANNED"
+      },
+      {
+        "day_number": 77,
+        "day_of_week": "Minggu",
+        "pillar_id": "P1-P6",
+        "pillar_name": "Dongeng Pengantar Tidur",
+        "narrative_format": "F5",
+        "topic_title": "Minggu W11: Hikmah Fabel Rimba - Pemaaf & Berdamai (Dongeng Pengantar Tidur)",
+        "character_cast": "Karakter Satwa Hutan Rimba",
+        "core_moral_message": "Menumbuhkan nilai pemaaf & berdamai dalam kehidupan sehari-hari anak.",
+        "status": "CURRICULUM_PLANNED"
+      }
+    ]
+  },
+  {
+    "week_number": 12,
+    "week_label": "Minggu 12",
+    "theme_title": "Bersyukur Atas Apa yang Dimiliki: Menemukan Keindahan di Balik Kesederhanaan",
+    "pillar_focus": "Rasa Syukur",
+    "days": [
+      {
+        "day_number": 78,
+        "day_of_week": "Senin",
+        "pillar_id": "P1",
+        "pillar_name": "Kejujuran & Integritas",
+        "narrative_format": "F1",
+        "topic_title": "Senin W12: Hikmah Fabel Rimba - Rasa Syukur (Kejujuran & Integritas)",
+        "character_cast": "Karakter Satwa Hutan Rimba",
+        "core_moral_message": "Menumbuhkan nilai rasa syukur dalam kehidupan sehari-hari anak.",
+        "status": "CURRICULUM_PLANNED"
+      },
+      {
+        "day_number": 79,
+        "day_of_week": "Selasa",
+        "pillar_id": "P2",
+        "pillar_name": "Kebaikan & Empati",
+        "narrative_format": "F2",
+        "topic_title": "Selasa W12: Hikmah Fabel Rimba - Rasa Syukur (Kebaikan & Empati)",
+        "character_cast": "Karakter Satwa Hutan Rimba",
+        "core_moral_message": "Menumbuhkan nilai rasa syukur dalam kehidupan sehari-hari anak.",
+        "status": "CURRICULUM_PLANNED"
+      },
+      {
+        "day_number": 80,
+        "day_of_week": "Rabu",
+        "pillar_id": "P3",
+        "pillar_name": "Ketekunan & Kerja Keras",
+        "narrative_format": "F4",
+        "topic_title": "Rabu W12: Hikmah Fabel Rimba - Rasa Syukur (Ketekunan & Kerja Keras)",
+        "character_cast": "Karakter Satwa Hutan Rimba",
+        "core_moral_message": "Menumbuhkan nilai rasa syukur dalam kehidupan sehari-hari anak.",
+        "status": "CURRICULUM_PLANNED"
+      },
+      {
+        "day_number": 81,
+        "day_of_week": "Kamis",
+        "pillar_id": "P4",
+        "pillar_name": "Kerendahan Hati",
+        "narrative_format": "F1",
+        "topic_title": "Kamis W12: Hikmah Fabel Rimba - Rasa Syukur (Kerendahan Hati)",
+        "character_cast": "Karakter Satwa Hutan Rimba",
+        "core_moral_message": "Menumbuhkan nilai rasa syukur dalam kehidupan sehari-hari anak.",
+        "status": "CURRICULUM_PLANNED"
+      },
+      {
+        "day_number": 82,
+        "day_of_week": "Jumat",
+        "pillar_id": "P5",
+        "pillar_name": "Pengendalian Emosi & Pemaaf",
+        "narrative_format": "F3",
+        "topic_title": "Jumat W12: Hikmah Fabel Rimba - Rasa Syukur (Pengendalian Emosi & Pemaaf)",
+        "character_cast": "Karakter Satwa Hutan Rimba",
+        "core_moral_message": "Menumbuhkan nilai rasa syukur dalam kehidupan sehari-hari anak.",
+        "status": "CURRICULUM_PLANNED"
+      },
+      {
+        "day_number": 83,
+        "day_of_week": "Sabtu",
+        "pillar_id": "P6",
+        "pillar_name": "Kecerdikan & Kerjasama",
+        "narrative_format": "F1",
+        "topic_title": "Sabtu W12: Hikmah Fabel Rimba - Rasa Syukur (Kecerdikan & Kerjasama)",
+        "character_cast": "Karakter Satwa Hutan Rimba",
+        "core_moral_message": "Menumbuhkan nilai rasa syukur dalam kehidupan sehari-hari anak.",
+        "status": "CURRICULUM_PLANNED"
+      },
+      {
+        "day_number": 84,
+        "day_of_week": "Minggu",
+        "pillar_id": "P1-P6",
+        "pillar_name": "Dongeng Pengantar Tidur",
+        "narrative_format": "F5",
+        "topic_title": "Minggu W12: Hikmah Fabel Rimba - Rasa Syukur (Dongeng Pengantar Tidur)",
+        "character_cast": "Karakter Satwa Hutan Rimba",
+        "core_moral_message": "Menumbuhkan nilai rasa syukur dalam kehidupan sehari-hari anak.",
+        "status": "CURRICULUM_PLANNED"
+      }
+    ]
+  },
+  {
+    "week_number": 13,
+    "week_label": "Minggu 13",
+    "theme_title": "Menghormati Yang Tua & Mengasihi Yang Kecil: Tradisi Adab di Hutan Kenari",
+    "pillar_focus": "Adab & Hormat",
+    "days": [
+      {
+        "day_number": 85,
+        "day_of_week": "Senin",
+        "pillar_id": "P1",
+        "pillar_name": "Kejujuran & Integritas",
+        "narrative_format": "F1",
+        "topic_title": "Senin W13: Hikmah Fabel Rimba - Adab & Hormat (Kejujuran & Integritas)",
+        "character_cast": "Karakter Satwa Hutan Rimba",
+        "core_moral_message": "Menumbuhkan nilai adab & hormat dalam kehidupan sehari-hari anak.",
+        "status": "CURRICULUM_PLANNED"
+      },
+      {
+        "day_number": 86,
+        "day_of_week": "Selasa",
+        "pillar_id": "P2",
+        "pillar_name": "Kebaikan & Empati",
+        "narrative_format": "F2",
+        "topic_title": "Selasa W13: Hikmah Fabel Rimba - Adab & Hormat (Kebaikan & Empati)",
+        "character_cast": "Karakter Satwa Hutan Rimba",
+        "core_moral_message": "Menumbuhkan nilai adab & hormat dalam kehidupan sehari-hari anak.",
+        "status": "CURRICULUM_PLANNED"
+      },
+      {
+        "day_number": 87,
+        "day_of_week": "Rabu",
+        "pillar_id": "P3",
+        "pillar_name": "Ketekunan & Kerja Keras",
+        "narrative_format": "F4",
+        "topic_title": "Rabu W13: Hikmah Fabel Rimba - Adab & Hormat (Ketekunan & Kerja Keras)",
+        "character_cast": "Karakter Satwa Hutan Rimba",
+        "core_moral_message": "Menumbuhkan nilai adab & hormat dalam kehidupan sehari-hari anak.",
+        "status": "CURRICULUM_PLANNED"
+      },
+      {
+        "day_number": 88,
+        "day_of_week": "Kamis",
+        "pillar_id": "P4",
+        "pillar_name": "Kerendahan Hati",
+        "narrative_format": "F1",
+        "topic_title": "Kamis W13: Hikmah Fabel Rimba - Adab & Hormat (Kerendahan Hati)",
+        "character_cast": "Karakter Satwa Hutan Rimba",
+        "core_moral_message": "Menumbuhkan nilai adab & hormat dalam kehidupan sehari-hari anak.",
+        "status": "CURRICULUM_PLANNED"
+      },
+      {
+        "day_number": 89,
+        "day_of_week": "Jumat",
+        "pillar_id": "P5",
+        "pillar_name": "Pengendalian Emosi & Pemaaf",
+        "narrative_format": "F3",
+        "topic_title": "Jumat W13: Hikmah Fabel Rimba - Adab & Hormat (Pengendalian Emosi & Pemaaf)",
+        "character_cast": "Karakter Satwa Hutan Rimba",
+        "core_moral_message": "Menumbuhkan nilai adab & hormat dalam kehidupan sehari-hari anak.",
+        "status": "CURRICULUM_PLANNED"
+      },
+      {
+        "day_number": 90,
+        "day_of_week": "Sabtu",
+        "pillar_id": "P6",
+        "pillar_name": "Kecerdikan & Kerjasama",
+        "narrative_format": "F1",
+        "topic_title": "Sabtu W13: Hikmah Fabel Rimba - Adab & Hormat (Kecerdikan & Kerjasama)",
+        "character_cast": "Karakter Satwa Hutan Rimba",
+        "core_moral_message": "Menumbuhkan nilai adab & hormat dalam kehidupan sehari-hari anak.",
+        "status": "CURRICULUM_PLANNED"
+      },
+      {
+        "day_number": 91,
+        "day_of_week": "Minggu",
+        "pillar_id": "P1-P6",
+        "pillar_name": "Dongeng Pengantar Tidur",
+        "narrative_format": "F5",
+        "topic_title": "Minggu W13: Hikmah Fabel Rimba - Adab & Hormat (Dongeng Pengantar Tidur)",
+        "character_cast": "Karakter Satwa Hutan Rimba",
+        "core_moral_message": "Menumbuhkan nilai adab & hormat dalam kehidupan sehari-hari anak.",
+        "status": "CURRICULUM_PLANNED"
+      }
+    ]
+  },
+  {
+    "week_number": 14,
+    "week_label": "Minggu 14",
+    "theme_title": "Menjaga Amanah & Kejujuran: Buah Manis di Kebun Persahabatan",
+    "pillar_focus": "Amanah & Kejujuran",
+    "days": [
+      {
+        "day_number": 92,
+        "day_of_week": "Senin",
+        "pillar_id": "P1",
+        "pillar_name": "Kejujuran & Integritas",
+        "narrative_format": "F1",
+        "topic_title": "Senin W14: Hikmah Fabel Rimba - Amanah & Kejujuran (Kejujuran & Integritas)",
+        "character_cast": "Karakter Satwa Hutan Rimba",
+        "core_moral_message": "Menumbuhkan nilai amanah & kejujuran dalam kehidupan sehari-hari anak.",
+        "status": "CURRICULUM_PLANNED"
+      },
+      {
+        "day_number": 93,
+        "day_of_week": "Selasa",
+        "pillar_id": "P2",
+        "pillar_name": "Kebaikan & Empati",
+        "narrative_format": "F2",
+        "topic_title": "Selasa W14: Hikmah Fabel Rimba - Amanah & Kejujuran (Kebaikan & Empati)",
+        "character_cast": "Karakter Satwa Hutan Rimba",
+        "core_moral_message": "Menumbuhkan nilai amanah & kejujuran dalam kehidupan sehari-hari anak.",
+        "status": "CURRICULUM_PLANNED"
+      },
+      {
+        "day_number": 94,
+        "day_of_week": "Rabu",
+        "pillar_id": "P3",
+        "pillar_name": "Ketekunan & Kerja Keras",
+        "narrative_format": "F4",
+        "topic_title": "Rabu W14: Hikmah Fabel Rimba - Amanah & Kejujuran (Ketekunan & Kerja Keras)",
+        "character_cast": "Karakter Satwa Hutan Rimba",
+        "core_moral_message": "Menumbuhkan nilai amanah & kejujuran dalam kehidupan sehari-hari anak.",
+        "status": "CURRICULUM_PLANNED"
+      },
+      {
+        "day_number": 95,
+        "day_of_week": "Kamis",
+        "pillar_id": "P4",
+        "pillar_name": "Kerendahan Hati",
+        "narrative_format": "F1",
+        "topic_title": "Kamis W14: Hikmah Fabel Rimba - Amanah & Kejujuran (Kerendahan Hati)",
+        "character_cast": "Karakter Satwa Hutan Rimba",
+        "core_moral_message": "Menumbuhkan nilai amanah & kejujuran dalam kehidupan sehari-hari anak.",
+        "status": "CURRICULUM_PLANNED"
+      },
+      {
+        "day_number": 96,
+        "day_of_week": "Jumat",
+        "pillar_id": "P5",
+        "pillar_name": "Pengendalian Emosi & Pemaaf",
+        "narrative_format": "F3",
+        "topic_title": "Jumat W14: Hikmah Fabel Rimba - Amanah & Kejujuran (Pengendalian Emosi & Pemaaf)",
+        "character_cast": "Karakter Satwa Hutan Rimba",
+        "core_moral_message": "Menumbuhkan nilai amanah & kejujuran dalam kehidupan sehari-hari anak.",
+        "status": "CURRICULUM_PLANNED"
+      },
+      {
+        "day_number": 97,
+        "day_of_week": "Sabtu",
+        "pillar_id": "P6",
+        "pillar_name": "Kecerdikan & Kerjasama",
+        "narrative_format": "F1",
+        "topic_title": "Sabtu W14: Hikmah Fabel Rimba - Amanah & Kejujuran (Kecerdikan & Kerjasama)",
+        "character_cast": "Karakter Satwa Hutan Rimba",
+        "core_moral_message": "Menumbuhkan nilai amanah & kejujuran dalam kehidupan sehari-hari anak.",
+        "status": "CURRICULUM_PLANNED"
+      },
+      {
+        "day_number": 98,
+        "day_of_week": "Minggu",
+        "pillar_id": "P1-P6",
+        "pillar_name": "Dongeng Pengantar Tidur",
+        "narrative_format": "F5",
+        "topic_title": "Minggu W14: Hikmah Fabel Rimba - Amanah & Kejujuran (Dongeng Pengantar Tidur)",
+        "character_cast": "Karakter Satwa Hutan Rimba",
+        "core_moral_message": "Menumbuhkan nilai amanah & kejujuran dalam kehidupan sehari-hari anak.",
+        "status": "CURRICULUM_PLANNED"
+      }
+    ]
+  },
+  {
+    "week_number": 15,
+    "week_label": "Minggu 15",
+    "theme_title": "Mengendalikan Keinginan Cepat: Buah Manis yang Matang Tepat pada Waktunya",
+    "pillar_focus": "Sabar & Menahan Diri",
+    "days": [
+      {
+        "day_number": 99,
+        "day_of_week": "Senin",
+        "pillar_id": "P1",
+        "pillar_name": "Kejujuran & Integritas",
+        "narrative_format": "F1",
+        "topic_title": "Senin W15: Hikmah Fabel Rimba - Sabar & Menahan Diri (Kejujuran & Integritas)",
+        "character_cast": "Karakter Satwa Hutan Rimba",
+        "core_moral_message": "Menumbuhkan nilai sabar & menahan diri dalam kehidupan sehari-hari anak.",
+        "status": "CURRICULUM_PLANNED"
+      },
+      {
+        "day_number": 100,
+        "day_of_week": "Selasa",
+        "pillar_id": "P2",
+        "pillar_name": "Kebaikan & Empati",
+        "narrative_format": "F2",
+        "topic_title": "Selasa W15: Hikmah Fabel Rimba - Sabar & Menahan Diri (Kebaikan & Empati)",
+        "character_cast": "Karakter Satwa Hutan Rimba",
+        "core_moral_message": "Menumbuhkan nilai sabar & menahan diri dalam kehidupan sehari-hari anak.",
+        "status": "CURRICULUM_PLANNED"
+      },
+      {
+        "day_number": 101,
+        "day_of_week": "Rabu",
+        "pillar_id": "P3",
+        "pillar_name": "Ketekunan & Kerja Keras",
+        "narrative_format": "F4",
+        "topic_title": "Rabu W15: Hikmah Fabel Rimba - Sabar & Menahan Diri (Ketekunan & Kerja Keras)",
+        "character_cast": "Karakter Satwa Hutan Rimba",
+        "core_moral_message": "Menumbuhkan nilai sabar & menahan diri dalam kehidupan sehari-hari anak.",
+        "status": "CURRICULUM_PLANNED"
+      },
+      {
+        "day_number": 102,
+        "day_of_week": "Kamis",
+        "pillar_id": "P4",
+        "pillar_name": "Kerendahan Hati",
+        "narrative_format": "F1",
+        "topic_title": "Kamis W15: Hikmah Fabel Rimba - Sabar & Menahan Diri (Kerendahan Hati)",
+        "character_cast": "Karakter Satwa Hutan Rimba",
+        "core_moral_message": "Menumbuhkan nilai sabar & menahan diri dalam kehidupan sehari-hari anak.",
+        "status": "CURRICULUM_PLANNED"
+      },
+      {
+        "day_number": 103,
+        "day_of_week": "Jumat",
+        "pillar_id": "P5",
+        "pillar_name": "Pengendalian Emosi & Pemaaf",
+        "narrative_format": "F3",
+        "topic_title": "Jumat W15: Hikmah Fabel Rimba - Sabar & Menahan Diri (Pengendalian Emosi & Pemaaf)",
+        "character_cast": "Karakter Satwa Hutan Rimba",
+        "core_moral_message": "Menumbuhkan nilai sabar & menahan diri dalam kehidupan sehari-hari anak.",
+        "status": "CURRICULUM_PLANNED"
+      },
+      {
+        "day_number": 104,
+        "day_of_week": "Sabtu",
+        "pillar_id": "P6",
+        "pillar_name": "Kecerdikan & Kerjasama",
+        "narrative_format": "F1",
+        "topic_title": "Sabtu W15: Hikmah Fabel Rimba - Sabar & Menahan Diri (Kecerdikan & Kerjasama)",
+        "character_cast": "Karakter Satwa Hutan Rimba",
+        "core_moral_message": "Menumbuhkan nilai sabar & menahan diri dalam kehidupan sehari-hari anak.",
+        "status": "CURRICULUM_PLANNED"
+      },
+      {
+        "day_number": 105,
+        "day_of_week": "Minggu",
+        "pillar_id": "P1-P6",
+        "pillar_name": "Dongeng Pengantar Tidur",
+        "narrative_format": "F5",
+        "topic_title": "Minggu W15: Hikmah Fabel Rimba - Sabar & Menahan Diri (Dongeng Pengantar Tidur)",
+        "character_cast": "Karakter Satwa Hutan Rimba",
+        "core_moral_message": "Menumbuhkan nilai sabar & menahan diri dalam kehidupan sehari-hari anak.",
+        "status": "CURRICULUM_PLANNED"
+      }
+    ]
+  },
+  {
+    "week_number": 16,
+    "week_label": "Minggu 16",
+    "theme_title": "Tutur Kata Lembut & Santun: Kata Manis Menyejukkan Hati yang Sedih",
+    "pillar_focus": "Tutur Kata Santun",
+    "days": [
+      {
+        "day_number": 106,
+        "day_of_week": "Senin",
+        "pillar_id": "P1",
+        "pillar_name": "Kejujuran & Integritas",
+        "narrative_format": "F1",
+        "topic_title": "Senin W16: Hikmah Fabel Rimba - Tutur Kata Santun (Kejujuran & Integritas)",
+        "character_cast": "Karakter Satwa Hutan Rimba",
+        "core_moral_message": "Menumbuhkan nilai tutur kata santun dalam kehidupan sehari-hari anak.",
+        "status": "CURRICULUM_PLANNED"
+      },
+      {
+        "day_number": 107,
+        "day_of_week": "Selasa",
+        "pillar_id": "P2",
+        "pillar_name": "Kebaikan & Empati",
+        "narrative_format": "F2",
+        "topic_title": "Selasa W16: Hikmah Fabel Rimba - Tutur Kata Santun (Kebaikan & Empati)",
+        "character_cast": "Karakter Satwa Hutan Rimba",
+        "core_moral_message": "Menumbuhkan nilai tutur kata santun dalam kehidupan sehari-hari anak.",
+        "status": "CURRICULUM_PLANNED"
+      },
+      {
+        "day_number": 108,
+        "day_of_week": "Rabu",
+        "pillar_id": "P3",
+        "pillar_name": "Ketekunan & Kerja Keras",
+        "narrative_format": "F4",
+        "topic_title": "Rabu W16: Hikmah Fabel Rimba - Tutur Kata Santun (Ketekunan & Kerja Keras)",
+        "character_cast": "Karakter Satwa Hutan Rimba",
+        "core_moral_message": "Menumbuhkan nilai tutur kata santun dalam kehidupan sehari-hari anak.",
+        "status": "CURRICULUM_PLANNED"
+      },
+      {
+        "day_number": 109,
+        "day_of_week": "Kamis",
+        "pillar_id": "P4",
+        "pillar_name": "Kerendahan Hati",
+        "narrative_format": "F1",
+        "topic_title": "Kamis W16: Hikmah Fabel Rimba - Tutur Kata Santun (Kerendahan Hati)",
+        "character_cast": "Karakter Satwa Hutan Rimba",
+        "core_moral_message": "Menumbuhkan nilai tutur kata santun dalam kehidupan sehari-hari anak.",
+        "status": "CURRICULUM_PLANNED"
+      },
+      {
+        "day_number": 110,
+        "day_of_week": "Jumat",
+        "pillar_id": "P5",
+        "pillar_name": "Pengendalian Emosi & Pemaaf",
+        "narrative_format": "F3",
+        "topic_title": "Jumat W16: Hikmah Fabel Rimba - Tutur Kata Santun (Pengendalian Emosi & Pemaaf)",
+        "character_cast": "Karakter Satwa Hutan Rimba",
+        "core_moral_message": "Menumbuhkan nilai tutur kata santun dalam kehidupan sehari-hari anak.",
+        "status": "CURRICULUM_PLANNED"
+      },
+      {
+        "day_number": 111,
+        "day_of_week": "Sabtu",
+        "pillar_id": "P6",
+        "pillar_name": "Kecerdikan & Kerjasama",
+        "narrative_format": "F1",
+        "topic_title": "Sabtu W16: Hikmah Fabel Rimba - Tutur Kata Santun (Kecerdikan & Kerjasama)",
+        "character_cast": "Karakter Satwa Hutan Rimba",
+        "core_moral_message": "Menumbuhkan nilai tutur kata santun dalam kehidupan sehari-hari anak.",
+        "status": "CURRICULUM_PLANNED"
+      },
+      {
+        "day_number": 112,
+        "day_of_week": "Minggu",
+        "pillar_id": "P1-P6",
+        "pillar_name": "Dongeng Pengantar Tidur",
+        "narrative_format": "F5",
+        "topic_title": "Minggu W16: Hikmah Fabel Rimba - Tutur Kata Santun (Dongeng Pengantar Tidur)",
+        "character_cast": "Karakter Satwa Hutan Rimba",
+        "core_moral_message": "Menumbuhkan nilai tutur kata santun dalam kehidupan sehari-hari anak.",
+        "status": "CURRICULUM_PLANNED"
+      }
+    ]
+  },
+  {
+    "week_number": 17,
+    "week_label": "Minggu 17",
+    "theme_title": "Mengakui Keterbatasan Diri: Mengetahui Kapan Harus Meminta Tolong",
+    "pillar_focus": "Kerendahan Hati & Kolaborasi",
+    "days": [
+      {
+        "day_number": 113,
+        "day_of_week": "Senin",
+        "pillar_id": "P1",
+        "pillar_name": "Kejujuran & Integritas",
+        "narrative_format": "F1",
+        "topic_title": "Senin W17: Hikmah Fabel Rimba - Kerendahan Hati & Kolaborasi (Kejujuran & Integritas)",
+        "character_cast": "Karakter Satwa Hutan Rimba",
+        "core_moral_message": "Menumbuhkan nilai kerendahan hati & kolaborasi dalam kehidupan sehari-hari anak.",
+        "status": "CURRICULUM_PLANNED"
+      },
+      {
+        "day_number": 114,
+        "day_of_week": "Selasa",
+        "pillar_id": "P2",
+        "pillar_name": "Kebaikan & Empati",
+        "narrative_format": "F2",
+        "topic_title": "Selasa W17: Hikmah Fabel Rimba - Kerendahan Hati & Kolaborasi (Kebaikan & Empati)",
+        "character_cast": "Karakter Satwa Hutan Rimba",
+        "core_moral_message": "Menumbuhkan nilai kerendahan hati & kolaborasi dalam kehidupan sehari-hari anak.",
+        "status": "CURRICULUM_PLANNED"
+      },
+      {
+        "day_number": 115,
+        "day_of_week": "Rabu",
+        "pillar_id": "P3",
+        "pillar_name": "Ketekunan & Kerja Keras",
+        "narrative_format": "F4",
+        "topic_title": "Rabu W17: Hikmah Fabel Rimba - Kerendahan Hati & Kolaborasi (Ketekunan & Kerja Keras)",
+        "character_cast": "Karakter Satwa Hutan Rimba",
+        "core_moral_message": "Menumbuhkan nilai kerendahan hati & kolaborasi dalam kehidupan sehari-hari anak.",
+        "status": "CURRICULUM_PLANNED"
+      },
+      {
+        "day_number": 116,
+        "day_of_week": "Kamis",
+        "pillar_id": "P4",
+        "pillar_name": "Kerendahan Hati",
+        "narrative_format": "F1",
+        "topic_title": "Kamis W17: Hikmah Fabel Rimba - Kerendahan Hati & Kolaborasi (Kerendahan Hati)",
+        "character_cast": "Karakter Satwa Hutan Rimba",
+        "core_moral_message": "Menumbuhkan nilai kerendahan hati & kolaborasi dalam kehidupan sehari-hari anak.",
+        "status": "CURRICULUM_PLANNED"
+      },
+      {
+        "day_number": 117,
+        "day_of_week": "Jumat",
+        "pillar_id": "P5",
+        "pillar_name": "Pengendalian Emosi & Pemaaf",
+        "narrative_format": "F3",
+        "topic_title": "Jumat W17: Hikmah Fabel Rimba - Kerendahan Hati & Kolaborasi (Pengendalian Emosi & Pemaaf)",
+        "character_cast": "Karakter Satwa Hutan Rimba",
+        "core_moral_message": "Menumbuhkan nilai kerendahan hati & kolaborasi dalam kehidupan sehari-hari anak.",
+        "status": "CURRICULUM_PLANNED"
+      },
+      {
+        "day_number": 118,
+        "day_of_week": "Sabtu",
+        "pillar_id": "P6",
+        "pillar_name": "Kecerdikan & Kerjasama",
+        "narrative_format": "F1",
+        "topic_title": "Sabtu W17: Hikmah Fabel Rimba - Kerendahan Hati & Kolaborasi (Kecerdikan & Kerjasama)",
+        "character_cast": "Karakter Satwa Hutan Rimba",
+        "core_moral_message": "Menumbuhkan nilai kerendahan hati & kolaborasi dalam kehidupan sehari-hari anak.",
+        "status": "CURRICULUM_PLANNED"
+      },
+      {
+        "day_number": 119,
+        "day_of_week": "Minggu",
+        "pillar_id": "P1-P6",
+        "pillar_name": "Dongeng Pengantar Tidur",
+        "narrative_format": "F5",
+        "topic_title": "Minggu W17: Hikmah Fabel Rimba - Kerendahan Hati & Kolaborasi (Dongeng Pengantar Tidur)",
+        "character_cast": "Karakter Satwa Hutan Rimba",
+        "core_moral_message": "Menumbuhkan nilai kerendahan hati & kolaborasi dalam kehidupan sehari-hari anak.",
+        "status": "CURRICULUM_PLANNED"
+      }
+    ]
+  },
+  {
+    "week_number": 18,
+    "week_label": "Minggu 18",
+    "theme_title": "Menjaga Kelestarian Alam Rimba: Menghormati Aliran Sungai dan Hutan Kehidupan",
+    "pillar_focus": "Kelestarian Lingkungan",
+    "days": [
+      {
+        "day_number": 120,
+        "day_of_week": "Senin",
+        "pillar_id": "P1",
+        "pillar_name": "Kejujuran & Integritas",
+        "narrative_format": "F1",
+        "topic_title": "Senin W18: Hikmah Fabel Rimba - Kelestarian Lingkungan (Kejujuran & Integritas)",
+        "character_cast": "Karakter Satwa Hutan Rimba",
+        "core_moral_message": "Menumbuhkan nilai kelestarian lingkungan dalam kehidupan sehari-hari anak.",
+        "status": "CURRICULUM_PLANNED"
+      },
+      {
+        "day_number": 121,
+        "day_of_week": "Selasa",
+        "pillar_id": "P2",
+        "pillar_name": "Kebaikan & Empati",
+        "narrative_format": "F2",
+        "topic_title": "Selasa W18: Hikmah Fabel Rimba - Kelestarian Lingkungan (Kebaikan & Empati)",
+        "character_cast": "Karakter Satwa Hutan Rimba",
+        "core_moral_message": "Menumbuhkan nilai kelestarian lingkungan dalam kehidupan sehari-hari anak.",
+        "status": "CURRICULUM_PLANNED"
+      },
+      {
+        "day_number": 122,
+        "day_of_week": "Rabu",
+        "pillar_id": "P3",
+        "pillar_name": "Ketekunan & Kerja Keras",
+        "narrative_format": "F4",
+        "topic_title": "Rabu W18: Hikmah Fabel Rimba - Kelestarian Lingkungan (Ketekunan & Kerja Keras)",
+        "character_cast": "Karakter Satwa Hutan Rimba",
+        "core_moral_message": "Menumbuhkan nilai kelestarian lingkungan dalam kehidupan sehari-hari anak.",
+        "status": "CURRICULUM_PLANNED"
+      },
+      {
+        "day_number": 123,
+        "day_of_week": "Kamis",
+        "pillar_id": "P4",
+        "pillar_name": "Kerendahan Hati",
+        "narrative_format": "F1",
+        "topic_title": "Kamis W18: Hikmah Fabel Rimba - Kelestarian Lingkungan (Kerendahan Hati)",
+        "character_cast": "Karakter Satwa Hutan Rimba",
+        "core_moral_message": "Menumbuhkan nilai kelestarian lingkungan dalam kehidupan sehari-hari anak.",
+        "status": "CURRICULUM_PLANNED"
+      },
+      {
+        "day_number": 124,
+        "day_of_week": "Jumat",
+        "pillar_id": "P5",
+        "pillar_name": "Pengendalian Emosi & Pemaaf",
+        "narrative_format": "F3",
+        "topic_title": "Jumat W18: Hikmah Fabel Rimba - Kelestarian Lingkungan (Pengendalian Emosi & Pemaaf)",
+        "character_cast": "Karakter Satwa Hutan Rimba",
+        "core_moral_message": "Menumbuhkan nilai kelestarian lingkungan dalam kehidupan sehari-hari anak.",
+        "status": "CURRICULUM_PLANNED"
+      },
+      {
+        "day_number": 125,
+        "day_of_week": "Sabtu",
+        "pillar_id": "P6",
+        "pillar_name": "Kecerdikan & Kerjasama",
+        "narrative_format": "F1",
+        "topic_title": "Sabtu W18: Hikmah Fabel Rimba - Kelestarian Lingkungan (Kecerdikan & Kerjasama)",
+        "character_cast": "Karakter Satwa Hutan Rimba",
+        "core_moral_message": "Menumbuhkan nilai kelestarian lingkungan dalam kehidupan sehari-hari anak.",
+        "status": "CURRICULUM_PLANNED"
+      },
+      {
+        "day_number": 126,
+        "day_of_week": "Minggu",
+        "pillar_id": "P1-P6",
+        "pillar_name": "Dongeng Pengantar Tidur",
+        "narrative_format": "F5",
+        "topic_title": "Minggu W18: Hikmah Fabel Rimba - Kelestarian Lingkungan (Dongeng Pengantar Tidur)",
+        "character_cast": "Karakter Satwa Hutan Rimba",
+        "core_moral_message": "Menumbuhkan nilai kelestarian lingkungan dalam kehidupan sehari-hari anak.",
+        "status": "CURRICULUM_PLANNED"
+      }
+    ]
+  },
+  {
+    "week_number": 19,
+    "week_label": "Minggu 19",
+    "theme_title": "Kesetiaan dalam Persahabatan: Hadir Saat Sahabat Terjatuh dalam Kesulitan",
+    "pillar_focus": "Kesetiaan & Loyalitas",
+    "days": [
+      {
+        "day_number": 127,
+        "day_of_week": "Senin",
+        "pillar_id": "P1",
+        "pillar_name": "Kejujuran & Integritas",
+        "narrative_format": "F1",
+        "topic_title": "Senin W19: Hikmah Fabel Rimba - Kesetiaan & Loyalitas (Kejujuran & Integritas)",
+        "character_cast": "Karakter Satwa Hutan Rimba",
+        "core_moral_message": "Menumbuhkan nilai kesetiaan & loyalitas dalam kehidupan sehari-hari anak.",
+        "status": "CURRICULUM_PLANNED"
+      },
+      {
+        "day_number": 128,
+        "day_of_week": "Selasa",
+        "pillar_id": "P2",
+        "pillar_name": "Kebaikan & Empati",
+        "narrative_format": "F2",
+        "topic_title": "Selasa W19: Hikmah Fabel Rimba - Kesetiaan & Loyalitas (Kebaikan & Empati)",
+        "character_cast": "Karakter Satwa Hutan Rimba",
+        "core_moral_message": "Menumbuhkan nilai kesetiaan & loyalitas dalam kehidupan sehari-hari anak.",
+        "status": "CURRICULUM_PLANNED"
+      },
+      {
+        "day_number": 129,
+        "day_of_week": "Rabu",
+        "pillar_id": "P3",
+        "pillar_name": "Ketekunan & Kerja Keras",
+        "narrative_format": "F4",
+        "topic_title": "Rabu W19: Hikmah Fabel Rimba - Kesetiaan & Loyalitas (Ketekunan & Kerja Keras)",
+        "character_cast": "Karakter Satwa Hutan Rimba",
+        "core_moral_message": "Menumbuhkan nilai kesetiaan & loyalitas dalam kehidupan sehari-hari anak.",
+        "status": "CURRICULUM_PLANNED"
+      },
+      {
+        "day_number": 130,
+        "day_of_week": "Kamis",
+        "pillar_id": "P4",
+        "pillar_name": "Kerendahan Hati",
+        "narrative_format": "F1",
+        "topic_title": "Kamis W19: Hikmah Fabel Rimba - Kesetiaan & Loyalitas (Kerendahan Hati)",
+        "character_cast": "Karakter Satwa Hutan Rimba",
+        "core_moral_message": "Menumbuhkan nilai kesetiaan & loyalitas dalam kehidupan sehari-hari anak.",
+        "status": "CURRICULUM_PLANNED"
+      },
+      {
+        "day_number": 131,
+        "day_of_week": "Jumat",
+        "pillar_id": "P5",
+        "pillar_name": "Pengendalian Emosi & Pemaaf",
+        "narrative_format": "F3",
+        "topic_title": "Jumat W19: Hikmah Fabel Rimba - Kesetiaan & Loyalitas (Pengendalian Emosi & Pemaaf)",
+        "character_cast": "Karakter Satwa Hutan Rimba",
+        "core_moral_message": "Menumbuhkan nilai kesetiaan & loyalitas dalam kehidupan sehari-hari anak.",
+        "status": "CURRICULUM_PLANNED"
+      },
+      {
+        "day_number": 132,
+        "day_of_week": "Sabtu",
+        "pillar_id": "P6",
+        "pillar_name": "Kecerdikan & Kerjasama",
+        "narrative_format": "F1",
+        "topic_title": "Sabtu W19: Hikmah Fabel Rimba - Kesetiaan & Loyalitas (Kecerdikan & Kerjasama)",
+        "character_cast": "Karakter Satwa Hutan Rimba",
+        "core_moral_message": "Menumbuhkan nilai kesetiaan & loyalitas dalam kehidupan sehari-hari anak.",
+        "status": "CURRICULUM_PLANNED"
+      },
+      {
+        "day_number": 133,
+        "day_of_week": "Minggu",
+        "pillar_id": "P1-P6",
+        "pillar_name": "Dongeng Pengantar Tidur",
+        "narrative_format": "F5",
+        "topic_title": "Minggu W19: Hikmah Fabel Rimba - Kesetiaan & Loyalitas (Dongeng Pengantar Tidur)",
+        "character_cast": "Karakter Satwa Hutan Rimba",
+        "core_moral_message": "Menumbuhkan nilai kesetiaan & loyalitas dalam kehidupan sehari-hari anak.",
+        "status": "CURRICULUM_PLANNED"
+      }
+    ]
+  },
+  {
+    "week_number": 20,
+    "week_label": "Minggu 20",
+    "theme_title": "Tidak Mengejek Kekurangan Kawan: Menghapus Olok-Olok di Sekolah Hutan",
+    "pillar_focus": "Empati & Menghargai",
+    "days": [
+      {
+        "day_number": 134,
+        "day_of_week": "Senin",
+        "pillar_id": "P1",
+        "pillar_name": "Kejujuran & Integritas",
+        "narrative_format": "F1",
+        "topic_title": "Senin W20: Hikmah Fabel Rimba - Empati & Menghargai (Kejujuran & Integritas)",
+        "character_cast": "Karakter Satwa Hutan Rimba",
+        "core_moral_message": "Menumbuhkan nilai empati & menghargai dalam kehidupan sehari-hari anak.",
+        "status": "CURRICULUM_PLANNED"
+      },
+      {
+        "day_number": 135,
+        "day_of_week": "Selasa",
+        "pillar_id": "P2",
+        "pillar_name": "Kebaikan & Empati",
+        "narrative_format": "F2",
+        "topic_title": "Selasa W20: Hikmah Fabel Rimba - Empati & Menghargai (Kebaikan & Empati)",
+        "character_cast": "Karakter Satwa Hutan Rimba",
+        "core_moral_message": "Menumbuhkan nilai empati & menghargai dalam kehidupan sehari-hari anak.",
+        "status": "CURRICULUM_PLANNED"
+      },
+      {
+        "day_number": 136,
+        "day_of_week": "Rabu",
+        "pillar_id": "P3",
+        "pillar_name": "Ketekunan & Kerja Keras",
+        "narrative_format": "F4",
+        "topic_title": "Rabu W20: Hikmah Fabel Rimba - Empati & Menghargai (Ketekunan & Kerja Keras)",
+        "character_cast": "Karakter Satwa Hutan Rimba",
+        "core_moral_message": "Menumbuhkan nilai empati & menghargai dalam kehidupan sehari-hari anak.",
+        "status": "CURRICULUM_PLANNED"
+      },
+      {
+        "day_number": 137,
+        "day_of_week": "Kamis",
+        "pillar_id": "P4",
+        "pillar_name": "Kerendahan Hati",
+        "narrative_format": "F1",
+        "topic_title": "Kamis W20: Hikmah Fabel Rimba - Empati & Menghargai (Kerendahan Hati)",
+        "character_cast": "Karakter Satwa Hutan Rimba",
+        "core_moral_message": "Menumbuhkan nilai empati & menghargai dalam kehidupan sehari-hari anak.",
+        "status": "CURRICULUM_PLANNED"
+      },
+      {
+        "day_number": 138,
+        "day_of_week": "Jumat",
+        "pillar_id": "P5",
+        "pillar_name": "Pengendalian Emosi & Pemaaf",
+        "narrative_format": "F3",
+        "topic_title": "Jumat W20: Hikmah Fabel Rimba - Empati & Menghargai (Pengendalian Emosi & Pemaaf)",
+        "character_cast": "Karakter Satwa Hutan Rimba",
+        "core_moral_message": "Menumbuhkan nilai empati & menghargai dalam kehidupan sehari-hari anak.",
+        "status": "CURRICULUM_PLANNED"
+      },
+      {
+        "day_number": 139,
+        "day_of_week": "Sabtu",
+        "pillar_id": "P6",
+        "pillar_name": "Kecerdikan & Kerjasama",
+        "narrative_format": "F1",
+        "topic_title": "Sabtu W20: Hikmah Fabel Rimba - Empati & Menghargai (Kecerdikan & Kerjasama)",
+        "character_cast": "Karakter Satwa Hutan Rimba",
+        "core_moral_message": "Menumbuhkan nilai empati & menghargai dalam kehidupan sehari-hari anak.",
+        "status": "CURRICULUM_PLANNED"
+      },
+      {
+        "day_number": 140,
+        "day_of_week": "Minggu",
+        "pillar_id": "P1-P6",
+        "pillar_name": "Dongeng Pengantar Tidur",
+        "narrative_format": "F5",
+        "topic_title": "Minggu W20: Hikmah Fabel Rimba - Empati & Menghargai (Dongeng Pengantar Tidur)",
+        "character_cast": "Karakter Satwa Hutan Rimba",
+        "core_moral_message": "Menumbuhkan nilai empati & menghargai dalam kehidupan sehari-hari anak.",
+        "status": "CURRICULUM_PLANNED"
+      }
+    ]
+  },
+  {
+    "week_number": 21,
+    "week_label": "Minggu 21",
+    "theme_title": "Tanggung Jawab & Disiplin: Menyelesaikan Tugas Sebelum Bermain Bebas",
+    "pillar_focus": "Disiplin & Tanggung Jawab",
+    "days": [
+      {
+        "day_number": 141,
+        "day_of_week": "Senin",
+        "pillar_id": "P1",
+        "pillar_name": "Kejujuran & Integritas",
+        "narrative_format": "F1",
+        "topic_title": "Senin W21: Hikmah Fabel Rimba - Disiplin & Tanggung Jawab (Kejujuran & Integritas)",
+        "character_cast": "Karakter Satwa Hutan Rimba",
+        "core_moral_message": "Menumbuhkan nilai disiplin & tanggung jawab dalam kehidupan sehari-hari anak.",
+        "status": "CURRICULUM_PLANNED"
+      },
+      {
+        "day_number": 142,
+        "day_of_week": "Selasa",
+        "pillar_id": "P2",
+        "pillar_name": "Kebaikan & Empati",
+        "narrative_format": "F2",
+        "topic_title": "Selasa W21: Hikmah Fabel Rimba - Disiplin & Tanggung Jawab (Kebaikan & Empati)",
+        "character_cast": "Karakter Satwa Hutan Rimba",
+        "core_moral_message": "Menumbuhkan nilai disiplin & tanggung jawab dalam kehidupan sehari-hari anak.",
+        "status": "CURRICULUM_PLANNED"
+      },
+      {
+        "day_number": 143,
+        "day_of_week": "Rabu",
+        "pillar_id": "P3",
+        "pillar_name": "Ketekunan & Kerja Keras",
+        "narrative_format": "F4",
+        "topic_title": "Rabu W21: Hikmah Fabel Rimba - Disiplin & Tanggung Jawab (Ketekunan & Kerja Keras)",
+        "character_cast": "Karakter Satwa Hutan Rimba",
+        "core_moral_message": "Menumbuhkan nilai disiplin & tanggung jawab dalam kehidupan sehari-hari anak.",
+        "status": "CURRICULUM_PLANNED"
+      },
+      {
+        "day_number": 144,
+        "day_of_week": "Kamis",
+        "pillar_id": "P4",
+        "pillar_name": "Kerendahan Hati",
+        "narrative_format": "F1",
+        "topic_title": "Kamis W21: Hikmah Fabel Rimba - Disiplin & Tanggung Jawab (Kerendahan Hati)",
+        "character_cast": "Karakter Satwa Hutan Rimba",
+        "core_moral_message": "Menumbuhkan nilai disiplin & tanggung jawab dalam kehidupan sehari-hari anak.",
+        "status": "CURRICULUM_PLANNED"
+      },
+      {
+        "day_number": 145,
+        "day_of_week": "Jumat",
+        "pillar_id": "P5",
+        "pillar_name": "Pengendalian Emosi & Pemaaf",
+        "narrative_format": "F3",
+        "topic_title": "Jumat W21: Hikmah Fabel Rimba - Disiplin & Tanggung Jawab (Pengendalian Emosi & Pemaaf)",
+        "character_cast": "Karakter Satwa Hutan Rimba",
+        "core_moral_message": "Menumbuhkan nilai disiplin & tanggung jawab dalam kehidupan sehari-hari anak.",
+        "status": "CURRICULUM_PLANNED"
+      },
+      {
+        "day_number": 146,
+        "day_of_week": "Sabtu",
+        "pillar_id": "P6",
+        "pillar_name": "Kecerdikan & Kerjasama",
+        "narrative_format": "F1",
+        "topic_title": "Sabtu W21: Hikmah Fabel Rimba - Disiplin & Tanggung Jawab (Kecerdikan & Kerjasama)",
+        "character_cast": "Karakter Satwa Hutan Rimba",
+        "core_moral_message": "Menumbuhkan nilai disiplin & tanggung jawab dalam kehidupan sehari-hari anak.",
+        "status": "CURRICULUM_PLANNED"
+      },
+      {
+        "day_number": 147,
+        "day_of_week": "Minggu",
+        "pillar_id": "P1-P6",
+        "pillar_name": "Dongeng Pengantar Tidur",
+        "narrative_format": "F5",
+        "topic_title": "Minggu W21: Hikmah Fabel Rimba - Disiplin & Tanggung Jawab (Dongeng Pengantar Tidur)",
+        "character_cast": "Karakter Satwa Hutan Rimba",
+        "core_moral_message": "Menumbuhkan nilai disiplin & tanggung jawab dalam kehidupan sehari-hari anak.",
+        "status": "CURRICULUM_PLANNED"
+      }
+    ]
+  },
+  {
+    "week_number": 22,
+    "week_label": "Minggu 22",
+    "theme_title": "Berlaku Adil & Tidak Memihak: Menjadi Penengah Damai di Tengah Sengketa",
+    "pillar_focus": "Keadilan & Kebijaksanaan",
+    "days": [
+      {
+        "day_number": 148,
+        "day_of_week": "Senin",
+        "pillar_id": "P1",
+        "pillar_name": "Kejujuran & Integritas",
+        "narrative_format": "F1",
+        "topic_title": "Senin W22: Hikmah Fabel Rimba - Keadilan & Kebijaksanaan (Kejujuran & Integritas)",
+        "character_cast": "Karakter Satwa Hutan Rimba",
+        "core_moral_message": "Menumbuhkan nilai keadilan & kebijaksanaan dalam kehidupan sehari-hari anak.",
+        "status": "CURRICULUM_PLANNED"
+      },
+      {
+        "day_number": 149,
+        "day_of_week": "Selasa",
+        "pillar_id": "P2",
+        "pillar_name": "Kebaikan & Empati",
+        "narrative_format": "F2",
+        "topic_title": "Selasa W22: Hikmah Fabel Rimba - Keadilan & Kebijaksanaan (Kebaikan & Empati)",
+        "character_cast": "Karakter Satwa Hutan Rimba",
+        "core_moral_message": "Menumbuhkan nilai keadilan & kebijaksanaan dalam kehidupan sehari-hari anak.",
+        "status": "CURRICULUM_PLANNED"
+      },
+      {
+        "day_number": 150,
+        "day_of_week": "Rabu",
+        "pillar_id": "P3",
+        "pillar_name": "Ketekunan & Kerja Keras",
+        "narrative_format": "F4",
+        "topic_title": "Rabu W22: Hikmah Fabel Rimba - Keadilan & Kebijaksanaan (Ketekunan & Kerja Keras)",
+        "character_cast": "Karakter Satwa Hutan Rimba",
+        "core_moral_message": "Menumbuhkan nilai keadilan & kebijaksanaan dalam kehidupan sehari-hari anak.",
+        "status": "CURRICULUM_PLANNED"
+      },
+      {
+        "day_number": 151,
+        "day_of_week": "Kamis",
+        "pillar_id": "P4",
+        "pillar_name": "Kerendahan Hati",
+        "narrative_format": "F1",
+        "topic_title": "Kamis W22: Hikmah Fabel Rimba - Keadilan & Kebijaksanaan (Kerendahan Hati)",
+        "character_cast": "Karakter Satwa Hutan Rimba",
+        "core_moral_message": "Menumbuhkan nilai keadilan & kebijaksanaan dalam kehidupan sehari-hari anak.",
+        "status": "CURRICULUM_PLANNED"
+      },
+      {
+        "day_number": 152,
+        "day_of_week": "Jumat",
+        "pillar_id": "P5",
+        "pillar_name": "Pengendalian Emosi & Pemaaf",
+        "narrative_format": "F3",
+        "topic_title": "Jumat W22: Hikmah Fabel Rimba - Keadilan & Kebijaksanaan (Pengendalian Emosi & Pemaaf)",
+        "character_cast": "Karakter Satwa Hutan Rimba",
+        "core_moral_message": "Menumbuhkan nilai keadilan & kebijaksanaan dalam kehidupan sehari-hari anak.",
+        "status": "CURRICULUM_PLANNED"
+      },
+      {
+        "day_number": 153,
+        "day_of_week": "Sabtu",
+        "pillar_id": "P6",
+        "pillar_name": "Kecerdikan & Kerjasama",
+        "narrative_format": "F1",
+        "topic_title": "Sabtu W22: Hikmah Fabel Rimba - Keadilan & Kebijaksanaan (Kecerdikan & Kerjasama)",
+        "character_cast": "Karakter Satwa Hutan Rimba",
+        "core_moral_message": "Menumbuhkan nilai keadilan & kebijaksanaan dalam kehidupan sehari-hari anak.",
+        "status": "CURRICULUM_PLANNED"
+      },
+      {
+        "day_number": 154,
+        "day_of_week": "Minggu",
+        "pillar_id": "P1-P6",
+        "pillar_name": "Dongeng Pengantar Tidur",
+        "narrative_format": "F5",
+        "topic_title": "Minggu W22: Hikmah Fabel Rimba - Keadilan & Kebijaksanaan (Dongeng Pengantar Tidur)",
+        "character_cast": "Karakter Satwa Hutan Rimba",
+        "core_moral_message": "Menumbuhkan nilai keadilan & kebijaksanaan dalam kehidupan sehari-hari anak.",
+        "status": "CURRICULUM_PLANNED"
+      }
+    ]
+  },
+  {
+    "week_number": 23,
+    "week_label": "Minggu 23",
+    "theme_title": "Merawat Rasa Ingin Tahu yang Baik: Belajar dari Alam Tanpa Ceroboh",
+    "pillar_focus": "Eksplorasi Bijak",
+    "days": [
+      {
+        "day_number": 155,
+        "day_of_week": "Senin",
+        "pillar_id": "P1",
+        "pillar_name": "Kejujuran & Integritas",
+        "narrative_format": "F1",
+        "topic_title": "Senin W23: Hikmah Fabel Rimba - Eksplorasi Bijak (Kejujuran & Integritas)",
+        "character_cast": "Karakter Satwa Hutan Rimba",
+        "core_moral_message": "Menumbuhkan nilai eksplorasi bijak dalam kehidupan sehari-hari anak.",
+        "status": "CURRICULUM_PLANNED"
+      },
+      {
+        "day_number": 156,
+        "day_of_week": "Selasa",
+        "pillar_id": "P2",
+        "pillar_name": "Kebaikan & Empati",
+        "narrative_format": "F2",
+        "topic_title": "Selasa W23: Hikmah Fabel Rimba - Eksplorasi Bijak (Kebaikan & Empati)",
+        "character_cast": "Karakter Satwa Hutan Rimba",
+        "core_moral_message": "Menumbuhkan nilai eksplorasi bijak dalam kehidupan sehari-hari anak.",
+        "status": "CURRICULUM_PLANNED"
+      },
+      {
+        "day_number": 157,
+        "day_of_week": "Rabu",
+        "pillar_id": "P3",
+        "pillar_name": "Ketekunan & Kerja Keras",
+        "narrative_format": "F4",
+        "topic_title": "Rabu W23: Hikmah Fabel Rimba - Eksplorasi Bijak (Ketekunan & Kerja Keras)",
+        "character_cast": "Karakter Satwa Hutan Rimba",
+        "core_moral_message": "Menumbuhkan nilai eksplorasi bijak dalam kehidupan sehari-hari anak.",
+        "status": "CURRICULUM_PLANNED"
+      },
+      {
+        "day_number": 158,
+        "day_of_week": "Kamis",
+        "pillar_id": "P4",
+        "pillar_name": "Kerendahan Hati",
+        "narrative_format": "F1",
+        "topic_title": "Kamis W23: Hikmah Fabel Rimba - Eksplorasi Bijak (Kerendahan Hati)",
+        "character_cast": "Karakter Satwa Hutan Rimba",
+        "core_moral_message": "Menumbuhkan nilai eksplorasi bijak dalam kehidupan sehari-hari anak.",
+        "status": "CURRICULUM_PLANNED"
+      },
+      {
+        "day_number": 159,
+        "day_of_week": "Jumat",
+        "pillar_id": "P5",
+        "pillar_name": "Pengendalian Emosi & Pemaaf",
+        "narrative_format": "F3",
+        "topic_title": "Jumat W23: Hikmah Fabel Rimba - Eksplorasi Bijak (Pengendalian Emosi & Pemaaf)",
+        "character_cast": "Karakter Satwa Hutan Rimba",
+        "core_moral_message": "Menumbuhkan nilai eksplorasi bijak dalam kehidupan sehari-hari anak.",
+        "status": "CURRICULUM_PLANNED"
+      },
+      {
+        "day_number": 160,
+        "day_of_week": "Sabtu",
+        "pillar_id": "P6",
+        "pillar_name": "Kecerdikan & Kerjasama",
+        "narrative_format": "F1",
+        "topic_title": "Sabtu W23: Hikmah Fabel Rimba - Eksplorasi Bijak (Kecerdikan & Kerjasama)",
+        "character_cast": "Karakter Satwa Hutan Rimba",
+        "core_moral_message": "Menumbuhkan nilai eksplorasi bijak dalam kehidupan sehari-hari anak.",
+        "status": "CURRICULUM_PLANNED"
+      },
+      {
+        "day_number": 161,
+        "day_of_week": "Minggu",
+        "pillar_id": "P1-P6",
+        "pillar_name": "Dongeng Pengantar Tidur",
+        "narrative_format": "F5",
+        "topic_title": "Minggu W23: Hikmah Fabel Rimba - Eksplorasi Bijak (Dongeng Pengantar Tidur)",
+        "character_cast": "Karakter Satwa Hutan Rimba",
+        "core_moral_message": "Menumbuhkan nilai eksplorasi bijak dalam kehidupan sehari-hari anak.",
+        "status": "CURRICULUM_PLANNED"
+      }
+    ]
+  },
+  {
+    "week_number": 24,
+    "week_label": "Minggu 24",
+    "theme_title": "Ikhlas Membantu Tanpa Pamrih: Kebaikan Senyap yang Menghangatkan Rimba",
+    "pillar_focus": "Keikhlasan",
+    "days": [
+      {
+        "day_number": 162,
+        "day_of_week": "Senin",
+        "pillar_id": "P1",
+        "pillar_name": "Kejujuran & Integritas",
+        "narrative_format": "F1",
+        "topic_title": "Senin W24: Hikmah Fabel Rimba - Keikhlasan (Kejujuran & Integritas)",
+        "character_cast": "Karakter Satwa Hutan Rimba",
+        "core_moral_message": "Menumbuhkan nilai keikhlasan dalam kehidupan sehari-hari anak.",
+        "status": "CURRICULUM_PLANNED"
+      },
+      {
+        "day_number": 163,
+        "day_of_week": "Selasa",
+        "pillar_id": "P2",
+        "pillar_name": "Kebaikan & Empati",
+        "narrative_format": "F2",
+        "topic_title": "Selasa W24: Hikmah Fabel Rimba - Keikhlasan (Kebaikan & Empati)",
+        "character_cast": "Karakter Satwa Hutan Rimba",
+        "core_moral_message": "Menumbuhkan nilai keikhlasan dalam kehidupan sehari-hari anak.",
+        "status": "CURRICULUM_PLANNED"
+      },
+      {
+        "day_number": 164,
+        "day_of_week": "Rabu",
+        "pillar_id": "P3",
+        "pillar_name": "Ketekunan & Kerja Keras",
+        "narrative_format": "F4",
+        "topic_title": "Rabu W24: Hikmah Fabel Rimba - Keikhlasan (Ketekunan & Kerja Keras)",
+        "character_cast": "Karakter Satwa Hutan Rimba",
+        "core_moral_message": "Menumbuhkan nilai keikhlasan dalam kehidupan sehari-hari anak.",
+        "status": "CURRICULUM_PLANNED"
+      },
+      {
+        "day_number": 165,
+        "day_of_week": "Kamis",
+        "pillar_id": "P4",
+        "pillar_name": "Kerendahan Hati",
+        "narrative_format": "F1",
+        "topic_title": "Kamis W24: Hikmah Fabel Rimba - Keikhlasan (Kerendahan Hati)",
+        "character_cast": "Karakter Satwa Hutan Rimba",
+        "core_moral_message": "Menumbuhkan nilai keikhlasan dalam kehidupan sehari-hari anak.",
+        "status": "CURRICULUM_PLANNED"
+      },
+      {
+        "day_number": 166,
+        "day_of_week": "Jumat",
+        "pillar_id": "P5",
+        "pillar_name": "Pengendalian Emosi & Pemaaf",
+        "narrative_format": "F3",
+        "topic_title": "Jumat W24: Hikmah Fabel Rimba - Keikhlasan (Pengendalian Emosi & Pemaaf)",
+        "character_cast": "Karakter Satwa Hutan Rimba",
+        "core_moral_message": "Menumbuhkan nilai keikhlasan dalam kehidupan sehari-hari anak.",
+        "status": "CURRICULUM_PLANNED"
+      },
+      {
+        "day_number": 167,
+        "day_of_week": "Sabtu",
+        "pillar_id": "P6",
+        "pillar_name": "Kecerdikan & Kerjasama",
+        "narrative_format": "F1",
+        "topic_title": "Sabtu W24: Hikmah Fabel Rimba - Keikhlasan (Kecerdikan & Kerjasama)",
+        "character_cast": "Karakter Satwa Hutan Rimba",
+        "core_moral_message": "Menumbuhkan nilai keikhlasan dalam kehidupan sehari-hari anak.",
+        "status": "CURRICULUM_PLANNED"
+      },
+      {
+        "day_number": 168,
+        "day_of_week": "Minggu",
+        "pillar_id": "P1-P6",
+        "pillar_name": "Dongeng Pengantar Tidur",
+        "narrative_format": "F5",
+        "topic_title": "Minggu W24: Hikmah Fabel Rimba - Keikhlasan (Dongeng Pengantar Tidur)",
+        "character_cast": "Karakter Satwa Hutan Rimba",
+        "core_moral_message": "Menumbuhkan nilai keikhlasan dalam kehidupan sehari-hari anak.",
+        "status": "CURRICULUM_PLANNED"
+      }
+    ]
+  },
+  {
+    "week_number": 25,
+    "week_label": "Minggu 25",
+    "theme_title": "Menjaga Rahasia & Kepercayaan Sahabat: Amanah yang Berharga Bagai Mutiara",
+    "pillar_focus": "Menjaga Rahasia",
+    "days": [
+      {
+        "day_number": 169,
+        "day_of_week": "Senin",
+        "pillar_id": "P1",
+        "pillar_name": "Kejujuran & Integritas",
+        "narrative_format": "F1",
+        "topic_title": "Senin W25: Hikmah Fabel Rimba - Menjaga Rahasia (Kejujuran & Integritas)",
+        "character_cast": "Karakter Satwa Hutan Rimba",
+        "core_moral_message": "Menumbuhkan nilai menjaga rahasia dalam kehidupan sehari-hari anak.",
+        "status": "CURRICULUM_PLANNED"
+      },
+      {
+        "day_number": 170,
+        "day_of_week": "Selasa",
+        "pillar_id": "P2",
+        "pillar_name": "Kebaikan & Empati",
+        "narrative_format": "F2",
+        "topic_title": "Selasa W25: Hikmah Fabel Rimba - Menjaga Rahasia (Kebaikan & Empati)",
+        "character_cast": "Karakter Satwa Hutan Rimba",
+        "core_moral_message": "Menumbuhkan nilai menjaga rahasia dalam kehidupan sehari-hari anak.",
+        "status": "CURRICULUM_PLANNED"
+      },
+      {
+        "day_number": 171,
+        "day_of_week": "Rabu",
+        "pillar_id": "P3",
+        "pillar_name": "Ketekunan & Kerja Keras",
+        "narrative_format": "F4",
+        "topic_title": "Rabu W25: Hikmah Fabel Rimba - Menjaga Rahasia (Ketekunan & Kerja Keras)",
+        "character_cast": "Karakter Satwa Hutan Rimba",
+        "core_moral_message": "Menumbuhkan nilai menjaga rahasia dalam kehidupan sehari-hari anak.",
+        "status": "CURRICULUM_PLANNED"
+      },
+      {
+        "day_number": 172,
+        "day_of_week": "Kamis",
+        "pillar_id": "P4",
+        "pillar_name": "Kerendahan Hati",
+        "narrative_format": "F1",
+        "topic_title": "Kamis W25: Hikmah Fabel Rimba - Menjaga Rahasia (Kerendahan Hati)",
+        "character_cast": "Karakter Satwa Hutan Rimba",
+        "core_moral_message": "Menumbuhkan nilai menjaga rahasia dalam kehidupan sehari-hari anak.",
+        "status": "CURRICULUM_PLANNED"
+      },
+      {
+        "day_number": 173,
+        "day_of_week": "Jumat",
+        "pillar_id": "P5",
+        "pillar_name": "Pengendalian Emosi & Pemaaf",
+        "narrative_format": "F3",
+        "topic_title": "Jumat W25: Hikmah Fabel Rimba - Menjaga Rahasia (Pengendalian Emosi & Pemaaf)",
+        "character_cast": "Karakter Satwa Hutan Rimba",
+        "core_moral_message": "Menumbuhkan nilai menjaga rahasia dalam kehidupan sehari-hari anak.",
+        "status": "CURRICULUM_PLANNED"
+      },
+      {
+        "day_number": 174,
+        "day_of_week": "Sabtu",
+        "pillar_id": "P6",
+        "pillar_name": "Kecerdikan & Kerjasama",
+        "narrative_format": "F1",
+        "topic_title": "Sabtu W25: Hikmah Fabel Rimba - Menjaga Rahasia (Kecerdikan & Kerjasama)",
+        "character_cast": "Karakter Satwa Hutan Rimba",
+        "core_moral_message": "Menumbuhkan nilai menjaga rahasia dalam kehidupan sehari-hari anak.",
+        "status": "CURRICULUM_PLANNED"
+      },
+      {
+        "day_number": 175,
+        "day_of_week": "Minggu",
+        "pillar_id": "P1-P6",
+        "pillar_name": "Dongeng Pengantar Tidur",
+        "narrative_format": "F5",
+        "topic_title": "Minggu W25: Hikmah Fabel Rimba - Menjaga Rahasia (Dongeng Pengantar Tidur)",
+        "character_cast": "Karakter Satwa Hutan Rimba",
+        "core_moral_message": "Menumbuhkan nilai menjaga rahasia dalam kehidupan sehari-hari anak.",
+        "status": "CURRICULUM_PLANNED"
+      }
+    ]
+  },
+  {
+    "week_number": 26,
+    "week_label": "Minggu 26",
+    "theme_title": "Lingkaran Cinta Keluarga Hutan: Pelukan Hangat Tempat Pulang Terbaik",
+    "pillar_focus": "Cinta Kasih Keluarga",
+    "days": [
+      {
+        "day_number": 176,
+        "day_of_week": "Senin",
+        "pillar_id": "P1",
+        "pillar_name": "Kejujuran & Integritas",
+        "narrative_format": "F1",
+        "topic_title": "Senin W26: Hikmah Fabel Rimba - Cinta Kasih Keluarga (Kejujuran & Integritas)",
+        "character_cast": "Karakter Satwa Hutan Rimba",
+        "core_moral_message": "Menumbuhkan nilai cinta kasih keluarga dalam kehidupan sehari-hari anak.",
+        "status": "CURRICULUM_PLANNED"
+      },
+      {
+        "day_number": 177,
+        "day_of_week": "Selasa",
+        "pillar_id": "P2",
+        "pillar_name": "Kebaikan & Empati",
+        "narrative_format": "F2",
+        "topic_title": "Selasa W26: Hikmah Fabel Rimba - Cinta Kasih Keluarga (Kebaikan & Empati)",
+        "character_cast": "Karakter Satwa Hutan Rimba",
+        "core_moral_message": "Menumbuhkan nilai cinta kasih keluarga dalam kehidupan sehari-hari anak.",
+        "status": "CURRICULUM_PLANNED"
+      },
+      {
+        "day_number": 178,
+        "day_of_week": "Rabu",
+        "pillar_id": "P3",
+        "pillar_name": "Ketekunan & Kerja Keras",
+        "narrative_format": "F4",
+        "topic_title": "Rabu W26: Hikmah Fabel Rimba - Cinta Kasih Keluarga (Ketekunan & Kerja Keras)",
+        "character_cast": "Karakter Satwa Hutan Rimba",
+        "core_moral_message": "Menumbuhkan nilai cinta kasih keluarga dalam kehidupan sehari-hari anak.",
+        "status": "CURRICULUM_PLANNED"
+      },
+      {
+        "day_number": 179,
+        "day_of_week": "Kamis",
+        "pillar_id": "P4",
+        "pillar_name": "Kerendahan Hati",
+        "narrative_format": "F1",
+        "topic_title": "Kamis W26: Hikmah Fabel Rimba - Cinta Kasih Keluarga (Kerendahan Hati)",
+        "character_cast": "Karakter Satwa Hutan Rimba",
+        "core_moral_message": "Menumbuhkan nilai cinta kasih keluarga dalam kehidupan sehari-hari anak.",
+        "status": "CURRICULUM_PLANNED"
+      },
+      {
+        "day_number": 180,
+        "day_of_week": "Jumat",
+        "pillar_id": "P5",
+        "pillar_name": "Pengendalian Emosi & Pemaaf",
+        "narrative_format": "F3",
+        "topic_title": "Jumat W26: Hikmah Fabel Rimba - Cinta Kasih Keluarga (Pengendalian Emosi & Pemaaf)",
+        "character_cast": "Karakter Satwa Hutan Rimba",
+        "core_moral_message": "Menumbuhkan nilai cinta kasih keluarga dalam kehidupan sehari-hari anak.",
+        "status": "CURRICULUM_PLANNED"
+      },
+      {
+        "day_number": 181,
+        "day_of_week": "Sabtu",
+        "pillar_id": "P6",
+        "pillar_name": "Kecerdikan & Kerjasama",
+        "narrative_format": "F1",
+        "topic_title": "Sabtu W26: Hikmah Fabel Rimba - Cinta Kasih Keluarga (Kecerdikan & Kerjasama)",
+        "character_cast": "Karakter Satwa Hutan Rimba",
+        "core_moral_message": "Menumbuhkan nilai cinta kasih keluarga dalam kehidupan sehari-hari anak.",
+        "status": "CURRICULUM_PLANNED"
+      },
+      {
+        "day_number": 182,
+        "day_of_week": "Minggu",
+        "pillar_id": "P1-P6",
+        "pillar_name": "Dongeng Pengantar Tidur",
+        "narrative_format": "F5",
+        "topic_title": "Minggu W26: Hikmah Fabel Rimba - Cinta Kasih Keluarga (Dongeng Pengantar Tidur)",
+        "character_cast": "Karakter Satwa Hutan Rimba",
+        "core_moral_message": "Menumbuhkan nilai cinta kasih keluarga dalam kehidupan sehari-hari anak.",
+        "status": "CURRICULUM_PLANNED"
+      }
+    ]
+  }
+]
