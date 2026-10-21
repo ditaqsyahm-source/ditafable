@@ -379,7 +379,9 @@ def main():
             caption = dist_meta.get("caption") or caption
             tags = dist_meta.get("tags") or tags
 
-    thumb_file = os.path.join(ROOT_DIR, "output", "preview_frames", "frame_42s_moral_hug.jpg")
+    thumb_file = os.path.join(ROOT_DIR, "output", "preview_frames", "frame_05_kakek_beruang_memeluk.jpg")
+    if not os.path.exists(thumb_file):
+        thumb_file = os.path.join(ROOT_DIR, "output", "preview_frames", "frame_42s_moral_hug.jpg")
     if not os.path.exists(thumb_file):
         thumb_file = None
 
