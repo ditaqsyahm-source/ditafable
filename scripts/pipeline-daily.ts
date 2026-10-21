@@ -41,64 +41,22 @@ async function runDailyPipeline() {
     stdio: "inherit",
   });
 
-  // 4. Optimize Video for Social Distribution (H.264 Fast)
-  console.log(`\n--- Step 4: Optimizing Video Encoding ---`);
-  const compressedVideo = `output/dita_fable_day_${dayStr}_compressed.mp4`;
-  try {
-    execSync(`ffmpeg -y -i "${outputVideo}" -vf "scale=1080:1920" -c:v libx264 -crf 22 -preset fast -c:a aac -b:a 128k -ar 44100 "${compressedVideo}"`, {
-      stdio: "inherit",
-    });
-    console.log(`[DITA-04 Pipeline] Compressed deliverable ready: ${compressedVideo}`);
-  } catch (err: any) {
-    console.warn(`[DITA-04 Pipeline] Compression fallback to master video: ${err.message}`);
-  }
-
-  // 5. Multi-Platform Publication (YouTube Shorts, TikTok, Instagram)
-  console.log(`\n--- Step 5: Multi-Platform Publication ---`);
-  const finalPublishVideo = fs.existsSync(compressedVideo) ? compressedVideo : outputVideo;
-  execSync(`python scripts/publish_video.py --day ${dayNum} --video "${finalPublishVideo}"`, {
-    stdio: "inherit",
-  });
-
-  // 6. Update Campaign State
+  // 4. Update Campaign State
   const stateDir = path.resolve("state");
   fs.mkdirSync(stateDir, recursive: true);
   const statePath = path.join(stateDir, "campaign_state.json");
-  let state: any = {
+  const state = {
     channel_id: "DITA-04",
     handle: "@ditafable",
-    active_day: dayNum,
-    next_day: dayNum + 1,
-    pipeline_status: {},
-    distribution: {
-      tiktok: { username: "ditafable", account_id: "6ad8acf3c24aa78753a651ef", status: "CONNECTED" },
-      instagram: { username: "ditafable", account_id: "6ad8acd9aad76462b1a71e23", status: "CONNECTED" },
-      youtube: { username: "@ditafable", channel_id: "UCxEyHnK7ru1XM7Ri0EWywLw", status: "CONNECTED" }
-    }
+    last_rendered_day: dayNum,
+    last_rendered_file: outputVideo,
+    updated_at: new Date().toISOString(),
   };
-
-  if (fs.existsSync(statePath)) {
-    try {
-      state = JSON.parse(fs.readFileSync(statePath, "utf-8"));
-    } catch (e) {
-      // use default
-    }
-  }
-
-  state.active_day = Math.max(state.active_day || 1, dayNum);
-  state.next_day = state.active_day + 1;
-  state.last_rendered_day = dayNum;
-  state.last_rendered_file = outputVideo;
-  state.pipeline_status = state.pipeline_status || {};
-  state.pipeline_status[`day_${dayStr}`] = "PUBLISHED";
-  state.updated_at = new Date().toISOString();
-
   fs.writeFileSync(statePath, JSON.stringify(state, null, 2), "utf-8");
 
   console.log(`\n=======================================================`);
   console.log(`[DITA-04 Pipeline] Day ${dayNum} Pipeline Completed Successfully!`);
   console.log(`[DITA-04 Pipeline] Master Deliverable: ${path.resolve(outputVideo)}`);
-  console.log(`[DITA-04 Pipeline] Campaign State: active_day=${state.active_day}, next_day=${state.next_day}`);
   console.log(`=======================================================`);
 }
 

@@ -1,42 +1,50 @@
 [
   {
-    "scene_id": "SCENE_01_KANCIL_APEL",
+    "scene_id": "SCENE_01_HUTAN_RIANG",
     "timeStart": 0.0,
-    "timeEnd": 4.86,
+    "timeEnd": 10.5,
     "videoSrc": null,
-    "imageSrc": "images/scene1_kancil_apel.jpg",
-    "description": "Kancil Ciko memegang belahan apel emas di tanah berlumut senja"
+    "imageSrc": "images/scene1_ciko_hutan_apel.jpg",
+    "description": "Ciko si kancil kecil melompat riang di padang rumput dekat pohon apel emas"
   },
   {
-    "scene_id": "SCENE_02_POHON_KENARI",
-    "timeStart": 4.86,
-    "timeEnd": 16.34,
+    "scene_id": "SCENE_02_APEL_TERBELAH",
+    "timeStart": 10.5,
+    "timeEnd": 24.0,
     "videoSrc": null,
-    "imageSrc": "images/scene2_pohon_kenari.jpg",
-    "description": "Pohon kenari raksasa berongga hangat dengan lentera menyala"
+    "imageSrc": "images/scene2_apel_emas_terbelah.jpg",
+    "description": "Kletuk! Apel emas bercahaya terbelah di atas lumut, Ciko tertegun cemas"
   },
   {
-    "scene_id": "SCENE_03_PENGAKUAN_CIKO",
-    "timeStart": 16.34,
-    "timeEnd": 36.11,
+    "scene_id": "SCENE_03_JALAN_SETAPAK",
+    "timeStart": 24.0,
+    "timeEnd": 50.0,
     "videoSrc": null,
-    "imageSrc": "images/scene3_pengakuan_ciko.jpg",
-    "description": "Kakek Beruang berlutut lembut menyambut pengakuan jujur Ciko"
+    "imageSrc": "images/scene3_jalan_pondok_kabut.jpg",
+    "description": "Ciko berjalan pelan di jalan setapak hutan berkabut menuju pondok Kakek Beruang"
   },
   {
-    "scene_id": "SCENE_04_PELUKAN_HANGAT",
-    "timeStart": 36.11,
-    "timeEnd": 51.01,
+    "scene_id": "SCENE_04_PENGAKUAN_JUJUR",
+    "timeStart": 50.0,
+    "timeEnd": 70.0,
     "videoSrc": null,
-    "imageSrc": "images/scene4_pelukan_hangat.jpg",
-    "description": "Pelukan hangat penuh kasih & daun-daun emas berguguran"
+    "imageSrc": "images/scene4_pintu_pengakuan_jujur.jpg",
+    "description": "Pintu kayu terbuka, Ciko menatap ke atas dan berbisik meminta maaf dengan tulus"
   },
   {
-    "scene_id": "SCENE_05_MALAM_BINTANG",
-    "timeStart": 51.01,
-    "timeEnd": 56.1,
+    "scene_id": "SCENE_05_PELUKAN_KASIH",
+    "timeStart": 70.0,
+    "timeEnd": 90.5,
     "videoSrc": null,
-    "imageSrc": "images/scene5_malam_bintang.jpg",
-    "description": "Langit malam berhias bintang, bulan sabit & kunang-kunang"
+    "imageSrc": "images/scene5_kakek_beruang_memeluk.jpg",
+    "description": "Kakek Beruang berlutut dan memeluk Ciko penuh kehangatan serta partikel cinta berkilau"
+  },
+  {
+    "scene_id": "SCENE_06_MALAM_PENGANTAR_TIDUR",
+    "timeStart": 90.5,
+    "timeEnd": 105.0,
+    "videoSrc": null,
+    "imageSrc": "images/scene6_malam_tidur_bintang.jpg",
+    "description": "Panorama hutan malam yang damai, bulan sabit keemasan, dan bintang berkelap-kelip pengantar tidur"
   }
 ]

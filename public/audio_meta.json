@@ -1,209 +1,636 @@
 {
-  "channel_id": "DITA-04",
-  "channel_name": "Dita Dongeng & Fabel",
-  "channel_handle": "@ditafable",
-  "audio_path": "public/voiceover_day_001.mp3",
-  "voice": "id-ID-GadisNeural",
-  "rate": "-3%",
-  "total_words": 97,
-  "duration_seconds": 56.09,
-  "duration_frames": 1346,
-  "fps": 24,
-  "sentences": [
+  "total_duration": 103.8,
+  "sentence_boundaries": [
     {
       "start": 0.05,
-      "end": 4.857,
-      "duration": 4.807,
-      "text": "Jangan sembunyikan apel yang sudah terbelah itu di balik semak!"
+      "end": 8.943,
+      "duration": 8.893,
+      "text": "Sore itu di Hutan Kenari yang sejuk, Ciko si kancil kecil melompat riang di dekat pohon apel emas milik Kakek Beruang."
     },
     {
-      "start": 4.857,
-      "end": 12.782,
-      "duration": 7.925,
-      "text": "Kancil kecil bernama Ciko gemetar saat apel emas kesayangan kakek beruang pecah karena kecerobohannya."
+      "start": 8.943,
+      "end": 11.521,
+      "duration": 2.578,
+      "text": "Tapi... kletuk!"
     },
     {
-      "start": 12.782,
-      "end": 16.339,
-      "duration": 3.557,
-      "text": "Ia sempat ingin lari dan berbohong."
+      "start": 11.521,
+      "end": 13.162,
+      "duration": 1.641,
+      "text": "Aduh!"
     },
     {
-      "start": 16.339,
-      "end": 25.707,
-      "duration": 9.369,
-      "text": "Tapi di dalam dadanya, detak jantungnya berbisik bahwa rasa bersalah itu terasa jauh lebih berat daripada hukuman apapun."
+      "start": 13.162,
+      "end": 17.967,
+      "duration": 4.805,
+      "text": "Tanpa sengaja, kaki Ciko menyenggol dahan pohon."
     },
     {
-      "start": 25.707,
-      "end": 36.107,
-      "duration": 10.399,
-      "text": "Dengan napas pelan, Ciko menghampiri kakek beruang dan berkata jujur: 'Kakek, Ciko minta maaf, Ciko yang memecahkannya.'"
+      "start": 17.967,
+      "end": 23.227,
+      "duration": 5.26,
+      "text": "Sebuah apel emas yang ranum terjatuh dan terbelah dua di tanah."
     },
     {
-      "start": 36.107,
-      "end": 45.656,
-      "duration": 9.549,
-      "text": "Kakek beruang tersenyum hangat, lalu memeluknya erat: 'Mengakui kesalahan butuh keberanian ksatria sejati, Ciko.'"
+      "start": 23.227,
+      "end": 25.87,
+      "duration": 2.643,
+      "text": "Ciko terkejut sekali."
     },
     {
-      "start": 45.656,
-      "end": 51.005,
-      "duration": 5.349,
-      "text": "Karena kejujuran selalu membasuh rasa takut menjadi rasa tenang."
+      "start": 25.87,
+      "end": 29.152,
+      "duration": 3.281,
+      "text": "Telinganya turun karena cemas."
     },
     {
-      "start": 51.005,
-      "end": 56.081,
-      "duration": 5.076,
-      "text": "Maka malam ini sebelum tidur, ingatlah selalu pesan ini..."
+      "start": 29.152,
+      "end": 33.709,
+      "duration": 4.557,
+      "text": "Deg-deg-deg, jantung kecilnya berdebar kencang."
+    },
+    {
+      "start": 33.709,
+      "end": 37.537,
+      "duration": 3.828,
+      "text": "Ciko sempat ingin sembunyi di balik semak."
+    },
+    {
+      "start": 37.537,
+      "end": 43.253,
+      "duration": 5.716,
+      "text": "Tapi Ciko ingat pesan Ibu: anak hebat selalu berani jujur."
+    },
+    {
+      "start": 43.253,
+      "end": 49.139,
+      "duration": 5.885,
+      "text": "Dengan langkah pelan, Ciko berjalan menuju pondok kayu Kakek Beruang."
+    },
+    {
+      "start": 49.139,
+      "end": 51.691,
+      "duration": 2.552,
+      "text": "Tok, tok, tok!"
+    },
+    {
+      "start": 51.691,
+      "end": 54.594,
+      "duration": 2.904,
+      "text": "Pintu kayu pun terbuka."
+    },
+    {
+      "start": 54.594,
+      "end": 58.488,
+      "duration": 3.893,
+      "text": "Kakek Beruang menyambutnya dengan senyum teduh."
+    },
+    {
+      "start": 58.488,
+      "end": 64.751,
+      "duration": 6.263,
+      "text": "Ciko menunduk, lalu berbisik jujur: 'Kakek... maafkan Ciko ya."
+    },
+    {
+      "start": 64.751,
+      "end": 69.334,
+      "duration": 4.583,
+      "text": "Ciko tidak sengaja memecahkan apel emas Kakek...'"
+    },
+    {
+      "start": 69.334,
+      "end": 77.264,
+      "duration": 7.93,
+      "text": "Mendengar itu, Kakek Beruang berlutut dan memeluk Ciko erat: 'Tidak apa-apa, Ciko sayang."
+    },
+    {
+      "start": 77.264,
+      "end": 85.727,
+      "duration": 8.464,
+      "text": "Apel bisa dipetik lagi, tapi kejujuran Ciko jauh lebih berharga daripada sepuluh apel emas.'"
+    },
+    {
+      "start": 85.727,
+      "end": 89.933,
+      "duration": 4.206,
+      "text": "Hati Ciko pun terasa sangat lega dan damai."
+    },
+    {
+      "start": 89.933,
+      "end": 95.349,
+      "duration": 5.417,
+      "text": "Nah adik-adik manis, jujur itu membuat tidur kita nyenyak."
+    },
+    {
+      "start": 95.349,
+      "end": 103.774,
+      "duration": 8.424,
+      "text": "Sekarang, tarik selimutmu, pejamkan matamu ya... selamat tidur, dan mimpi indah."
     }
   ],
+  "timed_chunks": [
+    {
+      "start": 0.05,
+      "end": 1.388,
+      "text": "Sore itu di Hutan"
+    },
+    {
+      "start": 1.388,
+      "end": 3.198,
+      "text": "Kenari yang sejuk, Ciko"
+    },
+    {
+      "start": 3.198,
+      "end": 5.087,
+      "text": "si kancil kecil melompat"
+    },
+    {
+      "start": 5.087,
+      "end": 6.661,
+      "text": "riang di dekat pohon"
+    },
+    {
+      "start": 6.661,
+      "end": 8.313,
+      "text": "apel emas milik Kakek"
+    },
+    {
+      "start": 8.313,
+      "end": 8.943,
+      "text": "Beruang."
+    },
+    {
+      "start": 8.943,
+      "end": 11.521,
+      "text": "Tapi... kletuk!"
+    },
+    {
+      "start": 11.521,
+      "end": 13.162,
+      "text": "Aduh!"
+    },
+    {
+      "start": 13.162,
+      "end": 15.616,
+      "text": "Tanpa sengaja, kaki Ciko"
+    },
+    {
+      "start": 15.616,
+      "end": 17.967,
+      "text": "menyenggol dahan pohon."
+    },
+    {
+      "start": 17.967,
+      "end": 19.778,
+      "text": "Sebuah apel emas yang"
+    },
+    {
+      "start": 19.778,
+      "end": 22.106,
+      "text": "ranum terjatuh dan terbelah"
+    },
+    {
+      "start": 22.106,
+      "end": 23.227,
+      "text": "dua di tanah."
+    },
+    {
+      "start": 23.227,
+      "end": 25.87,
+      "text": "Ciko terkejut sekali."
+    },
+    {
+      "start": 25.87,
+      "end": 29.152,
+      "text": "Telinganya turun karena cemas."
+    },
+    {
+      "start": 29.152,
+      "end": 32.916,
+      "text": "Deg-deg-deg, jantung kecilnya berdebar"
+    },
+    {
+      "start": 32.916,
+      "end": 33.709,
+      "text": "kencang."
+    },
+    {
+      "start": 33.709,
+      "end": 36.137,
+      "text": "Ciko sempat ingin sembunyi"
+    },
+    {
+      "start": 36.137,
+      "end": 37.537,
+      "text": "di balik semak."
+    },
+    {
+      "start": 37.537,
+      "end": 39.681,
+      "text": "Tapi Ciko ingat pesan"
+    },
+    {
+      "start": 39.681,
+      "end": 41.926,
+      "text": "Ibu: anak hebat selalu"
+    },
+    {
+      "start": 41.926,
+      "end": 43.253,
+      "text": "berani jujur."
+    },
+    {
+      "start": 43.253,
+      "end": 45.537,
+      "text": "Dengan langkah pelan, Ciko"
+    },
+    {
+      "start": 45.537,
+      "end": 47.909,
+      "text": "berjalan menuju pondok kayu"
+    },
+    {
+      "start": 47.909,
+      "end": 49.139,
+      "text": "Kakek Beruang."
+    },
+    {
+      "start": 49.139,
+      "end": 51.691,
+      "text": "Tok, tok, tok!"
+    },
+    {
+      "start": 51.691,
+      "end": 54.594,
+      "text": "Pintu kayu pun terbuka."
+    },
+    {
+      "start": 54.594,
+      "end": 57.388,
+      "text": "Kakek Beruang menyambutnya dengan"
+    },
+    {
+      "start": 57.388,
+      "end": 58.488,
+      "text": "senyum teduh."
+    },
+    {
+      "start": 58.488,
+      "end": 61.411,
+      "text": "Ciko menunduk, lalu berbisik"
+    },
+    {
+      "start": 61.411,
+      "end": 64.438,
+      "text": "jujur: 'Kakek... maafkan Ciko"
+    },
+    {
+      "start": 64.438,
+      "end": 64.751,
+      "text": "ya."
+    },
+    {
+      "start": 64.751,
+      "end": 67.52,
+      "text": "Ciko tidak sengaja memecahkan"
+    },
+    {
+      "start": 67.52,
+      "end": 69.334,
+      "text": "apel emas Kakek...'"
+    },
+    {
+      "start": 69.334,
+      "end": 71.916,
+      "text": "Mendengar itu, Kakek Beruang"
+    },
+    {
+      "start": 71.916,
+      "end": 74.221,
+      "text": "berlutut dan memeluk Ciko"
+    },
+    {
+      "start": 74.221,
+      "end": 76.619,
+      "text": "erat: 'Tidak apa-apa, Ciko"
+    },
+    {
+      "start": 76.619,
+      "end": 77.264,
+      "text": "sayang."
+    },
+    {
+      "start": 77.264,
+      "end": 79.451,
+      "text": "Apel bisa dipetik lagi,"
+    },
+    {
+      "start": 79.451,
+      "end": 81.733,
+      "text": "tapi kejujuran Ciko jauh"
+    },
+    {
+      "start": 81.733,
+      "end": 84.681,
+      "text": "lebih berharga daripada sepuluh"
+    },
+    {
+      "start": 84.681,
+      "end": 85.727,
+      "text": "apel emas.'"
+    },
+    {
+      "start": 85.727,
+      "end": 87.73,
+      "text": "Hati Ciko pun terasa"
+    },
+    {
+      "start": 87.73,
+      "end": 89.933,
+      "text": "sangat lega dan damai."
+    },
+    {
+      "start": 89.933,
+      "end": 92.448,
+      "text": "Nah adik-adik manis, jujur"
+    },
+    {
+      "start": 92.448,
+      "end": 94.575,
+      "text": "itu membuat tidur kita"
+    },
+    {
+      "start": 94.575,
+      "end": 95.349,
+      "text": "nyenyak."
+    },
+    {
+      "start": 95.349,
+      "end": 99.129,
+      "text": "Sekarang, tarik selimutmu, pejamkan"
+    },
+    {
+      "start": 99.129,
+      "end": 102.046,
+      "text": "matamu ya... selamat tidur,"
+    },
+    {
+      "start": 102.046,
+      "end": 103.774,
+      "text": "dan mimpi indah."
+    }
+  ],
+  "duration_frames": 2491,
   "timed_subtitles": [
     {
       "start": 0.05,
-      "end": 2.256,
-      "text": "Jangan sembunyikan apel yang"
+      "end": 1.388,
+      "text": "Sore itu di Hutan"
     },
     {
-      "start": 2.256,
-      "end": 3.911,
-      "text": "sudah terbelah itu di"
+      "start": 1.388,
+      "end": 3.198,
+      "text": "Kenari yang sejuk, Ciko"
     },
     {
-      "start": 3.911,
-      "end": 4.857,
-      "text": "balik semak!"
+      "start": 3.198,
+      "end": 5.087,
+      "text": "si kancil kecil melompat"
     },
     {
-      "start": 4.857,
-      "end": 6.858,
-      "text": "Kancil kecil bernama Ciko"
+      "start": 5.087,
+      "end": 6.661,
+      "text": "riang di dekat pohon"
     },
     {
-      "start": 6.858,
-      "end": 8.619,
-      "text": "gemetar saat apel emas"
+      "start": 6.661,
+      "end": 8.313,
+      "text": "apel emas milik Kakek"
     },
     {
-      "start": 8.619,
-      "end": 11.021,
-      "text": "kesayangan kakek beruang pecah"
+      "start": 8.313,
+      "end": 8.943,
+      "text": "Beruang."
     },
     {
-      "start": 11.021,
-      "end": 12.782,
-      "text": "karena kecerobohannya."
+      "start": 8.943,
+      "end": 11.521,
+      "text": "Tapi... kletuk!"
     },
     {
-      "start": 12.782,
-      "end": 14.874,
-      "text": "Ia sempat ingin lari"
+      "start": 11.521,
+      "end": 13.162,
+      "text": "Aduh!"
     },
     {
-      "start": 14.874,
-      "end": 16.339,
-      "text": "dan berbohong."
+      "start": 13.162,
+      "end": 15.616,
+      "text": "Tanpa sengaja, kaki Ciko"
     },
     {
-      "start": 16.339,
-      "end": 18.101,
-      "text": "Tapi di dalam dadanya,"
+      "start": 15.616,
+      "end": 17.967,
+      "text": "menyenggol dahan pohon."
     },
     {
-      "start": 18.101,
-      "end": 20.583,
-      "text": "detak jantungnya berbisik bahwa"
+      "start": 17.967,
+      "end": 19.778,
+      "text": "Sebuah apel emas yang"
     },
     {
-      "start": 20.583,
-      "end": 22.504,
-      "text": "rasa bersalah itu terasa"
+      "start": 19.778,
+      "end": 22.106,
+      "text": "ranum terjatuh dan terbelah"
     },
     {
-      "start": 22.504,
-      "end": 24.506,
-      "text": "jauh lebih berat daripada"
+      "start": 22.106,
+      "end": 23.227,
+      "text": "dua di tanah."
     },
     {
-      "start": 24.506,
-      "end": 25.707,
-      "text": "hukuman apapun."
+      "start": 23.227,
+      "end": 25.87,
+      "text": "Ciko terkejut sekali."
     },
     {
-      "start": 25.707,
-      "end": 27.859,
-      "text": "Dengan napas pelan, Ciko"
+      "start": 25.87,
+      "end": 29.152,
+      "text": "Telinganya turun karena cemas."
     },
     {
-      "start": 27.859,
-      "end": 30.459,
-      "text": "menghampiri kakek beruang dan"
+      "start": 29.152,
+      "end": 32.916,
+      "text": "Deg-deg-deg, jantung kecilnya berdebar"
     },
     {
-      "start": 30.459,
-      "end": 32.879,
-      "text": "berkata jujur: 'Kakek, Ciko"
+      "start": 32.916,
+      "end": 33.709,
+      "text": "kencang."
     },
     {
-      "start": 32.879,
-      "end": 34.762,
-      "text": "minta maaf, Ciko yang"
+      "start": 33.709,
+      "end": 36.137,
+      "text": "Ciko sempat ingin sembunyi"
     },
     {
-      "start": 34.762,
-      "end": 36.107,
-      "text": "memecahkannya.'"
+      "start": 36.137,
+      "end": 37.537,
+      "text": "di balik semak."
     },
     {
-      "start": 36.107,
-      "end": 38.798,
-      "text": "Kakek beruang tersenyum hangat,"
+      "start": 37.537,
+      "end": 39.681,
+      "text": "Tapi Ciko ingat pesan"
     },
     {
-      "start": 38.798,
-      "end": 41.489,
-      "text": "lalu memeluknya erat: 'Mengakui"
+      "start": 39.681,
+      "end": 41.926,
+      "text": "Ibu: anak hebat selalu"
     },
     {
-      "start": 41.489,
-      "end": 44.441,
-      "text": "kesalahan butuh keberanian ksatria"
+      "start": 41.926,
+      "end": 43.253,
+      "text": "berani jujur."
     },
     {
-      "start": 44.441,
-      "end": 45.656,
-      "text": "sejati, Ciko.'"
+      "start": 43.253,
+      "end": 45.537,
+      "text": "Dengan langkah pelan, Ciko"
     },
     {
-      "start": 45.656,
-      "end": 48.417,
-      "text": "Karena kejujuran selalu membasuh"
+      "start": 45.537,
+      "end": 47.909,
+      "text": "berjalan menuju pondok kayu"
     },
     {
-      "start": 48.417,
-      "end": 50.401,
-      "text": "rasa takut menjadi rasa"
+      "start": 47.909,
+      "end": 49.139,
+      "text": "Kakek Beruang."
     },
     {
-      "start": 50.401,
-      "end": 51.005,
-      "text": "tenang."
+      "start": 49.139,
+      "end": 51.691,
+      "text": "Tok, tok, tok!"
     },
     {
-      "start": 51.005,
-      "end": 52.999,
-      "text": "Maka malam ini sebelum"
+      "start": 51.691,
+      "end": 54.594,
+      "text": "Pintu kayu pun terbuka."
     },
     {
-      "start": 52.999,
-      "end": 55.537,
-      "text": "tidur, ingatlah selalu pesan"
+      "start": 54.594,
+      "end": 57.388,
+      "text": "Kakek Beruang menyambutnya dengan"
     },
     {
-      "start": 55.537,
-      "end": 56.081,
-      "text": "ini..."
+      "start": 57.388,
+      "end": 58.488,
+      "text": "senyum teduh."
+    },
+    {
+      "start": 58.488,
+      "end": 61.411,
+      "text": "Ciko menunduk, lalu berbisik"
+    },
+    {
+      "start": 61.411,
+      "end": 64.438,
+      "text": "jujur: 'Kakek... maafkan Ciko"
+    },
+    {
+      "start": 64.438,
+      "end": 64.751,
+      "text": "ya."
+    },
+    {
+      "start": 64.751,
+      "end": 67.52,
+      "text": "Ciko tidak sengaja memecahkan"
+    },
+    {
+      "start": 67.52,
+      "end": 69.334,
+      "text": "apel emas Kakek...'"
+    },
+    {
+      "start": 69.334,
+      "end": 71.916,
+      "text": "Mendengar itu, Kakek Beruang"
+    },
+    {
+      "start": 71.916,
+      "end": 74.221,
+      "text": "berlutut dan memeluk Ciko"
+    },
+    {
+      "start": 74.221,
+      "end": 76.619,
+      "text": "erat: 'Tidak apa-apa, Ciko"
+    },
+    {
+      "start": 76.619,
+      "end": 77.264,
+      "text": "sayang."
+    },
+    {
+      "start": 77.264,
+      "end": 79.451,
+      "text": "Apel bisa dipetik lagi,"
+    },
+    {
+      "start": 79.451,
+      "end": 81.733,
+      "text": "tapi kejujuran Ciko jauh"
+    },
+    {
+      "start": 81.733,
+      "end": 84.681,
+      "text": "lebih berharga daripada sepuluh"
+    },
+    {
+      "start": 84.681,
+      "end": 85.727,
+      "text": "apel emas.'"
+    },
+    {
+      "start": 85.727,
+      "end": 87.73,
+      "text": "Hati Ciko pun terasa"
+    },
+    {
+      "start": 87.73,
+      "end": 89.933,
+      "text": "sangat lega dan damai."
+    },
+    {
+      "start": 89.933,
+      "end": 92.448,
+      "text": "Nah adik-adik manis, jujur"
+    },
+    {
+      "start": 92.448,
+      "end": 94.575,
+      "text": "itu membuat tidur kita"
+    },
+    {
+      "start": 94.575,
+      "end": 95.349,
+      "text": "nyenyak."
+    },
+    {
+      "start": 95.349,
+      "end": 99.129,
+      "text": "Sekarang, tarik selimutmu, pejamkan"
+    },
+    {
+      "start": 99.129,
+      "end": 102.046,
+      "text": "matamu ya... selamat tidur,"
+    },
+    {
+      "start": 102.046,
+      "end": 103.774,
+      "text": "dan mimpi indah."
     }
   ]
 }

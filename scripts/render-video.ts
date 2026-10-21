@@ -168,7 +168,7 @@ async function main() {
         "--use-angle=d3d11",
       ],
     } as any,
-    concurrency: 2,
+    concurrency: 4,
     onProgress: ({ progress }) => {
       process.stdout.write(
         `\r[Remotion Engine] Render Progress: ${(progress * 100).toFixed(0)}%`
@@ -190,11 +190,12 @@ async function main() {
     fs.mkdirSync(framesDir, { recursive: true });
 
     const keyMoments = [
-      { name: "frame_02s_hook.jpg", time: "00:00:02.500" },
-      { name: "frame_10s_dilemma.jpg", time: "00:00:10.000" },
-      { name: "frame_28s_confession.jpg", time: "00:00:28.000" },
-      { name: "frame_42s_moral_hug.jpg", time: "00:00:42.000" },
-      { name: "frame_53s_bedtime_outro.jpg", time: "00:00:53.000" },
+      { name: "frame_01_ciko_hutan_apel.jpg", time: "00:00:05.000" },
+      { name: "frame_02_apel_terbelah.jpg", time: "00:00:18.000" },
+      { name: "frame_03_jalan_setapak_kabut.jpg", time: "00:00:38.000" },
+      { name: "frame_04_pintu_pengakuan_jujur.jpg", time: "00:00:60.000" },
+      { name: "frame_05_kakek_beruang_memeluk.jpg", time: "00:00:80.000" },
+      { name: "frame_06_malam_tidur_bintang.jpg", time: "00:00:98.000" },
     ];
 
     console.log(`[Remotion Engine] Extracting ${keyMoments.length} preview frames...`);

@@ -45,24 +45,41 @@ export interface FableStorybookShortsProps {
 }
 
 const HIGHLIGHT_WORDS = [
-  "sembunyikan",
+  "kancil",
+  "ciko",
   "apel",
   "emas",
-  "pecah",
+  "kletuk",
+  "aduh",
   "terbelah",
-  "gemetar",
-  "berbohong",
-  "bersalah",
+  "terkejut",
+  "cemas",
+  "deg-deg-deg",
+  "berdebar",
+  "sembunyi",
+  "pesan",
+  "ibu",
+  "hebat",
+  "berani",
   "jujur",
-  "maaf",
-  "memecahkannya",
-  "pelukan",
-  "keberanian",
-  "ksatria",
-  "tenang",
+  "pondok",
+  "tok",
+  "terbuka",
+  "senyum",
+  "teduh",
+  "maafkan",
+  "memecahkan",
+  "berlutut",
+  "memeluk",
+  "sayang",
+  "berharga",
+  "lega",
+  "damai",
+  "nyenyak",
+  "selimutmu",
   "tidur",
-  "bidadari",
-  "malam",
+  "mimpi",
+  "indah",
 ];
 
 const SceneVisual: React.FC<{
@@ -171,16 +188,16 @@ export const FableStorybookShorts: React.FC<FableStorybookShortsProps> = ({
     config: { damping: 14, stiffness: 120 },
   });
 
-  // Moral Plaque Spotlight (Visible around 36s to 49s - during Grandfather Bear's advice)
+  // Moral Plaque Spotlight (Visible around 74s to 88s - during Grandfather Bear's advice)
   const moralPlaqueOpacity = interpolate(
     currentTimeSec,
-    [35.5, 37.0, 48.0, 49.5],
+    [73.5, 75.0, 87.0, 88.5],
     [0, 1, 1, 0],
     { extrapolateLeft: "clamp", extrapolateRight: "clamp" }
   );
 
-  // Outro Bedtime Card (Last 5.0 seconds)
-  const outroStartTimeSec = (durationInFrames / fps) - 5.2;
+  // Outro Bedtime Card (Last 8.0 seconds)
+  const outroStartTimeSec = (durationInFrames / fps) - 8.0;
   const outroOpacity = interpolate(
     currentTimeSec,
     [outroStartTimeSec, outroStartTimeSec + 1.2],
@@ -478,7 +495,7 @@ export const FableStorybookShorts: React.FC<FableStorybookShortsProps> = ({
                 marginBottom: 10,
               }}
             >
-              "Mengakui kesalahan butuh keberanian ksatria sejati, Ciko."
+              "Kejujuran Ciko jauh lebih berharga daripada sepuluh apel emas."
             </div>
             <div
               style={{
@@ -489,7 +506,7 @@ export const FableStorybookShorts: React.FC<FableStorybookShortsProps> = ({
                 color: "#92400e",
               }}
             >
-              — Kakek Beruang Bijak ❤️
+              — Kakek Beruang yang Baik Hati 🍯❤️
             </div>
           </div>
         </div>
@@ -571,7 +588,7 @@ export const FableStorybookShorts: React.FC<FableStorybookShortsProps> = ({
               letterSpacing: 1.0,
             }}
           >
-            <span>✨ Selamat Tidur Bidadari & Ksatria Kecil • Simpan Video Ini</span>
+            <span>✨ Tarik Selimutmu & Selamat Tidur Nyenyak • Simpan Cerita Ini ✨</span>
           </div>
         </div>
       )}

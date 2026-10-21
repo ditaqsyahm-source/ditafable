@@ -8,44 +8,52 @@ import {
 export const Root: React.FC = () => {
   const defaultScenes = [
     {
-      scene_id: "SCENE_01_KANCIL_APEL",
+      scene_id: "SCENE_01_HUTAN_RIANG",
       timeStart: 0.0,
-      timeEnd: 4.86,
-      videoSrc: "broll/broll_1.mp4",
-      imageSrc: "images/scene1_kancil_apel.jpg",
-      description: "Kancil Ciko memegang belahan apel emas di tanah berlumut senja",
+      timeEnd: 10.5,
+      videoSrc: undefined,
+      imageSrc: "images/scene1_ciko_hutan_apel.jpg",
+      description: "Ciko si kancil kecil melompat riang di padang rumput dekat pohon apel emas",
     },
     {
-      scene_id: "SCENE_02_POHON_KENARI",
-      timeStart: 4.86,
-      timeEnd: 16.34,
-      videoSrc: "broll/broll_2.mp4",
-      imageSrc: "images/scene2_pohon_kenari.jpg",
-      description: "Pohon kenari raksasa berongga hangat dengan lentera menyala",
+      scene_id: "SCENE_02_APEL_TERBELAH",
+      timeStart: 10.5,
+      timeEnd: 24.0,
+      videoSrc: undefined,
+      imageSrc: "images/scene2_apel_emas_terbelah.jpg",
+      description: "Kletuk! Apel emas bercahaya terbelah di atas lumut, Ciko tertegun cemas",
     },
     {
-      scene_id: "SCENE_03_PENGAKUAN_CIKO",
-      timeStart: 16.34,
-      timeEnd: 36.11,
-      videoSrc: "broll/broll_3.mp4",
-      imageSrc: "images/scene3_pengakuan_ciko.jpg",
-      description: "Kakek Beruang berlutut lembut menyambut pengakuan jujur Ciko",
+      scene_id: "SCENE_03_JALAN_SETAPAK",
+      timeStart: 24.0,
+      timeEnd: 50.0,
+      videoSrc: undefined,
+      imageSrc: "images/scene3_jalan_pondok_kabut.jpg",
+      description: "Ciko berjalan pelan di jalan setapak hutan berkabut menuju pondok Kakek Beruang",
     },
     {
-      scene_id: "SCENE_04_PELUKAN_HANGAT",
-      timeStart: 36.11,
-      timeEnd: 51.01,
-      videoSrc: "broll/broll_4.mp4",
-      imageSrc: "images/scene4_pelukan_hangat.jpg",
-      description: "Pelukan hangat penuh kasih & daun-daun emas berguguran",
+      scene_id: "SCENE_04_PENGAKUAN_JUJUR",
+      timeStart: 50.0,
+      timeEnd: 70.0,
+      videoSrc: undefined,
+      imageSrc: "images/scene4_pintu_pengakuan_jujur.jpg",
+      description: "Pintu kayu terbuka, Ciko menatap ke atas dan berbisik meminta maaf dengan tulus",
     },
     {
-      scene_id: "SCENE_05_MALAM_BINTANG",
-      timeStart: 51.01,
-      timeEnd: 56.1,
-      videoSrc: "broll/broll_5.mp4",
-      imageSrc: "images/scene5_malam_bintang.jpg",
-      description: "Langit malam berhias bintang, bulan sabit & kunang-kunang",
+      scene_id: "SCENE_05_PELUKAN_KASIH",
+      timeStart: 70.0,
+      timeEnd: 90.5,
+      videoSrc: undefined,
+      imageSrc: "images/scene5_kakek_beruang_memeluk.jpg",
+      description: "Kakek Beruang berlutut dan memeluk Ciko penuh kehangatan serta partikel cinta berkilau",
+    },
+    {
+      scene_id: "SCENE_06_MALAM_PENGANTAR_TIDUR",
+      timeStart: 90.5,
+      timeEnd: 105.0,
+      videoSrc: undefined,
+      imageSrc: "images/scene6_malam_tidur_bintang.jpg",
+      description: "Panorama hutan malam yang damai, bulan sabit keemasan, dan bintang berkelap-kelip pengantar tidur",
     },
   ];
 
@@ -54,7 +62,7 @@ export const Root: React.FC = () => {
     channelHandle: "@ditafable",
     title: "Kancil Ciko & Apel Emas yang Terbelah",
     script:
-      "Jangan sembunyikan apel yang sudah terbelah itu di balik semak! Kancil kecil bernama Ciko gemetar saat apel emas kesayangan kakek beruang pecah karena kecerobohannya. Ia sempat ingin lari dan berbohong. Tapi di dalam dadanya, detak jantungnya berbisik bahwa rasa bersalah itu terasa jauh lebih berat daripada hukuman apapun. Dengan napas pelan, Ciko menghampiri kakek beruang dan berkata jujur: 'Kakek, Ciko minta maaf, Ciko yang memecahkannya.' Kakek beruang tersenyum hangat, lalu memeluknya erat: 'Mengakui kesalahan butuh keberanian ksatria sejati, Ciko.' Karena kejujuran selalu membasuh rasa takut menjadi rasa tenang. Maka malam ini sebelum tidur, ingatlah selalu pesan ini...",
+      "Sore itu di Hutan Kenari yang sejuk, Ciko si kancil kecil melompat riang di dekat pohon apel emas milik Kakek Beruang. Tapi... kletuk! Aduh! Tanpa sengaja, kaki Ciko menyenggol dahan pohon. Sebuah apel emas yang ranum terjatuh dan terbelah dua di tanah. Ciko terkejut sekali. Telinganya turun karena cemas. Deg-deg-deg, jantung kecilnya berdebar kencang. Ciko sempat ingin sembunyi di balik semak. Tapi Ciko ingat pesan Ibu: anak hebat selalu berani jujur. Dengan langkah pelan, Ciko berjalan menuju pondok kayu Kakek Beruang. Tok, tok, tok! Pintu kayu pun terbuka. Kakek Beruang menyambutnya dengan senyum teduh. Ciko menunduk, lalu berbisik jujur: 'Kakek... maafkan Ciko ya. Ciko tidak sengaja memecahkan apel emas Kakek...' Mendengar itu, Kakek Beruang berlutut dan memeluk Ciko erat: 'Tidak apa-apa, Ciko sayang. Apel bisa dipetik lagi, tapi kejujuran Ciko jauh lebih berharga daripada sepuluh apel emas.' Hati Ciko pun terasa sangat lega dan damai. Nah adik-adik manis, jujur itu membuat tidur kita nyenyak. Sekarang, tarik selimutmu, pejamkan matamu ya... selamat tidur, dan mimpi indah.",
     audioFile: "voiceover_day_001.mp3",
     bgmFile: "bgm/bgm_bedtime_lullaby.mp3",
     sfxSparkleFile: "sfx/magic_sparkle.mp3",
@@ -68,7 +76,7 @@ export const Root: React.FC = () => {
       <Composition
         id="FableStorybookShorts"
         component={FableStorybookShorts as React.ComponentType}
-        durationInFrames={1346} // 56.09s @ 24fps
+        durationInFrames={2508} // 104.5s @ 24fps
         fps={24}
         width={1080}
         height={1920}
@@ -79,7 +87,7 @@ export const Root: React.FC = () => {
       <Composition
         id="FableStorybookShorts720p"
         component={FableStorybookShorts as React.ComponentType}
-        durationInFrames={1346}
+        durationInFrames={2508} // 104.5s @ 24fps
         fps={24}
         width={720}
         height={1280}

@@ -12,12 +12,13 @@
     "narrative_format_name": "Dilema Moral & Konsekuensi Aksi (Moral Dilemma & Consequence)",
     "emotional_trigger": "Rasa Ingin Tahu Menegangkan & Kelegaan Hati (Relief & Moral Courage)",
     "visual_pacing": "Transisi dari Cemas-Tegang ke Kehangatan Emosional (Pacing Kontras Sinematik)",
-    "target_duration_range": "45-60 detik",
+    "target_duration_range": "90-120 detik (1m44s)",
     "cta_hook_type": "Refleksi Pengantar Tidur & Diskusi Nilai Bersama Anak",
     "target_audience": "Balita & anak usia dini (3-8 tahun) bersama orang tua (Ayah & Bunda)",
     "created_by": "Content Research & Narrative Architect (@content-researcher)",
     "reviewed_by": "Herman (Command Point / @hermes)",
-    "intended_executor": "Director (@fullmontage) & Fleet Operator (@social-operator)"
+    "intended_executor": "Director (@fullmontage) & Fleet Operator (@social-operator)",
+    "intended_duration_seconds": 104
   },
   "scientific_research_dossier": {
     "core_topic": "Psikologi Pengakuan Kesalahan pada Anak: Mengapa Berbohong Adalah Respons Perlindungan Diri dan Cara Menumbuhkan Keberanian Berkata Jujur",
@@ -161,15 +162,16 @@
     "retention_mechanic": "Kalimat penutup bertindak sebagai jembatan naratif langsung ke kalimat peringatan di detik 00:00. Algoritma membaca tontonan berulang secara mulus tanpa jeda janggal."
   },
   "verbatim_script_master": {
-    "full_spoken_text_id": "Jangan sembunyikan apel yang sudah terbelah itu di balik semak! Kancil kecil bernama Ciko gemetar saat apel emas kesayangan kakek beruang pecah karena kecerobohannya. Ia sempat ingin lari dan berbohong. Tapi di dalam dadanya, detak jantungnya berbisik bahwa rasa bersalah itu terasa jauh lebih berat daripada hukuman apapun. Dengan napas pelan, Ciko menghampiri kakek beruang dan berkata jujur: 'Kakek, Ciko minta maaf, Ciko yang memecahkannya.' Kakek beruang tersenyum hangat, lalu memeluknya erat: 'Mengakui kesalahan butuh keberanian ksatria sejati, Ciko.' Karena kejujuran selalu membasuh rasa takut menjadi rasa tenang. Maka malam ini sebelum tidur, ingatlah selalu pesan ini...",
-    "total_word_count": 100,
+    "full_spoken_text_id": "Sore itu di Hutan Kenari yang sejuk, Ciko si kancil kecil melompat riang di dekat pohon apel emas milik Kakek Beruang. Tapi... kletuk! Aduh! Tanpa sengaja, kaki Ciko menyenggol dahan pohon. Sebuah apel emas yang ranum terjatuh dan terbelah dua di tanah. Ciko terkejut sekali. Telinganya turun karena cemas. Deg-deg-deg, jantung kecilnya berdebar kencang. Ciko sempat ingin sembunyi di balik semak. Tapi Ciko ingat pesan Ibu: anak hebat selalu berani jujur. Dengan langkah pelan, Ciko berjalan menuju pondok kayu Kakek Beruang. Tok, tok, tok! Pintu kayu pun terbuka. Kakek Beruang menyambutnya dengan senyum teduh. Ciko menunduk, lalu berbisik jujur: 'Kakek... maafkan Ciko ya. Ciko tidak sengaja memecahkan apel emas Kakek...' Mendengar itu, Kakek Beruang berlutut dan memeluk Ciko erat: 'Tidak apa-apa, Ciko sayang. Apel bisa dipetik lagi, tapi kejujuran Ciko jauh lebih berharga daripada sepuluh apel emas.' Hati Ciko pun terasa sangat lega dan damai. Nah adik-adik manis, jujur itu membuat tidur kita nyenyak. Sekarang, tarik selimutmu, pejamkan matamu ya... selamat tidur, dan mimpi indah.",
+    "total_word_count": 165,
     "estimated_reading_duration_seconds": 52,
     "average_wpm": 115.4,
     "voiceover_profile": {
       "speaker_persona": "Kak Dita (Pendongeng hangat, ramah anak, intonasi lembut pengantar tidur, ekspresif namun menenangkan)",
       "speed_multiplier": 1.0,
       "tone_notes": "Warm bedtime storytelling, soothing, expressive character voices, calming bedtime cadence. No harsh tone."
-    }
+    },
+    "target_duration_seconds": 104
   },
   "production_prompts_for_fullmontage": {
     "midjourney_flux_visual_cues": [
@@ -301,5 +303,6 @@
     "title": "Kancil Ciko & Apel Emas yang Terbelah (Kisah Keberanian Berkata Jujur)",
     "caption_instagram_tiktok": "Pernah nggak si kecil takut banget ngaku pas mecahin barang atau berbuat salah di rumah? 🥺🍎\n\nMalam ini, dongengkan kisah Kancil Ciko dan Kakek Beruang ini untuk si kecil sebelum terlelap.\n\nAnak-anak belajar bahwa berani mengakui kesalahan bukanlah kelemahan, melainkan tanda jiwa ksatria yang hebat. Saat kita menyambut kejujuran anak dengan pelukan hangat dan bukan bentakan, mereka akan tumbuh menjadi pribadi yang berintegritas dan selalu merasa aman bercerita pada orang tuanya.\n\nSimpan video ini untuk dongeng pengantar tidur nanti malam, dan bagikan ke sesama Ayah Bunda ya! ✨❤️\n\n#ditafable #dongenganak #fabelanak #ceritapengantartidur #parentinganak #edukasianak #kejujuran #nilaimoral #kisahinspiratif #keluargabahagia",
     "youtube_shorts_title": "Kancil Ciko & Apel Emas: Berani Mengakui Kesalahan #shorts #dongenganak #fabel"
-  }
+  },
+  "script_text": "Sore itu di Hutan Kenari yang sejuk, Ciko si kancil kecil melompat riang di dekat pohon apel emas milik Kakek Beruang. Tapi... kletuk! Aduh! Tanpa sengaja, kaki Ciko menyenggol dahan pohon. Sebuah apel emas yang ranum terjatuh dan terbelah dua di tanah. Ciko terkejut sekali. Telinganya turun karena cemas. Deg-deg-deg, jantung kecilnya berdebar kencang. Ciko sempat ingin sembunyi di balik semak. Tapi Ciko ingat pesan Ibu: anak hebat selalu berani jujur. Dengan langkah pelan, Ciko berjalan menuju pondok kayu Kakek Beruang. Tok, tok, tok! Pintu kayu pun terbuka. Kakek Beruang menyambutnya dengan senyum teduh. Ciko menunduk, lalu berbisik jujur: 'Kakek... maafkan Ciko ya. Ciko tidak sengaja memecahkan apel emas Kakek...' Mendengar itu, Kakek Beruang berlutut dan memeluk Ciko erat: 'Tidak apa-apa, Ciko sayang. Apel bisa dipetik lagi, tapi kejujuran Ciko jauh lebih berharga daripada sepuluh apel emas.' Hati Ciko pun terasa sangat lega dan damai. Nah adik-adik manis, jujur itu membuat tidur kita nyenyak. Sekarang, tarik selimutmu, pejamkan matamu ya... selamat tidur, dan mimpi indah."
 }
