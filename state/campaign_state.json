@@ -1,10 +1,12 @@
 {
   "channel": "@ditafable",
   "active_day": 1,
-  "next_day": 1,
-  "total_published": 0,
-  "last_updated": "2026-10-21T16:38:00.000Z",
-  "pipeline_status": {},
+  "next_day": 2,
+  "total_published": 1,
+  "last_updated": "2026-10-22T19:55:56.929Z",
+  "pipeline_status": {
+    "day_001": "PUBLISHED"
+  },
   "distribution": {
     "tiktok": {
       "username": "ditafable",
@@ -22,5 +24,6 @@
       "channel_title": " Dita Dongeng Fabel",
       "status": "CONNECTED"
     }
-  }
+  },
+  "last_published_video": "output/dita_fable_day_001_master.mp4"
 }

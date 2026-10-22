@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "channel_id": "DITA-04",
+    "day": 1,
+    "title": "Kancil Ciko & Apel Emas yang Terbelah (Kisah Keberanian Berkata Jujur)",
+    "video_file": "output/dita_fable_day_001_master.mp4",
+    "video_hash": "370a9a5a3b7933751ed5746d364425bb6c0d7149a2e73bd2b39a1162fbd77f2e",
+    "timestamp": "2026-10-22T19:55:56.919379",
+    "outcomes": {
+      "youtube": {
+        "platform": "youtube",
+        "ok": true,
+        "videoId": "iE8vvWc5VOA",
+        "url": "https://youtube.com/shorts/iE8vvWc5VOA"
+      },
+      "zernio": {
+        "platform": "zernio",
+        "ok": false,
+        "error": "HTTP Error 413: Request Entity Too Large"
+      }
+    }
+  }
+]
