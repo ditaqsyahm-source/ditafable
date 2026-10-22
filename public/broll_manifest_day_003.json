@@ -1,0 +1,42 @@
+[
+  {
+    "scene_id": "SCENE_01",
+    "timeStart": 0.0,
+    "timeEnd": 3.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_003/scene_01.jpg",
+    "description": "Dynamic 3D Pixar scene of an arrogant fast white bunny rabbit sprinting leaving a trail of golden sp"
+  },
+  {
+    "scene_id": "SCENE_02",
+    "timeStart": 3.0,
+    "timeEnd": 15.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_003/scene_02.jpg",
+    "description": "Gentle close-up of the adorable little tortoise with big wise soulful eyes smiling patiently, steppi"
+  },
+  {
+    "scene_id": "SCENE_03",
+    "timeStart": 15.0,
+    "timeEnd": 35.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_003/scene_03.jpg",
+    "description": "Split composition 3D render: Left side shows the white rabbit fast asleep under a giant glowing purp"
+  },
+  {
+    "scene_id": "SCENE_04",
+    "timeStart": 35.0,
+    "timeEnd": 50.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_003/scene_04.jpg",
+    "description": "Breathtaking sunset over fairytale lotus lake, warm orange and violet sky, the little tortoise smili"
+  },
+  {
+    "scene_id": "SCENE_05",
+    "timeStart": 50.0,
+    "timeEnd": 59.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_003/scene_05.jpg",
+    "description": "Panoramic view of magical lotus lake at dusk under first twinkling evening star, serene floating lan"
+  }
+]

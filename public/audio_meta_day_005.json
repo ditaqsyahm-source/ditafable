@@ -1,0 +1,221 @@
+{
+  "channel_id": "DITA-04",
+  "channel_name": "Dita Dongeng & Fabel",
+  "channel_handle": "@ditafable",
+  "audio_path": "public/voiceover_day_005.mp3",
+  "voice": "id-ID-GadisNeural",
+  "rate": "-3%",
+  "total_words": 97,
+  "duration_seconds": 58.63,
+  "duration_frames": 1407,
+  "fps": 24,
+  "sentences": [
+    {
+      "start": 0.05,
+      "end": 8.143,
+      "duration": 8.093,
+      "text": "Saat amarahmu membakar seperti api di dalam dada, jangan biarkan cakar tajammu merusak segalanya."
+    },
+    {
+      "start": 8.143,
+      "end": 14.328,
+      "duration": 6.186,
+      "text": "Balu si beruang cilik menggeram marah karena menara batunya roboh tertiup angin."
+    },
+    {
+      "start": 14.328,
+      "end": 17.975,
+      "duration": 3.647,
+      "text": "Ia ingin membanting semua mainannya."
+    },
+    {
+      "start": 17.975,
+      "end": 33.388,
+      "duration": 15.412,
+      "text": "Kakek Beruang perlahan duduk di sampingnya, meletakkan tangan hangatnya di dada Balu, lalu berbisik lembut: 'Tarik napas dalam seperti mencium wangi bunga hutan, lalu hembuskan pelan seperti meniup daun kering.'"
+    },
+    {
+      "start": 33.388,
+      "end": 36.699,
+      "duration": 3.312,
+      "text": "Balu menarik napas tiga kali."
+    },
+    {
+      "start": 36.699,
+      "end": 43.078,
+      "duration": 6.379,
+      "text": "Perlahan, detak jantungnya mereda dan amarahnya larut bagai embun pagi."
+    },
+    {
+      "start": 43.078,
+      "end": 47.009,
+      "duration": 3.93,
+      "text": "Marah itu tamu sementara, Balu."
+    },
+    {
+      "start": 47.009,
+      "end": 51.493,
+      "duration": 4.485,
+      "text": "Jangan biarkan ia merusak kedamaian hatimu.'"
+    },
+    {
+      "start": 51.493,
+      "end": 55.218,
+      "duration": 3.724,
+      "text": "Ketenangan adalah kekuatan terbesarmu."
+    },
+    {
+      "start": 55.218,
+      "end": 58.607,
+      "duration": 3.389,
+      "text": "Maka saat rasa kesal mulai datang..."
+    }
+  ],
+  "timed_subtitles": [
+    {
+      "start": 0.05,
+      "end": 2.633,
+      "text": "Saat amarahmu membakar seperti"
+    },
+    {
+      "start": 2.633,
+      "end": 4.183,
+      "text": "api di dalam dada,"
+    },
+    {
+      "start": 4.183,
+      "end": 6.593,
+      "text": "jangan biarkan cakar tajammu"
+    },
+    {
+      "start": 6.593,
+      "end": 8.143,
+      "text": "merusak segalanya."
+    },
+    {
+      "start": 8.143,
+      "end": 9.808,
+      "text": "Balu si beruang cilik"
+    },
+    {
+      "start": 9.808,
+      "end": 12.108,
+      "text": "menggeram marah karena menara"
+    },
+    {
+      "start": 12.108,
+      "end": 14.328,
+      "text": "batunya roboh tertiup angin."
+    },
+    {
+      "start": 14.328,
+      "end": 16.933,
+      "text": "Ia ingin membanting semua"
+    },
+    {
+      "start": 16.933,
+      "end": 17.975,
+      "text": "mainannya."
+    },
+    {
+      "start": 17.975,
+      "end": 20.091,
+      "text": "Kakek Beruang perlahan duduk"
+    },
+    {
+      "start": 20.091,
+      "end": 22.508,
+      "text": "di sampingnya, meletakkan tangan"
+    },
+    {
+      "start": 22.508,
+      "end": 24.246,
+      "text": "hangatnya di dada Balu,"
+    },
+    {
+      "start": 24.246,
+      "end": 26.361,
+      "text": "lalu berbisik lembut: 'Tarik"
+    },
+    {
+      "start": 26.361,
+      "end": 28.401,
+      "text": "napas dalam seperti mencium"
+    },
+    {
+      "start": 28.401,
+      "end": 30.139,
+      "text": "wangi bunga hutan, lalu"
+    },
+    {
+      "start": 30.139,
+      "end": 32.406,
+      "text": "hembuskan pelan seperti meniup"
+    },
+    {
+      "start": 32.406,
+      "end": 33.388,
+      "text": "daun kering.'"
+    },
+    {
+      "start": 33.388,
+      "end": 36.108,
+      "text": "Balu menarik napas tiga"
+    },
+    {
+      "start": 36.108,
+      "end": 36.699,
+      "text": "kali."
+    },
+    {
+      "start": 36.699,
+      "end": 39.75,
+      "text": "Perlahan, detak jantungnya mereda"
+    },
+    {
+      "start": 39.75,
+      "end": 42.061,
+      "text": "dan amarahnya larut bagai"
+    },
+    {
+      "start": 42.061,
+      "end": 43.078,
+      "text": "embun pagi."
+    },
+    {
+      "start": 43.078,
+      "end": 46.354,
+      "text": "Marah itu tamu sementara,"
+    },
+    {
+      "start": 46.354,
+      "end": 47.009,
+      "text": "Balu."
+    },
+    {
+      "start": 47.009,
+      "end": 49.616,
+      "text": "Jangan biarkan ia merusak"
+    },
+    {
+      "start": 49.616,
+      "end": 51.493,
+      "text": "kedamaian hatimu.'"
+    },
+    {
+      "start": 51.493,
+      "end": 55.218,
+      "text": "Ketenangan adalah kekuatan terbesarmu."
+    },
+    {
+      "start": 55.218,
+      "end": 57.155,
+      "text": "Maka saat rasa kesal"
+    },
+    {
+      "start": 57.155,
+      "end": 58.607,
+      "text": "mulai datang..."
+    }
+  ]
+}

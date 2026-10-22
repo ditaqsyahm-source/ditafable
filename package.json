@@ -9,6 +9,7 @@
     "render:720p": "tsx scripts/render-video.ts --comp FableStorybookShorts720p --out output/dita_fable_day_001_preview720p.mp4",
     "render:1080p": "tsx scripts/render-video.ts --comp FableStorybookShorts --out output/dita_fable_day_001_master.mp4",
     "tts": "python scripts/generate-voiceover.py",
+    "plates": "python scripts/build_day_plates.py",
     "broll": "python scripts/fetch-broll.py",
     "pipeline": "tsx scripts/pipeline-daily.ts",
     "publish": "python scripts/publish_video.py",

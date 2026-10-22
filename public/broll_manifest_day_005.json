@@ -1,0 +1,42 @@
+[
+  {
+    "scene_id": "SCENE_01",
+    "timeStart": 0.0,
+    "timeEnd": 3.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_005/scene_01.jpg",
+    "description": "Furious cute little 3D Pixar brown bear cub with claws out standing over a collapsed tower of river "
+  },
+  {
+    "scene_id": "SCENE_02",
+    "timeStart": 3.0,
+    "timeEnd": 15.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_005/scene_02.jpg",
+    "description": "Gentle contrast scene: An enormous kind silver-tipped grandfather bear sitting quietly beside the an"
+  },
+  {
+    "scene_id": "SCENE_03",
+    "timeStart": 15.0,
+    "timeEnd": 35.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_005/scene_03.jpg",
+    "description": "Deeply soothing emotional close-up: Grandfather bear placing a giant fluffy soft paw gently over the"
+  },
+  {
+    "scene_id": "SCENE_04",
+    "timeStart": 35.0,
+    "timeEnd": 50.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_005/scene_04.jpg",
+    "description": "Heartwarming peaceful scene: The bear cub with closed eyes leaning head against grandfather bear sho"
+  },
+  {
+    "scene_id": "SCENE_05",
+    "timeStart": 50.0,
+    "timeEnd": 59.12,
+    "videoSrc": null,
+    "imageSrc": "images/day_005/scene_05.jpg",
+    "description": "Panoramic dusk landscape of fairytale waterfall under evening stars and gentle purple twilight sky, "
+  }
+]

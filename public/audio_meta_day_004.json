@@ -1,0 +1,210 @@
+{
+  "channel_id": "DITA-04",
+  "channel_name": "Dita Dongeng & Fabel",
+  "channel_handle": "@ditafable",
+  "audio_path": "public/voiceover_day_004.mp3",
+  "voice": "id-ID-GadisNeural",
+  "rate": "-3%",
+  "total_words": 98,
+  "duration_seconds": 54.62,
+  "duration_frames": 1311,
+  "fps": 24,
+  "sentences": [
+    {
+      "start": 0.05,
+      "end": 7.564,
+      "duration": 7.514,
+      "text": "Pernahkah kamu melihat burung merak yang begitu bangga dengan bulunya, sampai lupa menyapa sahabatnya?"
+    },
+    {
+      "start": 7.564,
+      "end": 14.277,
+      "duration": 6.713,
+      "text": "Miko si merak emas selalu memamerkan ekornya yang berkilau di hadapan burung pipit kecil."
+    },
+    {
+      "start": 14.277,
+      "end": 20.952,
+      "duration": 6.675,
+      "text": "Lihat, buluku adalah yang paling indah di seluruh rimba!' serunya sombong."
+    },
+    {
+      "start": 20.952,
+      "end": 27.537,
+      "duration": 6.585,
+      "text": "Suatu sore, angin kencang menghembuskan duri-duri tajam yang tersangkut di sayapnya."
+    },
+    {
+      "start": 27.537,
+      "end": 30.72,
+      "duration": 3.183,
+      "text": "Miko terjatuh tak berdaya."
+    },
+    {
+      "start": 30.72,
+      "end": 39.032,
+      "duration": 8.312,
+      "text": "Si burung pipit kecil yang sederhana segera datang membawakan air dan mencabut duri itu satu per satu dengan sabar."
+    },
+    {
+      "start": 39.032,
+      "end": 46.674,
+      "duration": 7.642,
+      "text": "Miko menangis terharu dan berbisik: 'Bulu indahku tak ada gunanya tanpa sahabat yang tulus.'"
+    },
+    {
+      "start": 46.674,
+      "end": 51.094,
+      "duration": 4.42,
+      "text": "Keindahan sejati terpancar dari kerendahan hati."
+    },
+    {
+      "start": 51.094,
+      "end": 54.612,
+      "duration": 3.518,
+      "text": "Kisah ini mengajarkan kita mengapa..."
+    }
+  ],
+  "timed_subtitles": [
+    {
+      "start": 0.05,
+      "end": 2.251,
+      "text": "Pernahkah kamu melihat burung"
+    },
+    {
+      "start": 2.251,
+      "end": 4.073,
+      "text": "merak yang begitu bangga"
+    },
+    {
+      "start": 4.073,
+      "end": 6.122,
+      "text": "dengan bulunya, sampai lupa"
+    },
+    {
+      "start": 6.122,
+      "end": 7.564,
+      "text": "menyapa sahabatnya?"
+    },
+    {
+      "start": 7.564,
+      "end": 8.969,
+      "text": "Miko si merak emas"
+    },
+    {
+      "start": 8.969,
+      "end": 11.311,
+      "text": "selalu memamerkan ekornya yang"
+    },
+    {
+      "start": 11.311,
+      "end": 13.34,
+      "text": "berkilau di hadapan burung"
+    },
+    {
+      "start": 13.34,
+      "end": 14.277,
+      "text": "pipit kecil."
+    },
+    {
+      "start": 14.277,
+      "end": 16.595,
+      "text": "Lihat, buluku adalah yang"
+    },
+    {
+      "start": 16.595,
+      "end": 18.727,
+      "text": "paling indah di seluruh"
+    },
+    {
+      "start": 18.727,
+      "end": 20.952,
+      "text": "rimba!' serunya sombong."
+    },
+    {
+      "start": 20.952,
+      "end": 22.96,
+      "text": "Suatu sore, angin kencang"
+    },
+    {
+      "start": 22.96,
+      "end": 25.69,
+      "text": "menghembuskan duri-duri tajam yang"
+    },
+    {
+      "start": 25.69,
+      "end": 27.537,
+      "text": "tersangkut di sayapnya."
+    },
+    {
+      "start": 27.537,
+      "end": 30.72,
+      "text": "Miko terjatuh tak berdaya."
+    },
+    {
+      "start": 30.72,
+      "end": 32.293,
+      "text": "Si burung pipit kecil"
+    },
+    {
+      "start": 32.293,
+      "end": 34.389,
+      "text": "yang sederhana segera datang"
+    },
+    {
+      "start": 34.389,
+      "end": 36.411,
+      "text": "membawakan air dan mencabut"
+    },
+    {
+      "start": 36.411,
+      "end": 37.684,
+      "text": "duri itu satu per"
+    },
+    {
+      "start": 37.684,
+      "end": 39.032,
+      "text": "satu dengan sabar."
+    },
+    {
+      "start": 39.032,
+      "end": 41.179,
+      "text": "Miko menangis terharu dan"
+    },
+    {
+      "start": 41.179,
+      "end": 43.497,
+      "text": "berbisik: 'Bulu indahku tak"
+    },
+    {
+      "start": 43.497,
+      "end": 45.644,
+      "text": "ada gunanya tanpa sahabat"
+    },
+    {
+      "start": 45.644,
+      "end": 46.674,
+      "text": "yang tulus.'"
+    },
+    {
+      "start": 46.674,
+      "end": 49.589,
+      "text": "Keindahan sejati terpancar dari"
+    },
+    {
+      "start": 49.589,
+      "end": 51.094,
+      "text": "kerendahan hati."
+    },
+    {
+      "start": 51.094,
+      "end": 53.635,
+      "text": "Kisah ini mengajarkan kita"
+    },
+    {
+      "start": 53.635,
+      "end": 54.612,
+      "text": "mengapa..."
+    }
+  ]
+}

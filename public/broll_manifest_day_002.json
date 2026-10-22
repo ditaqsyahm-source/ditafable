@@ -1,0 +1,42 @@
+[
+  {
+    "scene_id": "SCENE_01",
+    "timeStart": 0.0,
+    "timeEnd": 3.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_002/scene_01.jpg",
+    "description": "Adorable cute 3D Pixar style little hedgehog walking lonely on wet mossy forest trail, dark moody st"
+  },
+  {
+    "scene_id": "SCENE_02",
+    "timeStart": 3.0,
+    "timeEnd": 15.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_002/scene_02.jpg",
+    "description": "Heartbreaking emotional close-up of the cute little hedgehog sitting under a giant green taro leaf, "
+  },
+  {
+    "scene_id": "SCENE_03",
+    "timeStart": 15.0,
+    "timeEnd": 35.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_002/scene_03.jpg",
+    "description": "Heroic heartwarming scene in heavy forest rain, the brave little hedgehog curling into a protective "
+  },
+  {
+    "scene_id": "SCENE_04",
+    "timeStart": 35.0,
+    "timeEnd": 50.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_002/scene_04.jpg",
+    "description": "Golden sunrise in enchanted fairytale forest, beautiful glowing queen bee crowning the smiling littl"
+  },
+  {
+    "scene_id": "SCENE_05",
+    "timeStart": 50.0,
+    "timeEnd": 58.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_002/scene_05.jpg",
+    "description": "Peaceful morning landscape of enchanted woodland forest bathed in soft pastel sunbeams, blooming col"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "scene_id": "SCENE_01",
+    "timeStart": 0.0,
+    "timeEnd": 3.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_007/scene_01.jpg",
+    "description": "Breathtaking enchanted fairytale forest at twilight, purple and deep indigo starry sky with first ev"
+  },
+  {
+    "scene_id": "SCENE_02",
+    "timeStart": 3.0,
+    "timeEnd": 15.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_007/scene_02.jpg",
+    "description": "Ultra-cute baby fawn deer resting head on a bed of plush emerald green moss, sleepy heavy eyes blink"
+  },
+  {
+    "scene_id": "SCENE_03",
+    "timeStart": 15.0,
+    "timeEnd": 35.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_007/scene_03.jpg",
+    "description": "Magical emotional scene: Mother deer gently nuzzling baby fawn forehead with immense tenderness, hun"
+  },
+  {
+    "scene_id": "SCENE_04",
+    "timeStart": 35.0,
+    "timeEnd": 50.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_007/scene_04.jpg",
+    "description": "Heartwarming peaceful sleeping portrait: Baby deer sleeping soundly with a gentle peaceful smile, mo"
+  },
+  {
+    "scene_id": "SCENE_05",
+    "timeStart": 50.0,
+    "timeEnd": 58.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_007/scene_05.jpg",
+    "description": "Serene panoramic view of the sleeping magical fairytale woodland sanctuary under crescent moon, twin"
+  }
+]

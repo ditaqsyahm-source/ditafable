@@ -1,0 +1,42 @@
+[
+  {
+    "scene_id": "SCENE_01",
+    "timeStart": 0.0,
+    "timeEnd": 3.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_006/scene_01.jpg",
+    "description": "Cinematic close-up of a dry forest twig snapping with sharp wood chips, transitioning to an unbreaka"
+  },
+  {
+    "scene_id": "SCENE_02",
+    "timeStart": 3.0,
+    "timeEnd": 15.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_006/scene_02.jpg",
+    "description": "Charming Pixar scene of a fast fluffy squirrel with a big tail on a high oak tree branch and a cute "
+  },
+  {
+    "scene_id": "SCENE_03",
+    "timeStart": 15.0,
+    "timeEnd": 35.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_006/scene_03.jpg",
+    "description": "Action montage: The agile squirrel leaping across tree vines tying rope knots, while the strong beav"
+  },
+  {
+    "scene_id": "SCENE_04",
+    "timeStart": 35.0,
+    "timeEnd": 50.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_006/scene_04.jpg",
+    "description": "Heartwarming celebration: The squirrel and beaver giving a cheerful high-five on the newly completed"
+  },
+  {
+    "scene_id": "SCENE_05",
+    "timeStart": 50.0,
+    "timeEnd": 58.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_006/scene_05.jpg",
+    "description": "Magical dusk panoramic view of the wooden forest bridge spanning over the calm evening river under a"
+  }
+]

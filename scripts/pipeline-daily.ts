@@ -64,7 +64,8 @@ async function runDailyPipeline() {
   if (!fs.existsSync(audioFile) || fs.statSync(audioFile).size < 1000) {
     console.log(`
 --- Step 1: Synthesizing Warm Bedtime Voiceover ---`);
-    execSync(`python scripts/generate-voiceover.py "${packetPath}" "${audioFile}" "public/audio_meta.json"`, {
+    const metaPath = `public/audio_meta_day_${dayStr}.json`;
+    execSync(`python scripts/generate-voiceover.py "${packetPath}" "${audioFile}" "${metaPath}"`, {
       stdio: "inherit",
     });
   } else {

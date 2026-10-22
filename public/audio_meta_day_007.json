@@ -1,0 +1,204 @@
+{
+  "channel_id": "DITA-04",
+  "channel_name": "Dita Dongeng & Fabel",
+  "channel_handle": "@ditafable",
+  "audio_path": "public/voiceover_day_007.mp3",
+  "voice": "id-ID-GadisNeural",
+  "rate": "-3%",
+  "total_words": 100,
+  "duration_seconds": 57.43,
+  "duration_frames": 1378,
+  "fps": 24,
+  "sentences": [
+    {
+      "start": 0.05,
+      "end": 7.382,
+      "duration": 7.332,
+      "text": "Malam telah turun menyelimuti dahan pohon kenari, dan bintang kecil mulai berkedip lembut di langit."
+    },
+    {
+      "start": 7.382,
+      "end": 12.949,
+      "duration": 5.567,
+      "text": "Roni si rusa kecil merebahkan kepalanya di atas lumut hijau yang empuk."
+    },
+    {
+      "start": 12.949,
+      "end": 20.578,
+      "duration": 7.629,
+      "text": "Ibu, apakah besok hutan masih seindah hari ini?' bisiknya dengan mata yang mulai mengantuk."
+    },
+    {
+      "start": 20.578,
+      "end": 33.014,
+      "duration": 12.436,
+      "text": "Ibu Rusa mengelus kepalanya lembut dan berbisik: 'Selama hatimu dipenuhi rasa syukur dan kasih sayang, setiap fajar akan membawa keajaiban baru, sayangku.'"
+    },
+    {
+      "start": 33.014,
+      "end": 39.934,
+      "duration": 6.92,
+      "text": "Ratusan kunang-kunang menyalakan lenteranya, menyanyikan simfoni angin malam yang syahdu."
+    },
+    {
+      "start": 39.934,
+      "end": 44.87,
+      "duration": 4.936,
+      "text": "Pejamkan matamu, lepaskan semua lelah hari ini."
+    },
+    {
+      "start": 44.87,
+      "end": 51.081,
+      "duration": 6.211,
+      "text": "Kamu anak yang hebat, berani, dan selalu dicintai seutuhnya."
+    },
+    {
+      "start": 51.081,
+      "end": 57.421,
+      "duration": 6.34,
+      "text": "Selamat tidur bidadari dan ksatria kecil, hingga esok fajar kembali menyapa..."
+    }
+  ],
+  "timed_subtitles": [
+    {
+      "start": 0.05,
+      "end": 2.242,
+      "text": "Malam telah turun menyelimuti"
+    },
+    {
+      "start": 2.242,
+      "end": 3.981,
+      "text": "dahan pohon kenari, dan"
+    },
+    {
+      "start": 3.981,
+      "end": 6.097,
+      "text": "bintang kecil mulai berkedip"
+    },
+    {
+      "start": 6.097,
+      "end": 7.382,
+      "text": "lembut di langit."
+    },
+    {
+      "start": 7.382,
+      "end": 8.834,
+      "text": "Roni si rusa kecil"
+    },
+    {
+      "start": 8.834,
+      "end": 11.093,
+      "text": "merebahkan kepalanya di atas"
+    },
+    {
+      "start": 11.093,
+      "end": 12.949,
+      "text": "lumut hijau yang empuk."
+    },
+    {
+      "start": 12.949,
+      "end": 14.943,
+      "text": "Ibu, apakah besok hutan"
+    },
+    {
+      "start": 14.943,
+      "end": 17.024,
+      "text": "masih seindah hari ini?'"
+    },
+    {
+      "start": 17.024,
+      "end": 19.191,
+      "text": "bisiknya dengan mata yang"
+    },
+    {
+      "start": 19.191,
+      "end": 20.578,
+      "text": "mulai mengantuk."
+    },
+    {
+      "start": 20.578,
+      "end": 22.816,
+      "text": "Ibu Rusa mengelus kepalanya"
+    },
+    {
+      "start": 22.816,
+      "end": 25.138,
+      "text": "lembut dan berbisik: 'Selama"
+    },
+    {
+      "start": 25.138,
+      "end": 27.376,
+      "text": "hatimu dipenuhi rasa syukur"
+    },
+    {
+      "start": 27.376,
+      "end": 29.366,
+      "text": "dan kasih sayang, setiap"
+    },
+    {
+      "start": 29.366,
+      "end": 31.687,
+      "text": "fajar akan membawa keajaiban"
+    },
+    {
+      "start": 31.687,
+      "end": 33.014,
+      "text": "baru, sayangku.'"
+    },
+    {
+      "start": 33.014,
+      "end": 36.514,
+      "text": "Ratusan kunang-kunang menyalakan lenteranya,"
+    },
+    {
+      "start": 36.514,
+      "end": 38.98,
+      "text": "menyanyikan simfoni angin malam"
+    },
+    {
+      "start": 38.98,
+      "end": 39.934,
+      "text": "yang syahdu."
+    },
+    {
+      "start": 39.934,
+      "end": 43.26,
+      "text": "Pejamkan matamu, lepaskan semua"
+    },
+    {
+      "start": 43.26,
+      "end": 44.87,
+      "text": "lelah hari ini."
+    },
+    {
+      "start": 44.87,
+      "end": 47.119,
+      "text": "Kamu anak yang hebat,"
+    },
+    {
+      "start": 47.119,
+      "end": 50.01,
+      "text": "berani, dan selalu dicintai"
+    },
+    {
+      "start": 50.01,
+      "end": 51.081,
+      "text": "seutuhnya."
+    },
+    {
+      "start": 51.081,
+      "end": 53.25,
+      "text": "Selamat tidur bidadari dan"
+    },
+    {
+      "start": 53.25,
+      "end": 55.419,
+      "text": "ksatria kecil, hingga esok"
+    },
+    {
+      "start": 55.419,
+      "end": 57.421,
+      "text": "fajar kembali menyapa..."
+    }
+  ]
+}

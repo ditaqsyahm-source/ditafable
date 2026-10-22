@@ -1,0 +1,194 @@
+{
+  "channel_id": "DITA-04",
+  "channel_name": "Dita Dongeng & Fabel",
+  "channel_handle": "@ditafable",
+  "audio_path": "public/voiceover_day_006.mp3",
+  "voice": "id-ID-GadisNeural",
+  "rate": "-3%",
+  "total_words": 94,
+  "duration_seconds": 54.0,
+  "duration_frames": 1296,
+  "fps": 24,
+  "sentences": [
+    {
+      "start": 0.05,
+      "end": 8.156,
+      "duration": 8.106,
+      "text": "Satu ranting pohon mudah sekali patah, tapi tahukah kamu apa yang terjadi jika seratus ranting disatukan?"
+    },
+    {
+      "start": 8.156,
+      "end": 16.403,
+      "duration": 8.247,
+      "text": "Tupi si tupai lincah ingin menyeberangi sungai deras untuk memetik kenari matang, tapi ia tak bisa berenang."
+    },
+    {
+      "start": 16.403,
+      "end": 23.877,
+      "duration": 7.474,
+      "text": "Di tepi sungai, Bobi si berang-berang punya kayu gelondongan kokoh, tapi tak bisa memanjat."
+    },
+    {
+      "start": 23.877,
+      "end": 27.924,
+      "duration": 4.046,
+      "text": "Mereka berhenti saling menyombongkan kelebihan."
+    },
+    {
+      "start": 27.924,
+      "end": 36.042,
+      "duration": 8.119,
+      "text": "Tupi melompat gesit membawa tali ke puncak dahan, sementara Bobi menyusun batang kayu di dasar sungai."
+    },
+    {
+      "start": 36.042,
+      "end": 40.565,
+      "duration": 4.523,
+      "text": "Dalam sekejap, jembatan kokoh berdiri megah."
+    },
+    {
+      "start": 40.565,
+      "end": 50.604,
+      "duration": 10.039,
+      "text": "Burung Hantu Bijak berseru: 'Saat dua sahabat bergandeng tangan, rintangan terbesar pun berubah menjadi jalan kebahagiaan.'"
+    },
+    {
+      "start": 50.604,
+      "end": 53.993,
+      "duration": 3.389,
+      "text": "Ingatlah rahasia persahabatan ini..."
+    }
+  ],
+  "timed_subtitles": [
+    {
+      "start": 0.05,
+      "end": 1.957,
+      "text": "Satu ranting pohon mudah"
+    },
+    {
+      "start": 1.957,
+      "end": 4.024,
+      "text": "sekali patah, tapi tahukah"
+    },
+    {
+      "start": 4.024,
+      "end": 5.692,
+      "text": "kamu apa yang terjadi"
+    },
+    {
+      "start": 5.692,
+      "end": 8.156,
+      "text": "jika seratus ranting disatukan?"
+    },
+    {
+      "start": 8.156,
+      "end": 9.742,
+      "text": "Tupi si tupai lincah"
+    },
+    {
+      "start": 9.742,
+      "end": 12.2,
+      "text": "ingin menyeberangi sungai deras"
+    },
+    {
+      "start": 12.2,
+      "end": 14.421,
+      "text": "untuk memetik kenari matang,"
+    },
+    {
+      "start": 14.421,
+      "end": 15.689,
+      "text": "tapi ia tak bisa"
+    },
+    {
+      "start": 15.689,
+      "end": 16.403,
+      "text": "berenang."
+    },
+    {
+      "start": 16.403,
+      "end": 18.102,
+      "text": "Di tepi sungai, Bobi"
+    },
+    {
+      "start": 18.102,
+      "end": 20.395,
+      "text": "si berang-berang punya kayu"
+    },
+    {
+      "start": 20.395,
+      "end": 22.688,
+      "text": "gelondongan kokoh, tapi tak"
+    },
+    {
+      "start": 22.688,
+      "end": 23.877,
+      "text": "bisa memanjat."
+    },
+    {
+      "start": 23.877,
+      "end": 27.044,
+      "text": "Mereka berhenti saling menyombongkan"
+    },
+    {
+      "start": 27.044,
+      "end": 27.924,
+      "text": "kelebihan."
+    },
+    {
+      "start": 27.924,
+      "end": 30.138,
+      "text": "Tupi melompat gesit membawa"
+    },
+    {
+      "start": 30.138,
+      "end": 31.86,
+      "text": "tali ke puncak dahan,"
+    },
+    {
+      "start": 31.86,
+      "end": 34.32,
+      "text": "sementara Bobi menyusun batang"
+    },
+    {
+      "start": 34.32,
+      "end": 36.042,
+      "text": "kayu di dasar sungai."
+    },
+    {
+      "start": 36.042,
+      "end": 39.092,
+      "text": "Dalam sekejap, jembatan kokoh"
+    },
+    {
+      "start": 39.092,
+      "end": 40.565,
+      "text": "berdiri megah."
+    },
+    {
+      "start": 40.565,
+      "end": 42.824,
+      "text": "Burung Hantu Bijak berseru:"
+    },
+    {
+      "start": 42.824,
+      "end": 45.166,
+      "text": "'Saat dua sahabat bergandeng"
+    },
+    {
+      "start": 45.166,
+      "end": 47.676,
+      "text": "tangan, rintangan terbesar pun"
+    },
+    {
+      "start": 47.676,
+      "end": 50.604,
+      "text": "berubah menjadi jalan kebahagiaan.'"
+    },
+    {
+      "start": 50.604,
+      "end": 53.993,
+      "text": "Ingatlah rahasia persahabatan ini..."
+    }
+  ]
+}

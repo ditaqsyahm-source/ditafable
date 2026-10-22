@@ -1,0 +1,221 @@
+{
+  "channel_id": "DITA-04",
+  "channel_name": "Dita Dongeng & Fabel",
+  "channel_handle": "@ditafable",
+  "audio_path": "public/voiceover_day_003.mp3",
+  "voice": "id-ID-GadisNeural",
+  "rate": "-3%",
+  "total_words": 101,
+  "duration_seconds": 58.51,
+  "duration_frames": 1404,
+  "fps": 24,
+  "sentences": [
+    {
+      "start": 0.05,
+      "end": 6.868,
+      "duration": 6.818,
+      "text": "Kelinci melompat cepat sambil menertawakan kura-kura kecil yang berjalan selangkah demi selangkah."
+    },
+    {
+      "start": 6.868,
+      "end": 14.161,
+      "duration": 7.293,
+      "text": "Hei Kuki, danau itu terlalu luas, kamu takkan pernah sampai sebelum malam!'"
+    },
+    {
+      "start": 14.161,
+      "end": 19.096,
+      "duration": 4.936,
+      "text": "Namun Kuki tetap tenang dan tidak menghiraukan ejekan itu."
+    },
+    {
+      "start": 19.096,
+      "end": 23.297,
+      "duration": 4.201,
+      "text": "Ia hanya fokus pada satu langkah di depannya."
+    },
+    {
+      "start": 23.297,
+      "end": 28.388,
+      "duration": 5.09,
+      "text": "Satu langkah, dua langkah, lalu tiga langkah."
+    },
+    {
+      "start": 28.388,
+      "end": 34.998,
+      "duration": 6.611,
+      "text": "Di tengah jalan, kelinci tertidur pulas karena merasa sudah terlalu jauh di depan."
+    },
+    {
+      "start": 34.998,
+      "end": 42.305,
+      "duration": 7.307,
+      "text": "Saat matahari terbenam menyinari danau teratai, Kuki telah tersenyum damai di seberang pulau."
+    },
+    {
+      "start": 42.305,
+      "end": 51.364,
+      "duration": 9.059,
+      "text": "Guru Bangau berbisik bijak: 'Bukan siapa yang paling cepat melompat, tapi siapa yang setia melangkah tanpa henti.'"
+    },
+    {
+      "start": 51.364,
+      "end": 55.527,
+      "duration": 4.162,
+      "text": "Kesabaran selalu menuntunmu pulang dengan selamat."
+    },
+    {
+      "start": 55.527,
+      "end": 58.491,
+      "duration": 2.964,
+      "text": "Ingatlah perjuangan Kuki saat..."
+    }
+  ],
+  "timed_subtitles": [
+    {
+      "start": 0.05,
+      "end": 2.11,
+      "text": "Kelinci melompat cepat sambil"
+    },
+    {
+      "start": 2.11,
+      "end": 4.453,
+      "text": "menertawakan kura-kura kecil yang"
+    },
+    {
+      "start": 4.453,
+      "end": 6.868,
+      "text": "berjalan selangkah demi selangkah."
+    },
+    {
+      "start": 6.868,
+      "end": 8.766,
+      "text": "Hei Kuki, danau itu"
+    },
+    {
+      "start": 8.766,
+      "end": 11.264,
+      "text": "terlalu luas, kamu takkan"
+    },
+    {
+      "start": 11.264,
+      "end": 14.161,
+      "text": "pernah sampai sebelum malam!'"
+    },
+    {
+      "start": 14.161,
+      "end": 16.188,
+      "text": "Namun Kuki tetap tenang"
+    },
+    {
+      "start": 16.188,
+      "end": 18.743,
+      "text": "dan tidak menghiraukan ejekan"
+    },
+    {
+      "start": 18.743,
+      "end": 19.096,
+      "text": "itu."
+    },
+    {
+      "start": 19.096,
+      "end": 20.91,
+      "text": "Ia hanya fokus pada"
+    },
+    {
+      "start": 20.91,
+      "end": 23.297,
+      "text": "satu langkah di depannya."
+    },
+    {
+      "start": 23.297,
+      "end": 26.305,
+      "text": "Satu langkah, dua langkah,"
+    },
+    {
+      "start": 26.305,
+      "end": 28.388,
+      "text": "lalu tiga langkah."
+    },
+    {
+      "start": 28.388,
+      "end": 30.396,
+      "text": "Di tengah jalan, kelinci"
+    },
+    {
+      "start": 30.396,
+      "end": 32.739,
+      "text": "tertidur pulas karena merasa"
+    },
+    {
+      "start": 32.739,
+      "end": 34.496,
+      "text": "sudah terlalu jauh di"
+    },
+    {
+      "start": 34.496,
+      "end": 34.998,
+      "text": "depan."
+    },
+    {
+      "start": 34.998,
+      "end": 37.596,
+      "text": "Saat matahari terbenam menyinari"
+    },
+    {
+      "start": 37.596,
+      "end": 39.626,
+      "text": "danau teratai, Kuki telah"
+    },
+    {
+      "start": 39.626,
+      "end": 41.818,
+      "text": "tersenyum damai di seberang"
+    },
+    {
+      "start": 41.818,
+      "end": 42.305,
+      "text": "pulau."
+    },
+    {
+      "start": 42.305,
+      "end": 44.529,
+      "text": "Guru Bangau berbisik bijak:"
+    },
+    {
+      "start": 44.529,
+      "end": 46.505,
+      "text": "'Bukan siapa yang paling"
+    },
+    {
+      "start": 46.505,
+      "end": 48.646,
+      "text": "cepat melompat, tapi siapa"
+    },
+    {
+      "start": 48.646,
+      "end": 50.788,
+      "text": "yang setia melangkah tanpa"
+    },
+    {
+      "start": 50.788,
+      "end": 51.364,
+      "text": "henti.'"
+    },
+    {
+      "start": 51.364,
+      "end": 54.253,
+      "text": "Kesabaran selalu menuntunmu pulang"
+    },
+    {
+      "start": 54.253,
+      "end": 55.527,
+      "text": "dengan selamat."
+    },
+    {
+      "start": 55.527,
+      "end": 58.491,
+      "text": "Ingatlah perjuangan Kuki saat..."
+    }
+  ]
+}

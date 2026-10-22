@@ -388,11 +388,23 @@ def main():
             caption = dist_meta.get("caption") or caption
             tags = dist_meta.get("tags") or tags
 
-    thumb_file = os.path.join(ROOT_DIR, "output", "preview_frames", "frame_05_kakek_beruang_memeluk.jpg")
-    if not os.path.exists(thumb_file):
-        thumb_file = os.path.join(ROOT_DIR, "output", "preview_frames", "frame_42s_moral_hug.jpg")
-    if not os.path.exists(thumb_file):
-        thumb_file = None
+    thumb_file = None
+    frames_dir = os.path.join(ROOT_DIR, "output", "preview_frames")
+    candidate_names = [
+        f"thumb_day_{day_str}.jpg",
+        "frame_05_kakek_beruang_memeluk.jpg",
+        "frame_04_pintu_pengakuan_jujur.jpg",
+        "frame_03_jalan_setapak_kabut.jpg",
+    ]
+    for c in candidate_names:
+        p = os.path.join(frames_dir, c)
+        if os.path.exists(p):
+            thumb_file = p
+            break
+    if not thumb_file and os.path.exists(frames_dir):
+        files = [os.path.join(frames_dir, f) for f in os.listdir(frames_dir) if f.endswith(".jpg")]
+        if files:
+            thumb_file = files[0]
 
     if args.dry_run:
         print("[DRY-RUN] Title:", title)

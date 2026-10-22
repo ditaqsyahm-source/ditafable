@@ -1,0 +1,42 @@
+[
+  {
+    "scene_id": "SCENE_01",
+    "timeStart": 0.0,
+    "timeEnd": 3.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_004/scene_01.jpg",
+    "description": "Magnificent young 3D Pixar peacock showing off his iridescent emerald and gold glowing tail feathers"
+  },
+  {
+    "scene_id": "SCENE_02",
+    "timeStart": 3.0,
+    "timeEnd": 15.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_004/scene_02.jpg",
+    "description": "Heartwarming contrasting scene of the proud peacock strutting on an ancient mossy branch, ignoring a"
+  },
+  {
+    "scene_id": "SCENE_03",
+    "timeStart": 15.0,
+    "timeEnd": 35.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_004/scene_03.jpg",
+    "description": "Dramatic emotional scene where the peacock is trapped in thorny bramble vines on forest floor, ruffl"
+  },
+  {
+    "scene_id": "SCENE_04",
+    "timeStart": 35.0,
+    "timeEnd": 50.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_004/scene_04.jpg",
+    "description": "Tearful heartwarming close-up of the humbled peacock lowering his head with gentle loving tears, the"
+  },
+  {
+    "scene_id": "SCENE_05",
+    "timeStart": 50.0,
+    "timeEnd": 58.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_004/scene_05.jpg",
+    "description": "Cozy twilight scene of the peacock and tiny sparrow sleeping peacefully nestled together on an ancie"
+  }
+]

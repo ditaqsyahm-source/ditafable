@@ -35,8 +35,18 @@ async function main() {
   }
 
   const packet = JSON.parse(fs.readFileSync(resolvedPacket, "utf-8"));
-  const audioMetaPath = path.resolve("public/audio_meta.json");
-  const brollManifestPath = path.resolve("public/broll_manifest.json");
+  const dayNum = packet.metadata?.day_number || 1;
+  const dayStr = String(dayNum).padStart(3, "0");
+
+  const audioMetaDayPath = path.resolve(`public/audio_meta_day_${dayStr}.json`);
+  const audioMetaPath = fs.existsSync(audioMetaDayPath)
+    ? audioMetaDayPath
+    : path.resolve("public/audio_meta.json");
+
+  const brollManifestDayPath = path.resolve(`public/broll_manifest_day_${dayStr}.json`);
+  const brollManifestPath = fs.existsSync(brollManifestDayPath)
+    ? brollManifestDayPath
+    : path.resolve("public/broll_manifest.json");
 
   let durationInFrames = 1346; // ~56.1s @ 24fps
   let timedSubtitles = [];
@@ -72,18 +82,24 @@ async function main() {
 
   fs.mkdirSync(path.dirname(path.resolve(outputPath)), { recursive: true });
 
+  const audioCandidate = `voiceover_day_${dayStr}.mp3`;
+  const audioFile = fs.existsSync(path.resolve("public", audioCandidate))
+    ? audioCandidate
+    : "voiceover_day_001.mp3";
+
   const inputProps = {
     channelName: packet.metadata?.channel_name || "Dita Dongeng & Fabel",
     channelHandle: packet.metadata?.handle || "@ditafable",
     title:
       packet.social_fleet_distribution_metadata?.title ||
-      "Kancil Ciko & Apel Emas yang Terbelah",
+      packet.metadata?.cycle_theme ||
+      "Dita Dongeng & Fabel",
     script:
       packet.verbatim_script_master?.full_spoken_text_id ||
       packet.script_text ||
       "",
     timedSubtitles,
-    audioFile: "voiceover_day_001.mp3",
+    audioFile,
     bgmFile: "bgm/bgm_bedtime_lullaby.mp3",
     sfxSparkleFile: "sfx/magic_sparkle.mp3",
     scenes,

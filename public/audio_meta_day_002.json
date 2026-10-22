@@ -1,0 +1,209 @@
+{
+  "channel_id": "DITA-04",
+  "channel_name": "Dita Dongeng & Fabel",
+  "channel_handle": "@ditafable",
+  "audio_path": "public/voiceover_day_002.mp3",
+  "voice": "id-ID-GadisNeural",
+  "rate": "-3%",
+  "total_words": 107,
+  "duration_seconds": 56.71,
+  "duration_frames": 1361,
+  "fps": 24,
+  "sentences": [
+    {
+      "start": 0.05,
+      "end": 7.189,
+      "duration": 7.139,
+      "text": "Semua hewan hutan menjauhi Duri si landak kecil, sampai hujan badai datang malam itu."
+    },
+    {
+      "start": 7.189,
+      "end": 13.413,
+      "duration": 6.224,
+      "text": "Tubuhnya yang penuh duri runcing membuat kawan-kawannya takut terluka dan enggan mendekat."
+    },
+    {
+      "start": 13.413,
+      "end": 18.98,
+      "duration": 5.567,
+      "text": "Duri sering merasa sedih dan menangis sendirian di dalam sarangnya yang sepi."
+    },
+    {
+      "start": 18.98,
+      "end": 26.622,
+      "duration": 7.642,
+      "text": "Namun saat angin kencang merobohkan sarang lebah madu ke tanah basah, Duri tidak ragu sedikit pun."
+    },
+    {
+      "start": 26.622,
+      "end": 36.712,
+      "duration": 10.09,
+      "text": "Ia segera melengkungkan tubuhnya di atas sarang rapuh itu, rela menahan dinginnya air hujan demi melindungi bayi-bayi lebah sepanjang malam."
+    },
+    {
+      "start": 36.712,
+      "end": 46.609,
+      "duration": 9.897,
+      "text": "Saat fajar menyingsing indah, Ratu Lebah berbisik penuh haru: 'Duri di punggungmu tajam, tapi hatimu selembut sutra.'"
+    },
+    {
+      "start": 46.609,
+      "end": 52.292,
+      "duration": 5.683,
+      "text": "Jangan pernah menilai indahnya kebaikan hanya dari penampilan luarnya."
+    },
+    {
+      "start": 52.292,
+      "end": 56.699,
+      "duration": 4.407,
+      "text": "Ingatlah kehangatan ini setiap kali kamu mendengar..."
+    }
+  ],
+  "timed_subtitles": [
+    {
+      "start": 0.05,
+      "end": 2.314,
+      "text": "Semua hewan hutan menjauhi"
+    },
+    {
+      "start": 2.314,
+      "end": 4.142,
+      "text": "Duri si landak kecil,"
+    },
+    {
+      "start": 4.142,
+      "end": 6.318,
+      "text": "sampai hujan badai datang"
+    },
+    {
+      "start": 6.318,
+      "end": 7.189,
+      "text": "malam itu."
+    },
+    {
+      "start": 7.189,
+      "end": 8.886,
+      "text": "Tubuhnya yang penuh duri"
+    },
+    {
+      "start": 8.886,
+      "end": 11.433,
+      "text": "runcing membuat kawan-kawannya takut"
+    },
+    {
+      "start": 11.433,
+      "end": 13.413,
+      "text": "terluka dan enggan mendekat."
+    },
+    {
+      "start": 13.413,
+      "end": 15.194,
+      "text": "Duri sering merasa sedih"
+    },
+    {
+      "start": 15.194,
+      "end": 17.05,
+      "text": "dan menangis sendirian di"
+    },
+    {
+      "start": 17.05,
+      "end": 18.98,
+      "text": "dalam sarangnya yang sepi."
+    },
+    {
+      "start": 18.98,
+      "end": 20.911,
+      "text": "Namun saat angin kencang"
+    },
+    {
+      "start": 20.911,
+      "end": 23.163,
+      "text": "merobohkan sarang lebah madu"
+    },
+    {
+      "start": 23.163,
+      "end": 24.772,
+      "text": "ke tanah basah, Duri"
+    },
+    {
+      "start": 24.772,
+      "end": 26.622,
+      "text": "tidak ragu sedikit pun."
+    },
+    {
+      "start": 26.622,
+      "end": 28.996,
+      "text": "Ia segera melengkungkan tubuhnya"
+    },
+    {
+      "start": 28.996,
+      "end": 30.48,
+      "text": "di atas sarang rapuh"
+    },
+    {
+      "start": 30.48,
+      "end": 32.483,
+      "text": "itu, rela menahan dinginnya"
+    },
+    {
+      "start": 32.483,
+      "end": 34.338,
+      "text": "air hujan demi melindungi"
+    },
+    {
+      "start": 34.338,
+      "end": 36.712,
+      "text": "bayi-bayi lebah sepanjang malam."
+    },
+    {
+      "start": 36.712,
+      "end": 39.252,
+      "text": "Saat fajar menyingsing indah,"
+    },
+    {
+      "start": 39.252,
+      "end": 41.442,
+      "text": "Ratu Lebah berbisik penuh"
+    },
+    {
+      "start": 41.442,
+      "end": 43.631,
+      "text": "haru: 'Duri di punggungmu"
+    },
+    {
+      "start": 43.631,
+      "end": 45.996,
+      "text": "tajam, tapi hatimu selembut"
+    },
+    {
+      "start": 45.996,
+      "end": 46.609,
+      "text": "sutra.'"
+    },
+    {
+      "start": 46.609,
+      "end": 49.116,
+      "text": "Jangan pernah menilai indahnya"
+    },
+    {
+      "start": 49.116,
+      "end": 51.623,
+      "text": "kebaikan hanya dari penampilan"
+    },
+    {
+      "start": 51.623,
+      "end": 52.292,
+      "text": "luarnya."
+    },
+    {
+      "start": 52.292,
+      "end": 54.834,
+      "text": "Ingatlah kehangatan ini setiap"
+    },
+    {
+      "start": 54.834,
+      "end": 56.699,
+      "text": "kali kamu mendengar..."
+    }
+  ]
+}
