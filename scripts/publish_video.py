@@ -362,12 +362,14 @@ def main():
         else:
             day_num = 1
 
+    cycle_day = ((day_num - 1) % 182) + 1
+    cycle_day_str = f"{cycle_day:03d}"
     day_str = f"{day_num:03d}"
-    packet_file = os.path.join(ROOT_DIR, "curriculum", f"content_packet_day_{day_str}.json")
+    packet_file = os.path.join(ROOT_DIR, "curriculum", f"content_packet_day_{cycle_day_str}.json")
     video_file = args.video or os.path.join(ROOT_DIR, "output", f"dita_fable_day_{day_str}_master.mp4")
 
     print("="*60)
-    print(f"  DITA-04 PUBLISHER: DAY {day_str}")
+    print(f"  DITA-04 PUBLISHER: DAY {day_str} (Cycle Day {cycle_day})")
     print(f"  Target Video: {video_file}")
     print("="*60)
 

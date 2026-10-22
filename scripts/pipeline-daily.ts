@@ -43,13 +43,16 @@ async function runDailyPipeline() {
     }
   }
 
+  // Resolve cycle day (1 to 182) for perpetual multi-month / multi-year execution
+  const cycleDay = ((dayNum - 1) % 182) + 1;
+  const cycleDayStr = String(cycleDay).padStart(3, "0");
   const dayStr = String(dayNum).padStart(3, "0");
-  const packetPath = `curriculum/content_packet_day_${dayStr}.json`;
+  const packetPath = `curriculum/content_packet_day_${cycleDayStr}.json`;
   const outputVideo = `output/dita_fable_day_${dayStr}_master.mp4`;
   const compressedVideo = `output/dita_fable_day_${dayStr}_compressed.mp4`;
 
   console.log(`=======================================================`);
-  console.log(`[DITA-04 Pipeline] Executing Daily Fable Pipeline: Day ${dayNum}`);
+  console.log(`[DITA-04 Pipeline] Executing Daily Fable Pipeline: Day ${dayNum} (Cycle Day ${cycleDay})`);
   console.log(`[DITA-04 Pipeline] Packet: ${packetPath}`);
   console.log(`[DITA-04 Pipeline] State: Active Day ${campaignState.active_day || 1}, Next Day ${dayNum}`);
   console.log(`=======================================================`);
@@ -60,17 +63,31 @@ async function runDailyPipeline() {
   }
 
   // 2. Ensure Voiceover Audio Exists
-  const audioFile = `public/voiceover_day_${dayStr}.mp3`;
+  const audioFile = `public/voiceover_day_${cycleDayStr}.mp3`;
+  const metaPath = `public/audio_meta_day_${cycleDayStr}.json`;
   if (!fs.existsSync(audioFile) || fs.statSync(audioFile).size < 1000) {
     console.log(`
 --- Step 1: Synthesizing Warm Bedtime Voiceover ---`);
-    const metaPath = `public/audio_meta_day_${dayStr}.json`;
     execSync(`python scripts/generate-voiceover.py "${packetPath}" "${audioFile}" "${metaPath}"`, {
       stdio: "inherit",
     });
   } else {
     console.log(`
 --- Step 1: Pre-synthesized Voiceover Verified (${audioFile}) ---`);
+  }
+
+  // 2.5 Ensure Storyboard Plates & Manifest Exist
+  const manifestFile = `public/broll_manifest_day_${cycleDayStr}.json`;
+  if (!fs.existsSync(manifestFile)) {
+    console.log(`
+--- Step 1.5: Generating Storyboard Plates & Manifest ---`);
+    try {
+      execSync(`python scripts/build_day_plates.py --day ${cycleDay}`, {
+        stdio: "inherit",
+      });
+    } catch (e) {
+      console.warn("[DITA-04 Pipeline] Warning generating day plates:", e);
+    }
   }
 
   // 3. Render Master Video via Remotion (or reuse pre-rendered master)

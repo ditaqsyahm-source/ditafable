@@ -1,0 +1,74 @@
+{
+  "metadata": {
+    "channel_id": "DITA-04",
+    "channel_name": "Dita Dongeng & Fabel",
+    "handle": "@ditafable",
+    "day_number": 23,
+    "cycle_number": 4,
+    "cycle_theme": "Melihat dengan Mata Hati: Jangan Menilai Sahabat dari Rupa dan Suaranya",
+    "topic_pillar_id": "P2",
+    "topic_pillar_name": "Kasih Sayang Tersembunyi",
+    "narrative_format_id": "F2",
+    "narrative_format_name": "Kisah Moral Pengantar Tidur Ramah Anak",
+    "emotional_trigger": "Kehangatan, Empati & Kedamaian Batin",
+    "visual_pacing": "3D Pixar Storybook, Transisi Hangat Sinematik",
+    "target_duration_range": "45-60 detik",
+    "target_audience": "Balita & anak usia dini (3-8 tahun) bersama orang tua (Ayah & Bunda)",
+    "created_by": "Content Research & Narrative Architect (@content-researcher)",
+    "reviewed_by": "Herman (Command Point / @hermes)",
+    "intended_executor": "Director (@fullmontage) & Fleet Operator (@social-operator)",
+    "intended_duration_seconds": 56
+  },
+  "verbatim_script_master": {
+    "full_spoken_text_id": "Di tepi hutan kenari yang tenang, Kelo si Kelelawar sedang duduk memandangi jalan setapak berkabut. Tiba-tiba, 'Kletuk!' Ada sesuatu yang membuat hatinya berdebar cemas saat Kiki Kelinci datang mendekat. Meski sempat merasa takut, Kelo si Kelelawar memilih untuk bersikap jujur dan berbicara dengan penuh kelembutan. Mendengar kata-katanya yang tulus, Kiki Kelinci tersenyum teduh dan memeluknya hangat: 'Kebaikan hatimu jauh lebih berharga daripada apa pun.' Makhluk malam pun memiliki cinta kasih dan ketulusan menjaga sesama. Sekarang, tarik selimut hangatmu, pejamkan matamu ya... selamat tidur, dan mimpi indah.",
+    "word_count": 86,
+    "target_duration_seconds": 56,
+    "voice_id": "id-ID-GadisNeural",
+    "speed_multiplier": 1.0,
+    "tone_notes": "Warm bedtime storytelling, soothing, expressive character voices, calming bedtime cadence."
+  },
+  "script_text": "Di tepi hutan kenari yang tenang, Kelo si Kelelawar sedang duduk memandangi jalan setapak berkabut. Tiba-tiba, 'Kletuk!' Ada sesuatu yang membuat hatinya berdebar cemas saat Kiki Kelinci datang mendekat. Meski sempat merasa takut, Kelo si Kelelawar memilih untuk bersikap jujur dan berbicara dengan penuh kelembutan. Mendengar kata-katanya yang tulus, Kiki Kelinci tersenyum teduh dan memeluknya hangat: 'Kebaikan hatimu jauh lebih berharga daripada apa pun.' Makhluk malam pun memiliki cinta kasih dan ketulusan menjaga sesama. Sekarang, tarik selimut hangatmu, pejamkan matamu ya... selamat tidur, dan mimpi indah.",
+  "social_fleet_distribution_metadata": {
+    "title": "Kelelawar Malam yang Menyelamatkan Anak Kelinci yang Tersesat",
+    "caption": "Kelelawar Malam yang Menyelamatkan Anak Kelinci yang Tersesat\n\nDongeng fabel pengantar tidur penuh kehangatan dan pesan moral ramah anak. Mari temani si kecil tidur nyenyak malam ini. ✨🛌\n\nPesan moral: Makhluk malam pun memiliki cinta kasih dan ketulusan menjaga sesama.\n\n#DitaDongeng #FabelAnak #CeritaAnak #DongengSebelumTidur #KidsStories #BedtimeStory #KakDita",
+    "tags": [
+      "dongeng anak",
+      "fabel anak",
+      "cerita anak",
+      "bedtime story",
+      "moral value",
+      "kak dita",
+      "ditafable",
+      "dongeng tidur"
+    ]
+  },
+  "production_prompts_for_fullmontage": {
+    "midjourney_flux_visual_cues": [
+      {
+        "scene_id": "SCENE_01",
+        "timecode": "00:00 - 00:08",
+        "prompt": "Adorable 3D Pixar animation style, Kelo si Kelelawar playing peacefully in vibrant mossy fairytale forest, cinematic lighting, Disney Pixar quality --ar 9:16"
+      },
+      {
+        "scene_id": "SCENE_02",
+        "timecode": "00:08 - 00:20",
+        "prompt": "Close-up emotional 3D Pixar scene, Kelo si Kelelawar looking surprised and concerned at a small fallen object on the forest path, soft morning mist, expressive eyes --ar 9:16"
+      },
+      {
+        "scene_id": "SCENE_03",
+        "timecode": "00:20 - 00:35",
+        "prompt": "Heartwarming 3D Pixar scene of Kelo si Kelelawar meeting Kiki Kelinci near a cozy woodland cottage, gentle warm sunlight filtering through oak trees --ar 9:16"
+      },
+      {
+        "scene_id": "SCENE_04",
+        "timecode": "00:35 - 00:48",
+        "prompt": "Touching emotional resolution, Kiki Kelinci warmly hugging Kelo si Kelelawar with gentle smile, glowing golden sparkles of friendship and love --ar 9:16"
+      },
+      {
+        "scene_id": "SCENE_05",
+        "timecode": "00:48 - 00:58",
+        "prompt": "Panoramic dusk landscape of enchanted fairytale forest under glowing crescent moon, gentle fireflies sparkling, cozy tranquil bedtime atmosphere --ar 9:16"
+      }
+    ]
+  }
+}
