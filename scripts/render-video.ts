@@ -158,16 +158,21 @@ async function main() {
     outputLocation: path.resolve(outputPath),
     inputProps,
     browserExecutable: chromeExecutable,
-    chromiumOptions: {
-      gl: "angle",
-      args: [
-        "--no-sandbox",
-        "--disable-setuid-sandbox",
-        "--disable-dev-shm-usage",
-        "--use-gl=angle",
-        "--use-angle=d3d11",
-      ],
-    } as any,
+    chromiumOptions: (process.platform === "linux"
+      ? {
+          gl: "swiftshader",
+          args: ["--no-sandbox", "--disable-setuid-sandbox", "--disable-dev-shm-usage"],
+        }
+      : {
+          gl: "angle",
+          args: [
+            "--no-sandbox",
+            "--disable-setuid-sandbox",
+            "--disable-dev-shm-usage",
+            "--use-gl=angle",
+            "--use-angle=d3d11",
+          ],
+        }) as any,
     concurrency: 4,
     onProgress: ({ progress }) => {
       process.stdout.write(
@@ -193,9 +198,9 @@ async function main() {
       { name: "frame_01_ciko_hutan_apel.jpg", time: "00:00:05.000" },
       { name: "frame_02_apel_terbelah.jpg", time: "00:00:18.000" },
       { name: "frame_03_jalan_setapak_kabut.jpg", time: "00:00:38.000" },
-      { name: "frame_04_pintu_pengakuan_jujur.jpg", time: "00:00:60.000" },
-      { name: "frame_05_kakek_beruang_memeluk.jpg", time: "00:00:80.000" },
-      { name: "frame_06_malam_tidur_bintang.jpg", time: "00:00:98.000" },
+      { name: "frame_04_pintu_pengakuan_jujur.jpg", time: "00:01:00.000" },
+      { name: "frame_05_kakek_beruang_memeluk.jpg", time: "00:01:20.000" },
+      { name: "frame_06_malam_tidur_bintang.jpg", time: "00:01:38.000" },
     ];
 
     console.log(`[Remotion Engine] Extracting ${keyMoments.length} preview frames...`);
