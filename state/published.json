@@ -19,5 +19,109 @@
         "error": "HTTP Error 413: Request Entity Too Large"
       }
     }
+  },
+  {
+    "channel_id": "DITA-04",
+    "day": 1,
+    "title": "Kancil Ciko & Apel Emas yang Terbelah (Kisah Keberanian Berkata Jujur)",
+    "video_file": "output/dita_fable_day_001_compressed.mp4",
+    "video_hash": "233aff281b5d0cf8d9e7cf2f7185b3795e2064bd551a7ca4d70b643bfc81b046",
+    "timestamp": "2026-10-23T03:02:21.298527",
+    "outcomes": {
+      "youtube": {
+        "platform": "youtube",
+        "ok": true,
+        "videoId": "iE8vvWc5VOA",
+        "url": "https://youtube.com/shorts/iE8vvWc5VOA"
+      },
+      "zernio": {
+        "platform": "zernio",
+        "ok": true,
+        "postId": "6ada6bbdbe91164338c05444",
+        "data": {
+          "_id": "6ada6bbdbe91164338c05444",
+          "userId": "6ad8ac50051330d72ee5b3f5",
+          "title": "Dongeng fabel pengantar tidur penuh pesan moral ramah anak dan keluarga. #DitaDo",
+          "content": "Dongeng fabel pengantar tidur penuh pesan moral ramah anak dan keluarga. #DitaDongeng #FabelAnak #CeritaAnak #KidsStories",
+          "mediaItems": [
+            {
+              "_id": "6ada6bbdbe91164338c05447",
+              "url": "https://media.zernio.com/media/1792699306491_smiru6it_dita_fable_day_001_compressed.mp4",
+              "type": "video"
+            }
+          ],
+          "scheduledFor": "2026-10-22T20:02:01.295Z",
+          "timezone": "UTC",
+          "status": "publishing",
+          "tags": [],
+          "hashtags": [],
+          "mentions": [],
+          "visibility": "public",
+          "crosspostingEnabled": true,
+          "metadata": {
+            "usageCounted": true
+          },
+          "publishingClaimedAt": "2026-10-22T20:02:06.004Z",
+          "recycling": {
+            "enabled": false,
+            "gapFreq": "month",
+            "recycleCount": 0,
+            "contentVariations": [],
+            "contentVariationIndex": 0
+          },
+          "createdAt": "2026-10-22T20:02:05.214Z",
+          "updatedAt": "2026-10-22T20:02:21.036Z",
+          "platforms": [
+            {
+              "_id": "6ada6bbdbe91164338c05442",
+              "platform": "tiktok",
+              "accountId": {
+                "_id": "6ad8acf3c24aa78753a651ef",
+                "platform": "tiktok",
+                "username": "ditafable",
+                "displayName": "ditafable",
+                "profilePicture": "https://p16-common-sign.tiktokcdn.com/tos-alisg-avt-0068/02b79ac3cf1d923dc733408ef593f1fd~tplv-tiktokx-cropcenter:168:168.jpeg?dr=14577&refresh_token=533afc48&x-expires=1792828800&x-signature=b1E1HbYYj%2BY4qCOisDoKOZZt47o%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=8aecc5ac&idc=my2",
+                "isActive": true,
+                "profileId": "6ad8ac50051330d72ee5b3f7"
+              },
+              "profileId": "6ad8ac50051330d72ee5b3f7",
+              "customMedia": [],
+              "scheduledFor": "2026-10-22T20:02:01.295Z",
+              "platformSpecificData": {
+                "videoCoverImageUrl": "https://media.zernio.com/media/1792699319135_0kepxnvt_frame_05_kakek_beruang_memeluk.jpg",
+                "tiktokBusinessPublishId": "v_pub_url~v2.7699584825153865780"
+              },
+              "status": "published",
+              "publishedAt": "2026-10-22T20:02:21.032Z",
+              "platformPostId": "v_pub_url~v2.7699584825153865780",
+              "publishAttempts": 1,
+              "contentHash": "972a44b66657459293882b180b189834"
+            },
+            {
+              "_id": "6ada6bbdbe91164338c05443",
+              "platform": "instagram",
+              "accountId": {
+                "_id": "6ad8acd9aad76462b1a71e23",
+                "platform": "instagram",
+                "username": "ditafable",
+                "displayName": "Dita Dongeng Fabel",
+                "profilePicture": null,
+                "isActive": true,
+                "profileId": "6ad8ac50051330d72ee5b3f7"
+              },
+              "profileId": "6ad8ac50051330d72ee5b3f7",
+              "customMedia": [],
+              "scheduledFor": "2026-10-22T20:02:01.295Z",
+              "platformSpecificData": {
+                "instagramThumbnail": "https://media.zernio.com/media/1792699319135_0kepxnvt_frame_05_kakek_beruang_memeluk.jpg"
+              },
+              "status": "processing",
+              "publishAttempts": 1,
+              "contentHash": "464ca48e56bb6393931d2a9ac0834976"
+            }
+          ]
+        }
+      }
+    }
   }
 ]

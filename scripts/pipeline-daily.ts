@@ -88,6 +88,17 @@ async function runDailyPipeline() {
   // 4. Video Compression for Social Distribution (Zernio & YouTube Fast Upload)
   console.log(`
 --- Step 3: Preparing Encoded Video Deliverable ---`);
+  if (!fs.existsSync(compressedVideo) || fs.statSync(compressedVideo).size < 1000) {
+    console.log(`[DITA-04 Pipeline] Compressing video for social delivery (< 10 MB)...`);
+    try {
+      execSync(
+        `ffmpeg -y -i "${outputVideo}" -vf "scale=720:1280" -c:v libx264 -crf 28 -preset fast -c:a aac -b:a 96k -ar 44100 "${compressedVideo}"`,
+        { stdio: "inherit" }
+      );
+    } catch (e) {
+      console.warn("[DITA-04 Pipeline] Video compression warning:", e);
+    }
+  }
   const finalVideoToPublish = fs.existsSync(compressedVideo) ? compressedVideo : outputVideo;
 
   // 5. Multi-Platform Publication (YouTube Shorts, TikTok, Instagram)

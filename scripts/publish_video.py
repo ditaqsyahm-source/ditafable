@@ -179,9 +179,9 @@ def upload_to_youtube(video_path, title, description, tags=None, privacy="public
     return {"platform": "youtube", "ok": True, "videoId": video_id, "url": yt_url}
 
 # -------------------------------------------------------------
-# 2. ZERNIO UPLOAD (TikTok & Instagram Reels via uploadMediaDirect)
+# 2. ZERNIO UPLOAD (TikTok & Instagram Reels via Presigned R2)
 # -------------------------------------------------------------
-def upload_media_direct_zernio(file_path, content_type="video/mp4"):
+def upload_file_to_zernio(file_path, content_type="video/mp4"):
     z_key = ENV.get("ZERNIO_API_KEY")
     if not z_key:
         raise ValueError("ZERNIO_API_KEY belum diset di environment")
@@ -189,35 +189,44 @@ def upload_media_direct_zernio(file_path, content_type="video/mp4"):
     file_size = os.path.getsize(file_path)
     file_name = os.path.basename(file_path)
     
-    boundary = "----WebKitFormBoundary" + os.urandom(16).hex()
-    body = bytearray()
-    
-    with open(file_path, "rb") as f:
-        file_bytes = f.read()
-        
-    body.extend(f"--{boundary}\r\n".encode("utf-8"))
-    body.extend(f'Content-Disposition: form-data; name="file"; filename="{file_name}"\r\n'.encode("utf-8"))
-    body.extend(f'Content-Type: {content_type}\r\n\r\n'.encode("utf-8"))
-    body.extend(file_bytes + b"\r\n")
-    body.extend(f"--{boundary}--\r\n".encode("utf-8"))
-    
-    print(f"[Zernio] Uploading via uploadMediaDirect ({file_size / (1024*1024):.2f} MB)...")
-    req = urllib.request.Request(
-        "https://api.zernio.com/v1/media/upload-direct",
-        data=bytes(body),
+    # 1. Presign R2 upload URL
+    presign_req = urllib.request.Request(
+        "https://api.zernio.com/v1/media/presign",
+        data=json.dumps({
+            "filename": file_name,
+            "contentType": content_type,
+            "size": file_size
+        }).encode("utf-8"),
         headers={
             "Authorization": f"Bearer {z_key}",
-            "Content-Type": f"multipart/form-data; boundary={boundary}"
+            "Content-Type": "application/json"
         },
         method="POST"
     )
-    with urllib.request.urlopen(req) as resp:
-        res = json.loads(resp.read().decode())
-        media_url = res.get("url")
-        if not media_url:
-            raise ValueError(f"Zernio upload-direct gagal mengembalikan media URL: {res}")
-        print(f"[Zernio] ✅ Media terdaftar di server registry: {media_url}")
-        return media_url
+    with urllib.request.urlopen(presign_req) as p_resp:
+        presign_data = json.loads(p_resp.read().decode())
+        upload_url = presign_data.get("uploadUrl")
+        public_url = presign_data.get("publicUrl")
+        
+    if not upload_url or not public_url:
+        raise ValueError(f"Gagal mendapatkan presigned URL Zernio: {presign_data}")
+        
+    print(f"[Zernio] Mengunggah {content_type} binary ({file_size / (1024*1024):.2f} MB)...")
+    with open(file_path, "rb") as f:
+        media_bytes = f.read()
+        
+    put_req = urllib.request.Request(
+        upload_url,
+        data=media_bytes,
+        headers={"Content-Type": content_type},
+        method="PUT"
+    )
+    with urllib.request.urlopen(put_req) as put_resp:
+        if put_resp.status not in [200, 204]:
+            raise RuntimeError(f"Gagal upload binary ke R2: status {put_resp.status}")
+            
+    print(f"[Zernio] Binary berhasil terunggah ke Cloudflare R2: {public_url}")
+    return public_url
 
 def upload_to_zernio(video_path, caption, thumbnail_path=None):
     z_key = ENV.get("ZERNIO_API_KEY")
@@ -227,14 +236,14 @@ def upload_to_zernio(video_path, caption, thumbnail_path=None):
     if not z_key:
         raise ValueError("ZERNIO_API_KEY belum diset")
         
-    video_url = upload_media_direct_zernio(video_path, content_type="video/mp4")
+    video_url = upload_file_to_zernio(video_path, content_type="video/mp4")
     
-    # Optional cover image upload via uploadMediaDirect
+    # Optional cover image upload via presign
     cover_url = None
     if thumbnail_path and os.path.exists(thumbnail_path):
         try:
             print("[Zernio] Uploading thumbnail cover...")
-            cover_url = upload_media_direct_zernio(thumbnail_path, content_type="image/jpeg")
+            cover_url = upload_file_to_zernio(thumbnail_path, content_type="image/jpeg")
         except Exception as e:
             print(f"[Zernio] Warning: thumbnail upload dilewati: {e}")
 
@@ -394,11 +403,29 @@ def main():
 
     # Real publication
     results = {}
-    try:
-        results["youtube"] = upload_to_youtube(video_file, title, caption, tags=tags, thumbnail_path=thumb_file)
-    except Exception as e:
-        print(f"[YouTube] Publish failed: {e}")
-        results["youtube"] = {"platform": "youtube", "ok": False, "error": str(e)}
+
+    # Check if YouTube already published successfully in prior run
+    existing_yt = None
+    if os.path.exists(PUBLISHED_PATH):
+        try:
+            with open(PUBLISHED_PATH, "r", encoding="utf-8") as f:
+                past = json.load(f)
+                for p in past:
+                    if p.get("day") == day_num and p.get("outcomes", {}).get("youtube", {}).get("ok"):
+                        existing_yt = p["outcomes"]["youtube"]
+                        break
+        except Exception:
+            pass
+
+    if existing_yt:
+        print(f"[YouTube] Day {day_num} sudah pernah terbit ({existing_yt.get('url')}), skip re-upload.")
+        results["youtube"] = existing_yt
+    else:
+        try:
+            results["youtube"] = upload_to_youtube(video_file, title, caption, tags=tags, thumbnail_path=thumb_file)
+        except Exception as e:
+            print(f"[YouTube] Publish failed: {e}")
+            results["youtube"] = {"platform": "youtube", "ok": False, "error": str(e)}
 
     try:
         results["zernio"] = upload_to_zernio(video_file, caption, thumbnail_path=thumb_file)
