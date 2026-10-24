@@ -2,8 +2,8 @@ name: Daily Fable Shorts Pipeline
 
 on:
   schedule:
-    # 19:30 WIB = 12:30 UTC (Bedtime Story Primetime)
-    - cron: '30 12 * * *'
+    # 05:15 WIB = 22:15 UTC (Jam tayang subuh serentak)
+    - cron: '15 22 * * *'
   workflow_dispatch:
     inputs:
       day:
