@@ -227,5 +227,109 @@
         }
       }
     }
+  },
+  {
+    "channel_id": "DITA-04",
+    "day": 3,
+    "title": "Kuki si Kura-Kura & Jembatan Teratai (Langkah Kecil yang Menang)",
+    "video_file": "output/dita_fable_day_003_compressed.mp4",
+    "video_hash": "21ad6da1f2efaad75e9cbff6e50c788e3d4968b681805bdfcccafa0ec62cad66",
+    "timestamp": "2026-10-25T00:28:21.855252",
+    "outcomes": {
+      "youtube": {
+        "platform": "youtube",
+        "ok": true,
+        "videoId": "7tkD0AKXf_E",
+        "url": "https://youtube.com/shorts/7tkD0AKXf_E"
+      },
+      "zernio": {
+        "platform": "zernio",
+        "ok": true,
+        "postId": "6add4d19dbd4517b5953059a",
+        "data": {
+          "_id": "6add4d19dbd4517b5953059a",
+          "userId": "6ad8ac50051330d72ee5b3f5",
+          "title": "Dongeng fabel pengantar tidur penuh pesan moral ramah anak dan keluarga. #DitaDo",
+          "content": "Dongeng fabel pengantar tidur penuh pesan moral ramah anak dan keluarga. #DitaDongeng #FabelAnak #CeritaAnak #KidsStories",
+          "mediaItems": [
+            {
+              "_id": "6add4d19dbd4517b5953059d",
+              "url": "https://media.zernio.com/media/1792888084899_wilhgf4p_dita_fable_day_003_compressed.mp4",
+              "type": "video"
+            }
+          ],
+          "scheduledFor": "2026-10-25T00:28:07.783Z",
+          "timezone": "UTC",
+          "status": "publishing",
+          "tags": [],
+          "hashtags": [],
+          "mentions": [],
+          "visibility": "public",
+          "crosspostingEnabled": true,
+          "metadata": {
+            "usageCounted": true
+          },
+          "publishingClaimedAt": "2026-10-25T00:28:09.286Z",
+          "recycling": {
+            "enabled": false,
+            "gapFreq": "month",
+            "recycleCount": 0,
+            "contentVariations": [],
+            "contentVariationIndex": 0
+          },
+          "createdAt": "2026-10-25T00:28:09.254Z",
+          "updatedAt": "2026-10-25T00:28:21.696Z",
+          "platforms": [
+            {
+              "_id": "6add4d19dbd4517b59530598",
+              "platform": "tiktok",
+              "accountId": {
+                "_id": "6ad8acf3c24aa78753a651ef",
+                "platform": "tiktok",
+                "username": "ditafable",
+                "displayName": "ditafable",
+                "profilePicture": "https://p16-common-sign.tiktokcdn.com/tos-alisg-avt-0068/02b79ac3cf1d923dc733408ef593f1fd~tplv-tiktokx-cropcenter:168:168.jpeg?dr=14577&refresh_token=08465c79&x-expires=1793005200&x-signature=fhl3MPdhNNlegEomdAkt%2FrHHVCU%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=8aecc5ac&idc=my2",
+                "isActive": true,
+                "profileId": "6ad8ac50051330d72ee5b3f7"
+              },
+              "profileId": "6ad8ac50051330d72ee5b3f7",
+              "customMedia": [],
+              "scheduledFor": "2026-10-25T00:28:07.783Z",
+              "platformSpecificData": {
+                "videoCoverImageUrl": "https://media.zernio.com/media/1792888086726_6ouq7rx3_frame_03_jalan_setapak_kabut.jpg",
+                "tiktokBusinessPublishId": "v_pub_url~v2.7700394695574390805"
+              },
+              "status": "published",
+              "publishedAt": "2026-10-25T00:28:21.692Z",
+              "platformPostId": "v_pub_url~v2.7700394695574390805",
+              "publishAttempts": 1,
+              "contentHash": "39a84a8bf791f2fb290069c70a4735c4"
+            },
+            {
+              "_id": "6add4d19dbd4517b59530599",
+              "platform": "instagram",
+              "accountId": {
+                "_id": "6ad8acd9aad76462b1a71e23",
+                "platform": "instagram",
+                "username": "ditafable",
+                "displayName": "Dita Dongeng Fabel",
+                "profilePicture": null,
+                "isActive": true,
+                "profileId": "6ad8ac50051330d72ee5b3f7"
+              },
+              "profileId": "6ad8ac50051330d72ee5b3f7",
+              "customMedia": [],
+              "scheduledFor": "2026-10-25T00:28:07.783Z",
+              "platformSpecificData": {
+                "instagramThumbnail": "https://media.zernio.com/media/1792888086726_6ouq7rx3_frame_03_jalan_setapak_kabut.jpg"
+              },
+              "status": "processing",
+              "publishAttempts": 1,
+              "contentHash": "d8585fb41a4c30a468a0d954ca60cb37"
+            }
+          ]
+        }
+      }
+    }
   }
 ]
