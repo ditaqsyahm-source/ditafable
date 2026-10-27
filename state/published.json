@@ -435,5 +435,108 @@
         }
       }
     }
+  },
+  {
+    "channel_id": "DITA-04",
+    "day": 5,
+    "title": "Balu si Beruang & Air Terjun Sejuk (Mengendalikan Rasa Marah)",
+    "video_file": "output/dita_fable_day_005_compressed.mp4",
+    "video_hash": "5747a502cd6f15396cd6347383fe5b37b638f7197fb99f6a41b4472e7ec7edec",
+    "timestamp": "2026-10-27T01:36:20.806906",
+    "outcomes": {
+      "youtube": {
+        "platform": "youtube",
+        "ok": true,
+        "videoId": "4Yclz1QD8dY",
+        "url": "https://youtube.com/shorts/4Yclz1QD8dY"
+      },
+      "zernio": {
+        "platform": "zernio",
+        "ok": true,
+        "postId": "6ae0000742de8179b8cf0a59",
+        "data": {
+          "_id": "6ae0000742de8179b8cf0a59",
+          "userId": "6ad8ac50051330d72ee5b3f5",
+          "title": "Dongeng fabel pengantar tidur penuh pesan moral ramah anak dan keluarga. #DitaDo",
+          "content": "Dongeng fabel pengantar tidur penuh pesan moral ramah anak dan keluarga. #DitaDongeng #FabelAnak #CeritaAnak #KidsStories",
+          "mediaItems": [
+            {
+              "_id": "6ae0000742de8179b8cf0a5c",
+              "url": "https://media.zernio.com/media/1793064964388_oq03z917_dita_fable_day_005_compressed.mp4",
+              "type": "video"
+            }
+          ],
+          "scheduledFor": "2026-10-27T01:36:05.957Z",
+          "timezone": "UTC",
+          "status": "publishing",
+          "tags": [],
+          "hashtags": [],
+          "mentions": [],
+          "visibility": "public",
+          "crosspostingEnabled": true,
+          "metadata": {
+            "usageCounted": true
+          },
+          "publishingClaimedAt": "2026-10-27T01:36:07.495Z",
+          "recycling": {
+            "enabled": false,
+            "gapFreq": "month",
+            "recycleCount": 0,
+            "contentVariations": [],
+            "contentVariationIndex": 0
+          },
+          "createdAt": "2026-10-27T01:36:07.462Z",
+          "updatedAt": "2026-10-27T01:36:20.682Z",
+          "platforms": [
+            {
+              "_id": "6ae0000742de8179b8cf0a57",
+              "platform": "tiktok",
+              "accountId": {
+                "_id": "6ad8acf3c24aa78753a651ef",
+                "platform": "tiktok",
+                "username": "ditafable",
+                "displayName": "ditafable",
+                "profilePicture": "https://p16-common-sign.tiktokcdn.com/tos-alisg-avt-0068/02b79ac3cf1d923dc733408ef593f1fd~tplv-tiktokx-cropcenter:168:168.jpeg?dr=14577&refresh_token=d3de9606&x-expires=1793174400&x-signature=bkLstDwVxrTjzIiROqDihKUwlYc%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=8aecc5ac&idc=my",
+                "isActive": true,
+                "profileId": "6ad8ac50051330d72ee5b3f7"
+              },
+              "profileId": "6ad8ac50051330d72ee5b3f7",
+              "customMedia": [],
+              "scheduledFor": "2026-10-27T01:36:05.957Z",
+              "platformSpecificData": {
+                "videoCoverImageUrl": "https://media.zernio.com/media/1793064965232_9rf494zb_frame_03_jalan_setapak_kabut.jpg",
+                "tiktokUploadTimeoutAt": "2026-10-27T01:36:20.667Z",
+                "tiktokBusinessPublishId": "v_pub_url~v2.7701154811814791169"
+              },
+              "status": "uploading",
+              "publishAttempts": 1,
+              "contentHash": "3c55688497e1b21ad946460c9ff942b2"
+            },
+            {
+              "_id": "6ae0000742de8179b8cf0a58",
+              "platform": "instagram",
+              "accountId": {
+                "_id": "6ad8acd9aad76462b1a71e23",
+                "platform": "instagram",
+                "username": "ditafable",
+                "displayName": "Dita Dongeng Fabel",
+                "profilePicture": null,
+                "isActive": true,
+                "profileId": "6ad8ac50051330d72ee5b3f7"
+              },
+              "profileId": "6ad8ac50051330d72ee5b3f7",
+              "customMedia": [],
+              "scheduledFor": "2026-10-27T01:36:05.957Z",
+              "platformSpecificData": {
+                "instagramThumbnail": "https://media.zernio.com/media/1793064965232_9rf494zb_frame_03_jalan_setapak_kabut.jpg"
+              },
+              "status": "processing",
+              "publishAttempts": 1,
+              "contentHash": "fa7787f314b1c207688647647e2e89d0"
+            }
+          ]
+        }
+      }
+    }
   }
 ]
