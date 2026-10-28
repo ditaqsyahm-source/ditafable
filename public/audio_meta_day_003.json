@@ -5,9 +5,9 @@
   "audio_path": "public/voiceover_day_003.mp3",
   "voice": "id-ID-GadisNeural",
   "rate": "-3%",
-  "total_words": 101,
-  "duration_seconds": 58.51,
-  "duration_frames": 1404,
+  "total_words": 109,
+  "duration_seconds": 64.06,
+  "duration_frames": 1537,
   "fps": 24,
   "sentences": [
     {
@@ -60,15 +60,15 @@
     },
     {
       "start": 51.364,
-      "end": 55.527,
-      "duration": 4.162,
+      "end": 55.514,
+      "duration": 4.149,
       "text": "Kesabaran selalu menuntunmu pulang dengan selamat."
     },
     {
-      "start": 55.527,
-      "end": 58.491,
-      "duration": 2.964,
-      "text": "Ingatlah perjuangan Kuki saat..."
+      "start": 55.514,
+      "end": 64.045,
+      "duration": 8.531,
+      "text": "Sekarang, tarik selimut hangatmu, pejamkan matamu ya... selamat tidur, dan mimpi indah."
     }
   ],
   "timed_subtitles": [
@@ -204,18 +204,28 @@
     },
     {
       "start": 51.364,
-      "end": 54.253,
+      "end": 54.244,
       "text": "Kesabaran selalu menuntunmu pulang"
     },
     {
-      "start": 54.253,
-      "end": 55.527,
+      "start": 54.244,
+      "end": 55.514,
       "text": "dengan selamat."
     },
     {
-      "start": 55.527,
-      "end": 58.491,
-      "text": "Ingatlah perjuangan Kuki saat..."
+      "start": 55.514,
+      "end": 58.826,
+      "text": "Sekarang, tarik selimut hangatmu,"
+    },
+    {
+      "start": 58.826,
+      "end": 61.737,
+      "text": "pejamkan matamu ya... selamat"
+    },
+    {
+      "start": 61.737,
+      "end": 64.045,
+      "text": "tidur, dan mimpi indah."
     }
   ]
 }
