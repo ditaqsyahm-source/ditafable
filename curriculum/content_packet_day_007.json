@@ -129,11 +129,11 @@
       },
       {
         "segment_id": "SEG_05",
-        "phase": "Refleksi Pengantar Tidur & Seamless Loop",
+        "phase": "Refleksi Pengantar Tidur & Penutup Damai",
         "timestamp_range": "00:50 - 00:58",
         "duration_seconds": 8,
-        "spoken_text": "Selamat tidur bidadari dan ksatria kecil, hingga esok fajar kembali menyapa...",
-        "word_count": 11,
+        "spoken_text": "Sekarang, tarik selimut hangatmu, pejamkan matamu ya... selamat tidur, dan mimpi indah.",
+        "word_count": 12,
         "pacing_wpm": 82,
         "visual_direction": "Kamera melayang naik perlahan menjauh ke langit malam berbintang, memperlihatkan hutan rimba yang damai terlelap di bawah sinar rembulan. Cutback lembut di frame terakhir menyambung ke frame dahan kenari pertama.",
         "text_on_screen": {
@@ -142,7 +142,7 @@
           "style": "Teks putih berkilau lembut dengan ikon bulan sabit dan hati."
         },
         "audio_design": {
-          "voice_inflection": "Berbisik pelan sekali seperti buaian lullaby, intonasi menggantung manis yang mengalir kembali ke awal loop.",
+          "voice_inflection": "Lembut mengalun pengantar tidur yang menenangkan jiwa.",
           "sfx": "Angin malam semilir dan jangkrik sayup-sayup.",
           "bgm": "Akord harpa tunggal terakhir yang harmonis menyatu ke nada pembuka video."
         }
@@ -150,14 +150,14 @@
     ]
   },
   "seamless_loop_mechanism": {
-    "loop_phrase_ending": "Selamat tidur bidadari dan ksatria kecil, hingga esok fajar kembali menyapa...",
+    "loop_phrase_ending": "Selamat tidur, dan mimpi indah.",
     "hook_phrase_beginning": "Malam telah turun menyelimuti dahan pohon kenari, dan bintang kecil mulai berkedip lembut di langit.",
-    "full_loop_sentence": "Selamat tidur bidadari dan ksatria kecil, hingga esok fajar kembali menyapa... Malam telah turun menyelimuti dahan pohon kenari, dan bintang kecil mulai berkedip lembut di langit.",
-    "retention_mechanic": "Frasa perpisahan tidur yang mengalun lembut menjadi transisi puitis tanpa jeda saat video mengulang di layar smartphone orang tua, mendongkrak durasi tontonan malam."
+    "full_loop_sentence": "Selamat tidur, dan mimpi indah.",
+    "retention_mechanic": "Pesan penutup tidur ramah anak yang menenangkan dan penuh kehangatan."
   },
   "verbatim_script_master": {
-    "full_spoken_text_id": "Malam telah turun menyelimuti dahan pohon kenari, dan bintang kecil mulai berkedip lembut di langit. Roni si rusa kecil merebahkan kepalanya di atas lumut hijau yang empuk. 'Ibu, apakah besok hutan masih seindah hari ini?' bisiknya dengan mata yang mulai mengantuk. Ibu Rusa mengelus kepalanya lembut dan berbisik: 'Selama hatimu dipenuhi rasa syukur dan kasih sayang, setiap fajar akan membawa keajaiban baru, sayangku.' Ratusan kunang-kunang menyalakan lenteranya, menyanyikan simfoni angin malam yang syahdu. Pejamkan matamu, lepaskan semua lelah hari ini. Kamu anak yang hebat, berani, dan selalu dicintai seutuhnya. Selamat tidur bidadari dan ksatria kecil, hingga esok fajar kembali menyapa...",
-    "total_word_count": 104,
+    "full_spoken_text_id": "Malam telah turun menyelimuti dahan pohon kenari, dan bintang kecil mulai berkedip lembut di langit. Roni si rusa kecil merebahkan kepalanya di atas lumut hijau yang empuk. 'Ibu, apakah besok hutan masih seindah hari ini?' bisiknya dengan mata yang mulai mengantuk. Ibu Rusa mengelus kepalanya lembut dan berbisik: 'Selama hatimu dipenuhi rasa syukur dan kasih sayang, setiap fajar akan membawa keajaiban baru, sayangku.' Ratusan kunang-kunang menyalakan lenteranya, menyanyikan simfoni angin malam yang syahdu. Pejamkan matamu, lepaskan semua lelah hari ini. Kamu anak yang hebat, berani, dan selalu dicintai seutuhnya. Sekarang, tarik selimut hangatmu, pejamkan matamu ya... selamat tidur, dan mimpi indah.",
+    "total_word_count": 101,
     "estimated_reading_duration_seconds": 53,
     "average_wpm": 117.7,
     "voiceover_profile": {

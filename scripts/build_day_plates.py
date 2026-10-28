@@ -12,7 +12,17 @@ import subprocess
 import argparse
 
 ROOT_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-HERMES_PYTHON = r"C:\Users\K4G3\AppData\Local\hermes\tools\python-3.14.7+20260901-win32-x64\python.exe"
+def get_hermes_python():
+    """Dynamically resolve Hermes Python interpreter with fallback to sys.executable."""
+    # 1. Direct environment or explicit known path
+    tools_dir = os.path.expandvars(r"%LOCALAPPDATA%\hermes\tools")
+    if os.path.exists(tools_dir):
+        for entry in os.listdir(tools_dir):
+            if entry.startswith("python-") and os.path.exists(os.path.join(tools_dir, entry, "python.exe")):
+                return os.path.join(tools_dir, entry, "python.exe")
+    return sys.executable
+
+HERMES_PYTHON = get_hermes_python()
 FLUX_SCRIPT = r"C:\Users\K4G3\AppData\Local\hermes\scripts\flux_generate.py"
 
 def parse_timecode(tc):

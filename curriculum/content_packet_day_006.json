@@ -129,11 +129,11 @@
       },
       {
         "segment_id": "SEG_05",
-        "phase": "Refleksi Pengantar Tidur & Seamless Loop",
+        "phase": "Refleksi Pengantar Tidur & Penutup Damai",
         "timestamp_range": "00:50 - 00:58",
         "duration_seconds": 8,
-        "spoken_text": "Ingatlah rahasia persahabatan ini...",
-        "word_count": 4,
+        "spoken_text": "Sekarang, tarik selimut hangatmu, pejamkan matamu ya... selamat tidur, dan mimpi indah.",
+        "word_count": 12,
         "pacing_wpm": 30,
         "visual_direction": "Kamera mundur menampilkan pemandangan seluruh jembatan kayu di atas sungai berkilau tertimpa cahaya bulan sabit perak. Tupi dan Bobi pulang bersama menuju sarang mereka yang hangat. Cutback cepat di frame terakhir ke ranting tunggal yang patah di awal video.",
         "text_on_screen": {
@@ -142,7 +142,7 @@
           "style": "Teks putih berkilau emas dengan tombol bookmark dan ikon bulan."
         },
         "audio_design": {
-          "voice_inflection": "Bisikan manis pengantar tidur, intonasi menggantung yang mengalir kembali ke awal loop.",
+          "voice_inflection": "Lembut mengalun pengantar tidur yang menenangkan jiwa.",
           "sfx": "Suara gemericik air sungai tenang malam hari.",
           "bgm": "Akord harmonis yang menyambung mulus ke beat pembuka video."
         }
@@ -150,14 +150,14 @@
     ]
   },
   "seamless_loop_mechanism": {
-    "loop_phrase_ending": "Ingatlah rahasia persahabatan ini...",
+    "loop_phrase_ending": "Selamat tidur, dan mimpi indah.",
     "hook_phrase_beginning": "Satu ranting pohon mudah sekali patah, tapi tahukah kamu apa yang terjadi jika seratus ranting disatukan?",
-    "full_loop_sentence": "Ingatlah rahasia persahabatan ini: Satu ranting pohon mudah sekali patah, tapi tahukah kamu apa yang terjadi jika seratus ranting disatukan?",
-    "retention_mechanic": "Frasa penutup bertindak sebagai titik dua (colon) yang memperkenalkan kembali peribahasa ranting di detik 00:00."
+    "full_loop_sentence": "Selamat tidur, dan mimpi indah.",
+    "retention_mechanic": "Pesan penutup tidur ramah anak yang menenangkan dan penuh kehangatan."
   },
   "verbatim_script_master": {
-    "full_spoken_text_id": "Satu ranting pohon mudah sekali patah, tapi tahukah kamu apa yang terjadi jika seratus ranting disatukan? Tupi si tupai lincah ingin menyeberangi sungai deras untuk memetik kenari matang, tapi ia tak bisa berenang. Di tepi sungai, Bobi si berang-berang punya kayu gelondongan kokoh, tapi tak bisa memanjat. Mereka berhenti saling menyombongkan kelebihan. Tupi melompat gesit membawa tali ke puncak dahan, sementara Bobi menyusun batang kayu di dasar sungai. Dalam sekejap, jembatan kokoh berdiri megah. Burung Hantu Bijak berseru: 'Saat dua sahabat bergandeng tangan, rintangan terbesar pun berubah menjadi jalan kebahagiaan.' Ingatlah rahasia persahabatan ini...",
-    "total_word_count": 96,
+    "full_spoken_text_id": "Satu ranting pohon mudah sekali patah, tapi tahukah kamu apa yang terjadi jika seratus ranting disatukan? Tupi si tupai lincah ingin menyeberangi sungai deras untuk memetik kenari matang, tapi ia tak bisa berenang. Di tepi sungai, Bobi si berang-berang punya kayu gelondongan kokoh, tapi tak bisa memanjat. Mereka berhenti saling menyombongkan kelebihan. Tupi melompat gesit membawa tali ke puncak dahan, sementara Bobi menyusun batang kayu di dasar sungai. Dalam sekejap, jembatan kokoh berdiri megah. Burung Hantu Bijak berseru: 'Saat dua sahabat bergandeng tangan, rintangan terbesar pun berubah menjadi jalan kebahagiaan.' Sekarang, tarik selimut hangatmu, pejamkan matamu ya... selamat tidur, dan mimpi indah.",
+    "total_word_count": 102,
     "estimated_reading_duration_seconds": 49,
     "average_wpm": 117.5,
     "voiceover_profile": {

@@ -129,11 +129,11 @@
       },
       {
         "segment_id": "SEG_05",
-        "phase": "Refleksi Pengantar Tidur & Seamless Loop",
+        "phase": "Refleksi Pengantar Tidur & Penutup Damai",
         "timestamp_range": "00:50 - 00:58",
         "duration_seconds": 8,
-        "spoken_text": "Kesabaran selalu menuntunmu pulang dengan selamat. Ingatlah perjuangan Kuki saat...",
-        "word_count": 11,
+        "spoken_text": "Sekarang, tarik selimut hangatmu, pejamkan matamu ya... selamat tidur, dan mimpi indah.",
+        "word_count": 12,
         "pacing_wpm": 82,
         "visual_direction": "Kamera naik memperlihatkan seluruh danau teratai di bawah naungan langit senja keunguan bertabur bintang pertama. Frame terakhir match-cut dengan kelinci yang mulai bersiap melompat di awal video.",
         "text_on_screen": {
@@ -142,7 +142,7 @@
           "style": "Teks kaligrafi putih elegan dengan ikon bintang tidur dan tombol bookmark."
         },
         "audio_design": {
-          "voice_inflection": "Bisikan manis pengantar tidur, intonasi menggantung yang mengalir kembali ke awal loop.",
+          "voice_inflection": "Lembut mengalun pengantar tidur yang menenangkan jiwa.",
           "sfx": "Suara gemersik dedaunan dan angin malam tenang.",
           "bgm": "Resolusi melodi yang menyatu ke nada pembuka marimba."
         }
@@ -150,14 +150,14 @@
     ]
   },
   "seamless_loop_mechanism": {
-    "loop_phrase_ending": "Kesabaran selalu menuntunmu pulang dengan selamat. Ingatlah perjuangan Kuki saat...",
+    "loop_phrase_ending": "Selamat tidur, dan mimpi indah.",
     "hook_phrase_beginning": "Kelinci melompat cepat sambil menertawakan kura-kura kecil yang berjalan selangkah demi selangkah.",
-    "full_loop_sentence": "Kesabaran selalu menuntunmu pulang dengan selamat. Ingatlah perjuangan Kuki saat... Kelinci melompat cepat sambil menertawakan kura-kura kecil yang berjalan selangkah demi selangkah.",
-    "retention_mechanic": "Konjungsi waktu di akhir video menghubungkan memori penonton kembali ke premis awal lomba, menciptakan loop retensi organik."
+    "full_loop_sentence": "Selamat tidur, dan mimpi indah.",
+    "retention_mechanic": "Pesan penutup tidur ramah anak yang menenangkan dan penuh kehangatan."
   },
   "verbatim_script_master": {
-    "full_spoken_text_id": "Kelinci melompat cepat sambil menertawakan kura-kura kecil yang berjalan selangkah demi selangkah. 'Hei Kuki, danau itu terlalu luas, kamu takkan pernah sampai sebelum malam!' Namun Kuki tetap tenang dan tidak menghiraukan ejekan itu. Ia hanya fokus pada satu langkah di depannya. Satu langkah, dua langkah, lalu tiga langkah. Di tengah jalan, kelinci tertidur pulas karena merasa sudah terlalu jauh di depan. Saat matahari terbenam menyinari danau teratai, Kuki telah tersenyum damai di seberang pulau. Guru Bangau berbisik bijak: 'Bukan siapa yang paling cepat melompat, tapi siapa yang setia melangkah tanpa henti.' Kesabaran selalu menuntunmu pulang dengan selamat. Ingatlah perjuangan Kuki saat...",
-    "total_word_count": 108,
+    "full_spoken_text_id": "Kelinci melompat cepat sambil menertawakan kura-kura kecil yang berjalan selangkah demi selangkah. 'Hei Kuki, danau itu terlalu luas, kamu takkan pernah sampai sebelum malam!' Namun Kuki tetap tenang dan tidak menghiraukan ejekan itu. Ia hanya fokus pada satu langkah di depannya. Satu langkah, dua langkah, lalu tiga langkah. Di tengah jalan, kelinci tertidur pulas karena merasa sudah terlalu jauh di depan. Saat matahari terbenam menyinari danau teratai, Kuki telah tersenyum damai di seberang pulau. Guru Bangau berbisik bijak: 'Bukan siapa yang paling cepat melompat, tapi siapa yang setia melangkah tanpa henti.' Kesabaran selalu menuntunmu pulang dengan selamat. Sekarang, tarik selimut hangatmu, pejamkan matamu ya... selamat tidur, dan mimpi indah.",
+    "total_word_count": 109,
     "estimated_reading_duration_seconds": 54,
     "average_wpm": 120.0,
     "voiceover_profile": {

@@ -129,11 +129,11 @@
       },
       {
         "segment_id": "SEG_05",
-        "phase": "Refleksi Pengantar Tidur & Seamless Loop",
+        "phase": "Refleksi Pengantar Tidur & Penutup Damai",
         "timestamp_range": "00:50 - 00:58",
         "duration_seconds": 8,
-        "spoken_text": "Ingatlah kehangatan ini setiap kali kamu mendengar...",
-        "word_count": 7,
+        "spoken_text": "Sekarang, tarik selimut hangatmu, pejamkan matamu ya... selamat tidur, dan mimpi indah.",
+        "word_count": 12,
         "pacing_wpm": 52,
         "visual_direction": "Kamera perlahan mundur ke pemandangan hutan pagi berkabut emas yang damai. Duri berjalan bersama kawan-kawan barunya sambil tertawa bahagia. Transisi cepat menyambung ke frame pembuka di jalan setapak.",
         "text_on_screen": {
@@ -142,7 +142,7 @@
           "style": "Teks putih berbayang lembut dengan tombol bookmark dan ikon hati mekar."
         },
         "audio_design": {
-          "voice_inflection": "Lembut berbisik pengantar tidur, intonasi naik menggantung yang mengalir kembali ke awal.",
+          "voice_inflection": "Lembut mengalun pengantar tidur yang menenangkan jiwa.",
           "sfx": "Gemerisik dedaunan pagi dan desah nafas damai.",
           "bgm": "Akord penutup yang menyatu sempurna dengan ketukan pembuka video."
         }
@@ -150,14 +150,14 @@
     ]
   },
   "seamless_loop_mechanism": {
-    "loop_phrase_ending": "Ingatlah kehangatan ini setiap kali kamu mendengar...",
+    "loop_phrase_ending": "Selamat tidur, dan mimpi indah.",
     "hook_phrase_beginning": "Semua hewan hutan menjauhi Duri si landak kecil, sampai hujan badai datang malam itu.",
-    "full_loop_sentence": "Ingatlah kehangatan ini setiap kali kamu mendengar... Semua hewan hutan menjauhi Duri si landak kecil, sampai hujan badai datang malam itu.",
-    "retention_mechanic": "Frasa penghubung penutup mengantarkan pendengar kembali ke awal kisah tanpa jeda, mengoptimalkan algoritma completion rate."
+    "full_loop_sentence": "Selamat tidur, dan mimpi indah.",
+    "retention_mechanic": "Pesan penutup tidur ramah anak yang menenangkan dan penuh kehangatan."
   },
   "verbatim_script_master": {
-    "full_spoken_text_id": "Semua hewan hutan menjauhi Duri si landak kecil, sampai hujan badai datang malam itu. Tubuhnya yang penuh duri runcing membuat kawan-kawannya takut terluka dan enggan mendekat. Duri sering merasa sedih dan menangis sendirian di dalam sarangnya yang sepi. Namun saat angin kencang merobohkan sarang lebah madu ke tanah basah, Duri tidak ragu sedikit pun. Ia segera melengkungkan tubuhnya di atas sarang rapuh itu, rela menahan dinginnya air hujan demi melindungi bayi-bayi lebah sepanjang malam. Saat fajar menyingsing indah, Ratu Lebah berbisik penuh haru: 'Duri di punggungmu tajam, tapi hatimu selembut sutra.' Jangan pernah menilai indahnya kebaikan hanya dari penampilan luarnya. Ingatlah kehangatan ini setiap kali kamu mendengar...",
-    "total_word_count": 106,
+    "full_spoken_text_id": "Semua hewan hutan menjauhi Duri si landak kecil, sampai hujan badai datang malam itu. Tubuhnya yang penuh duri runcing membuat kawan-kawannya takut terluka dan enggan mendekat. Duri sering merasa sedih dan menangis sendirian di dalam sarangnya yang sepi. Namun saat angin kencang merobohkan sarang lebah madu ke tanah basah, Duri tidak ragu sedikit pun. Ia segera melengkungkan tubuhnya di atas sarang rapuh itu, rela menahan dinginnya air hujan demi melindungi bayi-bayi lebah sepanjang malam. Saat fajar menyingsing indah, Ratu Lebah berbisik penuh haru: 'Duri di punggungmu tajam, tapi hatimu selembut sutra.' Jangan pernah menilai indahnya kebaikan hanya dari penampilan luarnya. Sekarang, tarik selimut hangatmu, pejamkan matamu ya... selamat tidur, dan mimpi indah.",
+    "total_word_count": 112,
     "estimated_reading_duration_seconds": 53,
     "average_wpm": 120.0,
     "voiceover_profile": {

@@ -129,37 +129,37 @@
       },
       {
         "segment_id": "SEG_05",
-        "phase": "Refleksi Pengantar Tidur & Seamless Loop",
+        "phase": "Refleksi Pengantar Tidur & Penutup Damai",
         "timestamp_range": "00:50 - 00:58",
         "duration_seconds": 8,
-        "spoken_text": "Kisah ini mengajarkan kita mengapa...",
-        "word_count": 5,
-        "pacing_wpm": 37,
-        "visual_direction": "Kamera panning up ke langit senja berhias lentera pohon kenari. Miko dan Pipit tidur saling bersandar hangat di bawah dahan rindang. Cutback cepat di frame terakhir ke ekor merak yang mekar di awal video.",
+        "spoken_text": "Sekarang, tarik selimut hangatmu, pejamkan matamu ya... selamat tidur, dan mimpi indah.",
+        "word_count": 12,
+        "pacing_wpm": 90,
+        "visual_direction": "Kamera panning up ke langit senja berhias lentera pohon kenari. Miko dan Pipit tidur saling bersandar hangat di bawah dahan rindang.",
         "text_on_screen": {
           "headline": "Hati yang Rendah Selalu Dicintai ❤️",
           "sub_headline": "Peluk si kecil dan bisikkan pesan ini",
           "style": "Teks putih bercahaya lembut dengan ikon bulan sabit dan bookmark."
         },
         "audio_design": {
-          "voice_inflection": "Lembut mengalun pengantar tidur, intonasi menggantung yang mulus menyambung ke awal.",
+          "voice_inflection": "Lembut mengalun pengantar tidur yang menenangkan jiwa.",
           "sfx": "Jangkrik malam bernyanyi pelan.",
-          "bgm": "Akord harpa tunggal yang harmonis menyatu dengan beat pembuka."
+          "bgm": "Akord harpa tunggal yang harmonis dan menenangkan."
         }
       }
     ]
   },
   "seamless_loop_mechanism": {
-    "loop_phrase_ending": "Kisah ini mengajarkan kita mengapa...",
+    "loop_phrase_ending": "Selamat tidur, dan mimpi indah.",
     "hook_phrase_beginning": "Pernahkah kamu melihat burung merak yang begitu bangga dengan bulunya, sampai lupa menyapa sahabatnya?",
-    "full_loop_sentence": "Kisah ini mengajarkan kita mengapa... Pernahkah kamu melihat burung merak yang begitu bangga dengan bulunya, sampai lupa menyapa sahabatnya?",
-    "retention_mechanic": "Kata tanya retoris penutup menyambung langsung menjadi subjek kalimat pembuka, menciptakan retensi tontonan berulang secara otomatis."
+    "full_loop_sentence": "Selamat tidur, dan mimpi indah.",
+    "retention_mechanic": "Pesan penutup tidur ramah anak yang menenangkan dan penuh kehangatan."
   },
   "verbatim_script_master": {
-    "full_spoken_text_id": "Pernahkah kamu melihat burung merak yang begitu bangga dengan bulunya, sampai lupa menyapa sahabatnya? Miko si merak emas selalu memamerkan ekornya yang berkilau di hadapan burung pipit kecil. 'Lihat, buluku adalah yang paling indah di seluruh rimba!' serunya sombong. Suatu sore, angin kencang menghembuskan duri-duri tajam yang tersangkut di sayapnya. Miko terjatuh tak berdaya. Si burung pipit kecil yang sederhana segera datang membawakan air dan mencabut duri itu satu per satu dengan sabar. Miko menangis terharu dan berbisik: 'Bulu indahku tak ada gunanya tanpa sahabat yang tulus.' Keindahan sejati terpancar dari kerendahan hati. Kisah ini mengajarkan kita mengapa...",
-    "total_word_count": 104,
-    "estimated_reading_duration_seconds": 53,
-    "average_wpm": 117.7,
+    "full_spoken_text_id": "Pernahkah kamu melihat burung merak yang begitu bangga dengan bulunya, sampai lupa menyapa sahabatnya? Miko si merak emas selalu memamerkan ekornya yang berkilau di hadapan burung pipit kecil. 'Lihat, buluku adalah yang paling indah di seluruh rimba!' serunya sombong. Suatu sore, angin kencang menghembuskan duri-duri tajam yang tersangkut di sayapnya. Miko terjatuh tak berdaya. Si burung pipit kecil yang sederhana segera datang membawakan air dan mencabut duri itu satu per satu dengan sabar. Miko menangis terharu dan berbisik: 'Bulu indahku tak ada gunanya tanpa sahabat yang tulus.' Keindahan sejati terpancar dari kerendahan hati. Sekarang, tarik selimut hangatmu, pejamkan matamu ya... selamat tidur, dan mimpi indah.",
+    "total_word_count": 111,
+    "estimated_reading_duration_seconds": 56,
+    "average_wpm": 118.9,
     "voiceover_profile": {
       "speaker_persona": "Kak Dita (Pendongeng hangat, ramah anak, intonasi lembut pengantar tidur, ekspresif namun menenangkan)",
       "speed_multiplier": 1.0,

@@ -129,11 +129,11 @@
       },
       {
         "segment_id": "SEG_05",
-        "phase": "Refleksi Pengantar Tidur & Seamless Loop",
+        "phase": "Refleksi Pengantar Tidur & Penutup Damai",
         "timestamp_range": "00:50 - 00:58",
         "duration_seconds": 8,
-        "spoken_text": "Maka saat rasa kesal mulai datang...",
-        "word_count": 7,
+        "spoken_text": "Sekarang, tarik selimut hangatmu, pejamkan matamu ya... selamat tidur, dan mimpi indah.",
+        "word_count": 12,
         "pacing_wpm": 52,
         "visual_direction": "Kamera bergerak menjauh memperlihatkan siluet Kakek Beruang dan Balu duduk berdampingan menatap air terjun yang tenang di bawah langit petang. Cutback cepat di frame terakhir menyambung ke frame bara amarah pembuka.",
         "text_on_screen": {
@@ -142,7 +142,7 @@
           "style": "Teks putih berkilau lembut dengan ikon hati dan tombol save."
         },
         "audio_design": {
-          "voice_inflection": "Bisikan manis pengantar tidur, intonasi menggantung yang mengalir kembali ke awal loop.",
+          "voice_inflection": "Lembut mengalun pengantar tidur yang menenangkan jiwa.",
           "sfx": "Gemericik air tenang dan angin sore semilir.",
           "bgm": "Akord penutup harmonis yang langsung menyatu dengan ketukan drum pembuka."
         }
@@ -150,14 +150,14 @@
     ]
   },
   "seamless_loop_mechanism": {
-    "loop_phrase_ending": "Maka saat rasa kesal mulai datang...",
+    "loop_phrase_ending": "Selamat tidur, dan mimpi indah.",
     "hook_phrase_beginning": "Saat amarahmu membakar seperti api di dalam dada, jangan biarkan cakar tajammu merusak segalanya.",
-    "full_loop_sentence": "Maka saat rasa kesal mulai datang... Saat amarahmu membakar seperti api di dalam dada, jangan biarkan cakar tajammu merusak segalanya.",
-    "retention_mechanic": "Konjungsi klausa syarat penutup menjadi jembatan semantik sempurna ke kalimat pembuka, menciptakan retensi pengulangan video >120%."
+    "full_loop_sentence": "Selamat tidur, dan mimpi indah.",
+    "retention_mechanic": "Pesan penutup tidur ramah anak yang menenangkan dan penuh kehangatan."
   },
   "verbatim_script_master": {
-    "full_spoken_text_id": "Saat amarahmu membakar seperti api di dalam dada, jangan biarkan cakar tajammu merusak segalanya. Balu si beruang cilik menggeram marah karena menara batunya roboh tertiup angin. Ia ingin membanting semua mainannya. Kakek Beruang perlahan duduk di sampingnya, meletakkan tangan hangatnya di dada Balu, lalu berbisik lembut: 'Tarik napas dalam seperti mencium wangi bunga hutan, lalu hembuskan pelan seperti meniup daun kering.' Balu menarik napas tiga kali. Perlahan, detak jantungnya mereda dan amarahnya larut bagai embun pagi. 'Marah itu tamu sementara, Balu. Jangan biarkan ia merusak kedamaian hatimu.' Ketenangan adalah kekuatan terbesarmu. Maka saat rasa kesal mulai datang...",
-    "total_word_count": 101,
+    "full_spoken_text_id": "Saat amarahmu membakar seperti api di dalam dada, jangan biarkan cakar tajammu merusak segalanya. Balu si beruang cilik menggeram marah karena menara batunya roboh tertiup angin. Ia ingin membanting semua mainannya. Kakek Beruang perlahan duduk di sampingnya, meletakkan tangan hangatnya di dada Balu, lalu berbisik lembut: 'Tarik napas dalam seperti mencium wangi bunga hutan, lalu hembuskan pelan seperti meniup daun kering.' Balu menarik napas tiga kali. Perlahan, detak jantungnya mereda dan amarahnya larut bagai embun pagi. 'Marah itu tamu sementara, Balu. Jangan biarkan ia merusak kedamaian hatimu.' Ketenangan adalah kekuatan terbesarmu. Sekarang, tarik selimut hangatmu, pejamkan matamu ya... selamat tidur, dan mimpi indah.",
+    "total_word_count": 103,
     "estimated_reading_duration_seconds": 51,
     "average_wpm": 118.8,
     "voiceover_profile": {

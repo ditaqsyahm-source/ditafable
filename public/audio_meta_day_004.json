@@ -5,9 +5,9 @@
   "audio_path": "public/voiceover_day_004.mp3",
   "voice": "id-ID-GadisNeural",
   "rate": "-3%",
-  "total_words": 98,
-  "duration_seconds": 54.62,
-  "duration_frames": 1311,
+  "total_words": 105,
+  "duration_seconds": 59.57,
+  "duration_frames": 1430,
   "fps": 24,
   "sentences": [
     {
@@ -48,21 +48,21 @@
     },
     {
       "start": 39.032,
-      "end": 46.674,
-      "duration": 7.642,
+      "end": 46.648,
+      "duration": 7.616,
       "text": "Miko menangis terharu dan berbisik: 'Bulu indahku tak ada gunanya tanpa sahabat yang tulus.'"
     },
     {
-      "start": 46.674,
-      "end": 51.094,
-      "duration": 4.42,
+      "start": 46.648,
+      "end": 51.055,
+      "duration": 4.407,
       "text": "Keindahan sejati terpancar dari kerendahan hati."
     },
     {
-      "start": 51.094,
-      "end": 54.612,
-      "duration": 3.518,
-      "text": "Kisah ini mengajarkan kita mengapa..."
+      "start": 51.055,
+      "end": 59.547,
+      "duration": 8.492,
+      "text": "Sekarang, tarik selimut hangatmu, pejamkan matamu ya... selamat tidur, dan mimpi indah."
     }
   ],
   "timed_subtitles": [
@@ -168,43 +168,48 @@
     },
     {
       "start": 39.032,
-      "end": 41.179,
+      "end": 41.171,
       "text": "Miko menangis terharu dan"
     },
     {
-      "start": 41.179,
-      "end": 43.497,
+      "start": 41.171,
+      "end": 43.482,
       "text": "berbisik: 'Bulu indahku tak"
     },
     {
-      "start": 43.497,
-      "end": 45.644,
+      "start": 43.482,
+      "end": 45.621,
       "text": "ada gunanya tanpa sahabat"
     },
     {
-      "start": 45.644,
-      "end": 46.674,
+      "start": 45.621,
+      "end": 46.648,
       "text": "yang tulus.'"
     },
     {
-      "start": 46.674,
-      "end": 49.589,
+      "start": 46.648,
+      "end": 49.555,
       "text": "Keindahan sejati terpancar dari"
     },
     {
-      "start": 49.589,
-      "end": 51.094,
+      "start": 49.555,
+      "end": 51.055,
       "text": "kerendahan hati."
     },
     {
-      "start": 51.094,
-      "end": 53.635,
-      "text": "Kisah ini mengajarkan kita"
+      "start": 51.055,
+      "end": 54.352,
+      "text": "Sekarang, tarik selimut hangatmu,"
     },
     {
-      "start": 53.635,
-      "end": 54.612,
-      "text": "mengapa..."
+      "start": 54.352,
+      "end": 57.249,
+      "text": "pejamkan matamu ya... selamat"
+    },
+    {
+      "start": 57.249,
+      "end": 59.547,
+      "text": "tidur, dan mimpi indah."
     }
   ]
 }
