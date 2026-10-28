@@ -211,12 +211,11 @@ async function main() {
     fs.mkdirSync(framesDir, { recursive: true });
 
     const keyMoments = [
-      { name: "frame_01_ciko_hutan_apel.jpg", time: "00:00:05.000" },
-      { name: "frame_02_apel_terbelah.jpg", time: "00:00:18.000" },
-      { name: "frame_03_jalan_setapak_kabut.jpg", time: "00:00:38.000" },
-      { name: "frame_04_pintu_pengakuan_jujur.jpg", time: "00:01:00.000" },
-      { name: "frame_05_kakek_beruang_memeluk.jpg", time: "00:01:20.000" },
-      { name: "frame_06_malam_tidur_bintang.jpg", time: "00:01:38.000" },
+      { name: `frame_01_day_${dayStr}.jpg`, time: "00:00:05.000" },
+      { name: `frame_02_day_${dayStr}.jpg`, time: "00:00:18.000" },
+      { name: `frame_03_day_${dayStr}.jpg`, time: "00:00:30.000" },
+      { name: `frame_04_day_${dayStr}.jpg`, time: "00:00:42.000" },
+      { name: `frame_05_day_${dayStr}.jpg`, time: "00:00:54.000" },
     ];
 
     console.log(`[Remotion Engine] Extracting ${keyMoments.length} preview frames...`);
