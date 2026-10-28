@@ -1,0 +1,168 @@
+{
+  "channel_id": "DITA-04",
+  "channel_name": "Dita Dongeng & Fabel",
+  "channel_handle": "@ditafable",
+  "audio_path": "C:\\Users\\K4G3\\Documents\\Github\\ditafable\\public\\voiceover_day_012.mp3",
+  "voice": "id-ID-GadisNeural",
+  "rate": "-3%",
+  "total_words": 84,
+  "duration_seconds": 49.85,
+  "duration_frames": 1196,
+  "fps": 24,
+  "sentences": [
+    {
+      "start": 0.05,
+      "end": 7.292,
+      "duration": 7.242,
+      "text": "Di tepi hutan kenari yang tenang, Milo si Kucing sedang duduk memandangi jalan setapak berkabut."
+    },
+    {
+      "start": 7.292,
+      "end": 10.54,
+      "duration": 3.247,
+      "text": "Tiba-tiba, 'Kletuk!'"
+    },
+    {
+      "start": 10.54,
+      "end": 16.545,
+      "duration": 6.005,
+      "text": "Ada sesuatu yang membuat hatinya berdebar cemas saat Kakek Kura-Kura datang mendekat."
+    },
+    {
+      "start": 16.545,
+      "end": 24.844,
+      "duration": 8.299,
+      "text": "Meski sempat merasa takut, Milo si Kucing memilih untuk bersikap jujur dan berbicara dengan penuh kelembutan."
+    },
+    {
+      "start": 24.844,
+      "end": 35.926,
+      "duration": 11.082,
+      "text": "Mendengar kata-katanya yang tulus, Kakek Kura-Kura tersenyum teduh dan memeluknya hangat: 'Kebaikan hatimu jauh lebih berharga daripada apa pun.'"
+    },
+    {
+      "start": 35.926,
+      "end": 41.248,
+      "duration": 5.322,
+      "text": "Memaafkan kecerobohan sahabat membuka pintu damai di telaga."
+    },
+    {
+      "start": 41.248,
+      "end": 49.831,
+      "duration": 8.582,
+      "text": "Sekarang, tarik selimut hangatmu, pejamkan matamu ya... selamat tidur, dan mimpi indah."
+    }
+  ],
+  "timed_subtitles": [
+    {
+      "start": 0.05,
+      "end": 1.607,
+      "text": "Di tepi hutan kenari"
+    },
+    {
+      "start": 1.607,
+      "end": 3.165,
+      "text": "yang tenang, Milo si"
+    },
+    {
+      "start": 3.165,
+      "end": 5.501,
+      "text": "Kucing sedang duduk memandangi"
+    },
+    {
+      "start": 5.501,
+      "end": 7.292,
+      "text": "jalan setapak berkabut."
+    },
+    {
+      "start": 7.292,
+      "end": 10.54,
+      "text": "Tiba-tiba, 'Kletuk!'"
+    },
+    {
+      "start": 10.54,
+      "end": 12.276,
+      "text": "Ada sesuatu yang membuat"
+    },
+    {
+      "start": 12.276,
+      "end": 14.23,
+      "text": "hatinya berdebar cemas saat"
+    },
+    {
+      "start": 14.23,
+      "end": 16.545,
+      "text": "Kakek Kura-Kura datang mendekat."
+    },
+    {
+      "start": 16.545,
+      "end": 18.581,
+      "text": "Meski sempat merasa takut,"
+    },
+    {
+      "start": 18.581,
+      "end": 20.303,
+      "text": "Milo si Kucing memilih"
+    },
+    {
+      "start": 20.303,
+      "end": 22.182,
+      "text": "untuk bersikap jujur dan"
+    },
+    {
+      "start": 22.182,
+      "end": 24.844,
+      "text": "berbicara dengan penuh kelembutan."
+    },
+    {
+      "start": 24.844,
+      "end": 27.516,
+      "text": "Mendengar kata-katanya yang tulus,"
+    },
+    {
+      "start": 27.516,
+      "end": 29.953,
+      "text": "Kakek Kura-Kura tersenyum teduh"
+    },
+    {
+      "start": 29.953,
+      "end": 32.468,
+      "text": "dan memeluknya hangat: 'Kebaikan"
+    },
+    {
+      "start": 32.468,
+      "end": 34.511,
+      "text": "hatimu jauh lebih berharga"
+    },
+    {
+      "start": 34.511,
+      "end": 35.926,
+      "text": "daripada apa pun.'"
+    },
+    {
+      "start": 35.926,
+      "end": 39.264,
+      "text": "Memaafkan kecerobohan sahabat membuka"
+    },
+    {
+      "start": 39.264,
+      "end": 41.248,
+      "text": "pintu damai di telaga."
+    },
+    {
+      "start": 41.248,
+      "end": 44.58,
+      "text": "Sekarang, tarik selimut hangatmu,"
+    },
+    {
+      "start": 44.58,
+      "end": 47.509,
+      "text": "pejamkan matamu ya... selamat"
+    },
+    {
+      "start": 47.509,
+      "end": 49.831,
+      "text": "tidur, dan mimpi indah."
+    }
+  ]
+}

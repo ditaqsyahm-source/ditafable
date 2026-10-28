@@ -2,12 +2,12 @@
   "channel_id": "DITA-04",
   "channel_name": "Dita Dongeng & Fabel",
   "channel_handle": "@ditafable",
-  "audio_path": "public/voiceover_day_005.mp3",
+  "audio_path": "C:\\Users\\K4G3\\Documents\\Github\\ditafable\\public\\voiceover_day_005.mp3",
   "voice": "id-ID-GadisNeural",
   "rate": "-3%",
-  "total_words": 97,
-  "duration_seconds": 58.63,
-  "duration_frames": 1407,
+  "total_words": 103,
+  "duration_seconds": 63.72,
+  "duration_frames": 1529,
   "fps": 24,
   "sentences": [
     {
@@ -60,15 +60,15 @@
     },
     {
       "start": 51.493,
-      "end": 55.218,
-      "duration": 3.724,
+      "end": 55.192,
+      "duration": 3.698,
       "text": "Ketenangan adalah kekuatan terbesarmu."
     },
     {
-      "start": 55.218,
-      "end": 58.607,
-      "duration": 3.389,
-      "text": "Maka saat rasa kesal mulai datang..."
+      "start": 55.192,
+      "end": 63.71,
+      "duration": 8.518,
+      "text": "Sekarang, tarik selimut hangatmu, pejamkan matamu ya... selamat tidur, dan mimpi indah."
     }
   ],
   "timed_subtitles": [
@@ -204,18 +204,23 @@
     },
     {
       "start": 51.493,
-      "end": 55.218,
+      "end": 55.192,
       "text": "Ketenangan adalah kekuatan terbesarmu."
     },
     {
-      "start": 55.218,
-      "end": 57.155,
-      "text": "Maka saat rasa kesal"
+      "start": 55.192,
+      "end": 58.499,
+      "text": "Sekarang, tarik selimut hangatmu,"
     },
     {
-      "start": 57.155,
-      "end": 58.607,
-      "text": "mulai datang..."
+      "start": 58.499,
+      "end": 61.405,
+      "text": "pejamkan matamu ya... selamat"
+    },
+    {
+      "start": 61.405,
+      "end": 63.71,
+      "text": "tidur, dan mimpi indah."
     }
   ]
 }

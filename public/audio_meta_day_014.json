@@ -1,0 +1,178 @@
+{
+  "channel_id": "DITA-04",
+  "channel_name": "Dita Dongeng & Fabel",
+  "channel_handle": "@ditafable",
+  "audio_path": "C:\\Users\\K4G3\\Documents\\Github\\ditafable\\public\\voiceover_day_014.mp3",
+  "voice": "id-ID-GadisNeural",
+  "rate": "-3%",
+  "total_words": 87,
+  "duration_seconds": 50.69,
+  "duration_frames": 1217,
+  "fps": 24,
+  "sentences": [
+    {
+      "start": 0.05,
+      "end": 7.55,
+      "duration": 7.5,
+      "text": "Di tepi hutan kenari yang tenang, Keluarga Burung Pipit sedang duduk memandangi jalan setapak berkabut."
+    },
+    {
+      "start": 7.55,
+      "end": 10.797,
+      "duration": 3.247,
+      "text": "Tiba-tiba, 'Kletuk!'"
+    },
+    {
+      "start": 10.797,
+      "end": 17.047,
+      "duration": 6.25,
+      "text": "Ada sesuatu yang membuat hatinya berdebar cemas saat sahabatnya di hutan datang mendekat."
+    },
+    {
+      "start": 17.047,
+      "end": 25.411,
+      "duration": 8.363,
+      "text": "Meski sempat merasa takut, Keluarga Burung memilih untuk bersikap jujur dan berbicara dengan penuh kelembutan."
+    },
+    {
+      "start": 25.411,
+      "end": 36.79,
+      "duration": 11.379,
+      "text": "Mendengar kata-katanya yang tulus, sahabatnya di hutan tersenyum teduh dan memeluknya hangat: 'Kebaikan hatimu jauh lebih berharga daripada apa pun.'"
+    },
+    {
+      "start": 36.79,
+      "end": 42.099,
+      "duration": 5.309,
+      "text": "Bersyukur atas rezeki hari ini membuat mimpi malam terasa damai."
+    },
+    {
+      "start": 42.099,
+      "end": 50.669,
+      "duration": 8.57,
+      "text": "Sekarang, tarik selimut hangatmu, pejamkan matamu ya... selamat tidur, dan mimpi indah."
+    }
+  ],
+  "timed_subtitles": [
+    {
+      "start": 0.05,
+      "end": 1.55,
+      "text": "Di tepi hutan kenari"
+    },
+    {
+      "start": 1.55,
+      "end": 3.65,
+      "text": "yang tenang, Keluarga Burung"
+    },
+    {
+      "start": 3.65,
+      "end": 5.825,
+      "text": "Pipit sedang duduk memandangi"
+    },
+    {
+      "start": 5.825,
+      "end": 7.55,
+      "text": "jalan setapak berkabut."
+    },
+    {
+      "start": 7.55,
+      "end": 10.797,
+      "text": "Tiba-tiba, 'Kletuk!'"
+    },
+    {
+      "start": 10.797,
+      "end": 12.541,
+      "text": "Ada sesuatu yang membuat"
+    },
+    {
+      "start": 12.541,
+      "end": 14.503,
+      "text": "hatinya berdebar cemas saat"
+    },
+    {
+      "start": 14.503,
+      "end": 16.393,
+      "text": "sahabatnya di hutan datang"
+    },
+    {
+      "start": 16.393,
+      "end": 17.047,
+      "text": "mendekat."
+    },
+    {
+      "start": 17.047,
+      "end": 19.079,
+      "text": "Meski sempat merasa takut,"
+    },
+    {
+      "start": 19.079,
+      "end": 21.346,
+      "text": "Keluarga Burung memilih untuk"
+    },
+    {
+      "start": 21.346,
+      "end": 23.535,
+      "text": "bersikap jujur dan berbicara"
+    },
+    {
+      "start": 23.535,
+      "end": 25.411,
+      "text": "dengan penuh kelembutan."
+    },
+    {
+      "start": 25.411,
+      "end": 28.079,
+      "text": "Mendengar kata-katanya yang tulus,"
+    },
+    {
+      "start": 28.079,
+      "end": 30.355,
+      "text": "sahabatnya di hutan tersenyum"
+    },
+    {
+      "start": 30.355,
+      "end": 32.552,
+      "text": "teduh dan memeluknya hangat:"
+    },
+    {
+      "start": 32.552,
+      "end": 34.671,
+      "text": "'Kebaikan hatimu jauh lebih"
+    },
+    {
+      "start": 34.671,
+      "end": 36.79,
+      "text": "berharga daripada apa pun.'"
+    },
+    {
+      "start": 36.79,
+      "end": 39.016,
+      "text": "Bersyukur atas rezeki hari"
+    },
+    {
+      "start": 39.016,
+      "end": 40.986,
+      "text": "ini membuat mimpi malam"
+    },
+    {
+      "start": 40.986,
+      "end": 42.099,
+      "text": "terasa damai."
+    },
+    {
+      "start": 42.099,
+      "end": 45.426,
+      "text": "Sekarang, tarik selimut hangatmu,"
+    },
+    {
+      "start": 45.426,
+      "end": 48.35,
+      "text": "pejamkan matamu ya... selamat"
+    },
+    {
+      "start": 48.35,
+      "end": 50.669,
+      "text": "tidur, dan mimpi indah."
+    }
+  ]
+}

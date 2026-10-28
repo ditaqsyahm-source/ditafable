@@ -1,0 +1,173 @@
+{
+  "channel_id": "DITA-04",
+  "channel_name": "Dita Dongeng & Fabel",
+  "channel_handle": "@ditafable",
+  "audio_path": "C:\\Users\\K4G3\\Documents\\Github\\ditafable\\public\\voiceover_day_011.mp3",
+  "voice": "id-ID-GadisNeural",
+  "rate": "-3%",
+  "total_words": 86,
+  "duration_seconds": 49.46,
+  "duration_frames": 1187,
+  "fps": 24,
+  "sentences": [
+    {
+      "start": 0.05,
+      "end": 7.266,
+      "duration": 7.216,
+      "text": "Di tepi hutan kenari yang tenang, Gani si Gajah sedang duduk memandangi jalan setapak berkabut."
+    },
+    {
+      "start": 7.266,
+      "end": 10.527,
+      "duration": 3.26,
+      "text": "Tiba-tiba, 'Kletuk!'"
+    },
+    {
+      "start": 10.527,
+      "end": 16.313,
+      "duration": 5.786,
+      "text": "Ada sesuatu yang membuat hatinya berdebar cemas saat Pipit Cilik datang mendekat."
+    },
+    {
+      "start": 16.313,
+      "end": 24.779,
+      "duration": 8.466,
+      "text": "Meski sempat merasa takut, Gani si Gajah memilih untuk bersikap jujur dan berbicara dengan penuh kelembutan."
+    },
+    {
+      "start": 24.779,
+      "end": 35.63,
+      "duration": 10.851,
+      "text": "Mendengar kata-katanya yang tulus, Pipit Cilik tersenyum teduh dan memeluknya hangat: 'Kebaikan hatimu jauh lebih berharga daripada apa pun.'"
+    },
+    {
+      "start": 35.63,
+      "end": 41.004,
+      "duration": 5.374,
+      "text": "Kekuatan sejati terlihat dari cara menjaga makhluk yang paling lemah."
+    },
+    {
+      "start": 41.004,
+      "end": 49.444,
+      "duration": 8.441,
+      "text": "Sekarang, tarik selimut hangatmu, pejamkan matamu ya... selamat tidur, dan mimpi indah."
+    }
+  ],
+  "timed_subtitles": [
+    {
+      "start": 0.05,
+      "end": 1.619,
+      "text": "Di tepi hutan kenari"
+    },
+    {
+      "start": 1.619,
+      "end": 3.187,
+      "text": "yang tenang, Gani si"
+    },
+    {
+      "start": 3.187,
+      "end": 5.462,
+      "text": "Gajah sedang duduk memandangi"
+    },
+    {
+      "start": 5.462,
+      "end": 7.266,
+      "text": "jalan setapak berkabut."
+    },
+    {
+      "start": 7.266,
+      "end": 10.527,
+      "text": "Tiba-tiba, 'Kletuk!'"
+    },
+    {
+      "start": 10.527,
+      "end": 12.285,
+      "text": "Ada sesuatu yang membuat"
+    },
+    {
+      "start": 12.285,
+      "end": 14.262,
+      "text": "hatinya berdebar cemas saat"
+    },
+    {
+      "start": 14.262,
+      "end": 16.313,
+      "text": "Pipit Cilik datang mendekat."
+    },
+    {
+      "start": 16.313,
+      "end": 18.409,
+      "text": "Meski sempat merasa takut,"
+    },
+    {
+      "start": 18.409,
+      "end": 20.103,
+      "text": "Gani si Gajah memilih"
+    },
+    {
+      "start": 20.103,
+      "end": 22.038,
+      "text": "untuk bersikap jujur dan"
+    },
+    {
+      "start": 22.038,
+      "end": 24.779,
+      "text": "berbicara dengan penuh kelembutan."
+    },
+    {
+      "start": 24.779,
+      "end": 27.472,
+      "text": "Mendengar kata-katanya yang tulus,"
+    },
+    {
+      "start": 27.472,
+      "end": 29.61,
+      "text": "Pipit Cilik tersenyum teduh"
+    },
+    {
+      "start": 29.61,
+      "end": 32.145,
+      "text": "dan memeluknya hangat: 'Kebaikan"
+    },
+    {
+      "start": 32.145,
+      "end": 34.204,
+      "text": "hatimu jauh lebih berharga"
+    },
+    {
+      "start": 34.204,
+      "end": 35.63,
+      "text": "daripada apa pun.'"
+    },
+    {
+      "start": 35.63,
+      "end": 37.956,
+      "text": "Kekuatan sejati terlihat dari"
+    },
+    {
+      "start": 37.956,
+      "end": 39.961,
+      "text": "cara menjaga makhluk yang"
+    },
+    {
+      "start": 39.961,
+      "end": 41.004,
+      "text": "paling lemah."
+    },
+    {
+      "start": 41.004,
+      "end": 44.281,
+      "text": "Sekarang, tarik selimut hangatmu,"
+    },
+    {
+      "start": 44.281,
+      "end": 47.16,
+      "text": "pejamkan matamu ya... selamat"
+    },
+    {
+      "start": 47.16,
+      "end": 49.444,
+      "text": "tidur, dan mimpi indah."
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+[
+  {
+    "scene_id": "SCENE_01",
+    "timeStart": 0.0,
+    "timeEnd": 8.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_009/scene_01.jpg",
+    "description": "Adorable 3D Pixar animation style, Bara si Serigala playing peacefully in vibrant mossy fairytale fo"
+  },
+  {
+    "scene_id": "SCENE_02",
+    "timeStart": 8.0,
+    "timeEnd": 20.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_009/scene_02.jpg",
+    "description": "Close-up emotional 3D Pixar scene, Bara si Serigala looking surprised and concerned at a small falle"
+  },
+  {
+    "scene_id": "SCENE_03",
+    "timeStart": 20.0,
+    "timeEnd": 35.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_009/scene_03.jpg",
+    "description": "Heartwarming 3D Pixar scene of Bara si Serigala meeting Moli si Anak Domba near a cozy woodland cott"
+  },
+  {
+    "scene_id": "SCENE_04",
+    "timeStart": 35.0,
+    "timeEnd": 48.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_009/scene_04.jpg",
+    "description": "Touching emotional resolution, Moli si Anak Domba warmly hugging Bara si Serigala with gentle smile,"
+  },
+  {
+    "scene_id": "SCENE_05",
+    "timeStart": 48.0,
+    "timeEnd": 58.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_009/scene_05.jpg",
+    "description": "Panoramic dusk landscape of enchanted fairytale forest under glowing crescent moon, gentle fireflies"
+  }
+]

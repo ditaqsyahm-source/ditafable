@@ -2,12 +2,12 @@
   "channel_id": "DITA-04",
   "channel_name": "Dita Dongeng & Fabel",
   "channel_handle": "@ditafable",
-  "audio_path": "public/voiceover_day_006.mp3",
+  "audio_path": "C:\\Users\\K4G3\\Documents\\Github\\ditafable\\public\\voiceover_day_006.mp3",
   "voice": "id-ID-GadisNeural",
   "rate": "-3%",
-  "total_words": 94,
-  "duration_seconds": 54.0,
-  "duration_frames": 1296,
+  "total_words": 102,
+  "duration_seconds": 59.06,
+  "duration_frames": 1418,
   "fps": 24,
   "sentences": [
     {
@@ -48,15 +48,15 @@
     },
     {
       "start": 40.565,
-      "end": 50.604,
-      "duration": 10.039,
+      "end": 50.63,
+      "duration": 10.064,
       "text": "Burung Hantu Bijak berseru: 'Saat dua sahabat bergandeng tangan, rintangan terbesar pun berubah menjadi jalan kebahagiaan.'"
     },
     {
-      "start": 50.604,
-      "end": 53.993,
-      "duration": 3.389,
-      "text": "Ingatlah rahasia persahabatan ini..."
+      "start": 50.63,
+      "end": 59.058,
+      "duration": 8.428,
+      "text": "Sekarang, tarik selimut hangatmu, pejamkan matamu ya... selamat tidur, dan mimpi indah."
     }
   ],
   "timed_subtitles": [
@@ -167,28 +167,38 @@
     },
     {
       "start": 40.565,
-      "end": 42.824,
+      "end": 42.83,
       "text": "Burung Hantu Bijak berseru:"
     },
     {
-      "start": 42.824,
-      "end": 45.166,
+      "start": 42.83,
+      "end": 45.178,
       "text": "'Saat dua sahabat bergandeng"
     },
     {
-      "start": 45.166,
-      "end": 47.676,
+      "start": 45.178,
+      "end": 47.694,
       "text": "tangan, rintangan terbesar pun"
     },
     {
-      "start": 47.676,
-      "end": 50.604,
+      "start": 47.694,
+      "end": 50.63,
       "text": "berubah menjadi jalan kebahagiaan.'"
     },
     {
-      "start": 50.604,
-      "end": 53.993,
-      "text": "Ingatlah rahasia persahabatan ini..."
+      "start": 50.63,
+      "end": 53.902,
+      "text": "Sekarang, tarik selimut hangatmu,"
+    },
+    {
+      "start": 53.902,
+      "end": 56.777,
+      "text": "pejamkan matamu ya... selamat"
+    },
+    {
+      "start": 56.777,
+      "end": 59.058,
+      "text": "tidur, dan mimpi indah."
     }
   ]
 }

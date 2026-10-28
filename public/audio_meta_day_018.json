@@ -1,0 +1,168 @@
+{
+  "channel_id": "DITA-04",
+  "channel_name": "Dita Dongeng & Fabel",
+  "channel_handle": "@ditafable",
+  "audio_path": "C:\\Users\\K4G3\\Documents\\Github\\ditafable\\public\\voiceover_day_018.mp3",
+  "voice": "id-ID-GadisNeural",
+  "rate": "-3%",
+  "total_words": 84,
+  "duration_seconds": 50.47,
+  "duration_frames": 1211,
+  "fps": 24,
+  "sentences": [
+    {
+      "start": 0.05,
+      "end": 7.434,
+      "duration": 7.384,
+      "text": "Di tepi hutan kenari yang tenang, Ziko si Zebra sedang duduk memandangi jalan setapak berkabut."
+    },
+    {
+      "start": 7.434,
+      "end": 10.681,
+      "duration": 3.247,
+      "text": "Tiba-tiba, 'Kletuk!'"
+    },
+    {
+      "start": 10.681,
+      "end": 16.455,
+      "duration": 5.773,
+      "text": "Ada sesuatu yang membuat hatinya berdebar cemas saat Kuda Poni datang mendekat."
+    },
+    {
+      "start": 16.455,
+      "end": 24.947,
+      "duration": 8.492,
+      "text": "Meski sempat merasa takut, Ziko si Zebra memilih untuk bersikap jujur dan berbicara dengan penuh kelembutan."
+    },
+    {
+      "start": 24.947,
+      "end": 35.797,
+      "duration": 10.851,
+      "text": "Mendengar kata-katanya yang tulus, Kuda Poni tersenyum teduh dan memeluknya hangat: 'Kebaikan hatimu jauh lebih berharga daripada apa pun.'"
+    },
+    {
+      "start": 35.797,
+      "end": 41.944,
+      "duration": 6.147,
+      "text": "Kelebihan fisik adalah anugerah untuk disyukuri, bukan disombongkan."
+    },
+    {
+      "start": 41.944,
+      "end": 50.462,
+      "duration": 8.518,
+      "text": "Sekarang, tarik selimut hangatmu, pejamkan matamu ya... selamat tidur, dan mimpi indah."
+    }
+  ],
+  "timed_subtitles": [
+    {
+      "start": 0.05,
+      "end": 1.655,
+      "text": "Di tepi hutan kenari"
+    },
+    {
+      "start": 1.655,
+      "end": 3.26,
+      "text": "yang tenang, Ziko si"
+    },
+    {
+      "start": 3.26,
+      "end": 5.588,
+      "text": "Zebra sedang duduk memandangi"
+    },
+    {
+      "start": 5.588,
+      "end": 7.434,
+      "text": "jalan setapak berkabut."
+    },
+    {
+      "start": 7.434,
+      "end": 10.681,
+      "text": "Tiba-tiba, 'Kletuk!'"
+    },
+    {
+      "start": 10.681,
+      "end": 12.481,
+      "text": "Ada sesuatu yang membuat"
+    },
+    {
+      "start": 12.481,
+      "end": 14.505,
+      "text": "hatinya berdebar cemas saat"
+    },
+    {
+      "start": 14.505,
+      "end": 16.455,
+      "text": "Kuda Poni datang mendekat."
+    },
+    {
+      "start": 16.455,
+      "end": 18.558,
+      "text": "Meski sempat merasa takut,"
+    },
+    {
+      "start": 18.558,
+      "end": 20.256,
+      "text": "Ziko si Zebra memilih"
+    },
+    {
+      "start": 20.256,
+      "end": 22.197,
+      "text": "untuk bersikap jujur dan"
+    },
+    {
+      "start": 22.197,
+      "end": 24.947,
+      "text": "berbicara dengan penuh kelembutan."
+    },
+    {
+      "start": 24.947,
+      "end": 27.68,
+      "text": "Mendengar kata-katanya yang tulus,"
+    },
+    {
+      "start": 27.68,
+      "end": 29.689,
+      "text": "Kuda Poni tersenyum teduh"
+    },
+    {
+      "start": 29.689,
+      "end": 32.261,
+      "text": "dan memeluknya hangat: 'Kebaikan"
+    },
+    {
+      "start": 32.261,
+      "end": 34.35,
+      "text": "hatimu jauh lebih berharga"
+    },
+    {
+      "start": 34.35,
+      "end": 35.797,
+      "text": "daripada apa pun.'"
+    },
+    {
+      "start": 35.797,
+      "end": 38.641,
+      "text": "Kelebihan fisik adalah anugerah"
+    },
+    {
+      "start": 38.641,
+      "end": 41.944,
+      "text": "untuk disyukuri, bukan disombongkan."
+    },
+    {
+      "start": 41.944,
+      "end": 45.251,
+      "text": "Sekarang, tarik selimut hangatmu,"
+    },
+    {
+      "start": 45.251,
+      "end": 48.157,
+      "text": "pejamkan matamu ya... selamat"
+    },
+    {
+      "start": 48.157,
+      "end": 50.462,
+      "text": "tidur, dan mimpi indah."
+    }
+  ]
+}

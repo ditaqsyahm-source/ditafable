@@ -1,0 +1,173 @@
+{
+  "channel_id": "DITA-04",
+  "channel_name": "Dita Dongeng & Fabel",
+  "channel_handle": "@ditafable",
+  "audio_path": "C:\\Users\\K4G3\\Documents\\Github\\ditafable\\public\\voiceover_day_010.mp3",
+  "voice": "id-ID-GadisNeural",
+  "rate": "-3%",
+  "total_words": 84,
+  "duration_seconds": 48.6,
+  "duration_frames": 1166,
+  "fps": 24,
+  "sentences": [
+    {
+      "start": 0.05,
+      "end": 7.202,
+      "duration": 7.152,
+      "text": "Di tepi hutan kenari yang tenang, Sami si Semut sedang duduk memandangi jalan setapak berkabut."
+    },
+    {
+      "start": 7.202,
+      "end": 10.449,
+      "duration": 3.247,
+      "text": "Tiba-tiba, 'Kletuk!'"
+    },
+    {
+      "start": 10.449,
+      "end": 15.965,
+      "duration": 5.515,
+      "text": "Ada sesuatu yang membuat hatinya berdebar cemas saat Belalang datang mendekat."
+    },
+    {
+      "start": 15.965,
+      "end": 24.264,
+      "duration": 8.299,
+      "text": "Meski sempat merasa takut, Sami si Semut memilih untuk bersikap jujur dan berbicara dengan penuh kelembutan."
+    },
+    {
+      "start": 24.264,
+      "end": 34.87,
+      "duration": 10.606,
+      "text": "Mendengar kata-katanya yang tulus, Belalang tersenyum teduh dan memeluknya hangat: 'Kebaikan hatimu jauh lebih berharga daripada apa pun.'"
+    },
+    {
+      "start": 34.87,
+      "end": 40.0,
+      "duration": 5.13,
+      "text": "Kerja keras di masa muda menjamin kehangatan di musim dingin."
+    },
+    {
+      "start": 40.0,
+      "end": 48.594,
+      "duration": 8.594,
+      "text": "Sekarang, tarik selimut hangatmu, pejamkan matamu ya... selamat tidur, dan mimpi indah."
+    }
+  ],
+  "timed_subtitles": [
+    {
+      "start": 0.05,
+      "end": 1.605,
+      "text": "Di tepi hutan kenari"
+    },
+    {
+      "start": 1.605,
+      "end": 3.16,
+      "text": "yang tenang, Sami si"
+    },
+    {
+      "start": 3.16,
+      "end": 5.414,
+      "text": "Semut sedang duduk memandangi"
+    },
+    {
+      "start": 5.414,
+      "end": 7.202,
+      "text": "jalan setapak berkabut."
+    },
+    {
+      "start": 7.202,
+      "end": 10.449,
+      "text": "Tiba-tiba, 'Kletuk!'"
+    },
+    {
+      "start": 10.449,
+      "end": 12.191,
+      "text": "Ada sesuatu yang membuat"
+    },
+    {
+      "start": 12.191,
+      "end": 14.151,
+      "text": "hatinya berdebar cemas saat"
+    },
+    {
+      "start": 14.151,
+      "end": 15.965,
+      "text": "Belalang datang mendekat."
+    },
+    {
+      "start": 15.965,
+      "end": 18.02,
+      "text": "Meski sempat merasa takut,"
+    },
+    {
+      "start": 18.02,
+      "end": 19.68,
+      "text": "Sami si Semut memilih"
+    },
+    {
+      "start": 19.68,
+      "end": 21.577,
+      "text": "untuk bersikap jujur dan"
+    },
+    {
+      "start": 21.577,
+      "end": 24.264,
+      "text": "berbicara dengan penuh kelembutan."
+    },
+    {
+      "start": 24.264,
+      "end": 26.955,
+      "text": "Mendengar kata-katanya yang tulus,"
+    },
+    {
+      "start": 26.955,
+      "end": 29.171,
+      "text": "Belalang tersenyum teduh dan"
+    },
+    {
+      "start": 29.171,
+      "end": 31.941,
+      "text": "memeluknya hangat: 'Kebaikan hatimu"
+    },
+    {
+      "start": 31.941,
+      "end": 34.158,
+      "text": "jauh lebih berharga daripada"
+    },
+    {
+      "start": 34.158,
+      "end": 34.87,
+      "text": "apa pun.'"
+    },
+    {
+      "start": 34.87,
+      "end": 36.522,
+      "text": "Kerja keras di masa"
+    },
+    {
+      "start": 36.522,
+      "end": 38.87,
+      "text": "muda menjamin kehangatan di"
+    },
+    {
+      "start": 38.87,
+      "end": 40.0,
+      "text": "musim dingin."
+    },
+    {
+      "start": 40.0,
+      "end": 43.336,
+      "text": "Sekarang, tarik selimut hangatmu,"
+    },
+    {
+      "start": 43.336,
+      "end": 46.269,
+      "text": "pejamkan matamu ya... selamat"
+    },
+    {
+      "start": 46.269,
+      "end": 48.594,
+      "text": "tidur, dan mimpi indah."
+    }
+  ]
+}

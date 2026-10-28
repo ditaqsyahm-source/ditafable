@@ -1,0 +1,173 @@
+{
+  "channel_id": "DITA-04",
+  "channel_name": "Dita Dongeng & Fabel",
+  "channel_handle": "@ditafable",
+  "audio_path": "C:\\Users\\K4G3\\Documents\\Github\\ditafable\\public\\voiceover_day_019.mp3",
+  "voice": "id-ID-GadisNeural",
+  "rate": "-3%",
+  "total_words": 86,
+  "duration_seconds": 48.94,
+  "duration_frames": 1174,
+  "fps": 24,
+  "sentences": [
+    {
+      "start": 0.05,
+      "end": 7.176,
+      "duration": 7.126,
+      "text": "Di tepi hutan kenari yang tenang, Ciko si Monyet sedang duduk memandangi jalan setapak berkabut."
+    },
+    {
+      "start": 7.176,
+      "end": 10.424,
+      "duration": 3.247,
+      "text": "Tiba-tiba, 'Kletuk!'"
+    },
+    {
+      "start": 10.424,
+      "end": 16.029,
+      "duration": 5.606,
+      "text": "Ada sesuatu yang membuat hatinya berdebar cemas saat Ibu Kera datang mendekat."
+    },
+    {
+      "start": 16.029,
+      "end": 24.264,
+      "duration": 8.235,
+      "text": "Meski sempat merasa takut, Ciko si Monyet memilih untuk bersikap jujur dan berbicara dengan penuh kelembutan."
+    },
+    {
+      "start": 24.264,
+      "end": 35.05,
+      "duration": 10.786,
+      "text": "Mendengar kata-katanya yang tulus, Ibu Kera tersenyum teduh dan memeluknya hangat: 'Kebaikan hatimu jauh lebih berharga daripada apa pun.'"
+    },
+    {
+      "start": 35.05,
+      "end": 40.411,
+      "duration": 5.361,
+      "text": "Sabar menunggu saat yang tepat mendatangkan rasa buah yang termanis."
+    },
+    {
+      "start": 40.411,
+      "end": 48.929,
+      "duration": 8.518,
+      "text": "Sekarang, tarik selimut hangatmu, pejamkan matamu ya... selamat tidur, dan mimpi indah."
+    }
+  ],
+  "timed_subtitles": [
+    {
+      "start": 0.05,
+      "end": 1.582,
+      "text": "Di tepi hutan kenari"
+    },
+    {
+      "start": 1.582,
+      "end": 3.115,
+      "text": "yang tenang, Ciko si"
+    },
+    {
+      "start": 3.115,
+      "end": 5.414,
+      "text": "Monyet sedang duduk memandangi"
+    },
+    {
+      "start": 5.414,
+      "end": 7.176,
+      "text": "jalan setapak berkabut."
+    },
+    {
+      "start": 7.176,
+      "end": 10.424,
+      "text": "Tiba-tiba, 'Kletuk!'"
+    },
+    {
+      "start": 10.424,
+      "end": 12.194,
+      "text": "Ada sesuatu yang membuat"
+    },
+    {
+      "start": 12.194,
+      "end": 14.185,
+      "text": "hatinya berdebar cemas saat"
+    },
+    {
+      "start": 14.185,
+      "end": 16.029,
+      "text": "Ibu Kera datang mendekat."
+    },
+    {
+      "start": 16.029,
+      "end": 18.049,
+      "text": "Meski sempat merasa takut,"
+    },
+    {
+      "start": 18.049,
+      "end": 19.758,
+      "text": "Ciko si Monyet memilih"
+    },
+    {
+      "start": 19.758,
+      "end": 21.623,
+      "text": "untuk bersikap jujur dan"
+    },
+    {
+      "start": 21.623,
+      "end": 24.264,
+      "text": "berbicara dengan penuh kelembutan."
+    },
+    {
+      "start": 24.264,
+      "end": 27.001,
+      "text": "Mendengar kata-katanya yang tulus,"
+    },
+    {
+      "start": 27.001,
+      "end": 28.933,
+      "text": "Ibu Kera tersenyum teduh"
+    },
+    {
+      "start": 28.933,
+      "end": 31.508,
+      "text": "dan memeluknya hangat: 'Kebaikan"
+    },
+    {
+      "start": 31.508,
+      "end": 33.601,
+      "text": "hatimu jauh lebih berharga"
+    },
+    {
+      "start": 33.601,
+      "end": 35.05,
+      "text": "daripada apa pun.'"
+    },
+    {
+      "start": 35.05,
+      "end": 36.999,
+      "text": "Sabar menunggu saat yang"
+    },
+    {
+      "start": 36.999,
+      "end": 39.274,
+      "text": "tepat mendatangkan rasa buah"
+    },
+    {
+      "start": 39.274,
+      "end": 40.411,
+      "text": "yang termanis."
+    },
+    {
+      "start": 40.411,
+      "end": 43.718,
+      "text": "Sekarang, tarik selimut hangatmu,"
+    },
+    {
+      "start": 43.718,
+      "end": 46.624,
+      "text": "pejamkan matamu ya... selamat"
+    },
+    {
+      "start": 46.624,
+      "end": 48.929,
+      "text": "tidur, dan mimpi indah."
+    }
+  ]
+}

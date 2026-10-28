@@ -1,0 +1,183 @@
+{
+  "channel_id": "DITA-04",
+  "channel_name": "Dita Dongeng & Fabel",
+  "channel_handle": "@ditafable",
+  "audio_path": "C:\\Users\\K4G3\\Documents\\Github\\ditafable\\public\\voiceover_day_009.mp3",
+  "voice": "id-ID-GadisNeural",
+  "rate": "-3%",
+  "total_words": 89,
+  "duration_seconds": 50.95,
+  "duration_frames": 1223,
+  "fps": 24,
+  "sentences": [
+    {
+      "start": 0.05,
+      "end": 7.46,
+      "duration": 7.41,
+      "text": "Di tepi hutan kenari yang tenang, Bara si Serigala sedang duduk memandangi jalan setapak berkabut."
+    },
+    {
+      "start": 7.46,
+      "end": 10.72,
+      "duration": 3.26,
+      "text": "Tiba-tiba, 'Kletuk!'"
+    },
+    {
+      "start": 10.72,
+      "end": 17.073,
+      "duration": 6.353,
+      "text": "Ada sesuatu yang membuat hatinya berdebar cemas saat Moli si Anak Domba datang mendekat."
+    },
+    {
+      "start": 17.073,
+      "end": 25.604,
+      "duration": 8.531,
+      "text": "Meski sempat merasa takut, Bara si Serigala memilih untuk bersikap jujur dan berbicara dengan penuh kelembutan."
+    },
+    {
+      "start": 25.604,
+      "end": 37.125,
+      "duration": 11.521,
+      "text": "Mendengar kata-katanya yang tulus, Moli si Anak Domba tersenyum teduh dan memeluknya hangat: 'Kebaikan hatimu jauh lebih berharga daripada apa pun.'"
+    },
+    {
+      "start": 37.125,
+      "end": 42.408,
+      "duration": 5.284,
+      "text": "Kasih sayang menembus batas perbedaan jenis dan prasangka lama."
+    },
+    {
+      "start": 42.408,
+      "end": 50.926,
+      "duration": 8.518,
+      "text": "Sekarang, tarik selimut hangatmu, pejamkan matamu ya... selamat tidur, dan mimpi indah."
+    }
+  ],
+  "timed_subtitles": [
+    {
+      "start": 0.05,
+      "end": 1.61,
+      "text": "Di tepi hutan kenari"
+    },
+    {
+      "start": 1.61,
+      "end": 3.17,
+      "text": "yang tenang, Bara si"
+    },
+    {
+      "start": 3.17,
+      "end": 5.666,
+      "text": "Serigala sedang duduk memandangi"
+    },
+    {
+      "start": 5.666,
+      "end": 7.46,
+      "text": "jalan setapak berkabut."
+    },
+    {
+      "start": 7.46,
+      "end": 10.72,
+      "text": "Tiba-tiba, 'Kletuk!'"
+    },
+    {
+      "start": 10.72,
+      "end": 12.514,
+      "text": "Ada sesuatu yang membuat"
+    },
+    {
+      "start": 12.514,
+      "end": 14.532,
+      "text": "hatinya berdebar cemas saat"
+    },
+    {
+      "start": 14.532,
+      "end": 15.877,
+      "text": "Moli si Anak Domba"
+    },
+    {
+      "start": 15.877,
+      "end": 17.073,
+      "text": "datang mendekat."
+    },
+    {
+      "start": 17.073,
+      "end": 19.127,
+      "text": "Meski sempat merasa takut,"
+    },
+    {
+      "start": 19.127,
+      "end": 21.023,
+      "text": "Bara si Serigala memilih"
+    },
+    {
+      "start": 21.023,
+      "end": 22.918,
+      "text": "untuk bersikap jujur dan"
+    },
+    {
+      "start": 22.918,
+      "end": 25.604,
+      "text": "berbicara dengan penuh kelembutan."
+    },
+    {
+      "start": 25.604,
+      "end": 28.343,
+      "text": "Mendengar kata-katanya yang tulus,"
+    },
+    {
+      "start": 28.343,
+      "end": 29.793,
+      "text": "Moli si Anak Domba"
+    },
+    {
+      "start": 29.793,
+      "end": 32.21,
+      "text": "tersenyum teduh dan memeluknya"
+    },
+    {
+      "start": 32.21,
+      "end": 34.547,
+      "text": "hangat: 'Kebaikan hatimu jauh"
+    },
+    {
+      "start": 34.547,
+      "end": 36.722,
+      "text": "lebih berharga daripada apa"
+    },
+    {
+      "start": 36.722,
+      "end": 37.125,
+      "text": "pun.'"
+    },
+    {
+      "start": 37.125,
+      "end": 39.463,
+      "text": "Kasih sayang menembus batas"
+    },
+    {
+      "start": 39.463,
+      "end": 41.975,
+      "text": "perbedaan jenis dan prasangka"
+    },
+    {
+      "start": 41.975,
+      "end": 42.408,
+      "text": "lama."
+    },
+    {
+      "start": 42.408,
+      "end": 45.715,
+      "text": "Sekarang, tarik selimut hangatmu,"
+    },
+    {
+      "start": 45.715,
+      "end": 48.621,
+      "text": "pejamkan matamu ya... selamat"
+    },
+    {
+      "start": 48.621,
+      "end": 50.926,
+      "text": "tidur, dan mimpi indah."
+    }
+  ]
+}

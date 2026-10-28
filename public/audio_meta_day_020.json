@@ -1,0 +1,168 @@
+{
+  "channel_id": "DITA-04",
+  "channel_name": "Dita Dongeng & Fabel",
+  "channel_handle": "@ditafable",
+  "audio_path": "C:\\Users\\K4G3\\Documents\\Github\\ditafable\\public\\voiceover_day_020.mp3",
+  "voice": "id-ID-GadisNeural",
+  "rate": "-3%",
+  "total_words": 80,
+  "duration_seconds": 50.95,
+  "duration_frames": 1223,
+  "fps": 24,
+  "sentences": [
+    {
+      "start": 0.05,
+      "end": 8.259,
+      "duration": 8.209,
+      "text": "Di tepi hutan kenari yang tenang, Gajah, Rusa, sedang duduk memandangi jalan setapak berkabut."
+    },
+    {
+      "start": 8.259,
+      "end": 11.493,
+      "duration": 3.235,
+      "text": "Tiba-tiba, 'Kletuk!'"
+    },
+    {
+      "start": 11.493,
+      "end": 17.099,
+      "duration": 5.606,
+      "text": "Ada sesuatu yang membuat hatinya berdebar cemas saat Kancil datang mendekat."
+    },
+    {
+      "start": 17.099,
+      "end": 26.364,
+      "duration": 9.265,
+      "text": "Meski sempat merasa takut, Gajah, Rusa, memilih untuk bersikap jujur dan berbicara dengan penuh kelembutan."
+    },
+    {
+      "start": 26.364,
+      "end": 37.06,
+      "duration": 10.696,
+      "text": "Mendengar kata-katanya yang tulus, Kancil tersenyum teduh dan memeluknya hangat: 'Kebaikan hatimu jauh lebih berharga daripada apa pun.'"
+    },
+    {
+      "start": 37.06,
+      "end": 42.46,
+      "duration": 5.399,
+      "text": "Kecerdikan menemukan mata air menyelamatkan seluruh penghuni hutan."
+    },
+    {
+      "start": 42.46,
+      "end": 50.939,
+      "duration": 8.479,
+      "text": "Sekarang, tarik selimut hangatmu, pejamkan matamu ya... selamat tidur, dan mimpi indah."
+    }
+  ],
+  "timed_subtitles": [
+    {
+      "start": 0.05,
+      "end": 1.854,
+      "text": "Di tepi hutan kenari"
+    },
+    {
+      "start": 1.854,
+      "end": 4.109,
+      "text": "yang tenang, Gajah, Rusa,"
+    },
+    {
+      "start": 4.109,
+      "end": 6.725,
+      "text": "sedang duduk memandangi jalan"
+    },
+    {
+      "start": 6.725,
+      "end": 8.259,
+      "text": "setapak berkabut."
+    },
+    {
+      "start": 8.259,
+      "end": 11.493,
+      "text": "Tiba-tiba, 'Kletuk!'"
+    },
+    {
+      "start": 11.493,
+      "end": 13.311,
+      "text": "Ada sesuatu yang membuat"
+    },
+    {
+      "start": 13.311,
+      "end": 15.357,
+      "text": "hatinya berdebar cemas saat"
+    },
+    {
+      "start": 15.357,
+      "end": 17.099,
+      "text": "Kancil datang mendekat."
+    },
+    {
+      "start": 17.099,
+      "end": 19.415,
+      "text": "Meski sempat merasa takut,"
+    },
+    {
+      "start": 19.415,
+      "end": 21.732,
+      "text": "Gajah, Rusa, memilih untuk"
+    },
+    {
+      "start": 21.732,
+      "end": 24.226,
+      "text": "bersikap jujur dan berbicara"
+    },
+    {
+      "start": 24.226,
+      "end": 26.364,
+      "text": "dengan penuh kelembutan."
+    },
+    {
+      "start": 26.364,
+      "end": 29.119,
+      "text": "Mendengar kata-katanya yang tulus,"
+    },
+    {
+      "start": 29.119,
+      "end": 31.226,
+      "text": "Kancil tersenyum teduh dan"
+    },
+    {
+      "start": 31.226,
+      "end": 34.062,
+      "text": "memeluknya hangat: 'Kebaikan hatimu"
+    },
+    {
+      "start": 34.062,
+      "end": 36.331,
+      "text": "jauh lebih berharga daripada"
+    },
+    {
+      "start": 36.331,
+      "end": 37.06,
+      "text": "apa pun.'"
+    },
+    {
+      "start": 37.06,
+      "end": 39.433,
+      "text": "Kecerdikan menemukan mata air"
+    },
+    {
+      "start": 39.433,
+      "end": 42.46,
+      "text": "menyelamatkan seluruh penghuni hutan."
+    },
+    {
+      "start": 42.46,
+      "end": 45.752,
+      "text": "Sekarang, tarik selimut hangatmu,"
+    },
+    {
+      "start": 45.752,
+      "end": 48.645,
+      "text": "pejamkan matamu ya... selamat"
+    },
+    {
+      "start": 48.645,
+      "end": 50.939,
+      "text": "tidur, dan mimpi indah."
+    }
+  ]
+}

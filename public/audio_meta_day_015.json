@@ -1,0 +1,173 @@
+{
+  "channel_id": "DITA-04",
+  "channel_name": "Dita Dongeng & Fabel",
+  "channel_handle": "@ditafable",
+  "audio_path": "C:\\Users\\K4G3\\Documents\\Github\\ditafable\\public\\voiceover_day_015.mp3",
+  "voice": "id-ID-GadisNeural",
+  "rate": "-3%",
+  "total_words": 81,
+  "duration_seconds": 48.84,
+  "duration_frames": 1172,
+  "fps": 24,
+  "sentences": [
+    {
+      "start": 0.05,
+      "end": 6.828,
+      "duration": 6.778,
+      "text": "Di tepi hutan kenari yang tenang, Kancil sedang duduk memandangi jalan setapak berkabut."
+    },
+    {
+      "start": 6.828,
+      "end": 10.063,
+      "duration": 3.235,
+      "text": "Tiba-tiba, 'Kletuk!'"
+    },
+    {
+      "start": 10.063,
+      "end": 15.926,
+      "duration": 5.863,
+      "text": "Ada sesuatu yang membuat hatinya berdebar cemas saat Kancil Cilik datang mendekat."
+    },
+    {
+      "start": 15.926,
+      "end": 23.723,
+      "duration": 7.796,
+      "text": "Meski sempat merasa takut, Kancil memilih untuk bersikap jujur dan berbicara dengan penuh kelembutan."
+    },
+    {
+      "start": 23.723,
+      "end": 34.689,
+      "duration": 10.966,
+      "text": "Mendengar kata-katanya yang tulus, Kancil Cilik tersenyum teduh dan memeluknya hangat: 'Kebaikan hatimu jauh lebih berharga daripada apa pun.'"
+    },
+    {
+      "start": 34.689,
+      "end": 40.295,
+      "duration": 5.606,
+      "text": "Kejujuran dalam proses bertumbuh lebih penting daripada hasil instan."
+    },
+    {
+      "start": 40.295,
+      "end": 48.826,
+      "duration": 8.531,
+      "text": "Sekarang, tarik selimut hangatmu, pejamkan matamu ya... selamat tidur, dan mimpi indah."
+    }
+  ],
+  "timed_subtitles": [
+    {
+      "start": 0.05,
+      "end": 1.645,
+      "text": "Di tepi hutan kenari"
+    },
+    {
+      "start": 1.645,
+      "end": 3.718,
+      "text": "yang tenang, Kancil sedang"
+    },
+    {
+      "start": 3.718,
+      "end": 6.11,
+      "text": "duduk memandangi jalan setapak"
+    },
+    {
+      "start": 6.11,
+      "end": 6.828,
+      "text": "berkabut."
+    },
+    {
+      "start": 6.828,
+      "end": 10.063,
+      "text": "Tiba-tiba, 'Kletuk!'"
+    },
+    {
+      "start": 10.063,
+      "end": 11.822,
+      "text": "Ada sesuatu yang membuat"
+    },
+    {
+      "start": 11.822,
+      "end": 13.801,
+      "text": "hatinya berdebar cemas saat"
+    },
+    {
+      "start": 13.801,
+      "end": 15.926,
+      "text": "Kancil Cilik datang mendekat."
+    },
+    {
+      "start": 15.926,
+      "end": 17.995,
+      "text": "Meski sempat merasa takut,"
+    },
+    {
+      "start": 17.995,
+      "end": 20.302,
+      "text": "Kancil memilih untuk bersikap"
+    },
+    {
+      "start": 20.302,
+      "end": 22.37,
+      "text": "jujur dan berbicara dengan"
+    },
+    {
+      "start": 22.37,
+      "end": 23.723,
+      "text": "penuh kelembutan."
+    },
+    {
+      "start": 23.723,
+      "end": 26.425,
+      "text": "Mendengar kata-katanya yang tulus,"
+    },
+    {
+      "start": 26.425,
+      "end": 28.65,
+      "text": "Kancil Cilik tersenyum teduh"
+    },
+    {
+      "start": 28.65,
+      "end": 31.193,
+      "text": "dan memeluknya hangat: 'Kebaikan"
+    },
+    {
+      "start": 31.193,
+      "end": 33.259,
+      "text": "hatimu jauh lebih berharga"
+    },
+    {
+      "start": 33.259,
+      "end": 34.689,
+      "text": "daripada apa pun.'"
+    },
+    {
+      "start": 34.689,
+      "end": 37.366,
+      "text": "Kejujuran dalam proses bertumbuh"
+    },
+    {
+      "start": 37.366,
+      "end": 39.709,
+      "text": "lebih penting daripada hasil"
+    },
+    {
+      "start": 39.709,
+      "end": 40.295,
+      "text": "instan."
+    },
+    {
+      "start": 40.295,
+      "end": 43.607,
+      "text": "Sekarang, tarik selimut hangatmu,"
+    },
+    {
+      "start": 43.607,
+      "end": 46.518,
+      "text": "pejamkan matamu ya... selamat"
+    },
+    {
+      "start": 46.518,
+      "end": 48.826,
+      "text": "tidur, dan mimpi indah."
+    }
+  ]
+}

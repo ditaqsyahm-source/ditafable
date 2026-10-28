@@ -1,0 +1,42 @@
+[
+  {
+    "scene_id": "SCENE_01",
+    "timeStart": 0.0,
+    "timeEnd": 8.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_010/scene_01.jpg",
+    "description": "Adorable 3D Pixar animation style, Sami si Semut playing peacefully in vibrant mossy fairytale fores"
+  },
+  {
+    "scene_id": "SCENE_02",
+    "timeStart": 8.0,
+    "timeEnd": 20.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_010/scene_02.jpg",
+    "description": "Close-up emotional 3D Pixar scene, Sami si Semut looking surprised and concerned at a small fallen o"
+  },
+  {
+    "scene_id": "SCENE_03",
+    "timeStart": 20.0,
+    "timeEnd": 35.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_010/scene_03.jpg",
+    "description": "Heartwarming 3D Pixar scene of Sami si Semut meeting Belalang near a cozy woodland cottage, gentle w"
+  },
+  {
+    "scene_id": "SCENE_04",
+    "timeStart": 35.0,
+    "timeEnd": 48.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_010/scene_04.jpg",
+    "description": "Touching emotional resolution, Belalang warmly hugging Sami si Semut with gentle smile, glowing gold"
+  },
+  {
+    "scene_id": "SCENE_05",
+    "timeStart": 48.0,
+    "timeEnd": 58.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_010/scene_05.jpg",
+    "description": "Panoramic dusk landscape of enchanted fairytale forest under glowing crescent moon, gentle fireflies"
+  }
+]

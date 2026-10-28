@@ -1,0 +1,173 @@
+{
+  "channel_id": "DITA-04",
+  "channel_name": "Dita Dongeng & Fabel",
+  "channel_handle": "@ditafable",
+  "audio_path": "C:\\Users\\K4G3\\Documents\\Github\\ditafable\\public\\voiceover_day_013.mp3",
+  "voice": "id-ID-GadisNeural",
+  "rate": "-3%",
+  "total_words": 84,
+  "duration_seconds": 50.18,
+  "duration_frames": 1204,
+  "fps": 24,
+  "sentences": [
+    {
+      "start": 0.05,
+      "end": 7.486,
+      "duration": 7.436,
+      "text": "Di tepi hutan kenari yang tenang, Hewan Hutan Rimba sedang duduk memandangi jalan setapak berkabut."
+    },
+    {
+      "start": 7.486,
+      "end": 10.759,
+      "duration": 3.273,
+      "text": "Tiba-tiba, 'Kletuk!'"
+    },
+    {
+      "start": 10.759,
+      "end": 16.996,
+      "duration": 6.237,
+      "text": "Ada sesuatu yang membuat hatinya berdebar cemas saat sahabatnya di hutan datang mendekat."
+    },
+    {
+      "start": 16.996,
+      "end": 25.063,
+      "duration": 8.067,
+      "text": "Meski sempat merasa takut, Hewan Hutan memilih untuk bersikap jujur dan berbicara dengan penuh kelembutan."
+    },
+    {
+      "start": 25.063,
+      "end": 36.455,
+      "duration": 11.392,
+      "text": "Mendengar kata-katanya yang tulus, sahabatnya di hutan tersenyum teduh dan memeluknya hangat: 'Kebaikan hatimu jauh lebih berharga daripada apa pun.'"
+    },
+    {
+      "start": 36.455,
+      "end": 41.661,
+      "duration": 5.206,
+      "text": "Berbagi hidangan melipatgandakan rasa manis dan keakraban."
+    },
+    {
+      "start": 41.661,
+      "end": 50.166,
+      "duration": 8.505,
+      "text": "Sekarang, tarik selimut hangatmu, pejamkan matamu ya... selamat tidur, dan mimpi indah."
+    }
+  ],
+  "timed_subtitles": [
+    {
+      "start": 0.05,
+      "end": 1.599,
+      "text": "Di tepi hutan kenari"
+    },
+    {
+      "start": 1.599,
+      "end": 3.458,
+      "text": "yang tenang, Hewan Hutan"
+    },
+    {
+      "start": 3.458,
+      "end": 5.704,
+      "text": "Rimba sedang duduk memandangi"
+    },
+    {
+      "start": 5.704,
+      "end": 7.486,
+      "text": "jalan setapak berkabut."
+    },
+    {
+      "start": 7.486,
+      "end": 10.759,
+      "text": "Tiba-tiba, 'Kletuk!'"
+    },
+    {
+      "start": 10.759,
+      "end": 12.5,
+      "text": "Ada sesuatu yang membuat"
+    },
+    {
+      "start": 12.5,
+      "end": 14.458,
+      "text": "hatinya berdebar cemas saat"
+    },
+    {
+      "start": 14.458,
+      "end": 16.343,
+      "text": "sahabatnya di hutan datang"
+    },
+    {
+      "start": 16.343,
+      "end": 16.996,
+      "text": "mendekat."
+    },
+    {
+      "start": 16.996,
+      "end": 19.032,
+      "text": "Meski sempat merasa takut,"
+    },
+    {
+      "start": 19.032,
+      "end": 20.99,
+      "text": "Hewan Hutan memilih untuk"
+    },
+    {
+      "start": 20.99,
+      "end": 23.183,
+      "text": "bersikap jujur dan berbicara"
+    },
+    {
+      "start": 23.183,
+      "end": 25.063,
+      "text": "dengan penuh kelembutan."
+    },
+    {
+      "start": 25.063,
+      "end": 27.734,
+      "text": "Mendengar kata-katanya yang tulus,"
+    },
+    {
+      "start": 27.734,
+      "end": 30.013,
+      "text": "sahabatnya di hutan tersenyum"
+    },
+    {
+      "start": 30.013,
+      "end": 32.212,
+      "text": "teduh dan memeluknya hangat:"
+    },
+    {
+      "start": 32.212,
+      "end": 34.334,
+      "text": "'Kebaikan hatimu jauh lebih"
+    },
+    {
+      "start": 34.334,
+      "end": 36.455,
+      "text": "berharga daripada apa pun.'"
+    },
+    {
+      "start": 36.455,
+      "end": 39.834,
+      "text": "Berbagi hidangan melipatgandakan rasa"
+    },
+    {
+      "start": 39.834,
+      "end": 41.661,
+      "text": "manis dan keakraban."
+    },
+    {
+      "start": 41.661,
+      "end": 44.963,
+      "text": "Sekarang, tarik selimut hangatmu,"
+    },
+    {
+      "start": 44.963,
+      "end": 47.865,
+      "text": "pejamkan matamu ya... selamat"
+    },
+    {
+      "start": 47.865,
+      "end": 50.166,
+      "text": "tidur, dan mimpi indah."
+    }
+  ]
+}

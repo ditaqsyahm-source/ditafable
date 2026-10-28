@@ -1,0 +1,173 @@
+{
+  "channel_id": "DITA-04",
+  "channel_name": "Dita Dongeng & Fabel",
+  "channel_handle": "@ditafable",
+  "audio_path": "C:\\Users\\K4G3\\Documents\\Github\\ditafable\\public\\voiceover_day_016.mp3",
+  "voice": "id-ID-GadisNeural",
+  "rate": "-3%",
+  "total_words": 84,
+  "duration_seconds": 48.86,
+  "duration_frames": 1173,
+  "fps": 24,
+  "sentences": [
+    {
+      "start": 0.05,
+      "end": 7.563,
+      "duration": 7.513,
+      "text": "Di tepi hutan kenari yang tenang, Owi si Burung Hantu sedang duduk memandangi jalan setapak berkabut."
+    },
+    {
+      "start": 7.563,
+      "end": 10.81,
+      "duration": 3.247,
+      "text": "Tiba-tiba, 'Kletuk!'"
+    },
+    {
+      "start": 10.81,
+      "end": 16.352,
+      "duration": 5.541,
+      "text": "Ada sesuatu yang membuat hatinya berdebar cemas saat Rusa datang mendekat."
+    },
+    {
+      "start": 16.352,
+      "end": 24.612,
+      "duration": 8.26,
+      "text": "Meski sempat merasa takut, Owi si Burung memilih untuk bersikap jujur dan berbicara dengan penuh kelembutan."
+    },
+    {
+      "start": 24.612,
+      "end": 35.23,
+      "duration": 10.619,
+      "text": "Mendengar kata-katanya yang tulus, Rusa tersenyum teduh dan memeluknya hangat: 'Kebaikan hatimu jauh lebih berharga daripada apa pun.'"
+    },
+    {
+      "start": 35.23,
+      "end": 40.437,
+      "duration": 5.206,
+      "text": "Mendengarkan dengan penuh empati adalah obat bagi luka hati."
+    },
+    {
+      "start": 40.437,
+      "end": 48.839,
+      "duration": 8.402,
+      "text": "Sekarang, tarik selimut hangatmu, pejamkan matamu ya... selamat tidur, dan mimpi indah."
+    }
+  ],
+  "timed_subtitles": [
+    {
+      "start": 0.05,
+      "end": 1.583,
+      "text": "Di tepi hutan kenari"
+    },
+    {
+      "start": 1.583,
+      "end": 3.04,
+      "text": "yang tenang, Owi si"
+    },
+    {
+      "start": 3.04,
+      "end": 4.956,
+      "text": "Burung Hantu sedang duduk"
+    },
+    {
+      "start": 4.956,
+      "end": 7.563,
+      "text": "memandangi jalan setapak berkabut."
+    },
+    {
+      "start": 7.563,
+      "end": 10.81,
+      "text": "Tiba-tiba, 'Kletuk!'"
+    },
+    {
+      "start": 10.81,
+      "end": 12.657,
+      "text": "Ada sesuatu yang membuat"
+    },
+    {
+      "start": 12.657,
+      "end": 14.736,
+      "text": "hatinya berdebar cemas saat"
+    },
+    {
+      "start": 14.736,
+      "end": 16.352,
+      "text": "Rusa datang mendekat."
+    },
+    {
+      "start": 16.352,
+      "end": 18.397,
+      "text": "Meski sempat merasa takut,"
+    },
+    {
+      "start": 18.397,
+      "end": 20.049,
+      "text": "Owi si Burung memilih"
+    },
+    {
+      "start": 20.049,
+      "end": 21.937,
+      "text": "untuk bersikap jujur dan"
+    },
+    {
+      "start": 21.937,
+      "end": 24.612,
+      "text": "berbicara dengan penuh kelembutan."
+    },
+    {
+      "start": 24.612,
+      "end": 27.389,
+      "text": "Mendengar kata-katanya yang tulus,"
+    },
+    {
+      "start": 27.389,
+      "end": 29.349,
+      "text": "Rusa tersenyum teduh dan"
+    },
+    {
+      "start": 29.349,
+      "end": 32.208,
+      "text": "memeluknya hangat: 'Kebaikan hatimu"
+    },
+    {
+      "start": 32.208,
+      "end": 34.495,
+      "text": "jauh lebih berharga daripada"
+    },
+    {
+      "start": 34.495,
+      "end": 35.23,
+      "text": "apa pun.'"
+    },
+    {
+      "start": 35.23,
+      "end": 38.103,
+      "text": "Mendengarkan dengan penuh empati"
+    },
+    {
+      "start": 38.103,
+      "end": 39.988,
+      "text": "adalah obat bagi luka"
+    },
+    {
+      "start": 39.988,
+      "end": 40.437,
+      "text": "hati."
+    },
+    {
+      "start": 40.437,
+      "end": 43.699,
+      "text": "Sekarang, tarik selimut hangatmu,"
+    },
+    {
+      "start": 43.699,
+      "end": 46.566,
+      "text": "pejamkan matamu ya... selamat"
+    },
+    {
+      "start": 46.566,
+      "end": 48.839,
+      "text": "tidur, dan mimpi indah."
+    }
+  ]
+}

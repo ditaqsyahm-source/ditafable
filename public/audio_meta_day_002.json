@@ -2,12 +2,12 @@
   "channel_id": "DITA-04",
   "channel_name": "Dita Dongeng & Fabel",
   "channel_handle": "@ditafable",
-  "audio_path": "public/voiceover_day_002.mp3",
+  "audio_path": "C:\\Users\\K4G3\\Documents\\Github\\ditafable\\public\\voiceover_day_002.mp3",
   "voice": "id-ID-GadisNeural",
   "rate": "-3%",
-  "total_words": 107,
-  "duration_seconds": 56.71,
-  "duration_frames": 1361,
+  "total_words": 112,
+  "duration_seconds": 60.84,
+  "duration_frames": 1460,
   "fps": 24,
   "sentences": [
     {
@@ -42,21 +42,21 @@
     },
     {
       "start": 36.712,
-      "end": 46.609,
-      "duration": 9.897,
+      "end": 46.596,
+      "duration": 9.884,
       "text": "Saat fajar menyingsing indah, Ratu Lebah berbisik penuh haru: 'Duri di punggungmu tajam, tapi hatimu selembut sutra.'"
     },
     {
-      "start": 46.609,
-      "end": 52.292,
+      "start": 46.596,
+      "end": 52.279,
       "duration": 5.683,
       "text": "Jangan pernah menilai indahnya kebaikan hanya dari penampilan luarnya."
     },
     {
-      "start": 52.292,
-      "end": 56.699,
-      "duration": 4.407,
-      "text": "Ingatlah kehangatan ini setiap kali kamu mendengar..."
+      "start": 52.279,
+      "end": 60.823,
+      "duration": 8.544,
+      "text": "Sekarang, tarik selimut hangatmu, pejamkan matamu ya... selamat tidur, dan mimpi indah."
     }
   ],
   "timed_subtitles": [
@@ -157,53 +157,58 @@
     },
     {
       "start": 36.712,
-      "end": 39.252,
+      "end": 39.249,
       "text": "Saat fajar menyingsing indah,"
     },
     {
-      "start": 39.252,
-      "end": 41.442,
+      "start": 39.249,
+      "end": 41.435,
       "text": "Ratu Lebah berbisik penuh"
     },
     {
-      "start": 41.442,
-      "end": 43.631,
+      "start": 41.435,
+      "end": 43.622,
       "text": "haru: 'Duri di punggungmu"
     },
     {
-      "start": 43.631,
-      "end": 45.996,
+      "start": 43.622,
+      "end": 45.984,
       "text": "tajam, tapi hatimu selembut"
     },
     {
-      "start": 45.996,
-      "end": 46.609,
+      "start": 45.984,
+      "end": 46.596,
       "text": "sutra.'"
     },
     {
-      "start": 46.609,
-      "end": 49.116,
+      "start": 46.596,
+      "end": 49.103,
       "text": "Jangan pernah menilai indahnya"
     },
     {
-      "start": 49.116,
-      "end": 51.623,
+      "start": 49.103,
+      "end": 51.61,
       "text": "kebaikan hanya dari penampilan"
     },
     {
-      "start": 51.623,
-      "end": 52.292,
+      "start": 51.61,
+      "end": 52.279,
       "text": "luarnya."
     },
     {
-      "start": 52.292,
-      "end": 54.834,
-      "text": "Ingatlah kehangatan ini setiap"
+      "start": 52.279,
+      "end": 55.596,
+      "text": "Sekarang, tarik selimut hangatmu,"
     },
     {
-      "start": 54.834,
-      "end": 56.699,
-      "text": "kali kamu mendengar..."
+      "start": 55.596,
+      "end": 58.511,
+      "text": "pejamkan matamu ya... selamat"
+    },
+    {
+      "start": 58.511,
+      "end": 60.823,
+      "text": "tidur, dan mimpi indah."
     }
   ]
 }

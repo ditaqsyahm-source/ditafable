@@ -1,0 +1,42 @@
+[
+  {
+    "scene_id": "SCENE_01",
+    "timeStart": 0.0,
+    "timeEnd": 3.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_001/scene_01.jpg",
+    "description": "Adorable cute 3D Pixar style little mouse deer (kancil) holding a cracked golden glowing apple on lu"
+  },
+  {
+    "scene_id": "SCENE_02",
+    "timeStart": 3.0,
+    "timeEnd": 15.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_001/scene_02.jpg",
+    "description": "Cinematic wide 3D storybook scene of an ancient hollow oak tree with warm glowing lanterns, an elder"
+  },
+  {
+    "scene_id": "SCENE_03",
+    "timeStart": 15.0,
+    "timeEnd": 35.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_001/scene_03.jpg",
+    "description": "Emotional eye-level shot of grandfather bear kneeling gently before the little mouse deer, grandfath"
+  },
+  {
+    "scene_id": "SCENE_04",
+    "timeStart": 35.0,
+    "timeEnd": 50.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_001/scene_04.jpg",
+    "description": "Heartwarming tight embrace between a giant fluffy kind grandfather bear and tiny cute mouse deer, go"
+  },
+  {
+    "scene_id": "SCENE_05",
+    "timeStart": 50.0,
+    "timeEnd": 103.25,
+    "videoSrc": null,
+    "imageSrc": "images/day_001/scene_05.jpg",
+    "description": "Magical fairytale forest at night, crescent moon in purple starry sky, twinkling fireflies dancing a"
+  }
+]
