@@ -234,31 +234,31 @@
     "title": "Kuki si Kura-Kura & Jembatan Teratai (Langkah Kecil yang Menang)",
     "video_file": "output/dita_fable_day_003_compressed.mp4",
     "video_hash": "0b51fa89d1de1f8a2ae2609c30b9effd9f40d994e70fc8eb4185c34d2084d810",
-    "timestamp": "2026-10-28T16:27:30.607963",
+    "timestamp": "2026-10-28T20:51:12.916777",
     "outcomes": {
       "youtube": {
         "platform": "youtube",
         "ok": true,
-        "videoId": "_CbRDckGGcE",
-        "url": "https://youtube.com/shorts/_CbRDckGGcE"
+        "videoId": "lHH7yUoennU",
+        "url": "https://youtube.com/shorts/lHH7yUoennU"
       },
       "zernio": {
         "platform": "zernio",
         "ok": true,
-        "postId": "6ae1bffc1961582d3ddbde29",
+        "postId": "6ae1efb4ac8344e18170335a",
         "data": {
-          "_id": "6ae1bffc1961582d3ddbde29",
+          "_id": "6ae1efb4ac8344e18170335a",
           "userId": "6ad8ac50051330d72ee5b3f5",
           "title": "Dongeng fabel pengantar tidur penuh pesan moral ramah anak dan keluarga. #DitaDo",
           "content": "Dongeng fabel pengantar tidur penuh pesan moral ramah anak dan keluarga. #DitaDongeng #FabelAnak #CeritaAnak #KidsStories",
           "mediaItems": [
             {
-              "_id": "6ae1bffc1961582d3ddbde2c",
-              "url": "https://media.zernio.com/media/1793179631659_ab45a91417f83a84_dita_fable_day_003_compressed.mp4",
+              "_id": "6ae1efb4ac8344e18170335d",
+              "url": "https://media.zernio.com/media/1793191832847_20ec215e29d4c109_dita_fable_day_003_compressed.mp4",
               "type": "video"
             }
           ],
-          "scheduledFor": "2026-10-28T09:27:22.237Z",
+          "scheduledFor": "2026-10-28T12:50:58.329Z",
           "timezone": "UTC",
           "status": "publishing",
           "tags": [],
@@ -269,7 +269,7 @@
           "metadata": {
             "usageCounted": true
           },
-          "publishingClaimedAt": "2026-10-28T09:27:24.264Z",
+          "publishingClaimedAt": "2026-10-28T12:51:00.791Z",
           "recycling": {
             "enabled": false,
             "gapFreq": "month",
@@ -277,11 +277,11 @@
             "contentVariations": [],
             "contentVariationIndex": 0
           },
-          "createdAt": "2026-10-28T09:27:24.224Z",
-          "updatedAt": "2026-10-28T09:27:31.073Z",
+          "createdAt": "2026-10-28T12:51:00.719Z",
+          "updatedAt": "2026-10-28T12:51:13.341Z",
           "platforms": [
             {
-              "_id": "6ae1bffc1961582d3ddbde27",
+              "_id": "6ae1efb4ac8344e181703358",
               "platform": "tiktok",
               "accountId": {
                 "_id": "6ad8acf3c24aa78753a651ef",
@@ -294,19 +294,18 @@
               },
               "profileId": "6ad8ac50051330d72ee5b3f7",
               "customMedia": [],
-              "scheduledFor": "2026-10-28T09:27:22.237Z",
+              "scheduledFor": "2026-10-28T12:50:58.329Z",
               "platformSpecificData": {
-                "videoCoverImageUrl": "https://media.zernio.com/media/1793179640006_df480f084d412644_frame_05_kakek_beruang_memeluk.jpg",
-                "tiktokBusinessPublishId": "v_pub_url~v2.7701647568492873746"
+                "videoCoverImageUrl": "https://media.zernio.com/media/1793191852423_8b3c53afb204d572_frame_01_day_003.jpg",
+                "tiktokUploadTimeoutAt": "2026-10-28T12:51:13.330Z",
+                "tiktokBusinessPublishId": "v_pub_url~v2.7701699994512246791"
               },
-              "status": "published",
-              "publishedAt": "2026-10-28T09:27:31.066Z",
-              "platformPostId": "v_pub_url~v2.7701647568492873746",
+              "status": "uploading",
               "publishAttempts": 1,
-              "contentHash": "c505ba0f519f13e4642d9f9d8aed7461"
+              "contentHash": "ff02318f9ac3f47fedee15fb6e47192f"
             },
             {
-              "_id": "6ae1bffc1961582d3ddbde28",
+              "_id": "6ae1efb4ac8344e181703359",
               "platform": "instagram",
               "accountId": {
                 "_id": "6ad8acd9aad76462b1a71e23",
@@ -319,13 +318,13 @@
               },
               "profileId": "6ad8ac50051330d72ee5b3f7",
               "customMedia": [],
-              "scheduledFor": "2026-10-28T09:27:22.237Z",
+              "scheduledFor": "2026-10-28T12:50:58.329Z",
               "platformSpecificData": {
-                "instagramThumbnail": "https://media.zernio.com/media/1793179640006_df480f084d412644_frame_05_kakek_beruang_memeluk.jpg"
+                "instagramThumbnail": "https://media.zernio.com/media/1793191852423_8b3c53afb204d572_frame_01_day_003.jpg"
               },
               "status": "processing",
               "publishAttempts": 1,
-              "contentHash": "a7ca2eeed3a367e97dd964bad09db64e"
+              "contentHash": "a65dfb0467aa06f35840d90f4d1e92ff"
             }
           ]
         }

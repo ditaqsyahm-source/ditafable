@@ -393,20 +393,17 @@ def main():
     thumb_file = None
     frames_dir = os.path.join(ROOT_DIR, "output", "preview_frames")
     candidate_names = [
-        f"thumb_day_{day_str}.jpg",
-        "frame_05_kakek_beruang_memeluk.jpg",
-        "frame_04_pintu_pengakuan_jujur.jpg",
-        "frame_03_jalan_setapak_kabut.jpg",
+        os.path.join(frames_dir, f"thumb_day_{day_str}.jpg"),
+        os.path.join(frames_dir, f"frame_01_day_{day_str}.jpg"),
+        os.path.join(frames_dir, f"frame_02_day_{day_str}.jpg"),
+        os.path.join(frames_dir, f"frame_03_day_{day_str}.jpg"),
+        os.path.join(ROOT_DIR, "public", "images", f"day_{day_str}", "scene_01.jpg"),
+        os.path.join(ROOT_DIR, "public", "images", f"day_{day_str}", "scene_02.jpg"),
     ]
-    for c in candidate_names:
-        p = os.path.join(frames_dir, c)
-        if os.path.exists(p):
+    for p in candidate_names:
+        if os.path.exists(p) and os.path.getsize(p) > 1000:
             thumb_file = p
             break
-    if not thumb_file and os.path.exists(frames_dir):
-        files = [os.path.join(frames_dir, f) for f in os.listdir(frames_dir) if f.endswith(".jpg")]
-        if files:
-            thumb_file = files[0]
 
     if args.dry_run:
         print("[DRY-RUN] Title:", title)
