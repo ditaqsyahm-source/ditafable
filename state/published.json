@@ -330,5 +330,109 @@
         }
       }
     }
+  },
+  {
+    "channel_id": "DITA-04",
+    "day": 4,
+    "title": "Miko si Merak & Duri Sayap (Kisah Indahnya Kerendahan Hati)",
+    "video_file": "output/dita_fable_day_004_compressed.mp4",
+    "video_hash": "7c7284396fde22b6be2324791a689173652a534ad7eb89298aa0b88266a7c449",
+    "timestamp": "2026-10-29T01:57:20.217529",
+    "outcomes": {
+      "youtube": {
+        "platform": "youtube",
+        "ok": true,
+        "videoId": "9i-XL2frqk0",
+        "url": "https://youtube.com/shorts/9i-XL2frqk0"
+      },
+      "zernio": {
+        "platform": "zernio",
+        "ok": true,
+        "postId": "6ae2a7f3446a5a0d4c9ee1eb",
+        "data": {
+          "_id": "6ae2a7f3446a5a0d4c9ee1eb",
+          "userId": "6ad8ac50051330d72ee5b3f5",
+          "title": "Dongeng fabel pengantar tidur penuh pesan moral ramah anak dan keluarga. #DitaDo",
+          "content": "Dongeng fabel pengantar tidur penuh pesan moral ramah anak dan keluarga. #DitaDongeng #FabelAnak #CeritaAnak #KidsStories",
+          "mediaItems": [
+            {
+              "_id": "6ae2a7f3446a5a0d4c9ee1ee",
+              "url": "https://media.zernio.com/media/1793239023559_8b97ecb8709dcc81_dita_fable_day_004_compressed.mp4",
+              "type": "video"
+            }
+          ],
+          "scheduledFor": "2026-10-29T01:57:05.867Z",
+          "timezone": "UTC",
+          "status": "publishing",
+          "tags": [],
+          "hashtags": [],
+          "mentions": [],
+          "visibility": "public",
+          "crosspostingEnabled": true,
+          "metadata": {
+            "usageCounted": true
+          },
+          "publishingClaimedAt": "2026-10-29T01:57:07.707Z",
+          "recycling": {
+            "enabled": false,
+            "gapFreq": "month",
+            "recycleCount": 0,
+            "contentVariations": [],
+            "contentVariationIndex": 0
+          },
+          "createdAt": "2026-10-29T01:57:07.642Z",
+          "updatedAt": "2026-10-29T01:57:20.097Z",
+          "platforms": [
+            {
+              "_id": "6ae2a7f3446a5a0d4c9ee1e9",
+              "platform": "tiktok",
+              "accountId": {
+                "_id": "6ad8acf3c24aa78753a651ef",
+                "platform": "tiktok",
+                "username": "ditafable",
+                "displayName": "ditafable",
+                "profilePicture": "https://p16-common-sign.tiktokcdn.com/tos-alisg-avt-0068/02b79ac3cf1d923dc733408ef593f1fd~tplv-tiktokx-cropcenter:168:168.jpeg?dr=14577&refresh_token=16177ced&x-expires=1793347200&x-signature=QsnqFNNJB6sdZNxINDu8cVdPYoI%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=8aecc5ac&idc=my",
+                "isActive": true,
+                "profileId": "6ad8ac50051330d72ee5b3f7"
+              },
+              "profileId": "6ad8ac50051330d72ee5b3f7",
+              "customMedia": [],
+              "scheduledFor": "2026-10-29T01:57:05.867Z",
+              "platformSpecificData": {
+                "videoCoverImageUrl": "https://media.zernio.com/media/1793239024889_d76e7107b1fb1ae9_frame_01_day_004.jpg",
+                "tiktokBusinessPublishId": "v_pub_url~v2.7701902295881156629"
+              },
+              "status": "published",
+              "publishedAt": "2026-10-29T01:57:20.093Z",
+              "platformPostId": "v_pub_url~v2.7701902295881156629",
+              "publishAttempts": 1,
+              "contentHash": "c91148ec84bb99419fbe67dc964d0edf"
+            },
+            {
+              "_id": "6ae2a7f3446a5a0d4c9ee1ea",
+              "platform": "instagram",
+              "accountId": {
+                "_id": "6ad8acd9aad76462b1a71e23",
+                "platform": "instagram",
+                "username": "ditafable",
+                "displayName": "Dita Dongeng Fabel",
+                "profilePicture": null,
+                "isActive": true,
+                "profileId": "6ad8ac50051330d72ee5b3f7"
+              },
+              "profileId": "6ad8ac50051330d72ee5b3f7",
+              "customMedia": [],
+              "scheduledFor": "2026-10-29T01:57:05.867Z",
+              "platformSpecificData": {
+                "instagramThumbnail": "https://media.zernio.com/media/1793239024889_d76e7107b1fb1ae9_frame_01_day_004.jpg"
+              },
+              "status": "processing",
+              "publishAttempts": 1,
+              "contentHash": "4122bca8a66fa3e6b51f93411484be1a"
+            }
+          ]
+        }
+      }
+    }
   }
 ]
