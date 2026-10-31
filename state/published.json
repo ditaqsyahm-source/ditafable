@@ -538,5 +538,109 @@
         }
       }
     }
+  },
+  {
+    "channel_id": "DITA-04",
+    "day": 6,
+    "title": "Tupi & Bobi Membangun Jembatan Rimba (Kekuatan Gotong Royong)",
+    "video_file": "output/dita_fable_day_006_compressed.mp4",
+    "video_hash": "87f34115b18e7088aa4b07c2066acbc86f33fb6f6560a1f248c54a1bbcab0b65",
+    "timestamp": "2026-10-31T01:43:57.227276",
+    "outcomes": {
+      "youtube": {
+        "platform": "youtube",
+        "ok": true,
+        "videoId": "gRdTSkkx6go",
+        "url": "https://youtube.com/shorts/gRdTSkkx6go"
+      },
+      "zernio": {
+        "platform": "zernio",
+        "ok": true,
+        "postId": "6ae547d6a7e77b16a7cf397f",
+        "data": {
+          "_id": "6ae547d6a7e77b16a7cf397f",
+          "userId": "6ad8ac50051330d72ee5b3f5",
+          "title": "Dongeng fabel pengantar tidur penuh pesan moral ramah anak dan keluarga. #DitaDo",
+          "content": "Dongeng fabel pengantar tidur penuh pesan moral ramah anak dan keluarga. #DitaDongeng #FabelAnak #CeritaAnak #KidsStories",
+          "mediaItems": [
+            {
+              "_id": "6ae547d6a7e77b16a7cf3982",
+              "url": "https://media.zernio.com/media/1793411024973_0afdc4c3bc4c1a53_dita_fable_day_006_compressed.mp4",
+              "type": "video"
+            }
+          ],
+          "scheduledFor": "2026-10-31T01:43:47.559Z",
+          "timezone": "UTC",
+          "status": "publishing",
+          "tags": [],
+          "hashtags": [],
+          "mentions": [],
+          "visibility": "public",
+          "crosspostingEnabled": true,
+          "metadata": {
+            "usageCounted": true
+          },
+          "publishingClaimedAt": "2026-10-31T01:43:50.249Z",
+          "recycling": {
+            "enabled": false,
+            "gapFreq": "month",
+            "recycleCount": 0,
+            "contentVariations": [],
+            "contentVariationIndex": 0
+          },
+          "createdAt": "2026-10-31T01:43:50.188Z",
+          "updatedAt": "2026-10-31T01:43:57.065Z",
+          "platforms": [
+            {
+              "_id": "6ae547d6a7e77b16a7cf397d",
+              "platform": "tiktok",
+              "accountId": {
+                "_id": "6ad8acf3c24aa78753a651ef",
+                "platform": "tiktok",
+                "username": "ditafable",
+                "displayName": "ditafable",
+                "profilePicture": "https://p16-common-sign.tiktokcdn.com/tos-alisg-avt-0068/02b79ac3cf1d923dc733408ef593f1fd~tplv-tiktokx-cropcenter:168:168.jpeg?dr=14577&refresh_token=d2f93e32&x-expires=1793516400&x-signature=4TFpBm%2BwpLrIhsuqW69CEEnnMww%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=8aecc5ac&idc=my2",
+                "isActive": true,
+                "profileId": "6ad8ac50051330d72ee5b3f7"
+              },
+              "profileId": "6ad8ac50051330d72ee5b3f7",
+              "customMedia": [],
+              "scheduledFor": "2026-10-31T01:43:47.559Z",
+              "platformSpecificData": {
+                "videoCoverImageUrl": "https://media.zernio.com/media/1793411026513_8b99a856dd6a904e_frame_01_day_006.jpg",
+                "tiktokBusinessPublishId": "v_pub_url~v2.7702641280509839412"
+              },
+              "status": "published",
+              "publishedAt": "2026-10-31T01:43:57.057Z",
+              "platformPostId": "v_pub_url~v2.7702641280509839412",
+              "publishAttempts": 1,
+              "contentHash": "5d7caccb99add90600e4b4281a4ff994"
+            },
+            {
+              "_id": "6ae547d6a7e77b16a7cf397e",
+              "platform": "instagram",
+              "accountId": {
+                "_id": "6ad8acd9aad76462b1a71e23",
+                "platform": "instagram",
+                "username": "ditafable",
+                "displayName": "Dita Dongeng Fabel",
+                "profilePicture": null,
+                "isActive": true,
+                "profileId": "6ad8ac50051330d72ee5b3f7"
+              },
+              "profileId": "6ad8ac50051330d72ee5b3f7",
+              "customMedia": [],
+              "scheduledFor": "2026-10-31T01:43:47.559Z",
+              "platformSpecificData": {
+                "instagramThumbnail": "https://media.zernio.com/media/1793411026513_8b99a856dd6a904e_frame_01_day_006.jpg"
+              },
+              "status": "processing",
+              "publishAttempts": 1,
+              "contentHash": "3b823df254ee3ca5c900bbb755fb4351"
+            }
+          ]
+        }
+      }
+    }
   }
 ]
