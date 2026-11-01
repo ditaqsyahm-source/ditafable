@@ -642,5 +642,109 @@
         }
       }
     }
+  },
+  {
+    "channel_id": "DITA-04",
+    "day": 7,
+    "title": "Lentera Kunang-Kunang & Pelukan Ibu Rusa (Dongeng Pengantar Tidur Nyenyak)",
+    "video_file": "output/dita_fable_day_007_compressed.mp4",
+    "video_hash": "adc12d1a3ecf6edf9941eb552687d1cd2e039904f3b7323dcc178e9aba4782a8",
+    "timestamp": "2026-11-01T01:24:39.486058",
+    "outcomes": {
+      "youtube": {
+        "platform": "youtube",
+        "ok": true,
+        "videoId": "vAvQnBm84aU",
+        "url": "https://youtube.com/shorts/vAvQnBm84aU"
+      },
+      "zernio": {
+        "platform": "zernio",
+        "ok": true,
+        "postId": "6ae694cb2c6e1306477f8548",
+        "data": {
+          "_id": "6ae694cb2c6e1306477f8548",
+          "userId": "6ad8ac50051330d72ee5b3f5",
+          "title": "Dongeng fabel pengantar tidur penuh pesan moral ramah anak dan keluarga. #DitaDo",
+          "content": "Dongeng fabel pengantar tidur penuh pesan moral ramah anak dan keluarga. #DitaDongeng #FabelAnak #CeritaAnak #KidsStories",
+          "mediaItems": [
+            {
+              "_id": "6ae694cb2c6e1306477f854b",
+              "url": "https://media.zernio.com/media/1793496263782_d3ead8f8c2b40679_dita_fable_day_007_compressed.mp4",
+              "type": "video"
+            }
+          ],
+          "scheduledFor": "2026-11-01T01:24:25.781Z",
+          "timezone": "UTC",
+          "status": "publishing",
+          "tags": [],
+          "hashtags": [],
+          "mentions": [],
+          "visibility": "public",
+          "crosspostingEnabled": true,
+          "metadata": {
+            "usageCounted": true
+          },
+          "publishingClaimedAt": "2026-11-01T01:24:27.304Z",
+          "recycling": {
+            "enabled": false,
+            "gapFreq": "month",
+            "recycleCount": 0,
+            "contentVariations": [],
+            "contentVariationIndex": 0
+          },
+          "createdAt": "2026-11-01T01:24:27.275Z",
+          "updatedAt": "2026-11-01T01:24:39.391Z",
+          "platforms": [
+            {
+              "_id": "6ae694cb2c6e1306477f8546",
+              "platform": "tiktok",
+              "accountId": {
+                "_id": "6ad8acf3c24aa78753a651ef",
+                "platform": "tiktok",
+                "username": "ditafable",
+                "displayName": "ditafable",
+                "profilePicture": "https://p16-common-sign.tiktokcdn.com/tos-alisg-avt-0068/02b79ac3cf1d923dc733408ef593f1fd~tplv-tiktokx-cropcenter:168:168.jpeg?dr=14577&refresh_token=71e33dd9&x-expires=1793602800&x-signature=BMEUQ3eeWbgQUB2JSLf%2FyXWSjt0%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=8aecc5ac&idc=my",
+                "isActive": true,
+                "profileId": "6ad8ac50051330d72ee5b3f7"
+              },
+              "profileId": "6ad8ac50051330d72ee5b3f7",
+              "customMedia": [],
+              "scheduledFor": "2026-11-01T01:24:25.781Z",
+              "platformSpecificData": {
+                "videoCoverImageUrl": "https://media.zernio.com/media/1793496264975_dcf7e1f628baec50_frame_01_day_007.jpg",
+                "tiktokBusinessPublishId": "v_pub_url~v2.7703007261304424455"
+              },
+              "status": "published",
+              "publishedAt": "2026-11-01T01:24:39.385Z",
+              "platformPostId": "v_pub_url~v2.7703007261304424455",
+              "publishAttempts": 1,
+              "contentHash": "994f722dd7953c51889c5acaa7997ae1"
+            },
+            {
+              "_id": "6ae694cb2c6e1306477f8547",
+              "platform": "instagram",
+              "accountId": {
+                "_id": "6ad8acd9aad76462b1a71e23",
+                "platform": "instagram",
+                "username": "ditafable",
+                "displayName": "Dita Dongeng Fabel",
+                "profilePicture": null,
+                "isActive": true,
+                "profileId": "6ad8ac50051330d72ee5b3f7"
+              },
+              "profileId": "6ad8ac50051330d72ee5b3f7",
+              "customMedia": [],
+              "scheduledFor": "2026-11-01T01:24:25.781Z",
+              "platformSpecificData": {
+                "instagramThumbnail": "https://media.zernio.com/media/1793496264975_dcf7e1f628baec50_frame_01_day_007.jpg"
+              },
+              "status": "processing",
+              "publishAttempts": 1,
+              "contentHash": "33b591a94cf6d0e75f74d90e45e2e2e9"
+            }
+          ]
+        }
+      }
+    }
   }
 ]
