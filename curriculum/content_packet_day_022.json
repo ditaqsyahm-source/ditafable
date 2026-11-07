@@ -50,33 +50,28 @@
     "midjourney_flux_visual_cues": [
       {
         "scene_id": "SCENE_01",
-        "timeStart": 0.0,
-        "timeEnd": 8.0,
-        "prompt": "Adorable 3D Pixar animation style, Robi si Rubah in serene vibrant enchanted fairytale forest, soft volumetric lighting, Disney Pixar render quality --ar 9:16"
+        "timecode": "00:00 - 00:08",
+        "prompt": "A 3D animated CGI render of a young red fox standing on four slender paws, with bushy white-tipped tail, amber eyes, and pointed ears, exploring a vibrant green riverside meadow, morning sunbeams, vertical 9:16 aspect ratio."
       },
       {
         "scene_id": "SCENE_02",
-        "timeStart": 8.0,
-        "timeEnd": 22.0,
-        "prompt": "Close-up emotional 3D Pixar render, Robi si Rubah expressing curiosity and kindness, natural animal anatomy, lush mossy background --ar 9:16"
+        "timecode": "00:08 - 00:22",
+        "prompt": "A 3D animated CGI render of a white river goose with smooth feathers and orange beak, bowing its head dejectedly on a grassy riverbank while nearby ducklings giggle playfully, vertical 9:16 aspect ratio."
       },
       {
         "scene_id": "SCENE_03",
-        "timeStart": 22.0,
-        "timeEnd": 38.0,
-        "prompt": "Heartwarming 3D Pixar scene of Robi si Rubah meeting Angsa under ancient glowing woodland canopy, golden ambient glow --ar 9:16"
+        "timecode": "00:22 - 00:38",
+        "prompt": "A 3D animated CGI render of the young red fox standing proudly on all four paws beside the white goose, gently nuzzling its feathered wing to defend it warmly before the ducklings, vertical 9:16 aspect ratio."
       },
       {
         "scene_id": "SCENE_04",
-        "timeStart": 38.0,
-        "timeEnd": 52.0,
-        "prompt": "Touching emotional resolution, gentle harmony between Robi si Rubah and Angsa, glowing warm sparkles of empathy and peace --ar 9:16"
+        "timecode": "00:38 - 00:52",
+        "prompt": "A 3D animated CGI render of the white goose holding its neck high with joyful pride, honking a melodious gentle sound beside the smiling red fox on a sunlit pebble riverbank, vertical 9:16 aspect ratio."
       },
       {
         "scene_id": "SCENE_05",
-        "timeStart": 52.0,
-        "timeEnd": 64.0,
-        "prompt": "Panoramic dusk landscape of fairytale forest under crescent moon and twinkling stars, sparkling fireflies, peaceful bedtime atmosphere --ar 9:16"
+        "timecode": "00:52 - 01:04",
+        "prompt": "A 3D animated CGI render of a tranquil moonlit riverbend at night, the red fox resting curled up on soft moss while the white goose sleeps tucked into its feathers under sparkling stars, vertical 9:16 aspect ratio."
       }
     ]
   }

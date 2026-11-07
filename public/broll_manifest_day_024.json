@@ -1,0 +1,42 @@
+[
+  {
+    "scene_id": "SCENE_01",
+    "timeStart": 0.0,
+    "timeEnd": 8.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_024/scene_01.jpg",
+    "description": "A 3D animated CGI render of a cheerful green caterpillar with soft rounded segments, tiny black feet"
+  },
+  {
+    "scene_id": "SCENE_02",
+    "timeStart": 8.0,
+    "timeEnd": 22.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_024/scene_02.jpg",
+    "description": "A 3D animated CGI render of a sleek green grasshopper resting on a tall dandelion stem, twitching it"
+  },
+  {
+    "scene_id": "SCENE_03",
+    "timeStart": 22.0,
+    "timeEnd": 38.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_024/scene_03.jpg",
+    "description": "A 3D animated CGI render of a glossy golden silk chrysalis cocoon hanging snugly under an oak twig, "
+  },
+  {
+    "scene_id": "SCENE_04",
+    "timeStart": 38.0,
+    "timeEnd": 52.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_024/scene_04.jpg",
+    "description": "A 3D animated CGI render of a magnificent golden butterfly emerging on the twig with wide shimmering"
+  },
+  {
+    "scene_id": "SCENE_05",
+    "timeStart": 52.0,
+    "timeEnd": 64.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_024/scene_05.jpg",
+    "description": "A 3D animated CGI render of the calm twilight meadow at night, the golden butterfly roosting serenel"
+  }
+]

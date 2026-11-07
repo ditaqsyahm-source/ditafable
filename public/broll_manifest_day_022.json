@@ -1,0 +1,42 @@
+[
+  {
+    "scene_id": "SCENE_01",
+    "timeStart": 0.0,
+    "timeEnd": 8.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_022/scene_01.jpg",
+    "description": "A 3D animated CGI render of a young red fox standing on four slender paws, with bushy white-tipped t"
+  },
+  {
+    "scene_id": "SCENE_02",
+    "timeStart": 8.0,
+    "timeEnd": 22.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_022/scene_02.jpg",
+    "description": "A 3D animated CGI render of a white river goose with smooth feathers and orange beak, bowing its hea"
+  },
+  {
+    "scene_id": "SCENE_03",
+    "timeStart": 22.0,
+    "timeEnd": 38.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_022/scene_03.jpg",
+    "description": "A 3D animated CGI render of the young red fox standing proudly on all four paws beside the white goo"
+  },
+  {
+    "scene_id": "SCENE_04",
+    "timeStart": 38.0,
+    "timeEnd": 52.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_022/scene_04.jpg",
+    "description": "A 3D animated CGI render of the white goose holding its neck high with joyful pride, honking a melod"
+  },
+  {
+    "scene_id": "SCENE_05",
+    "timeStart": 52.0,
+    "timeEnd": 64.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_022/scene_05.jpg",
+    "description": "A 3D animated CGI render of a tranquil moonlit riverbend at night, the red fox resting curled up on "
+  }
+]

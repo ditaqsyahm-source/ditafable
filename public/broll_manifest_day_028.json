@@ -1,0 +1,42 @@
+[
+  {
+    "scene_id": "SCENE_01",
+    "timeStart": 0.0,
+    "timeEnd": 8.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_028/scene_01.jpg",
+    "description": "A 3D animated CGI render of an adorable brown bear cub on all four paws with fluffy ears and round s"
+  },
+  {
+    "scene_id": "SCENE_02",
+    "timeStart": 8.0,
+    "timeEnd": 22.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_028/scene_02.jpg",
+    "description": "A 3D animated CGI render of a gentle mother bear walking on all four paws beside the little bear cub"
+  },
+  {
+    "scene_id": "SCENE_03",
+    "timeStart": 22.0,
+    "timeEnd": 38.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_028/scene_03.jpg",
+    "description": "A 3D animated CGI render of the mother bear and cub sitting together on a soft bed of clover, sharin"
+  },
+  {
+    "scene_id": "SCENE_04",
+    "timeStart": 38.0,
+    "timeEnd": 52.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_028/scene_04.jpg",
+    "description": "A 3D animated CGI render of a cozy natural stone cave interior, mother bear curled protectively on m"
+  },
+  {
+    "scene_id": "SCENE_05",
+    "timeStart": 52.0,
+    "timeEnd": 64.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_028/scene_05.jpg",
+    "description": "A 3D animated CGI render of a majestic fairytale pine forest under a glowing crescent moon and thous"
+  }
+]

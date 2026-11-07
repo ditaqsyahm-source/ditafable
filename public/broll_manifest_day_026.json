@@ -1,0 +1,42 @@
+[
+  {
+    "scene_id": "SCENE_01",
+    "timeStart": 0.0,
+    "timeEnd": 8.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_026/scene_01.jpg",
+    "description": "A 3D animated CGI render of an intelligent raven perching on a mossy branch, with sleek glossy blue-"
+  },
+  {
+    "scene_id": "SCENE_02",
+    "timeStart": 8.0,
+    "timeEnd": 22.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_026/scene_02.jpg",
+    "description": "A 3D animated CGI render of a flamboyant bird of paradise displaying long yellow and emerald plume f"
+  },
+  {
+    "scene_id": "SCENE_03",
+    "timeStart": 22.0,
+    "timeEnd": 38.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_026/scene_03.jpg",
+    "description": "A 3D animated CGI render of the glossy raven using its strong beak to solve a puzzle, lifting a heav"
+  },
+  {
+    "scene_id": "SCENE_04",
+    "timeStart": 38.0,
+    "timeEnd": 52.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_026/scene_04.jpg",
+    "description": "A 3D animated CGI render of the glossy raven and the bird of paradise perching happily side by side,"
+  },
+  {
+    "scene_id": "SCENE_05",
+    "timeStart": 52.0,
+    "timeEnd": 64.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_026/scene_05.jpg",
+    "description": "A 3D animated CGI render of an ancient woodland canopy at midnight, the glossy raven roosting peacef"
+  }
+]

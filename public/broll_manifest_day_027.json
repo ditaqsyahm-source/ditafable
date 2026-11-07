@@ -1,0 +1,42 @@
+[
+  {
+    "scene_id": "SCENE_01",
+    "timeStart": 0.0,
+    "timeEnd": 8.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_027/scene_01.jpg",
+    "description": "A 3D animated CGI render of a tiny field mouse with soft golden-brown coat, pink paws, and twitching"
+  },
+  {
+    "scene_id": "SCENE_02",
+    "timeStart": 8.0,
+    "timeEnd": 22.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_027/scene_02.jpg",
+    "description": "A 3D animated CGI render of a noble elderly lion with magnificent golden-amber mane and warm hazel e"
+  },
+  {
+    "scene_id": "SCENE_03",
+    "timeStart": 22.0,
+    "timeEnd": 38.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_027/scene_03.jpg",
+    "description": "A 3D animated CGI render of the tiny field mouse using its sharp little teeth to patiently gnaw thro"
+  },
+  {
+    "scene_id": "SCENE_04",
+    "timeStart": 38.0,
+    "timeEnd": 52.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_027/scene_04.jpg",
+    "description": "A 3D animated CGI render of the noble lion gently lowering its massive head to nuzzle the tiny mouse"
+  },
+  {
+    "scene_id": "SCENE_05",
+    "timeStart": 52.0,
+    "timeEnd": 64.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_027/scene_05.jpg",
+    "description": "A 3D animated CGI render of a peaceful savanna sunset fading into twilight, the noble lion resting u"
+  }
+]

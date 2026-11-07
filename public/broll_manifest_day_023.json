@@ -1,0 +1,42 @@
+[
+  {
+    "scene_id": "SCENE_01",
+    "timeStart": 0.0,
+    "timeEnd": 8.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_023/scene_01.jpg",
+    "description": "A 3D animated CGI render of an adorable fruit bat with fluffy caramel fur, round black bead eyes, an"
+  },
+  {
+    "scene_id": "SCENE_02",
+    "timeStart": 8.0,
+    "timeEnd": 22.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_023/scene_02.jpg",
+    "description": "A 3D animated CGI render of a tiny white bunny rabbit on four paws shivering and looking lost near a"
+  },
+  {
+    "scene_id": "SCENE_03",
+    "timeStart": 22.0,
+    "timeEnd": 38.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_023/scene_03.jpg",
+    "description": "A 3D animated CGI render of the cute fruit bat flying gently low along the forest path, carrying a g"
+  },
+  {
+    "scene_id": "SCENE_04",
+    "timeStart": 38.0,
+    "timeEnd": 52.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_023/scene_04.jpg",
+    "description": "A 3D animated CGI render of a mother rabbit with floppy ears joyfully welcoming the white bunny at t"
+  },
+  {
+    "scene_id": "SCENE_05",
+    "timeStart": 52.0,
+    "timeEnd": 64.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_023/scene_05.jpg",
+    "description": "A 3D animated CGI render of the peaceful fairytale forest canopy under a starry midnight sky, the cu"
+  }
+]
