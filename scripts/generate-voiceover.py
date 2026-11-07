@@ -7,35 +7,51 @@ import edge_tts
 import edge_tts.constants
 import edge_tts.communicate
 
-# Fix Microsoft Edge TTS 403 on cloud runners & local machines
-_NEW_WSS = (
-    "wss://api.msedgeservices.com/tts/cognitiveservices/websocket/v1"
-    f"?Ocp-Apim-Subscription-Key={edge_tts.constants.TRUSTED_CLIENT_TOKEN}"
-)
-edge_tts.constants.WSS_URL = _NEW_WSS
-edge_tts.communicate.WSS_URL = _NEW_WSS
+# Robust multi-endpoint fallback against Microsoft Edge TTS 403 on cloud runners & local machines
+ENDPOINTS = [
+    f"wss://api.msedgeservices.com/tts/cognitiveservices/websocket/v1?Ocp-Apim-Subscription-Key={edge_tts.constants.TRUSTED_CLIENT_TOKEN}",
+    getattr(edge_tts.constants, "WSS_URL", None),
+]
+ENDPOINTS = [ep for ep in ENDPOINTS if ep]
 
 DEFAULT_VOICE = "id-ID-GadisNeural"
 DEFAULT_RATE = "-3%"  # Soothing, warm bedtime cadence (~115-120 WPM)
 
 async def synthesize_with_timestamps(text, voice, output_audio_path, rate=DEFAULT_RATE):
-    communicate = edge_tts.Communicate(text, voice, rate=rate)
     sentence_boundaries = []
-    
-    with open(output_audio_path, "wb") as audio_file:
-        async for message in communicate.stream():
-            if message["type"] == "audio":
-                audio_file.write(message["data"])
-            elif message["type"] == "SentenceBoundary":
-                # offset and duration are in 100-nanosecond ticks
-                start_sec = message["offset"] / 10_000_000.0
-                dur_sec = message["duration"] / 10_000_000.0
-                sentence_boundaries.append({
-                    "start": round(start_sec, 3),
-                    "end": round(start_sec + dur_sec, 3),
-                    "duration": round(dur_sec, 3),
-                    "text": message["text"].strip()
-                })
+    last_err = None
+
+    for attempt, endpoint in enumerate(ENDPOINTS, 1):
+        try:
+            edge_tts.constants.WSS_URL = endpoint
+            setattr(edge_tts.communicate, "WSS_URL", endpoint)
+
+            communicate = edge_tts.Communicate(text, voice, rate=rate)
+            sentence_boundaries = []
+            
+            with open(output_audio_path, "wb") as audio_file:
+                async for message in communicate.stream():
+                    if message["type"] == "audio":
+                        audio_file.write(message["data"])
+                    elif message["type"] == "SentenceBoundary":
+                        start_sec = message["offset"] / 10_000_000.0
+                        dur_sec = message["duration"] / 10_000_000.0
+                        sentence_boundaries.append({
+                            "start": round(start_sec, 3),
+                            "end": round(start_sec + dur_sec, 3),
+                            "duration": round(dur_sec, 3),
+                            "text": message["text"].strip()
+                        })
+
+            if os.path.exists(output_audio_path) and os.path.getsize(output_audio_path) > 5000:
+                return sentence_boundaries
+        except Exception as e:
+            last_err = e
+            print(f"[Edge TTS] Endpoint {attempt} failed ({e}), trying fallback...")
+            await asyncio.sleep(1.0)
+
+    if last_err:
+        raise last_err
     return sentence_boundaries
 
 def split_sentence_into_chunks(sentence_entry, max_words=4):

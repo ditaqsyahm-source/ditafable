@@ -40,7 +40,7 @@ jobs:
       - name: Install Python Dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install edge-tts pillow requests
+          pip install "edge-tts>=7.3.1" pillow requests
 
       - name: Install Node Dependencies
         run: npm install
