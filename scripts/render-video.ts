@@ -98,6 +98,14 @@ async function main() {
       packet.verbatim_script_master?.full_spoken_text_id ||
       packet.script_text ||
       "",
+    moralQuote:
+      packet.metadata?.moral_quote ||
+      packet.verbatim_script_master?.moral_quote ||
+      "",
+    moralSpeaker:
+      packet.metadata?.moral_speaker ||
+      packet.verbatim_script_master?.moral_speaker ||
+      "",
     timedSubtitles,
     audioFile,
     bgmFile: "bgm/bgm_bedtime_lullaby.mp3",

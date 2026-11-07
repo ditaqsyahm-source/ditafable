@@ -17,17 +17,19 @@
     "created_by": "Content Research & Narrative Architect (@content-researcher)",
     "reviewed_by": "Herman (Command Point / @hermes)",
     "intended_executor": "Director (@fullmontage) & Fleet Operator (@social-operator)",
-    "intended_duration_seconds": 56
+    "intended_duration_seconds": 56,
+    "moral_quote": "Kekuatan sejati adalah melindungi yang paling lemah.",
+    "moral_speaker": "Induk Burung Pipit Rimba"
   },
   "verbatim_script_master": {
-    "full_spoken_text_id": "Di tepi hutan kenari yang tenang, Gani si Gajah sedang duduk memandangi jalan setapak berkabut. Tiba-tiba, 'Kletuk!' Ada sesuatu yang membuat hatinya berdebar cemas saat Pipit Cilik datang mendekat. Meski sempat merasa takut, Gani si Gajah memilih untuk bersikap jujur dan berbicara dengan penuh kelembutan. Mendengar kata-katanya yang tulus, Pipit Cilik tersenyum teduh dan memeluknya hangat: 'Kebaikan hatimu jauh lebih berharga daripada apa pun.' Kekuatan sejati terlihat dari cara menjaga makhluk yang paling lemah. Sekarang, tarik selimut hangatmu, pejamkan matamu ya... selamat tidur, dan mimpi indah.",
-    "word_count": 86,
+    "full_spoken_text_id": "Gani si gajah kecil memiliki langkah kaki yang begitu besar dan perkasa hingga tanah bergetar saat ia berjalan. Suatu siang di hutan jati, Gani hampir menginjak sebatang dahan rendah tempat bersarangnya tiga ekor anak burung pipit yang belum bisa terbang. Mendengar cicit ketakutan sang induk burung, Gani segera menghentikan langkah beratnya dan menahan kakinya di udara. Dengan belalainya yang lembut, Gani perlahan memindahkan ranting sarang itu ke atas dahan pohon yang lebih tinggi dan kokoh. Sang induk pipit berkicau penuh syukur: 'Tubuhmu memang raksasa, tapi hatimu sangat lembut dan menjaga.' Kekuatan sejati bukan tentang seberapa besar kita berkuasa, melainkan bagaimana kita melindungi yang paling kecil. Sekarang, tarik selimut hangatmu, pejamkan matamu ya... selamat tidur, dan mimpi indah.",
+    "word_count": 117,
     "target_duration_seconds": 56,
     "voice_id": "id-ID-GadisNeural",
     "speed_multiplier": 1.0,
     "tone_notes": "Warm bedtime storytelling, soothing, expressive character voices, calming bedtime cadence."
   },
-  "script_text": "Di tepi hutan kenari yang tenang, Gani si Gajah sedang duduk memandangi jalan setapak berkabut. Tiba-tiba, 'Kletuk!' Ada sesuatu yang membuat hatinya berdebar cemas saat Pipit Cilik datang mendekat. Meski sempat merasa takut, Gani si Gajah memilih untuk bersikap jujur dan berbicara dengan penuh kelembutan. Mendengar kata-katanya yang tulus, Pipit Cilik tersenyum teduh dan memeluknya hangat: 'Kebaikan hatimu jauh lebih berharga daripada apa pun.' Kekuatan sejati terlihat dari cara menjaga makhluk yang paling lemah. Sekarang, tarik selimut hangatmu, pejamkan matamu ya... selamat tidur, dan mimpi indah.",
+  "script_text": "Gani si gajah kecil memiliki langkah kaki yang begitu besar dan perkasa hingga tanah bergetar saat ia berjalan. Suatu siang di hutan jati, Gani hampir menginjak sebatang dahan rendah tempat bersarangnya tiga ekor anak burung pipit yang belum bisa terbang. Mendengar cicit ketakutan sang induk burung, Gani segera menghentikan langkah beratnya dan menahan kakinya di udara. Dengan belalainya yang lembut, Gani perlahan memindahkan ranting sarang itu ke atas dahan pohon yang lebih tinggi dan kokoh. Sang induk pipit berkicau penuh syukur: 'Tubuhmu memang raksasa, tapi hatimu sangat lembut dan menjaga.' Kekuatan sejati bukan tentang seberapa besar kita berkuasa, melainkan bagaimana kita melindungi yang paling kecil. Sekarang, tarik selimut hangatmu, pejamkan matamu ya... selamat tidur, dan mimpi indah.",
   "social_fleet_distribution_metadata": {
     "title": "Gajah Gempa yang Belajar Menghargai Sarang Burung Gereja",
     "caption": "Gajah Gempa yang Belajar Menghargai Sarang Burung Gereja\n\nDongeng fabel pengantar tidur penuh kehangatan dan pesan moral ramah anak. Mari temani si kecil tidur nyenyak malam ini. ✨🛌\n\nPesan moral: Kekuatan sejati terlihat dari cara menjaga makhluk yang paling lemah.\n\n#DitaDongeng #FabelAnak #CeritaAnak #DongengSebelumTidur #KidsStories #BedtimeStory #KakDita",

@@ -17,17 +17,19 @@
     "created_by": "Content Research & Narrative Architect (@content-researcher)",
     "reviewed_by": "Herman (Command Point / @hermes)",
     "intended_executor": "Director (@fullmontage) & Fleet Operator (@social-operator)",
-    "intended_duration_seconds": 56
+    "intended_duration_seconds": 56,
+    "moral_quote": "Memaafkan kecerobohan sahabat membuka pintu damai persaudaraan.",
+    "moral_speaker": "Kakek Kura-Kura Telaga"
   },
   "verbatim_script_master": {
-    "full_spoken_text_id": "Di tepi hutan kenari yang tenang, Milo si Kucing sedang duduk memandangi jalan setapak berkabut. Tiba-tiba, 'Kletuk!' Ada sesuatu yang membuat hatinya berdebar cemas saat Kakek Kura-Kura datang mendekat. Meski sempat merasa takut, Milo si Kucing memilih untuk bersikap jujur dan berbicara dengan penuh kelembutan. Mendengar kata-katanya yang tulus, Kakek Kura-Kura tersenyum teduh dan memeluknya hangat: 'Kebaikan hatimu jauh lebih berharga daripada apa pun.' Memaafkan kecerobohan sahabat membuka pintu damai di telaga. Sekarang, tarik selimut hangatmu, pejamkan matamu ya... selamat tidur, dan mimpi indah.",
-    "word_count": 84,
+    "full_spoken_text_id": "Di tepi kolam kenari yang jernih berkilau, Milo si kucing hutan berbulu belang sedang asyik bermain dengan kupu-kupu. Tanpa sengaja, cakarnya menyenggol tumpukan kerikil hias hingga berjatuhan mengotori air tempat Ikan Mas berenang tenang. Air telaga pun menjadi keruh dan Ikan Mas terkejut bersembunyi di balik teratai. Milo merasa sangat bersalah dan tertunduk malu di tepi kolam. Kakek Kura-Kura berenang mendekat dan berkata lembut: 'Tak ada persahabatan yang tak pernah salah, Milo. Yang terpenting adalah kemauan membersihkannya kembali.' Milo lalu dengan sabar memungut kerikil itu satu per satu sampai air kembali bening. Memaafkan dan memperbaiki kesalahan membuka pintu persaudaraan yang abadi. Sekarang, tarik selimut hangatmu, pejamkan matamu ya... selamat tidur, dan mimpi indah.",
+    "word_count": 113,
     "target_duration_seconds": 56,
     "voice_id": "id-ID-GadisNeural",
     "speed_multiplier": 1.0,
     "tone_notes": "Warm bedtime storytelling, soothing, expressive character voices, calming bedtime cadence."
   },
-  "script_text": "Di tepi hutan kenari yang tenang, Milo si Kucing sedang duduk memandangi jalan setapak berkabut. Tiba-tiba, 'Kletuk!' Ada sesuatu yang membuat hatinya berdebar cemas saat Kakek Kura-Kura datang mendekat. Meski sempat merasa takut, Milo si Kucing memilih untuk bersikap jujur dan berbicara dengan penuh kelembutan. Mendengar kata-katanya yang tulus, Kakek Kura-Kura tersenyum teduh dan memeluknya hangat: 'Kebaikan hatimu jauh lebih berharga daripada apa pun.' Memaafkan kecerobohan sahabat membuka pintu damai di telaga. Sekarang, tarik selimut hangatmu, pejamkan matamu ya... selamat tidur, dan mimpi indah.",
+  "script_text": "Di tepi kolam kenari yang jernih berkilau, Milo si kucing hutan berbulu belang sedang asyik bermain dengan kupu-kupu. Tanpa sengaja, cakarnya menyenggol tumpukan kerikil hias hingga berjatuhan mengotori air tempat Ikan Mas berenang tenang. Air telaga pun menjadi keruh dan Ikan Mas terkejut bersembunyi di balik teratai. Milo merasa sangat bersalah dan tertunduk malu di tepi kolam. Kakek Kura-Kura berenang mendekat dan berkata lembut: 'Tak ada persahabatan yang tak pernah salah, Milo. Yang terpenting adalah kemauan membersihkannya kembali.' Milo lalu dengan sabar memungut kerikil itu satu per satu sampai air kembali bening. Memaafkan dan memperbaiki kesalahan membuka pintu persaudaraan yang abadi. Sekarang, tarik selimut hangatmu, pejamkan matamu ya... selamat tidur, dan mimpi indah.",
   "social_fleet_distribution_metadata": {
     "title": "Kucing Hutan Milo & Ikan Mas Kolam Kenari",
     "caption": "Kucing Hutan Milo & Ikan Mas Kolam Kenari\n\nDongeng fabel pengantar tidur penuh kehangatan dan pesan moral ramah anak. Mari temani si kecil tidur nyenyak malam ini. ✨🛌\n\nPesan moral: Memaafkan kecerobohan sahabat membuka pintu damai di telaga.\n\n#DitaDongeng #FabelAnak #CeritaAnak #DongengSebelumTidur #KidsStories #BedtimeStory #KakDita",

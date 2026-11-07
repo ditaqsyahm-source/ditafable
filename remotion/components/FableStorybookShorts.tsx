@@ -36,6 +36,8 @@ export interface FableStorybookShortsProps {
   channelHandle?: string;
   title?: string;
   script?: string;
+  moralQuote?: string;
+  moralSpeaker?: string;
   timedSubtitles?: TimedSubtitleChunk[];
   audioFile?: string;
   bgmFile?: string;
@@ -80,6 +82,27 @@ const HIGHLIGHT_WORDS = [
   "tidur",
   "mimpi",
   "indah",
+  "kebaikan",
+  "berbagi",
+  "tolong",
+  "sahabat",
+  "tulus",
+  "sabar",
+  "langkah",
+  "sarang",
+  "hangat",
+  "teratai",
+  "kura-kura",
+  "landak",
+  "tupai",
+  "walnut",
+  "serigala",
+  "domba",
+  "semut",
+  "gajah",
+  "pipit",
+  "kucing",
+  "ikan",
 ];
 
 const SceneVisual: React.FC<{
@@ -159,6 +182,8 @@ export const FableStorybookShorts: React.FC<FableStorybookShortsProps> = ({
   channelHandle = "@ditafable",
   title = "Kancil Ciko & Apel Emas yang Terbelah",
   script = "",
+  moralQuote = "",
+  moralSpeaker = "",
   timedSubtitles = [],
   audioFile = "voiceover_day_001.mp3",
   bgmFile = "bgm/bgm_bedtime_lullaby.mp3",
@@ -458,8 +483,8 @@ export const FableStorybookShorts: React.FC<FableStorybookShortsProps> = ({
         </div>
       )}
 
-      {/* 10. Moral Plaque Feature (Highlight in Scene 4 - detik 36 - 49) */}
-      {moralPlaqueOpacity > 0 && (
+      {/* 10. Moral Plaque Feature (Highlight in Scene 4 - dynamically driven) */}
+      {moralQuote && moralPlaqueOpacity > 0 && (
         <div
           style={{
             position: "absolute",
@@ -495,19 +520,21 @@ export const FableStorybookShorts: React.FC<FableStorybookShortsProps> = ({
                 marginBottom: 10,
               }}
             >
-              "Kejujuran Ciko jauh lebih berharga daripada sepuluh apel emas."
+              "{moralQuote}"
             </div>
-            <div
-              style={{
-                fontSize: 18,
-                fontWeight: 900,
-                letterSpacing: 2.0,
-                textTransform: "uppercase",
-                color: "#92400e",
-              }}
-            >
-              — Kakek Beruang yang Baik Hati 🍯❤️
-            </div>
+            {moralSpeaker && (
+              <div
+                style={{
+                  fontSize: 18,
+                  fontWeight: 900,
+                  letterSpacing: 2.0,
+                  textTransform: "uppercase",
+                  color: "#92400e",
+                }}
+              >
+                — {moralSpeaker}
+              </div>
+            )}
           </div>
         </div>
       )}

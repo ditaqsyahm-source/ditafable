@@ -5,168 +5,219 @@
   "audio_path": "C:\\Users\\K4G3\\Documents\\Github\\ditafable\\public\\voiceover_day_008.mp3",
   "voice": "id-ID-GadisNeural",
   "rate": "-3%",
-  "total_words": 86,
-  "duration_seconds": 50.54,
-  "duration_frames": 1213,
+  "total_words": 118,
+  "duration_seconds": 64.97,
+  "duration_frames": 1559,
   "fps": 24,
   "sentences": [
     {
       "start": 0.05,
-      "end": 7.266,
-      "duration": 7.216,
-      "text": "Di tepi hutan kenari yang tenang, Loli si Tupai sedang duduk memandangi jalan setapak berkabut."
+      "end": 7.692,
+      "duration": 7.642,
+      "text": "Di puncak pohon kenari yang menjulang tinggi, Loli si tupai kecil melompat lincah dari dahan ke dahan."
     },
     {
-      "start": 7.266,
-      "end": 10.514,
-      "duration": 3.247,
-      "text": "Tiba-tiba, 'Kletuk!'"
+      "start": 7.692,
+      "end": 16.236,
+      "duration": 8.544,
+      "text": "Musim gugur hampir usai, dan di dalam kantung kecilnya hanya tersisa sebutir kacang walnut emas yang sangat lezat."
     },
     {
-      "start": 10.514,
-      "end": 16.442,
-      "duration": 5.928,
-      "text": "Ada sesuatu yang membuat hatinya berdebar cemas saat Nenek Kelinci datang mendekat."
+      "start": 16.236,
+      "end": 27.06,
+      "duration": 10.825,
+      "text": "Saat hendak menikmatinya, Loli melihat Nenek Kelinci berjalan perlahan di tanah bersalju, mencari sisa makanan dengan tubuh menggigil kedinginan."
     },
     {
-      "start": 16.442,
-      "end": 24.844,
-      "duration": 8.402,
-      "text": "Meski sempat merasa takut, Loli si Tupai memilih untuk bersikap jujur dan berbicara dengan penuh kelembutan."
+      "start": 27.06,
+      "end": 29.612,
+      "duration": 2.552,
+      "text": "Loli terdiam sejenak."
     },
     {
-      "start": 24.844,
-      "end": 35.862,
-      "duration": 11.018,
-      "text": "Mendengar kata-katanya yang tulus, Nenek Kelinci tersenyum teduh dan memeluknya hangat: 'Kebaikan hatimu jauh lebih berharga daripada apa pun.'"
+      "start": 29.612,
+      "end": 40.011,
+      "duration": 10.399,
+      "text": "Tanpa ragu, ia turun dan menyodorkan walnut terakhir itu dengan riang: 'Nenek, ini untuk Nenek agar tetap hangat malam ini!'"
     },
     {
-      "start": 35.862,
-      "end": 42.047,
-      "duration": 6.186,
-      "text": "Menjaga amanah makanan simpanan di musim gugur membawa berkah persahabatan."
+      "start": 40.011,
+      "end": 49.096,
+      "duration": 9.085,
+      "text": "Nenek Kelinci tersenyum haru dan mengusap lembut kepala Loli: 'Kebaikan hatimu jauh lebih manis dari madu rimba.'"
     },
     {
-      "start": 42.047,
-      "end": 50.514,
-      "duration": 8.466,
+      "start": 49.096,
+      "end": 56.416,
+      "duration": 7.32,
+      "text": "Berbagi tidak pernah membuat kita berkurang, justru menghangatkan hati dari dinginnya malam."
+    },
+    {
+      "start": 56.416,
+      "end": 64.96,
+      "duration": 8.544,
       "text": "Sekarang, tarik selimut hangatmu, pejamkan matamu ya... selamat tidur, dan mimpi indah."
     }
   ],
   "timed_subtitles": [
     {
       "start": 0.05,
-      "end": 1.619,
-      "text": "Di tepi hutan kenari"
+      "end": 1.766,
+      "text": "Di puncak pohon kenari"
     },
     {
-      "start": 1.619,
-      "end": 3.187,
-      "text": "yang tenang, Loli si"
+      "start": 1.766,
+      "end": 3.871,
+      "text": "yang menjulang tinggi, Loli"
     },
     {
-      "start": 3.187,
-      "end": 5.462,
-      "text": "Tupai sedang duduk memandangi"
+      "start": 3.871,
+      "end": 5.665,
+      "text": "si tupai kecil melompat"
     },
     {
-      "start": 5.462,
-      "end": 7.266,
-      "text": "jalan setapak berkabut."
+      "start": 5.665,
+      "end": 7.224,
+      "text": "lincah dari dahan ke"
     },
     {
-      "start": 7.266,
-      "end": 10.514,
-      "text": "Tiba-tiba, 'Kletuk!'"
+      "start": 7.224,
+      "end": 7.692,
+      "text": "dahan."
     },
     {
-      "start": 10.514,
-      "end": 12.27,
-      "text": "Ada sesuatu yang membuat"
+      "start": 7.692,
+      "end": 9.556,
+      "text": "Musim gugur hampir usai,"
     },
     {
-      "start": 12.27,
-      "end": 14.246,
-      "text": "hatinya berdebar cemas saat"
+      "start": 9.556,
+      "end": 11.11,
+      "text": "dan di dalam kantung"
     },
     {
-      "start": 14.246,
-      "end": 16.442,
-      "text": "Nenek Kelinci datang mendekat."
+      "start": 11.11,
+      "end": 13.44,
+      "text": "kecilnya hanya tersisa sebutir"
     },
     {
-      "start": 16.442,
-      "end": 18.522,
-      "text": "Meski sempat merasa takut,"
+      "start": 13.44,
+      "end": 15.226,
+      "text": "kacang walnut emas yang"
     },
     {
-      "start": 18.522,
-      "end": 20.203,
-      "text": "Loli si Tupai memilih"
+      "start": 15.226,
+      "end": 16.236,
+      "text": "sangat lezat."
     },
     {
-      "start": 20.203,
-      "end": 22.123,
-      "text": "untuk bersikap jujur dan"
+      "start": 16.236,
+      "end": 18.539,
+      "text": "Saat hendak menikmatinya, Loli"
     },
     {
-      "start": 22.123,
-      "end": 24.844,
-      "text": "berbicara dengan penuh kelembutan."
+      "start": 18.539,
+      "end": 20.842,
+      "text": "melihat Nenek Kelinci berjalan"
     },
     {
-      "start": 24.844,
-      "end": 27.539,
-      "text": "Mendengar kata-katanya yang tulus,"
+      "start": 20.842,
+      "end": 22.915,
+      "text": "perlahan di tanah bersalju,"
     },
     {
-      "start": 27.539,
-      "end": 29.838,
-      "text": "Nenek Kelinci tersenyum teduh"
+      "start": 22.915,
+      "end": 24.987,
+      "text": "mencari sisa makanan dengan"
     },
     {
-      "start": 29.838,
-      "end": 32.374,
-      "text": "dan memeluknya hangat: 'Kebaikan"
+      "start": 24.987,
+      "end": 27.06,
+      "text": "tubuh menggigil kedinginan."
     },
     {
-      "start": 32.374,
-      "end": 34.435,
-      "text": "hatimu jauh lebih berharga"
+      "start": 27.06,
+      "end": 29.612,
+      "text": "Loli terdiam sejenak."
     },
     {
-      "start": 34.435,
-      "end": 35.862,
-      "text": "daripada apa pun.'"
+      "start": 29.612,
+      "end": 31.345,
+      "text": "Tanpa ragu, ia turun"
     },
     {
-      "start": 35.862,
-      "end": 38.489,
-      "text": "Menjaga amanah makanan simpanan"
+      "start": 31.345,
+      "end": 34.032,
+      "text": "dan menyodorkan walnut terakhir"
     },
     {
-      "start": 38.489,
-      "end": 40.352,
-      "text": "di musim gugur membawa"
+      "start": 34.032,
+      "end": 36.198,
+      "text": "itu dengan riang: 'Nenek,"
     },
     {
-      "start": 40.352,
-      "end": 42.047,
-      "text": "berkah persahabatan."
+      "start": 36.198,
+      "end": 37.931,
+      "text": "ini untuk Nenek agar"
     },
     {
-      "start": 42.047,
-      "end": 45.334,
+      "start": 37.931,
+      "end": 40.011,
+      "text": "tetap hangat malam ini!'"
+    },
+    {
+      "start": 40.011,
+      "end": 42.345,
+      "text": "Nenek Kelinci tersenyum haru"
+    },
+    {
+      "start": 42.345,
+      "end": 44.512,
+      "text": "dan mengusap lembut kepala"
+    },
+    {
+      "start": 44.512,
+      "end": 46.762,
+      "text": "Loli: 'Kebaikan hatimu jauh"
+    },
+    {
+      "start": 46.762,
+      "end": 48.513,
+      "text": "lebih manis dari madu"
+    },
+    {
+      "start": 48.513,
+      "end": 49.096,
+      "text": "rimba.'"
+    },
+    {
+      "start": 49.096,
+      "end": 51.373,
+      "text": "Berbagi tidak pernah membuat"
+    },
+    {
+      "start": 51.373,
+      "end": 54.301,
+      "text": "kita berkurang, justru menghangatkan"
+    },
+    {
+      "start": 54.301,
+      "end": 56.416,
+      "text": "hati dari dinginnya malam."
+    },
+    {
+      "start": 56.416,
+      "end": 59.733,
       "text": "Sekarang, tarik selimut hangatmu,"
     },
     {
-      "start": 45.334,
-      "end": 48.223,
+      "start": 59.733,
+      "end": 62.648,
       "text": "pejamkan matamu ya... selamat"
     },
     {
-      "start": 48.223,
-      "end": 50.514,
+      "start": 62.648,
+      "end": 64.96,
       "text": "tidur, dan mimpi indah."
     }
   ]

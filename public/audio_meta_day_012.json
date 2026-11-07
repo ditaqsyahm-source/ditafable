@@ -5,163 +5,225 @@
   "audio_path": "C:\\Users\\K4G3\\Documents\\Github\\ditafable\\public\\voiceover_day_012.mp3",
   "voice": "id-ID-GadisNeural",
   "rate": "-3%",
-  "total_words": 84,
-  "duration_seconds": 49.85,
-  "duration_frames": 1196,
+  "total_words": 113,
+  "duration_seconds": 62.5,
+  "duration_frames": 1500,
   "fps": 24,
   "sentences": [
     {
       "start": 0.05,
-      "end": 7.292,
-      "duration": 7.242,
-      "text": "Di tepi hutan kenari yang tenang, Milo si Kucing sedang duduk memandangi jalan setapak berkabut."
+      "end": 8.581,
+      "duration": 8.531,
+      "text": "Di tepi kolam kenari yang jernih berkilau, Milo si kucing hutan berbulu belang sedang asyik bermain dengan kupu-kupu."
     },
     {
-      "start": 7.292,
-      "end": 10.54,
-      "duration": 3.247,
-      "text": "Tiba-tiba, 'Kletuk!'"
+      "start": 8.581,
+      "end": 17.808,
+      "duration": 9.227,
+      "text": "Tanpa sengaja, cakarnya menyenggol tumpukan kerikil hias hingga berjatuhan mengotori air tempat Ikan Mas berenang tenang."
     },
     {
-      "start": 10.54,
-      "end": 16.545,
-      "duration": 6.005,
-      "text": "Ada sesuatu yang membuat hatinya berdebar cemas saat Kakek Kura-Kura datang mendekat."
+      "start": 17.808,
+      "end": 24.096,
+      "duration": 6.289,
+      "text": "Air telaga pun menjadi keruh dan Ikan Mas terkejut bersembunyi di balik teratai."
     },
     {
-      "start": 16.545,
-      "end": 24.844,
-      "duration": 8.299,
-      "text": "Meski sempat merasa takut, Milo si Kucing memilih untuk bersikap jujur dan berbicara dengan penuh kelembutan."
+      "start": 24.096,
+      "end": 29.174,
+      "duration": 5.077,
+      "text": "Milo merasa sangat bersalah dan tertunduk malu di tepi kolam."
     },
     {
-      "start": 24.844,
-      "end": 35.926,
-      "duration": 11.082,
-      "text": "Mendengar kata-katanya yang tulus, Kakek Kura-Kura tersenyum teduh dan memeluknya hangat: 'Kebaikan hatimu jauh lebih berharga daripada apa pun.'"
+      "start": 29.174,
+      "end": 36.919,
+      "duration": 7.745,
+      "text": "Kakek Kura-Kura berenang mendekat dan berkata lembut: 'Tak ada persahabatan yang tak pernah salah, Milo."
     },
     {
-      "start": 35.926,
-      "end": 41.248,
-      "duration": 5.322,
-      "text": "Memaafkan kecerobohan sahabat membuka pintu damai di telaga."
+      "start": 36.919,
+      "end": 41.687,
+      "duration": 4.768,
+      "text": "Yang terpenting adalah kemauan membersihkannya kembali.'"
     },
     {
-      "start": 41.248,
-      "end": 49.831,
-      "duration": 8.582,
+      "start": 41.687,
+      "end": 48.349,
+      "duration": 6.662,
+      "text": "Milo lalu dengan sabar memungut kerikil itu satu per satu sampai air kembali bening."
+    },
+    {
+      "start": 48.349,
+      "end": 54.161,
+      "duration": 5.812,
+      "text": "Memaafkan dan memperbaiki kesalahan membuka pintu persaudaraan yang abadi."
+    },
+    {
+      "start": 54.161,
+      "end": 62.486,
+      "duration": 8.325,
       "text": "Sekarang, tarik selimut hangatmu, pejamkan matamu ya... selamat tidur, dan mimpi indah."
     }
   ],
   "timed_subtitles": [
     {
       "start": 0.05,
-      "end": 1.607,
-      "text": "Di tepi hutan kenari"
+      "end": 1.56,
+      "text": "Di tepi kolam kenari"
     },
     {
-      "start": 1.607,
-      "end": 3.165,
-      "text": "yang tenang, Milo si"
+      "start": 1.56,
+      "end": 3.523,
+      "text": "yang jernih berkilau, Milo"
     },
     {
-      "start": 3.165,
-      "end": 5.501,
-      "text": "Kucing sedang duduk memandangi"
+      "start": 3.523,
+      "end": 5.259,
+      "text": "si kucing hutan berbulu"
     },
     {
-      "start": 5.501,
-      "end": 7.292,
-      "text": "jalan setapak berkabut."
+      "start": 5.259,
+      "end": 7.298,
+      "text": "belang sedang asyik bermain"
     },
     {
-      "start": 7.292,
-      "end": 10.54,
-      "text": "Tiba-tiba, 'Kletuk!'"
+      "start": 7.298,
+      "end": 8.581,
+      "text": "dengan kupu-kupu."
     },
     {
-      "start": 10.54,
-      "end": 12.276,
-      "text": "Ada sesuatu yang membuat"
+      "start": 8.581,
+      "end": 11.24,
+      "text": "Tanpa sengaja, cakarnya menyenggol"
     },
     {
-      "start": 12.276,
-      "end": 14.23,
-      "text": "hatinya berdebar cemas saat"
+      "start": 11.24,
+      "end": 13.429,
+      "text": "tumpukan kerikil hias hingga"
     },
     {
-      "start": 14.23,
-      "end": 16.545,
-      "text": "Kakek Kura-Kura datang mendekat."
+      "start": 13.429,
+      "end": 15.853,
+      "text": "berjatuhan mengotori air tempat"
     },
     {
-      "start": 16.545,
-      "end": 18.581,
-      "text": "Meski sempat merasa takut,"
+      "start": 15.853,
+      "end": 17.808,
+      "text": "Ikan Mas berenang tenang."
     },
     {
-      "start": 18.581,
-      "end": 20.303,
-      "text": "Milo si Kucing memilih"
+      "start": 17.808,
+      "end": 19.605,
+      "text": "Air telaga pun menjadi"
     },
     {
-      "start": 20.303,
-      "end": 22.182,
-      "text": "untuk bersikap jujur dan"
+      "start": 19.605,
+      "end": 21.074,
+      "text": "keruh dan Ikan Mas"
     },
     {
-      "start": 22.182,
-      "end": 24.844,
-      "text": "berbicara dengan penuh kelembutan."
+      "start": 21.074,
+      "end": 23.443,
+      "text": "terkejut bersembunyi di balik"
     },
     {
-      "start": 24.844,
-      "end": 27.516,
-      "text": "Mendengar kata-katanya yang tulus,"
+      "start": 23.443,
+      "end": 24.096,
+      "text": "teratai."
     },
     {
-      "start": 27.516,
-      "end": 29.953,
-      "text": "Kakek Kura-Kura tersenyum teduh"
+      "start": 24.096,
+      "end": 26.42,
+      "text": "Milo merasa sangat bersalah"
     },
     {
-      "start": 29.953,
-      "end": 32.468,
-      "text": "dan memeluknya hangat: 'Kebaikan"
+      "start": 26.42,
+      "end": 28.227,
+      "text": "dan tertunduk malu di"
     },
     {
-      "start": 32.468,
-      "end": 34.511,
-      "text": "hatimu jauh lebih berharga"
+      "start": 28.227,
+      "end": 29.174,
+      "text": "tepi kolam."
     },
     {
-      "start": 34.511,
-      "end": 35.926,
-      "text": "daripada apa pun.'"
+      "start": 29.174,
+      "end": 31.705,
+      "text": "Kakek Kura-Kura berenang mendekat"
     },
     {
-      "start": 35.926,
-      "end": 39.264,
-      "text": "Memaafkan kecerobohan sahabat membuka"
+      "start": 31.705,
+      "end": 33.545,
+      "text": "dan berkata lembut: 'Tak"
     },
     {
-      "start": 39.264,
-      "end": 41.248,
-      "text": "pintu damai di telaga."
+      "start": 33.545,
+      "end": 35.462,
+      "text": "ada persahabatan yang tak"
     },
     {
-      "start": 41.248,
-      "end": 44.58,
+      "start": 35.462,
+      "end": 36.919,
+      "text": "pernah salah, Milo."
+    },
+    {
+      "start": 36.919,
+      "end": 39.52,
+      "text": "Yang terpenting adalah kemauan"
+    },
+    {
+      "start": 39.52,
+      "end": 41.687,
+      "text": "membersihkannya kembali.'"
+    },
+    {
+      "start": 41.687,
+      "end": 43.496,
+      "text": "Milo lalu dengan sabar"
+    },
+    {
+      "start": 43.496,
+      "end": 45.553,
+      "text": "memungut kerikil itu satu"
+    },
+    {
+      "start": 45.553,
+      "end": 47.115,
+      "text": "per satu sampai air"
+    },
+    {
+      "start": 47.115,
+      "end": 48.349,
+      "text": "kembali bening."
+    },
+    {
+      "start": 48.349,
+      "end": 51.174,
+      "text": "Memaafkan dan memperbaiki kesalahan"
+    },
+    {
+      "start": 51.174,
+      "end": 53.677,
+      "text": "membuka pintu persaudaraan yang"
+    },
+    {
+      "start": 53.677,
+      "end": 54.161,
+      "text": "abadi."
+    },
+    {
+      "start": 54.161,
+      "end": 57.393,
       "text": "Sekarang, tarik selimut hangatmu,"
     },
     {
-      "start": 44.58,
-      "end": 47.509,
+      "start": 57.393,
+      "end": 60.233,
       "text": "pejamkan matamu ya... selamat"
     },
     {
-      "start": 47.509,
-      "end": 49.831,
+      "start": 60.233,
+      "end": 62.486,
       "text": "tidur, dan mimpi indah."
     }
   ]

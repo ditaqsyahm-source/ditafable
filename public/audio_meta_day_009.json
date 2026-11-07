@@ -5,178 +5,214 @@
   "audio_path": "C:\\Users\\K4G3\\Documents\\Github\\ditafable\\public\\voiceover_day_009.mp3",
   "voice": "id-ID-GadisNeural",
   "rate": "-3%",
-  "total_words": 89,
-  "duration_seconds": 50.95,
-  "duration_frames": 1223,
+  "total_words": 115,
+  "duration_seconds": 62.4,
+  "duration_frames": 1498,
   "fps": 24,
   "sentences": [
     {
       "start": 0.05,
-      "end": 7.46,
-      "duration": 7.41,
-      "text": "Di tepi hutan kenari yang tenang, Bara si Serigala sedang duduk memandangi jalan setapak berkabut."
+      "end": 7.756,
+      "duration": 7.706,
+      "text": "Bara adalah serigala kecil berbulu kelabu yang sering dijauhi hewan-hewan lain karena taringnya yang runcing."
     },
     {
-      "start": 7.46,
-      "end": 10.72,
-      "duration": 3.26,
-      "text": "Tiba-tiba, 'Kletuk!'"
+      "start": 7.756,
+      "end": 15.462,
+      "duration": 7.706,
+      "text": "Suatu senja di tepi hutan berkabut, Bara mendengar suara tangis cicit pelan di balik semak berduri."
     },
     {
-      "start": 10.72,
-      "end": 17.073,
-      "duration": 6.353,
-      "text": "Ada sesuatu yang membuat hatinya berdebar cemas saat Moli si Anak Domba datang mendekat."
+      "start": 15.462,
+      "end": 22.06,
+      "duration": 6.598,
+      "text": "Rupanya, Moli si anak domba tersesat dan tak tahu jalan pulang ke padang rumput."
     },
     {
-      "start": 17.073,
-      "end": 25.604,
-      "duration": 8.531,
-      "text": "Meski sempat merasa takut, Bara si Serigala memilih untuk bersikap jujur dan berbicara dengan penuh kelembutan."
+      "start": 22.06,
+      "end": 26.777,
+      "duration": 4.716,
+      "text": "Meski tubuhnya lelah, Bara tidak menakuti Moli."
     },
     {
-      "start": 25.604,
-      "end": 37.125,
-      "duration": 11.521,
-      "text": "Mendengar kata-katanya yang tulus, Moli si Anak Domba tersenyum teduh dan memeluknya hangat: 'Kebaikan hatimu jauh lebih berharga daripada apa pun.'"
+      "start": 26.777,
+      "end": 37.138,
+      "duration": 10.361,
+      "text": "Ia justru berjalan di depan menerangi jalan setapak dan membiarkan Moli berpegangan pada ekor lebatnya yang hangat sampai tiba di pelukan induknya."
     },
     {
-      "start": 37.125,
-      "end": 42.408,
-      "duration": 5.284,
-      "text": "Kasih sayang menembus batas perbedaan jenis dan prasangka lama."
+      "start": 37.138,
+      "end": 45.823,
+      "duration": 8.686,
+      "text": "Induk domba meneteskan air mata bahagia: 'Terima kasih serigala yang baik, kasihmu begitu tulus.'"
     },
     {
-      "start": 42.408,
-      "end": 50.926,
-      "duration": 8.518,
+      "start": 45.823,
+      "end": 53.929,
+      "duration": 8.106,
+      "text": "Jangan pernah menilai kebaikan seseorang hanya dari rupanya, karena cinta sejati tinggal di dalam hati."
+    },
+    {
+      "start": 53.929,
+      "end": 62.37,
+      "duration": 8.441,
       "text": "Sekarang, tarik selimut hangatmu, pejamkan matamu ya... selamat tidur, dan mimpi indah."
     }
   ],
   "timed_subtitles": [
     {
       "start": 0.05,
-      "end": 1.61,
-      "text": "Di tepi hutan kenari"
+      "end": 1.94,
+      "text": "Bara adalah serigala kecil"
     },
     {
-      "start": 1.61,
-      "end": 3.17,
-      "text": "yang tenang, Bara si"
+      "start": 1.94,
+      "end": 3.83,
+      "text": "berbulu kelabu yang sering"
     },
     {
-      "start": 3.17,
-      "end": 5.666,
-      "text": "Serigala sedang duduk memandangi"
+      "start": 3.83,
+      "end": 6.084,
+      "text": "dijauhi hewan-hewan lain karena"
     },
     {
-      "start": 5.666,
-      "end": 7.46,
-      "text": "jalan setapak berkabut."
+      "start": 6.084,
+      "end": 7.756,
+      "text": "taringnya yang runcing."
     },
     {
-      "start": 7.46,
-      "end": 10.72,
-      "text": "Tiba-tiba, 'Kletuk!'"
+      "start": 7.756,
+      "end": 9.281,
+      "text": "Suatu senja di tepi"
     },
     {
-      "start": 10.72,
-      "end": 12.514,
-      "text": "Ada sesuatu yang membuat"
+      "start": 9.281,
+      "end": 11.689,
+      "text": "hutan berkabut, Bara mendengar"
     },
     {
-      "start": 12.514,
-      "end": 14.532,
-      "text": "hatinya berdebar cemas saat"
+      "start": 11.689,
+      "end": 13.616,
+      "text": "suara tangis cicit pelan"
     },
     {
-      "start": 14.532,
-      "end": 15.877,
-      "text": "Moli si Anak Domba"
+      "start": 13.616,
+      "end": 15.462,
+      "text": "di balik semak berduri."
     },
     {
-      "start": 15.877,
-      "end": 17.073,
-      "text": "datang mendekat."
+      "start": 15.462,
+      "end": 17.261,
+      "text": "Rupanya, Moli si anak"
     },
     {
-      "start": 17.073,
-      "end": 19.127,
-      "text": "Meski sempat merasa takut,"
+      "start": 17.261,
+      "end": 19.147,
+      "text": "domba tersesat dan tak"
     },
     {
-      "start": 19.127,
-      "end": 21.023,
-      "text": "Bara si Serigala memilih"
+      "start": 19.147,
+      "end": 20.86,
+      "text": "tahu jalan pulang ke"
     },
     {
-      "start": 21.023,
-      "end": 22.918,
-      "text": "untuk bersikap jujur dan"
+      "start": 20.86,
+      "end": 22.06,
+      "text": "padang rumput."
     },
     {
-      "start": 22.918,
-      "end": 25.604,
-      "text": "berbicara dengan penuh kelembutan."
+      "start": 22.06,
+      "end": 24.726,
+      "text": "Meski tubuhnya lelah, Bara"
     },
     {
-      "start": 25.604,
-      "end": 28.343,
-      "text": "Mendengar kata-katanya yang tulus,"
+      "start": 24.726,
+      "end": 26.777,
+      "text": "tidak menakuti Moli."
     },
     {
-      "start": 28.343,
-      "end": 29.793,
-      "text": "Moli si Anak Domba"
+      "start": 26.777,
+      "end": 28.309,
+      "text": "Ia justru berjalan di"
     },
     {
-      "start": 29.793,
-      "end": 32.21,
-      "text": "tersenyum teduh dan memeluknya"
+      "start": 28.309,
+      "end": 30.425,
+      "text": "depan menerangi jalan setapak"
     },
     {
-      "start": 32.21,
-      "end": 34.547,
-      "text": "hangat: 'Kebaikan hatimu jauh"
+      "start": 30.425,
+      "end": 32.687,
+      "text": "dan membiarkan Moli berpegangan"
     },
     {
-      "start": 34.547,
-      "end": 36.722,
-      "text": "lebih berharga daripada apa"
+      "start": 32.687,
+      "end": 34.365,
+      "text": "pada ekor lebatnya yang"
     },
     {
-      "start": 36.722,
-      "end": 37.125,
-      "text": "pun.'"
+      "start": 34.365,
+      "end": 35.898,
+      "text": "hangat sampai tiba di"
     },
     {
-      "start": 37.125,
-      "end": 39.463,
-      "text": "Kasih sayang menembus batas"
+      "start": 35.898,
+      "end": 37.138,
+      "text": "pelukan induknya."
     },
     {
-      "start": 39.463,
-      "end": 41.975,
-      "text": "perbedaan jenis dan prasangka"
+      "start": 37.138,
+      "end": 39.54,
+      "text": "Induk domba meneteskan air"
     },
     {
-      "start": 41.975,
-      "end": 42.408,
-      "text": "lama."
+      "start": 39.54,
+      "end": 42.035,
+      "text": "mata bahagia: 'Terima kasih"
     },
     {
-      "start": 42.408,
-      "end": 45.715,
+      "start": 42.035,
+      "end": 44.529,
+      "text": "serigala yang baik, kasihmu"
+    },
+    {
+      "start": 44.529,
+      "end": 45.823,
+      "text": "begitu tulus.'"
+    },
+    {
+      "start": 45.823,
+      "end": 48.255,
+      "text": "Jangan pernah menilai kebaikan"
+    },
+    {
+      "start": 48.255,
+      "end": 50.606,
+      "text": "seseorang hanya dari rupanya,"
+    },
+    {
+      "start": 50.606,
+      "end": 52.794,
+      "text": "karena cinta sejati tinggal"
+    },
+    {
+      "start": 52.794,
+      "end": 53.929,
+      "text": "di dalam hati."
+    },
+    {
+      "start": 53.929,
+      "end": 57.206,
       "text": "Sekarang, tarik selimut hangatmu,"
     },
     {
-      "start": 45.715,
-      "end": 48.621,
+      "start": 57.206,
+      "end": 60.086,
       "text": "pejamkan matamu ya... selamat"
     },
     {
-      "start": 48.621,
-      "end": 50.926,
+      "start": 60.086,
+      "end": 62.37,
       "text": "tidur, dan mimpi indah."
     }
   ]

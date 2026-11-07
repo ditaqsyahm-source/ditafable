@@ -17,17 +17,19 @@
     "created_by": "Content Research & Narrative Architect (@content-researcher)",
     "reviewed_by": "Herman (Command Point / @hermes)",
     "intended_executor": "Director (@fullmontage) & Fleet Operator (@social-operator)",
-    "intended_duration_seconds": 56
+    "intended_duration_seconds": 56,
+    "moral_quote": "Kesabaran dan kerja keras hari ini adalah payung terindah hari esok.",
+    "moral_speaker": "Sami si Semut Bijak"
   },
   "verbatim_script_master": {
-    "full_spoken_text_id": "Di tepi hutan kenari yang tenang, Sami si Semut sedang duduk memandangi jalan setapak berkabut. Tiba-tiba, 'Kletuk!' Ada sesuatu yang membuat hatinya berdebar cemas saat Belalang datang mendekat. Meski sempat merasa takut, Sami si Semut memilih untuk bersikap jujur dan berbicara dengan penuh kelembutan. Mendengar kata-katanya yang tulus, Belalang tersenyum teduh dan memeluknya hangat: 'Kebaikan hatimu jauh lebih berharga daripada apa pun.' Kerja keras di masa muda menjamin kehangatan di musim dingin. Sekarang, tarik selimut hangatmu, pejamkan matamu ya... selamat tidur, dan mimpi indah.",
-    "word_count": 84,
+    "full_spoken_text_id": "Di padang rumput hijau yang luas, Sami si semut merah mini terus melangkah membawa sebutir kristal gula yang beratnya tiga kali lipat tubuh mungilnya. Dari atas tangkai rumput, seekor belalang santai bernyanyi dan tertawa: 'Hai Sami, untuk apa kamu bersusah payah di hari secerah ini? Bermainlah bersamaku!' Namun Sami tersenyum ramah dan tetap setia melangkah: 'Sedikit demi sedikit, esok saat hujan tiba, keluargaku akan aman di dalam sarang.' Ketika badai petir malam harinya mengguncang padang rumput, sang belalang kedinginan di luar, sementara Sami dan kawan-kawannya menikmati kehangatan di sarang bawah tanah. Kesabaran dan kerja keras hari ini adalah payung terindah untuk hari esok. Sekarang, tarik selimut hangatmu, pejamkan matamu ya... selamat tidur, dan mimpi indah.",
+    "word_count": 115,
     "target_duration_seconds": 56,
     "voice_id": "id-ID-GadisNeural",
     "speed_multiplier": 1.0,
     "tone_notes": "Warm bedtime storytelling, soothing, expressive character voices, calming bedtime cadence."
   },
-  "script_text": "Di tepi hutan kenari yang tenang, Sami si Semut sedang duduk memandangi jalan setapak berkabut. Tiba-tiba, 'Kletuk!' Ada sesuatu yang membuat hatinya berdebar cemas saat Belalang datang mendekat. Meski sempat merasa takut, Sami si Semut memilih untuk bersikap jujur dan berbicara dengan penuh kelembutan. Mendengar kata-katanya yang tulus, Belalang tersenyum teduh dan memeluknya hangat: 'Kebaikan hatimu jauh lebih berharga daripada apa pun.' Kerja keras di masa muda menjamin kehangatan di musim dingin. Sekarang, tarik selimut hangatmu, pejamkan matamu ya... selamat tidur, dan mimpi indah.",
+  "script_text": "Di padang rumput hijau yang luas, Sami si semut merah mini terus melangkah membawa sebutir kristal gula yang beratnya tiga kali lipat tubuh mungilnya. Dari atas tangkai rumput, seekor belalang santai bernyanyi dan tertawa: 'Hai Sami, untuk apa kamu bersusah payah di hari secerah ini? Bermainlah bersamaku!' Namun Sami tersenyum ramah dan tetap setia melangkah: 'Sedikit demi sedikit, esok saat hujan tiba, keluargaku akan aman di dalam sarang.' Ketika badai petir malam harinya mengguncang padang rumput, sang belalang kedinginan di luar, sementara Sami dan kawan-kawannya menikmati kehangatan di sarang bawah tanah. Kesabaran dan kerja keras hari ini adalah payung terindah untuk hari esok. Sekarang, tarik selimut hangatmu, pejamkan matamu ya... selamat tidur, dan mimpi indah.",
   "social_fleet_distribution_metadata": {
     "title": "Semut Merah Mini yang Membawa Sebutir Gula ke Puncak Bukit",
     "caption": "Semut Merah Mini yang Membawa Sebutir Gula ke Puncak Bukit\n\nDongeng fabel pengantar tidur penuh kehangatan dan pesan moral ramah anak. Mari temani si kecil tidur nyenyak malam ini. ✨🛌\n\nPesan moral: Kerja keras di masa muda menjamin kehangatan di musim dingin.\n\n#DitaDongeng #FabelAnak #CeritaAnak #DongengSebelumTidur #KidsStories #BedtimeStory #KakDita",

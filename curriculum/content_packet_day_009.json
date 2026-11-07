@@ -17,17 +17,19 @@
     "created_by": "Content Research & Narrative Architect (@content-researcher)",
     "reviewed_by": "Herman (Command Point / @hermes)",
     "intended_executor": "Director (@fullmontage) & Fleet Operator (@social-operator)",
-    "intended_duration_seconds": 56
+    "intended_duration_seconds": 56,
+    "moral_quote": "Kebaikan sejati tinggal di dalam hati, bukan pada rupa luar.",
+    "moral_speaker": "Induk Domba yang Penuh Syukur"
   },
   "verbatim_script_master": {
-    "full_spoken_text_id": "Di tepi hutan kenari yang tenang, Bara si Serigala sedang duduk memandangi jalan setapak berkabut. Tiba-tiba, 'Kletuk!' Ada sesuatu yang membuat hatinya berdebar cemas saat Moli si Anak Domba datang mendekat. Meski sempat merasa takut, Bara si Serigala memilih untuk bersikap jujur dan berbicara dengan penuh kelembutan. Mendengar kata-katanya yang tulus, Moli si Anak Domba tersenyum teduh dan memeluknya hangat: 'Kebaikan hatimu jauh lebih berharga daripada apa pun.' Kasih sayang menembus batas perbedaan jenis dan prasangka lama. Sekarang, tarik selimut hangatmu, pejamkan matamu ya... selamat tidur, dan mimpi indah.",
-    "word_count": 89,
+    "full_spoken_text_id": "Bara adalah serigala kecil berbulu kelabu yang sering dijauhi hewan-hewan lain karena taringnya yang runcing. Suatu senja di tepi hutan berkabut, Bara mendengar suara tangis cicit pelan di balik semak berduri. Rupanya, Moli si anak domba tersesat dan tak tahu jalan pulang ke padang rumput. Meski tubuhnya lelah, Bara tidak menakuti Moli. Ia justru berjalan di depan menerangi jalan setapak dan membiarkan Moli berpegangan pada ekor lebatnya yang hangat sampai tiba di pelukan induknya. Induk domba meneteskan air mata bahagia: 'Terima kasih serigala yang baik, kasihmu begitu tulus.' Jangan pernah menilai kebaikan seseorang hanya dari rupanya, karena cinta sejati tinggal di dalam hati. Sekarang, tarik selimut hangatmu, pejamkan matamu ya... selamat tidur, dan mimpi indah.",
+    "word_count": 115,
     "target_duration_seconds": 56,
     "voice_id": "id-ID-GadisNeural",
     "speed_multiplier": 1.0,
     "tone_notes": "Warm bedtime storytelling, soothing, expressive character voices, calming bedtime cadence."
   },
-  "script_text": "Di tepi hutan kenari yang tenang, Bara si Serigala sedang duduk memandangi jalan setapak berkabut. Tiba-tiba, 'Kletuk!' Ada sesuatu yang membuat hatinya berdebar cemas saat Moli si Anak Domba datang mendekat. Meski sempat merasa takut, Bara si Serigala memilih untuk bersikap jujur dan berbicara dengan penuh kelembutan. Mendengar kata-katanya yang tulus, Moli si Anak Domba tersenyum teduh dan memeluknya hangat: 'Kebaikan hatimu jauh lebih berharga daripada apa pun.' Kasih sayang menembus batas perbedaan jenis dan prasangka lama. Sekarang, tarik selimut hangatmu, pejamkan matamu ya... selamat tidur, dan mimpi indah.",
+  "script_text": "Bara adalah serigala kecil berbulu kelabu yang sering dijauhi hewan-hewan lain karena taringnya yang runcing. Suatu senja di tepi hutan berkabut, Bara mendengar suara tangis cicit pelan di balik semak berduri. Rupanya, Moli si anak domba tersesat dan tak tahu jalan pulang ke padang rumput. Meski tubuhnya lelah, Bara tidak menakuti Moli. Ia justru berjalan di depan menerangi jalan setapak dan membiarkan Moli berpegangan pada ekor lebatnya yang hangat sampai tiba di pelukan induknya. Induk domba meneteskan air mata bahagia: 'Terima kasih serigala yang baik, kasihmu begitu tulus.' Jangan pernah menilai kebaikan seseorang hanya dari rupanya, karena cinta sejati tinggal di dalam hati. Sekarang, tarik selimut hangatmu, pejamkan matamu ya... selamat tidur, dan mimpi indah.",
   "social_fleet_distribution_metadata": {
     "title": "Serigala Berbulu Kelabu yang Mengantar Anak Domba Pulang",
     "caption": "Serigala Berbulu Kelabu yang Mengantar Anak Domba Pulang\n\nDongeng fabel pengantar tidur penuh kehangatan dan pesan moral ramah anak. Mari temani si kecil tidur nyenyak malam ini. ✨🛌\n\nPesan moral: Kasih sayang menembus batas perbedaan jenis dan prasangka lama.\n\n#DitaDongeng #FabelAnak #CeritaAnak #DongengSebelumTidur #KidsStories #BedtimeStory #KakDita",
