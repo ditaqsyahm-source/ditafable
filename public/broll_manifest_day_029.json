@@ -1,0 +1,42 @@
+[
+  {
+    "scene_id": "SCENE_01",
+    "timeStart": 0.0,
+    "timeEnd": 8.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_029/scene_01.jpg",
+    "description": "A 3D animated CGI render of an adorable golden lion cub with fluffy ears, large amber eyes, and a tu"
+  },
+  {
+    "scene_id": "SCENE_02",
+    "timeStart": 8.0,
+    "timeEnd": 22.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_029/scene_02.jpg",
+    "description": "A 3D animated CGI render of dark purple storm clouds gathering over the acacia trees, soft lightning"
+  },
+  {
+    "scene_id": "SCENE_03",
+    "timeStart": 22.0,
+    "timeEnd": 38.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_029/scene_03.jpg",
+    "description": "A 3D animated CGI render of the majestic father lion with a magnificent dark-golden mane stepping ge"
+  },
+  {
+    "scene_id": "SCENE_04",
+    "timeStart": 38.0,
+    "timeEnd": 52.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_029/scene_04.jpg",
+    "description": "A 3D animated CGI render of the little lion cub sitting safely nestled against the massive warm fron"
+  },
+  {
+    "scene_id": "SCENE_05",
+    "timeStart": 52.0,
+    "timeEnd": 64.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_029/scene_05.jpg",
+    "description": "A 3D animated CGI render of a cozy stone cavern at night, the little lion cub sleeping peacefully cu"
+  }
+]

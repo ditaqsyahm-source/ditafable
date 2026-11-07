@@ -1,0 +1,42 @@
+[
+  {
+    "scene_id": "SCENE_01",
+    "timeStart": 0.0,
+    "timeEnd": 8.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_030/scene_01.jpg",
+    "description": "A 3D animated CGI render of a nimble mountain goat kid standing on four sturdy hooves, with fluffy w"
+  },
+  {
+    "scene_id": "SCENE_02",
+    "timeStart": 8.0,
+    "timeEnd": 22.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_030/scene_02.jpg",
+    "description": "A 3D animated CGI render of a weak silver-grey wolf lying quietly under a mountain pine tree, lookin"
+  },
+  {
+    "scene_id": "SCENE_03",
+    "timeStart": 22.0,
+    "timeEnd": 38.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_030/scene_03.jpg",
+    "description": "A 3D animated CGI render of the brave white mountain goat kid stepping carefully across rocky ledges"
+  },
+  {
+    "scene_id": "SCENE_04",
+    "timeStart": 38.0,
+    "timeEnd": 52.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_030/scene_04.jpg",
+    "description": "A 3D animated CGI render of the recovering wolf gently resting its muzzle near the mountain goat kid"
+  },
+  {
+    "scene_id": "SCENE_05",
+    "timeStart": 52.0,
+    "timeEnd": 64.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_030/scene_05.jpg",
+    "description": "A 3D animated CGI render of an alpine mountain ridge under a radiant crescent moon and glittering co"
+  }
+]

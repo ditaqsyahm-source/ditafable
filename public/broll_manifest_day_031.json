@@ -1,0 +1,42 @@
+[
+  {
+    "scene_id": "SCENE_01",
+    "timeStart": 0.0,
+    "timeEnd": 8.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_031/scene_01.jpg",
+    "description": "A 3D animated CGI render of a sleek swiftlet bird with glossy slate-blue wings and a curved slender "
+  },
+  {
+    "scene_id": "SCENE_02",
+    "timeStart": 8.0,
+    "timeEnd": 22.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_031/scene_02.jpg",
+    "description": "A 3D animated CGI render of strong sea winds buffeting the steep cliff face, the little swiftlet cli"
+  },
+  {
+    "scene_id": "SCENE_03",
+    "timeStart": 22.0,
+    "timeEnd": 38.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_031/scene_03.jpg",
+    "description": "A 3D animated CGI render of the swiftlet carefully weaving delicate translucent silk threads and sof"
+  },
+  {
+    "scene_id": "SCENE_04",
+    "timeStart": 38.0,
+    "timeEnd": 52.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_031/scene_04.jpg",
+    "description": "A 3D animated CGI render of the completed snug nest glowing warmly on the cliff wall, the little swi"
+  },
+  {
+    "scene_id": "SCENE_05",
+    "timeStart": 52.0,
+    "timeEnd": 64.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_031/scene_05.jpg",
+    "description": "A 3D animated CGI render of the starry night sky over the calm sea, moonlight shimmering on gentle w"
+  }
+]

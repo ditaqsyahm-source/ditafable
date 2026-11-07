@@ -1,0 +1,42 @@
+[
+  {
+    "scene_id": "SCENE_01",
+    "timeStart": 0.0,
+    "timeEnd": 8.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_034/scene_01.jpg",
+    "description": "A 3D animated CGI render of a slender brown civet on all four paws, with ringed bushy tail and dark "
+  },
+  {
+    "scene_id": "SCENE_02",
+    "timeStart": 8.0,
+    "timeEnd": 22.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_034/scene_02.jpg",
+    "description": "A 3D animated CGI render of an intricate cave entrance blocked by glowing natural crystal stones, wo"
+  },
+  {
+    "scene_id": "SCENE_03",
+    "timeStart": 22.0,
+    "timeEnd": 38.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_034/scene_03.jpg",
+    "description": "A 3D animated CGI render of the clever civet using a smooth wooden branch to solve the puzzle, coope"
+  },
+  {
+    "scene_id": "SCENE_04",
+    "timeStart": 38.0,
+    "timeEnd": 52.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_034/scene_04.jpg",
+    "description": "A 3D animated CGI render of the cave doorway swinging open to reveal a magical cavern filled with gl"
+  },
+  {
+    "scene_id": "SCENE_05",
+    "timeStart": 52.0,
+    "timeEnd": 64.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_034/scene_05.jpg",
+    "description": "A 3D animated CGI render of the tranquil crystal cave exterior at midnight, soft violet and teal lum"
+  }
+]

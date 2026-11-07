@@ -50,33 +50,28 @@
     "midjourney_flux_visual_cues": [
       {
         "scene_id": "SCENE_01",
-        "timeStart": 0.0,
-        "timeEnd": 8.0,
-        "prompt": "Adorable 3D Pixar animation style, Haru si Harimau in serene vibrant enchanted fairytale forest, soft volumetric lighting, Disney Pixar render quality --ar 9:16"
+        "timecode": "00:00 - 00:08",
+        "prompt": "A 3D animated CGI render of an adorable tiger cub on four paws, with bright orange coat, crisp black stripes, and white muzzle, pouting with a furrowed brow on a leafy woodland trail, vertical 9:16 aspect ratio."
       },
       {
         "scene_id": "SCENE_02",
-        "timeStart": 8.0,
-        "timeEnd": 22.0,
-        "prompt": "Close-up emotional 3D Pixar render, Haru si Harimau expressing curiosity and kindness, natural animal anatomy, lush mossy background --ar 9:16"
+        "timecode": "00:08 - 00:22",
+        "prompt": "A 3D animated CGI render of the gentle mother tigress with sleek striped fur sitting gracefully on green moss, softly nudging the cub with her nose and looking up toward the twilight sky, vertical 9:16 aspect ratio."
       },
       {
         "scene_id": "SCENE_03",
-        "timeStart": 22.0,
-        "timeEnd": 38.0,
-        "prompt": "Heartwarming 3D Pixar scene of Haru si Harimau meeting Ibu Harimau under ancient glowing woodland canopy, golden ambient glow --ar 9:16"
+        "timecode": "00:22 - 00:38",
+        "prompt": "A 3D animated CGI render of the little tiger cub sitting on its haunches beside the mother tigress, tilting its head back to look at the first twinkling evening stars, breathing in the cool lavender breeze, vertical 9:16 aspect ratio."
       },
       {
         "scene_id": "SCENE_04",
-        "timeStart": 38.0,
-        "timeEnd": 52.0,
-        "prompt": "Touching emotional resolution, gentle harmony between Haru si Harimau and Ibu Harimau, glowing warm sparkles of empathy and peace --ar 9:16"
+        "timecode": "00:38 - 00:52",
+        "prompt": "A 3D animated CGI render of the tiger cub smiling peacefully with relaxed paws, rubbing its furry striped cheek against the mother tigress neck in warm affectionate relief, golden twilight glow, vertical 9:16 aspect ratio."
       },
       {
         "scene_id": "SCENE_05",
-        "timeStart": 52.0,
-        "timeEnd": 64.0,
-        "prompt": "Panoramic dusk landscape of fairytale forest under crescent moon and twinkling stars, sparkling fireflies, peaceful bedtime atmosphere --ar 9:16"
+        "timecode": "00:52 - 01:04",
+        "prompt": "A 3D animated CGI render of a tranquil bamboo grove at night, the mother tigress lying curled protectively around the deeply sleeping tiger cub under a luminous silver moon and sparkling stars, vertical 9:16 aspect ratio."
       }
     ]
   }

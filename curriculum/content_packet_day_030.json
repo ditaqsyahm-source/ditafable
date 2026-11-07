@@ -50,33 +50,28 @@
     "midjourney_flux_visual_cues": [
       {
         "scene_id": "SCENE_01",
-        "timeStart": 0.0,
-        "timeEnd": 8.0,
-        "prompt": "Adorable 3D Pixar animation style, Kimo si Kambing in serene vibrant enchanted fairytale forest, soft volumetric lighting, Disney Pixar render quality --ar 9:16"
+        "timecode": "00:00 - 00:08",
+        "prompt": "A 3D animated CGI render of a nimble mountain goat kid standing on four sturdy hooves, with fluffy white fleece, two small curved horns, and cheerful bright eyes, grazing on high alpine slopes, bright morning sun, vertical 9:16 aspect ratio."
       },
       {
         "scene_id": "SCENE_02",
-        "timeStart": 8.0,
-        "timeEnd": 22.0,
-        "prompt": "Close-up emotional 3D Pixar render, Kimo si Kambing expressing curiosity and kindness, natural animal anatomy, lush mossy background --ar 9:16"
+        "timecode": "00:08 - 00:22",
+        "prompt": "A 3D animated CGI render of a weak silver-grey wolf lying quietly under a mountain pine tree, looking frail and thirsty beside a dried alpine spring, vertical 9:16 aspect ratio."
       },
       {
         "scene_id": "SCENE_03",
-        "timeStart": 22.0,
-        "timeEnd": 38.0,
-        "prompt": "Heartwarming 3D Pixar scene of Kimo si Kambing meeting Serigala Sakit under ancient glowing woodland canopy, golden ambient glow --ar 9:16"
+        "timecode": "00:22 - 00:38",
+        "prompt": "A 3D animated CGI render of the brave white mountain goat kid stepping carefully across rocky ledges on all four hooves, carrying a bundle of fresh dewy sweet clover and wild berries in its mouth toward the wolf, vertical 9:16 aspect ratio."
       },
       {
         "scene_id": "SCENE_04",
-        "timeStart": 38.0,
-        "timeEnd": 52.0,
-        "prompt": "Touching emotional resolution, gentle harmony between Kimo si Kambing and Serigala Sakit, glowing warm sparkles of empathy and peace --ar 9:16"
+        "timecode": "00:38 - 00:52",
+        "prompt": "A 3D animated CGI render of the recovering wolf gently resting its muzzle near the mountain goat kids hooves in sincere gratitude, golden mountain sunset illuminating the peaceful scene, vertical 9:16 aspect ratio."
       },
       {
         "scene_id": "SCENE_05",
-        "timeStart": 52.0,
-        "timeEnd": 64.0,
-        "prompt": "Panoramic dusk landscape of fairytale forest under crescent moon and twinkling stars, sparkling fireflies, peaceful bedtime atmosphere --ar 9:16"
+        "timecode": "00:52 - 01:04",
+        "prompt": "A 3D animated CGI render of an alpine mountain ridge under a radiant crescent moon and glittering constellations, the mountain goat resting calmly inside a sheltered rocky hollow, ultimate bedtime aesthetic, vertical 9:16 aspect ratio."
       }
     ]
   }
