@@ -62,19 +62,13 @@ async function runDailyPipeline() {
     process.exit(1);
   }
 
-  // 2. Ensure Voiceover Audio Exists
+  // 2. Synthesize Voiceover Audio On-the-Fly (DITA-04 Doctrine: Strictly On-the-Fly TTS)
   const audioFile = `public/voiceover_day_${cycleDayStr}.mp3`;
   const metaPath = `public/audio_meta_day_${cycleDayStr}.json`;
-  if (!fs.existsSync(audioFile) || fs.statSync(audioFile).size < 1000) {
-    console.log(`
---- Step 1: Synthesizing Warm Bedtime Voiceover ---`);
-    execSync(`python scripts/generate-voiceover.py "${packetPath}" "${audioFile}" "${metaPath}"`, {
-      stdio: "inherit",
-    });
-  } else {
-    console.log(`
---- Step 1: Pre-synthesized Voiceover Verified (${audioFile}) ---`);
-  }
+  console.log(`\n--- Step 1: Synthesizing Warm Bedtime Voiceover On-the-Fly (${audioFile}) ---`);
+  execSync(`python scripts/generate-voiceover.py "${packetPath}" "${audioFile}" "${metaPath}"`, {
+    stdio: "inherit",
+  });
 
   // 2.5 Ensure Storyboard Plates & Manifest Exist
   const manifestFile = `public/broll_manifest_day_${cycleDayStr}.json`;
