@@ -1162,5 +1162,109 @@
         }
       }
     }
+  },
+  {
+    "channel_id": "DITA-04",
+    "day": 12,
+    "title": "Kucing Hutan Milo & Ikan Mas Kolam Kenari",
+    "video_file": "output/dita_fable_day_012_compressed.mp4",
+    "video_hash": "a1d6aa570a467c3fb64ba63fb07e6b5da289895bc0ee0b44bb12bf76f24742a0",
+    "timestamp": "2026-11-07T02:03:20.457470",
+    "outcomes": {
+      "youtube": {
+        "platform": "youtube",
+        "ok": true,
+        "videoId": "kdx_TawxKNM",
+        "url": "https://youtube.com/shorts/kdx_TawxKNM"
+      },
+      "zernio": {
+        "platform": "zernio",
+        "ok": true,
+        "postId": "6aee86dbc553657e4bdc1e56",
+        "data": {
+          "_id": "6aee86dbc553657e4bdc1e56",
+          "userId": "6ad8ac50051330d72ee5b3f5",
+          "title": "Kucing Hutan Milo & Ikan Mas Kolam Kenari",
+          "content": "Kucing Hutan Milo & Ikan Mas Kolam Kenari\n\nDongeng fabel pengantar tidur penuh kehangatan dan pesan moral ramah anak. Mari temani si kecil tidur nyenyak malam ini. \u2728\ud83d\udecc\n\nPesan moral: Memaafkan kecerobohan sahabat membuka pintu damai di telaga.\n\n#DitaDongeng #FabelAnak #CeritaAnak #DongengSebelumTidur #KidsStories #BedtimeStory #KakDita",
+          "mediaItems": [
+            {
+              "_id": "6aee86dbc553657e4bdc1e59",
+              "url": "https://media.zernio.com/media/1794016984591_556bb310486dd4ce_dita_fable_day_012_compressed.mp4",
+              "type": "video"
+            }
+          ],
+          "scheduledFor": "2026-11-07T02:03:06.610Z",
+          "timezone": "UTC",
+          "status": "publishing",
+          "tags": [],
+          "hashtags": [],
+          "mentions": [],
+          "visibility": "public",
+          "crosspostingEnabled": true,
+          "metadata": {
+            "usageCounted": true
+          },
+          "publishingClaimedAt": "2026-11-07T02:03:07.996Z",
+          "recycling": {
+            "enabled": false,
+            "gapFreq": "month",
+            "recycleCount": 0,
+            "contentVariations": [],
+            "contentVariationIndex": 0
+          },
+          "createdAt": "2026-11-07T02:03:07.900Z",
+          "updatedAt": "2026-11-07T02:03:20.294Z",
+          "platforms": [
+            {
+              "_id": "6aee86dbc553657e4bdc1e54",
+              "platform": "tiktok",
+              "accountId": {
+                "_id": "6ad8acf3c24aa78753a651ef",
+                "platform": "tiktok",
+                "username": "ditafable",
+                "displayName": "ditafable",
+                "profilePicture": "https://p16-common-sign.tiktokcdn.com/tos-alisg-avt-0068/02b79ac3cf1d923dc733408ef593f1fd~tplv-tiktokx-cropcenter:168:168.jpeg?dr=14577&refresh_token=d00ab1b3&x-expires=1794128400&x-signature=bk%2BonAHNUEPjVxsQIl1g5KCLfOI%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=8aecc5ac&idc=my2",
+                "isActive": true,
+                "profileId": "6ad8ac50051330d72ee5b3f7"
+              },
+              "profileId": "6ad8ac50051330d72ee5b3f7",
+              "customMedia": [],
+              "scheduledFor": "2026-11-07T02:03:06.610Z",
+              "platformSpecificData": {
+                "videoCoverImageUrl": "https://media.zernio.com/media/1794016985661_309de693f6ff8592_frame_01_day_012.jpg",
+                "tiktokBusinessPublishId": "v_pub_url~v2.7705244172383438868"
+              },
+              "status": "published",
+              "publishedAt": "2026-11-07T02:03:20.283Z",
+              "platformPostId": "v_pub_url~v2.7705244172383438868",
+              "publishAttempts": 1,
+              "contentHash": "3e5a286acc79a752b89cca752e792aaa"
+            },
+            {
+              "_id": "6aee86dbc553657e4bdc1e55",
+              "platform": "instagram",
+              "accountId": {
+                "_id": "6ad8acd9aad76462b1a71e23",
+                "platform": "instagram",
+                "username": "ditafable",
+                "displayName": "Dita Dongeng Fabel",
+                "profilePicture": null,
+                "isActive": true,
+                "profileId": "6ad8ac50051330d72ee5b3f7"
+              },
+              "profileId": "6ad8ac50051330d72ee5b3f7",
+              "customMedia": [],
+              "scheduledFor": "2026-11-07T02:03:06.610Z",
+              "platformSpecificData": {
+                "instagramThumbnail": "https://media.zernio.com/media/1794016985661_309de693f6ff8592_frame_01_day_012.jpg"
+              },
+              "status": "processing",
+              "publishAttempts": 1,
+              "contentHash": "9cdcae86f9335f2286b9c4d55246991c"
+            }
+          ]
+        }
+      }
+    }
   }
 ]
