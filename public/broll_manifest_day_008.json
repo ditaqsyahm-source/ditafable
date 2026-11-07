@@ -5,7 +5,7 @@
     "timeEnd": 8.0,
     "videoSrc": null,
     "imageSrc": "images/day_008/scene_01.jpg",
-    "description": "Adorable 3D Pixar animation style, Loli si Tupai playing peacefully in vibrant mossy fairytale fores"
+    "description": "A 3D animated CGI render of a cheerful caramel squirrel on all four paws with a bushy curved tail an"
   },
   {
     "scene_id": "SCENE_02",
@@ -13,30 +13,30 @@
     "timeEnd": 20.0,
     "videoSrc": null,
     "imageSrc": "images/day_008/scene_02.jpg",
-    "description": "Close-up emotional 3D Pixar scene, Loli si Tupai looking surprised and concerned at a small fallen o"
+    "description": "A 3D animated CGI render of the cheerful caramel squirrel with bushy tail peering down from a high b"
   },
   {
     "scene_id": "SCENE_03",
     "timeStart": 20.0,
-    "timeEnd": 35.0,
+    "timeEnd": 36.0,
     "videoSrc": null,
     "imageSrc": "images/day_008/scene_03.jpg",
-    "description": "Heartwarming 3D Pixar scene of Loli si Tupai meeting Nenek Kelinci near a cozy woodland cottage, gen"
+    "description": "A 3D animated CGI render of the cheerful caramel squirrel scampering down the tree trunk on all four"
   },
   {
     "scene_id": "SCENE_04",
-    "timeStart": 35.0,
-    "timeEnd": 48.0,
+    "timeStart": 36.0,
+    "timeEnd": 52.0,
     "videoSrc": null,
     "imageSrc": "images/day_008/scene_04.jpg",
-    "description": "Touching emotional resolution, Nenek Kelinci warmly hugging Loli si Tupai with gentle smile, glowing"
+    "description": "A 3D animated CGI render of the elderly grey rabbit with drooping ears and the cheerful caramel squi"
   },
   {
     "scene_id": "SCENE_05",
-    "timeStart": 48.0,
-    "timeEnd": 65.47,
+    "timeStart": 52.0,
+    "timeEnd": 65.0,
     "videoSrc": null,
     "imageSrc": "images/day_008/scene_05.jpg",
-    "description": "Panoramic dusk landscape of enchanted fairytale forest under glowing crescent moon, gentle fireflies"
+    "description": "A 3D animated CGI render of a cozy hollow tree bedroom at night, the cheerful caramel squirrel with "
   }
 ]

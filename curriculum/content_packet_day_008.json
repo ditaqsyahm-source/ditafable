@@ -49,27 +49,27 @@
       {
         "scene_id": "SCENE_01",
         "timecode": "00:00 - 00:08",
-        "prompt": "Adorable 3D Pixar animation style, Loli si Tupai playing peacefully in vibrant mossy fairytale forest, cinematic lighting, Disney Pixar quality --ar 9:16"
+        "prompt": "A 3D animated CGI render of a cheerful caramel squirrel on all four paws with a bushy curved tail and white chest patch, holding a shiny golden walnut firmly between its front teeth in an oak tree canopy, bright morning sunshine, vertical 9:16 aspect ratio."
       },
       {
         "scene_id": "SCENE_02",
         "timecode": "00:08 - 00:20",
-        "prompt": "Close-up emotional 3D Pixar scene, Loli si Tupai looking surprised and concerned at a small fallen object on the forest path, soft morning mist, expressive eyes --ar 9:16"
+        "prompt": "A 3D animated CGI render of the cheerful caramel squirrel with bushy tail peering down from a high branch, watching the elderly grey rabbit with soft drooping ears and long white whiskers foraging among dry autumn leaves on the ground, vertical 9:16 aspect ratio."
       },
       {
         "scene_id": "SCENE_03",
-        "timecode": "00:20 - 00:35",
-        "prompt": "Heartwarming 3D Pixar scene of Loli si Tupai meeting Nenek Kelinci near a cozy woodland cottage, gentle warm sunlight filtering through oak trees --ar 9:16"
+        "timecode": "00:20 - 00:36",
+        "prompt": "A 3D animated CGI render of the cheerful caramel squirrel scampering down the tree trunk on all four paws and gently setting the golden walnut down with its mouth onto a flat stone before the elderly grey rabbit with drooping ears, golden autumn leaves falling, vertical 9:16 aspect ratio."
       },
       {
         "scene_id": "SCENE_04",
-        "timecode": "00:35 - 00:48",
-        "prompt": "Touching emotional resolution, Nenek Kelinci warmly hugging Loli si Tupai with gentle smile, glowing golden sparkles of friendship and love --ar 9:16"
+        "timecode": "00:36 - 00:52",
+        "prompt": "A 3D animated CGI render of the elderly grey rabbit with drooping ears and the cheerful caramel squirrel with bushy tail sitting together on green moss, nibbling peacefully on dried berries and nuts, heartwarming afternoon woodland scene, vertical 9:16 aspect ratio."
       },
       {
         "scene_id": "SCENE_05",
-        "timecode": "00:48 - 00:58",
-        "prompt": "Panoramic dusk landscape of enchanted fairytale forest under glowing crescent moon, gentle fireflies sparkling, cozy tranquil bedtime atmosphere --ar 9:16"
+        "timecode": "00:52 - 01:05",
+        "prompt": "A 3D animated CGI render of a cozy hollow tree bedroom at night, the cheerful caramel squirrel with bushy tail curled into a sleeping ball of fur inside a natural nest of dried leaves and moss, round tree hole showing the silver moon, bedtime aesthetic, vertical 9:16 aspect ratio."
       }
     ]
   }

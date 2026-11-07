@@ -49,27 +49,27 @@
       {
         "scene_id": "SCENE_01",
         "timecode": "00:00 - 00:08",
-        "prompt": "Adorable 3D Pixar animation style, Milo si Kucing playing peacefully in vibrant mossy fairytale forest, cinematic lighting, Disney Pixar quality --ar 9:16"
+        "prompt": "A 3D animated CGI render of a ginger cat walking on all four paws, with dark orange tiger stripes, white chest patch, long tail, and emerald-green eyes, padding curiously along the grassy bank of a crystal-clear garden pond surrounded by blooming water irises, vertical 9:16 aspect ratio."
       },
       {
         "scene_id": "SCENE_02",
         "timecode": "00:08 - 00:20",
-        "prompt": "Close-up emotional 3D Pixar scene, Milo si Kucing looking surprised and concerned at a small fallen object on the forest path, soft morning mist, expressive eyes --ar 9:16"
+        "prompt": "A 3D animated CGI render of the ginger cat with dark orange stripes crouching low on four paws, watching an orange goldfish swim inside a natural shallow rock pool beside the main pond with curious perked ears, vertical 9:16 aspect ratio."
       },
       {
         "scene_id": "SCENE_03",
-        "timecode": "00:20 - 00:35",
-        "prompt": "Heartwarming 3D Pixar scene of Milo si Kucing meeting Kakek Kura-Kura near a cozy woodland cottage, gentle warm sunlight filtering through oak trees --ar 9:16"
+        "timecode": "00:20 - 00:36",
+        "prompt": "A 3D animated CGI render of the ginger cat with dark orange stripes using its front paw to bat away dry gravel and dead leaves from a small trench, letting cool pond water flow into the shallow rock pool to free the goldfish, splashing water, vertical 9:16 aspect ratio."
       },
       {
         "scene_id": "SCENE_04",
-        "timecode": "00:35 - 00:48",
-        "prompt": "Touching emotional resolution, Kakek Kura-Kura warmly hugging Milo si Kucing with gentle smile, glowing golden sparkles of friendship and love --ar 9:16"
+        "timecode": "00:36 - 00:52",
+        "prompt": "A 3D animated CGI render of the elderly pond turtle with dark mossy patterned shell poking its head out of the pond water, watching the orange goldfish leap into the open water while the ginger cat sits proudly on the grassy bank with curled tail, vertical 9:16 aspect ratio."
       },
       {
         "scene_id": "SCENE_05",
-        "timecode": "00:48 - 00:58",
-        "prompt": "Panoramic dusk landscape of enchanted fairytale forest under glowing crescent moon, gentle fireflies sparkling, cozy tranquil bedtime atmosphere --ar 9:16"
+        "timecode": "00:52 - 01:05",
+        "prompt": "A 3D animated CGI render of the ginger cat with dark orange stripes sleeping comfortably curled into a circle on a warm flat mossy boulder beside the pond, glowing floating lily pads under a silver crescent moon, bedtime aesthetic, vertical 9:16 aspect ratio."
       }
     ]
   }
