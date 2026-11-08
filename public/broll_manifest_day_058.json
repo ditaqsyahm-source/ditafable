@@ -1,0 +1,42 @@
+[
+  {
+    "scene_id": "SCENE_01",
+    "timeStart": 0.0,
+    "timeEnd": 8.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_058/scene_01.jpg",
+    "description": "A 3D animated CGI render of a large friendly brown bear walking gently on all four paws along an enc"
+  },
+  {
+    "scene_id": "SCENE_02",
+    "timeStart": 8.0,
+    "timeEnd": 22.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_058/scene_02.jpg",
+    "description": "A 3D animated CGI render of a tiny fluffy brown sparrow chick shivering on the grass after tumbling "
+  },
+  {
+    "scene_id": "SCENE_03",
+    "timeStart": 22.0,
+    "timeEnd": 38.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_058/scene_03.jpg",
+    "description": "A 3D animated CGI render of the giant brown bear lowering its massive snout with extreme tenderness,"
+  },
+  {
+    "scene_id": "SCENE_04",
+    "timeStart": 38.0,
+    "timeEnd": 52.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_058/scene_04.jpg",
+    "description": "A 3D animated CGI render of the bear gently lifting the chick back to its cozy twig nest on a low br"
+  },
+  {
+    "scene_id": "SCENE_05",
+    "timeStart": 52.0,
+    "timeEnd": 64.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_058/scene_05.jpg",
+    "description": "A 3D animated CGI render of a cozy woodland cave interior at night, soft fireflies glowing outside, "
+  }
+]

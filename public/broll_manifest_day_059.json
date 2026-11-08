@@ -1,0 +1,42 @@
+[
+  {
+    "scene_id": "SCENE_01",
+    "timeStart": 0.0,
+    "timeEnd": 8.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_059/scene_01.jpg",
+    "description": "A 3D animated CGI render of an adorable young beaver cub on four webbed paws with flat paddle tail, "
+  },
+  {
+    "scene_id": "SCENE_02",
+    "timeStart": 8.0,
+    "timeEnd": 22.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_059/scene_02.jpg",
+    "description": "A 3D animated CGI render of swift river currents washing away a loose twig, the young beaver cub loo"
+  },
+  {
+    "scene_id": "SCENE_03",
+    "timeStart": 22.0,
+    "timeEnd": 38.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_059/scene_03.jpg",
+    "description": "A 3D animated CGI render of the beaver cub firmly interlocking sturdy birch logs with wet clay and r"
+  },
+  {
+    "scene_id": "SCENE_04",
+    "timeStart": 38.0,
+    "timeEnd": 52.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_059/scene_04.jpg",
+    "description": "A 3D animated CGI render of woodland animal friends gathering by the calm clear pond behind the fini"
+  },
+  {
+    "scene_id": "SCENE_05",
+    "timeStart": 52.0,
+    "timeEnd": 64.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_059/scene_05.jpg",
+    "description": "A 3D animated CGI render of the tranquil beaver lodge on the calm river pool under a glowing crescen"
+  }
+]

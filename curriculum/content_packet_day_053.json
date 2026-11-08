@@ -50,33 +50,28 @@
     "midjourney_flux_visual_cues": [
       {
         "scene_id": "SCENE_01",
-        "timeStart": 0.0,
-        "timeEnd": 8.0,
-        "prompt": "Adorable 3D Pixar animation style, Karakter Satwa Hutan Rimba in serene vibrant enchanted fairytale forest, soft volumetric lighting, Disney Pixar render quality --ar 9:16"
+        "timecode": "00:00 - 00:08",
+        "prompt": "A 3D animated CGI render of a spirited chestnut wild stallion with sleek glossy coat, dark flowing mane, and proud upright stance in a sunny alpine meadow, morning light, vertical 9:16 aspect ratio."
       },
       {
         "scene_id": "SCENE_02",
-        "timeStart": 8.0,
-        "timeEnd": 22.0,
-        "prompt": "Close-up emotional 3D Pixar render, Karakter Satwa Hutan Rimba expressing curiosity and kindness, natural animal anatomy, lush mossy background --ar 9:16"
+        "timecode": "00:08 - 00:22",
+        "prompt": "A 3D animated CGI render of a humble grey donkey with long velvety ears standing patiently on a rocky trail with a woven wooden pack, looking with gentle, kind eyes, vertical 9:16 aspect ratio."
       },
       {
         "scene_id": "SCENE_03",
-        "timeStart": 22.0,
-        "timeEnd": 38.0,
-        "prompt": "Heartwarming 3D Pixar scene of Karakter Satwa Hutan Rimba meeting forest animal friends under ancient glowing woodland canopy, golden ambient glow --ar 9:16"
+        "timecode": "00:22 - 00:38",
+        "prompt": "A 3D animated CGI render of the steep narrow mountain pass where loose gravel slips, the sure-footed donkey stepping carefully on all four hooves to guide the hesitating stallion safely, vertical 9:16 aspect ratio."
       },
       {
         "scene_id": "SCENE_04",
-        "timeStart": 38.0,
-        "timeEnd": 52.0,
-        "prompt": "Touching emotional resolution, gentle harmony between Karakter Satwa Hutan Rimba and forest animal friends, glowing warm sparkles of empathy and peace --ar 9:16"
+        "timecode": "00:38 - 00:52",
+        "prompt": "A 3D animated CGI render of the proud chestnut stallion bowing its neck gracefully in respectful gratitude, touching muzzles with the friendly grey donkey on a green plateau, golden sunset, vertical 9:16 aspect ratio."
       },
       {
         "scene_id": "SCENE_05",
-        "timeStart": 52.0,
-        "timeEnd": 64.0,
-        "prompt": "Panoramic dusk landscape of fairytale forest under crescent moon and twinkling stars, sparkling fireflies, peaceful bedtime atmosphere --ar 9:16"
+        "timecode": "00:52 - 01:04",
+        "prompt": "A 3D animated CGI render of the peaceful mountain plateau at night, cool silver moonbeams shining on the grassy slope, the stallion and donkey resting calmly side by side under starlight, vertical 9:16 aspect ratio."
       }
     ]
   }

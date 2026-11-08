@@ -50,33 +50,28 @@
     "midjourney_flux_visual_cues": [
       {
         "scene_id": "SCENE_01",
-        "timeStart": 0.0,
-        "timeEnd": 8.0,
-        "prompt": "Adorable 3D Pixar animation style, Karakter Satwa Hutan Rimba in serene vibrant enchanted fairytale forest, soft volumetric lighting, Disney Pixar render quality --ar 9:16"
+        "timecode": "00:00 - 00:08",
+        "prompt": "A 3D animated CGI render of a large friendly brown bear walking gently on all four paws along an enchanted mossy woodland trail, dappled morning light filtering through oak leaves, vertical 9:16 aspect ratio."
       },
       {
         "scene_id": "SCENE_02",
-        "timeStart": 8.0,
-        "timeEnd": 22.0,
-        "prompt": "Close-up emotional 3D Pixar render, Karakter Satwa Hutan Rimba expressing curiosity and kindness, natural animal anatomy, lush mossy background --ar 9:16"
+        "timecode": "00:08 - 00:22",
+        "prompt": "A 3D animated CGI render of a tiny fluffy brown sparrow chick shivering on the grass after tumbling from a high branch, chirping feebly with wide eyes, vertical 9:16 aspect ratio."
       },
       {
         "scene_id": "SCENE_03",
-        "timeStart": 22.0,
-        "timeEnd": 38.0,
-        "prompt": "Heartwarming 3D Pixar scene of Karakter Satwa Hutan Rimba meeting forest animal friends under ancient glowing woodland canopy, golden ambient glow --ar 9:16"
+        "timecode": "00:22 - 00:38",
+        "prompt": "A 3D animated CGI render of the giant brown bear lowering its massive snout with extreme tenderness, letting the tiny chick hop safely onto its warm furry paw, gentle caring moment, vertical 9:16 aspect ratio."
       },
       {
         "scene_id": "SCENE_04",
-        "timeStart": 38.0,
-        "timeEnd": 52.0,
-        "prompt": "Touching emotional resolution, gentle harmony between Karakter Satwa Hutan Rimba and forest animal friends, glowing warm sparkles of empathy and peace --ar 9:16"
+        "timecode": "00:38 - 00:52",
+        "prompt": "A 3D animated CGI render of the bear gently lifting the chick back to its cozy twig nest on a low branch, mother sparrow fluttering with chirps of boundless gratitude, warm golden sunbeams, vertical 9:16 aspect ratio."
       },
       {
         "scene_id": "SCENE_05",
-        "timeStart": 52.0,
-        "timeEnd": 64.0,
-        "prompt": "Panoramic dusk landscape of fairytale forest under crescent moon and twinkling stars, sparkling fireflies, peaceful bedtime atmosphere --ar 9:16"
+        "timecode": "00:52 - 01:04",
+        "prompt": "A 3D animated CGI render of a cozy woodland cave interior at night, soft fireflies glowing outside, the big brown bear sleeping deeply and peacefully with a serene smile under starlight, vertical 9:16 aspect ratio."
       }
     ]
   }

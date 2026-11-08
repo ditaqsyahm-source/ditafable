@@ -1,0 +1,42 @@
+[
+  {
+    "scene_id": "SCENE_01",
+    "timeStart": 0.0,
+    "timeEnd": 8.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_057/scene_01.jpg",
+    "description": "A 3D animated CGI render of a chestnut mouse deer with two smooth nub horns exploring playfully thro"
+  },
+  {
+    "scene_id": "SCENE_02",
+    "timeStart": 8.0,
+    "timeEnd": 22.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_057/scene_02.jpg",
+    "description": "A 3D animated CGI render of a shimmering blue peacock feather with a brilliant violet eye-marking re"
+  },
+  {
+    "scene_id": "SCENE_03",
+    "timeStart": 22.0,
+    "timeEnd": 38.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_057/scene_03.jpg",
+    "description": "A 3D animated CGI render of the honest mouse deer picking up the fallen peacock feather gently in it"
+  },
+  {
+    "scene_id": "SCENE_04",
+    "timeStart": 38.0,
+    "timeEnd": 52.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_057/scene_04.jpg",
+    "description": "A 3D animated CGI render of the regal peacock spreading its flowing emerald train in joyful admirati"
+  },
+  {
+    "scene_id": "SCENE_05",
+    "timeStart": 52.0,
+    "timeEnd": 64.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_057/scene_05.jpg",
+    "description": "A 3D animated CGI render of the quiet bamboo forest at midnight, cool silver moonbeams illuminating "
+  }
+]
