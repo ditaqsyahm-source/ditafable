@@ -746,5 +746,109 @@
         }
       }
     }
+  },
+  {
+    "channel_id": "DITA-04",
+    "day": 8,
+    "title": "Loli si Tupai & Rahasia Kacang Walnut Terakhir",
+    "video_file": "output/dita_fable_day_008_compressed.mp4",
+    "video_hash": "6bbab119b645938e7925494d6ec01e60ab1fd770bb48c28fe5dc277d67967e52",
+    "timestamp": "2026-11-08T01:35:11.216481",
+    "outcomes": {
+      "youtube": {
+        "platform": "youtube",
+        "ok": true,
+        "videoId": "HxZGXXttVRI",
+        "url": "https://youtube.com/shorts/HxZGXXttVRI"
+      },
+      "zernio": {
+        "platform": "zernio",
+        "ok": true,
+        "postId": "6aefd1c38561d4bd1539177c",
+        "data": {
+          "_id": "6aefd1c38561d4bd1539177c",
+          "userId": "6ad8ac50051330d72ee5b3f5",
+          "title": "Loli si Tupai & Rahasia Kacang Walnut Terakhir",
+          "content": "Loli si Tupai & Rahasia Kacang Walnut Terakhir\n\nDongeng fabel pengantar tidur penuh kehangatan dan pesan moral ramah anak. Mari temani si kecil tidur nyenyak malam ini. \u2728\ud83d\udecc\n\nPesan moral: Menjaga amanah makanan simpanan di musim gugur membawa berkah persahabatan.\n\n#DitaDongeng #FabelAnak #CeritaAnak #DongengSebelumTidur #KidsStories #BedtimeStory #KakDita",
+          "mediaItems": [
+            {
+              "_id": "6aefd1c38561d4bd1539177f",
+              "url": "https://media.zernio.com/media/1794101695471_f7bb8732120a2f7e_dita_fable_day_008_compressed.mp4",
+              "type": "video"
+            }
+          ],
+          "scheduledFor": "2026-11-08T01:34:57.702Z",
+          "timezone": "UTC",
+          "status": "publishing",
+          "tags": [],
+          "hashtags": [],
+          "mentions": [],
+          "visibility": "public",
+          "crosspostingEnabled": true,
+          "metadata": {
+            "usageCounted": true
+          },
+          "publishingClaimedAt": "2026-11-08T01:34:59.104Z",
+          "recycling": {
+            "enabled": false,
+            "gapFreq": "month",
+            "recycleCount": 0,
+            "contentVariations": [],
+            "contentVariationIndex": 0
+          },
+          "createdAt": "2026-11-08T01:34:59.050Z",
+          "updatedAt": "2026-11-08T01:35:11.110Z",
+          "platforms": [
+            {
+              "_id": "6aefd1c38561d4bd1539177a",
+              "platform": "tiktok",
+              "accountId": {
+                "_id": "6ad8acf3c24aa78753a651ef",
+                "platform": "tiktok",
+                "username": "ditafable",
+                "displayName": "ditafable",
+                "profilePicture": "https://p16-common-sign.tiktokcdn.com/tos-alisg-avt-0068/02b79ac3cf1d923dc733408ef593f1fd~tplv-tiktokx-cropcenter:168:168.jpeg?dr=14577&refresh_token=63190203&x-expires=1794218400&x-signature=LATlFUjOnSaxggf117NQF67qLpY%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=8aecc5ac&idc=my2",
+                "isActive": true,
+                "profileId": "6ad8ac50051330d72ee5b3f7"
+              },
+              "profileId": "6ad8ac50051330d72ee5b3f7",
+              "customMedia": [],
+              "scheduledFor": "2026-11-08T01:34:57.702Z",
+              "platformSpecificData": {
+                "videoCoverImageUrl": "https://media.zernio.com/media/1794101696909_091abce0e589ba4d_frame_01_day_008.jpg",
+                "tiktokBusinessPublishId": "v_pub_url~v2.7705607737396250632"
+              },
+              "status": "published",
+              "publishedAt": "2026-11-08T01:35:11.103Z",
+              "platformPostId": "v_pub_url~v2.7705607737396250632",
+              "publishAttempts": 1,
+              "contentHash": "f180b6aafce4a3aa034606200d9869ec"
+            },
+            {
+              "_id": "6aefd1c38561d4bd1539177b",
+              "platform": "instagram",
+              "accountId": {
+                "_id": "6ad8acd9aad76462b1a71e23",
+                "platform": "instagram",
+                "username": "ditafable",
+                "displayName": "Dita Dongeng Fabel",
+                "profilePicture": null,
+                "isActive": true,
+                "profileId": "6ad8ac50051330d72ee5b3f7"
+              },
+              "profileId": "6ad8ac50051330d72ee5b3f7",
+              "customMedia": [],
+              "scheduledFor": "2026-11-08T01:34:57.702Z",
+              "platformSpecificData": {
+                "instagramThumbnail": "https://media.zernio.com/media/1794101696909_091abce0e589ba4d_frame_01_day_008.jpg"
+              },
+              "status": "processing",
+              "publishAttempts": 1,
+              "contentHash": "2d5ef05f1367669cf65691db1627be32"
+            }
+          ]
+        }
+      }
+    }
   }
 ]
