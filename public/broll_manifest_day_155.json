@@ -1,0 +1,42 @@
+[
+  {
+    "scene_id": "SCENE_01",
+    "timeStart": 0.0,
+    "timeEnd": 8.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_155/scene_01.jpg",
+    "description": "A 3D animated CGI render of an inquisitive young fox pup sniffing an ancient mushroom exploring play"
+  },
+  {
+    "scene_id": "SCENE_02",
+    "timeStart": 8.0,
+    "timeEnd": 22.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_155/scene_02.jpg",
+    "description": "A 3D animated CGI render of an inquisitive young fox pup sniffing an ancient mushroom noticing a wis"
+  },
+  {
+    "scene_id": "SCENE_03",
+    "timeStart": 22.0,
+    "timeEnd": 38.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_155/scene_03.jpg",
+    "description": "A 3D animated CGI render of an inquisitive young fox pup sniffing an ancient mushroom and a wise mot"
+  },
+  {
+    "scene_id": "SCENE_04",
+    "timeStart": 38.0,
+    "timeEnd": 52.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_155/scene_04.jpg",
+    "description": "A 3D animated CGI render of a wise mother fox watching calmly from the trail affectionately nuzzling"
+  },
+  {
+    "scene_id": "SCENE_05",
+    "timeStart": 52.0,
+    "timeEnd": 64.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_155/scene_05.jpg",
+    "description": "A 3D animated CGI render of a tranquil nighttime forest scene under a luminous silver crescent moon "
+  }
+]

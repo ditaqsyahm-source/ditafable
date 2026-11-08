@@ -1,0 +1,42 @@
+[
+  {
+    "scene_id": "SCENE_01",
+    "timeStart": 0.0,
+    "timeEnd": 8.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_148/scene_01.jpg",
+    "description": "A 3D animated CGI render of a wise young mouse deer standing between two arguing foxes exploring pla"
+  },
+  {
+    "scene_id": "SCENE_02",
+    "timeStart": 8.0,
+    "timeEnd": 22.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_148/scene_02.jpg",
+    "description": "A 3D animated CGI render of a wise young mouse deer standing between two arguing foxes noticing two "
+  },
+  {
+    "scene_id": "SCENE_03",
+    "timeStart": 22.0,
+    "timeEnd": 38.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_148/scene_03.jpg",
+    "description": "A 3D animated CGI render of a wise young mouse deer standing between two arguing foxes and two red f"
+  },
+  {
+    "scene_id": "SCENE_04",
+    "timeStart": 38.0,
+    "timeEnd": 52.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_148/scene_04.jpg",
+    "description": "A 3D animated CGI render of two red foxes disputing over a fallen sweet melon affectionately nuzzlin"
+  },
+  {
+    "scene_id": "SCENE_05",
+    "timeStart": 52.0,
+    "timeEnd": 64.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_148/scene_05.jpg",
+    "description": "A 3D animated CGI render of a tranquil nighttime forest scene under a luminous silver crescent moon "
+  }
+]

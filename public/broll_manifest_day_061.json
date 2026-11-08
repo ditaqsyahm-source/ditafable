@@ -1,0 +1,42 @@
+[
+  {
+    "scene_id": "SCENE_01",
+    "timeStart": 0.0,
+    "timeEnd": 8.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_061/scene_01.jpg",
+    "description": "A 3D animated CGI render of a small brown bat with velvety wings and large soulful eyes exploring pl"
+  },
+  {
+    "scene_id": "SCENE_02",
+    "timeStart": 8.0,
+    "timeEnd": 22.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_061/scene_02.jpg",
+    "description": "A 3D animated CGI render of a small brown bat with velvety wings and large soulful eyes noticing a g"
+  },
+  {
+    "scene_id": "SCENE_03",
+    "timeStart": 22.0,
+    "timeEnd": 38.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_061/scene_03.jpg",
+    "description": "A 3D animated CGI render of a small brown bat with velvety wings and large soulful eyes and a gentle"
+  },
+  {
+    "scene_id": "SCENE_04",
+    "timeStart": 38.0,
+    "timeEnd": 52.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_061/scene_04.jpg",
+    "description": "A 3D animated CGI render of a gentle barn owl with speckled caramel feathers affectionately nuzzling"
+  },
+  {
+    "scene_id": "SCENE_05",
+    "timeStart": 52.0,
+    "timeEnd": 64.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_061/scene_05.jpg",
+    "description": "A 3D animated CGI render of a tranquil nighttime forest scene under a luminous silver crescent moon "
+  }
+]

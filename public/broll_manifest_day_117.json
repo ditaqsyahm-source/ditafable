@@ -1,0 +1,42 @@
+[
+  {
+    "scene_id": "SCENE_01",
+    "timeStart": 0.0,
+    "timeEnd": 8.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_117/scene_01.jpg",
+    "description": "A 3D animated CGI render of a clever badger solving a blocked burrow rock exploring playfully in a r"
+  },
+  {
+    "scene_id": "SCENE_02",
+    "timeStart": 8.0,
+    "timeEnd": 22.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_117/scene_02.jpg",
+    "description": "A 3D animated CGI render of a clever badger solving a blocked burrow rock noticing a strong brown be"
+  },
+  {
+    "scene_id": "SCENE_03",
+    "timeStart": 22.0,
+    "timeEnd": 38.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_117/scene_03.jpg",
+    "description": "A 3D animated CGI render of a clever badger solving a blocked burrow rock and a strong brown bear wi"
+  },
+  {
+    "scene_id": "SCENE_04",
+    "timeStart": 38.0,
+    "timeEnd": 52.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_117/scene_04.jpg",
+    "description": "A 3D animated CGI render of a strong brown bear with massive paws affectionately nuzzling a clever b"
+  },
+  {
+    "scene_id": "SCENE_05",
+    "timeStart": 52.0,
+    "timeEnd": 64.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_117/scene_05.jpg",
+    "description": "A 3D animated CGI render of a tranquil nighttime forest scene under a luminous silver crescent moon "
+  }
+]

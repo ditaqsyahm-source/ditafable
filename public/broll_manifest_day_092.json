@@ -1,0 +1,42 @@
+[
+  {
+    "scene_id": "SCENE_01",
+    "timeStart": 0.0,
+    "timeEnd": 8.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_092/scene_01.jpg",
+    "description": "A 3D animated CGI render of a trustworthy golden dog pup with upright ears exploring playfully in a "
+  },
+  {
+    "scene_id": "SCENE_02",
+    "timeStart": 8.0,
+    "timeEnd": 22.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_092/scene_02.jpg",
+    "description": "A 3D animated CGI render of a trustworthy golden dog pup with upright ears noticing a gentle white g"
+  },
+  {
+    "scene_id": "SCENE_03",
+    "timeStart": 22.0,
+    "timeEnd": 38.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_092/scene_03.jpg",
+    "description": "A 3D animated CGI render of a trustworthy golden dog pup with upright ears and a gentle white goose "
+  },
+  {
+    "scene_id": "SCENE_04",
+    "timeStart": 38.0,
+    "timeEnd": 52.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_092/scene_04.jpg",
+    "description": "A 3D animated CGI render of a gentle white goose guarding eggs in a nest affectionately nuzzling a t"
+  },
+  {
+    "scene_id": "SCENE_05",
+    "timeStart": 52.0,
+    "timeEnd": 64.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_092/scene_05.jpg",
+    "description": "A 3D animated CGI render of a tranquil nighttime forest scene under a luminous silver crescent moon "
+  }
+]

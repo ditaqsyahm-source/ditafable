@@ -1,0 +1,42 @@
+[
+  {
+    "scene_id": "SCENE_01",
+    "timeStart": 0.0,
+    "timeEnd": 8.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_105/scene_01.jpg",
+    "description": "A 3D animated CGI render of a little baby bird sleeping in a woven nest exploring playfully in a flo"
+  },
+  {
+    "scene_id": "SCENE_02",
+    "timeStart": 8.0,
+    "timeEnd": 22.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_105/scene_02.jpg",
+    "description": "A 3D animated CGI render of a little baby bird sleeping in a woven nest noticing a mother sparrow tu"
+  },
+  {
+    "scene_id": "SCENE_03",
+    "timeStart": 22.0,
+    "timeEnd": 38.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_105/scene_03.jpg",
+    "description": "A 3D animated CGI render of a little baby bird sleeping in a woven nest and a mother sparrow tucking"
+  },
+  {
+    "scene_id": "SCENE_04",
+    "timeStart": 38.0,
+    "timeEnd": 52.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_105/scene_04.jpg",
+    "description": "A 3D animated CGI render of a mother sparrow tucking feathers gently affectionately nuzzling a littl"
+  },
+  {
+    "scene_id": "SCENE_05",
+    "timeStart": 52.0,
+    "timeEnd": 64.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_105/scene_05.jpg",
+    "description": "A 3D animated CGI render of a tranquil nighttime forest scene under a luminous silver crescent moon "
+  }
+]

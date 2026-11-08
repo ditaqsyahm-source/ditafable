@@ -1,0 +1,42 @@
+[
+  {
+    "scene_id": "SCENE_01",
+    "timeStart": 0.0,
+    "timeEnd": 8.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_166/scene_01.jpg",
+    "description": "A 3D animated CGI render of a little badger secretly clearing thorns from the path exploring playful"
+  },
+  {
+    "scene_id": "SCENE_02",
+    "timeStart": 8.0,
+    "timeEnd": 22.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_166/scene_02.jpg",
+    "description": "A 3D animated CGI render of a little badger secretly clearing thorns from the path noticing baby faw"
+  },
+  {
+    "scene_id": "SCENE_03",
+    "timeStart": 22.0,
+    "timeEnd": 38.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_166/scene_03.jpg",
+    "description": "A 3D animated CGI render of a little badger secretly clearing thorns from the path and baby fawns an"
+  },
+  {
+    "scene_id": "SCENE_04",
+    "timeStart": 38.0,
+    "timeEnd": 52.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_166/scene_04.jpg",
+    "description": "A 3D animated CGI render of baby fawns and rabbits trotting safely down the hill affectionately nuzz"
+  },
+  {
+    "scene_id": "SCENE_05",
+    "timeStart": 52.0,
+    "timeEnd": 64.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_166/scene_05.jpg",
+    "description": "A 3D animated CGI render of a tranquil nighttime forest scene under a luminous silver crescent moon "
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "scene_id": "SCENE_01",
+    "timeStart": 0.0,
+    "timeEnd": 8.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_174/scene_01.jpg",
+    "description": "A 3D animated CGI render of two lifelong animal friends sitting hand in paw on a rock exploring play"
+  },
+  {
+    "scene_id": "SCENE_02",
+    "timeStart": 8.0,
+    "timeEnd": 22.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_174/scene_02.jpg",
+    "description": "A 3D animated CGI render of two lifelong animal friends sitting hand in paw on a rock noticing a bre"
+  },
+  {
+    "scene_id": "SCENE_03",
+    "timeStart": 22.0,
+    "timeEnd": 38.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_174/scene_03.jpg",
+    "description": "A 3D animated CGI render of two lifelong animal friends sitting hand in paw on a rock and a breathta"
+  },
+  {
+    "scene_id": "SCENE_04",
+    "timeStart": 38.0,
+    "timeEnd": 52.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_174/scene_04.jpg",
+    "description": "A 3D animated CGI render of a breathtaking sunset painting the forest canopy in gold affectionately "
+  },
+  {
+    "scene_id": "SCENE_05",
+    "timeStart": 52.0,
+    "timeEnd": 64.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_174/scene_05.jpg",
+    "description": "A 3D animated CGI render of a tranquil nighttime forest scene under a luminous silver crescent moon "
+  }
+]

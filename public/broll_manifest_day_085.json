@@ -1,0 +1,42 @@
+[
+  {
+    "scene_id": "SCENE_01",
+    "timeStart": 0.0,
+    "timeEnd": 8.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_085/scene_01.jpg",
+    "description": "A 3D animated CGI render of a spirited young fawn on four slender legs exploring playfully in an enc"
+  },
+  {
+    "scene_id": "SCENE_02",
+    "timeStart": 8.0,
+    "timeEnd": 22.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_085/scene_02.jpg",
+    "description": "A 3D animated CGI render of a spirited young fawn on four slender legs noticing a venerable old stag"
+  },
+  {
+    "scene_id": "SCENE_03",
+    "timeStart": 22.0,
+    "timeEnd": 38.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_085/scene_03.jpg",
+    "description": "A 3D animated CGI render of a spirited young fawn on four slender legs and a venerable old stag with"
+  },
+  {
+    "scene_id": "SCENE_04",
+    "timeStart": 38.0,
+    "timeEnd": 52.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_085/scene_04.jpg",
+    "description": "A 3D animated CGI render of a venerable old stag with grand mossy antlers affectionately nuzzling a "
+  },
+  {
+    "scene_id": "SCENE_05",
+    "timeStart": 52.0,
+    "timeEnd": 64.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_085/scene_05.jpg",
+    "description": "A 3D animated CGI render of a tranquil nighttime forest scene under a luminous silver crescent moon "
+  }
+]

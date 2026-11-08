@@ -1,0 +1,42 @@
+[
+  {
+    "scene_id": "SCENE_01",
+    "timeStart": 0.0,
+    "timeEnd": 8.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_094/scene_01.jpg",
+    "description": "A 3D animated CGI render of a hardworking field ant carrying sweet grain exploring playfully in a ma"
+  },
+  {
+    "scene_id": "SCENE_02",
+    "timeStart": 8.0,
+    "timeEnd": 22.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_094/scene_02.jpg",
+    "description": "A 3D animated CGI render of a hardworking field ant carrying sweet grain noticing a Queen ant inside"
+  },
+  {
+    "scene_id": "SCENE_03",
+    "timeStart": 22.0,
+    "timeEnd": 38.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_094/scene_03.jpg",
+    "description": "A 3D animated CGI render of a hardworking field ant carrying sweet grain and a Queen ant inside the "
+  },
+  {
+    "scene_id": "SCENE_04",
+    "timeStart": 38.0,
+    "timeEnd": 52.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_094/scene_04.jpg",
+    "description": "A 3D animated CGI render of a Queen ant inside the underground royal chamber affectionately nuzzling"
+  },
+  {
+    "scene_id": "SCENE_05",
+    "timeStart": 52.0,
+    "timeEnd": 64.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_094/scene_05.jpg",
+    "description": "A 3D animated CGI render of a tranquil nighttime forest scene under a luminous silver crescent moon "
+  }
+]

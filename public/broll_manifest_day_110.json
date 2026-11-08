@@ -1,0 +1,42 @@
+[
+  {
+    "scene_id": "SCENE_01",
+    "timeStart": 0.0,
+    "timeEnd": 8.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_110/scene_01.jpg",
+    "description": "A 3D animated CGI render of a little brown bear cub learning manners exploring playfully in a warm w"
+  },
+  {
+    "scene_id": "SCENE_02",
+    "timeStart": 8.0,
+    "timeEnd": 22.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_110/scene_02.jpg",
+    "description": "A 3D animated CGI render of a little brown bear cub learning manners noticing a gentle grandfather b"
+  },
+  {
+    "scene_id": "SCENE_03",
+    "timeStart": 22.0,
+    "timeEnd": 38.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_110/scene_03.jpg",
+    "description": "A 3D animated CGI render of a little brown bear cub learning manners and a gentle grandfather bear i"
+  },
+  {
+    "scene_id": "SCENE_04",
+    "timeStart": 38.0,
+    "timeEnd": 52.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_110/scene_04.jpg",
+    "description": "A 3D animated CGI render of a gentle grandfather bear in a stone cavern affectionately nuzzling a li"
+  },
+  {
+    "scene_id": "SCENE_05",
+    "timeStart": 52.0,
+    "timeEnd": 64.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_110/scene_05.jpg",
+    "description": "A 3D animated CGI render of a tranquil nighttime forest scene under a luminous silver crescent moon "
+  }
+]

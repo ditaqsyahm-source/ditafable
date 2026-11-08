@@ -1,0 +1,42 @@
+[
+  {
+    "scene_id": "SCENE_01",
+    "timeStart": 0.0,
+    "timeEnd": 8.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_070/scene_01.jpg",
+    "description": "A 3D animated CGI render of a sleepy fawn with white spotted flank and doe eyes exploring playfully "
+  },
+  {
+    "scene_id": "SCENE_02",
+    "timeStart": 8.0,
+    "timeEnd": 22.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_070/scene_02.jpg",
+    "description": "A 3D animated CGI render of a sleepy fawn with white spotted flank and doe eyes noticing a loving mo"
+  },
+  {
+    "scene_id": "SCENE_03",
+    "timeStart": 22.0,
+    "timeEnd": 38.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_070/scene_03.jpg",
+    "description": "A 3D animated CGI render of a sleepy fawn with white spotted flank and doe eyes and a loving mother "
+  },
+  {
+    "scene_id": "SCENE_04",
+    "timeStart": 38.0,
+    "timeEnd": 52.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_070/scene_04.jpg",
+    "description": "A 3D animated CGI render of a loving mother deer with sleek honey-brown fur affectionately nuzzling "
+  },
+  {
+    "scene_id": "SCENE_05",
+    "timeStart": 52.0,
+    "timeEnd": 64.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_070/scene_05.jpg",
+    "description": "A 3D animated CGI render of a tranquil nighttime forest scene under a luminous silver crescent moon "
+  }
+]

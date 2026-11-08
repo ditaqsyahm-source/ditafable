@@ -1,0 +1,42 @@
+[
+  {
+    "scene_id": "SCENE_01",
+    "timeStart": 0.0,
+    "timeEnd": 8.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_076/scene_01.jpg",
+    "description": "A 3D animated CGI render of a pair of cheerful river otters exploring playfully in a sparkling pebbl"
+  },
+  {
+    "scene_id": "SCENE_02",
+    "timeStart": 8.0,
+    "timeEnd": 22.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_076/scene_02.jpg",
+    "description": "A 3D animated CGI render of a pair of cheerful river otters noticing a patient heron standing in sha"
+  },
+  {
+    "scene_id": "SCENE_03",
+    "timeStart": 22.0,
+    "timeEnd": 38.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_076/scene_03.jpg",
+    "description": "A 3D animated CGI render of a pair of cheerful river otters and a patient heron standing in shallow "
+  },
+  {
+    "scene_id": "SCENE_04",
+    "timeStart": 38.0,
+    "timeEnd": 52.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_076/scene_04.jpg",
+    "description": "A 3D animated CGI render of a patient heron standing in shallow water affectionately nuzzling a pair"
+  },
+  {
+    "scene_id": "SCENE_05",
+    "timeStart": 52.0,
+    "timeEnd": 64.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_076/scene_05.jpg",
+    "description": "A 3D animated CGI render of a tranquil nighttime forest scene under a luminous silver crescent moon "
+  }
+]

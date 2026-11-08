@@ -1,0 +1,42 @@
+[
+  {
+    "scene_id": "SCENE_01",
+    "timeStart": 0.0,
+    "timeEnd": 8.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_086/scene_01.jpg",
+    "description": "A 3D animated CGI render of a playful brown bear cub on four paws exploring playfully in a sunny woo"
+  },
+  {
+    "scene_id": "SCENE_02",
+    "timeStart": 8.0,
+    "timeEnd": 22.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_086/scene_02.jpg",
+    "description": "A 3D animated CGI render of a playful brown bear cub on four paws noticing a tiny baby chick fallen "
+  },
+  {
+    "scene_id": "SCENE_03",
+    "timeStart": 22.0,
+    "timeEnd": 38.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_086/scene_03.jpg",
+    "description": "A 3D animated CGI render of a playful brown bear cub on four paws and a tiny baby chick fallen on a "
+  },
+  {
+    "scene_id": "SCENE_04",
+    "timeStart": 38.0,
+    "timeEnd": 52.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_086/scene_04.jpg",
+    "description": "A 3D animated CGI render of a tiny baby chick fallen on a mossy root affectionately nuzzling a playf"
+  },
+  {
+    "scene_id": "SCENE_05",
+    "timeStart": 52.0,
+    "timeEnd": 64.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_086/scene_05.jpg",
+    "description": "A 3D animated CGI render of a tranquil nighttime forest scene under a luminous silver crescent moon "
+  }
+]

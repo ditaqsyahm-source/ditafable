@@ -1,0 +1,42 @@
+[
+  {
+    "scene_id": "SCENE_01",
+    "timeStart": 0.0,
+    "timeEnd": 8.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_173/scene_01.jpg",
+    "description": "A 3D animated CGI render of a young badger refusing to reveal a friend's hiding place exploring play"
+  },
+  {
+    "scene_id": "SCENE_02",
+    "timeStart": 8.0,
+    "timeEnd": 22.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_173/scene_02.jpg",
+    "description": "A 3D animated CGI render of a young badger refusing to reveal a friend's hiding place noticing a pla"
+  },
+  {
+    "scene_id": "SCENE_03",
+    "timeStart": 22.0,
+    "timeEnd": 38.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_173/scene_03.jpg",
+    "description": "A 3D animated CGI render of a young badger refusing to reveal a friend's hiding place and a playful "
+  },
+  {
+    "scene_id": "SCENE_04",
+    "timeStart": 38.0,
+    "timeEnd": 52.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_173/scene_04.jpg",
+    "description": "A 3D animated CGI render of a playful troop of seekers searching through the bushes affectionately n"
+  },
+  {
+    "scene_id": "SCENE_05",
+    "timeStart": 52.0,
+    "timeEnd": 64.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_173/scene_05.jpg",
+    "description": "A 3D animated CGI render of a tranquil nighttime forest scene under a luminous silver crescent moon "
+  }
+]
