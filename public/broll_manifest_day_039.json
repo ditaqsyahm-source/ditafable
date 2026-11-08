@@ -1,0 +1,42 @@
+[
+  {
+    "scene_id": "SCENE_01",
+    "timeStart": 0.0,
+    "timeEnd": 8.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_039/scene_01.jpg",
+    "description": "A 3D animated CGI render of a cheerful lime-green tree frog with smooth moist skin and round golden "
+  },
+  {
+    "scene_id": "SCENE_02",
+    "timeStart": 8.0,
+    "timeEnd": 22.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_039/scene_02.jpg",
+    "description": "A 3D animated CGI render of a dark shiny field cricket perching naturally on a tall blade of river g"
+  },
+  {
+    "scene_id": "SCENE_03",
+    "timeStart": 22.0,
+    "timeEnd": 38.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_039/scene_03.jpg",
+    "description": "A 3D animated CGI render of the green tree frog tilting its head with wide appreciative eyes, listen"
+  },
+  {
+    "scene_id": "SCENE_04",
+    "timeStart": 38.0,
+    "timeEnd": 52.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_039/scene_04.jpg",
+    "description": "A 3D animated CGI render of the tree frog croaking a soft gentle bass rhythm that harmonizes peacefu"
+  },
+  {
+    "scene_id": "SCENE_05",
+    "timeStart": 52.0,
+    "timeEnd": 64.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_039/scene_05.jpg",
+    "description": "A 3D animated CGI render of the serene pond at midnight, glowing fireflies dancing over still reflec"
+  }
+]

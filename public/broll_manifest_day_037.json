@@ -1,0 +1,42 @@
+[
+  {
+    "scene_id": "SCENE_01",
+    "timeStart": 0.0,
+    "timeEnd": 8.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_037/scene_01.jpg",
+    "description": "A 3D animated CGI render of an adorable grey koala with fluffy round ears, dark button nose, and gen"
+  },
+  {
+    "scene_id": "SCENE_02",
+    "timeStart": 8.0,
+    "timeEnd": 22.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_037/scene_02.jpg",
+    "description": "A 3D animated CGI render of a sick golden sun bear lying quietly on soft moss inside a shaded tree h"
+  },
+  {
+    "scene_id": "SCENE_03",
+    "timeStart": 22.0,
+    "timeEnd": 38.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_037/scene_03.jpg",
+    "description": "A 3D animated CGI render of the kind little koala carefully climbing down the trunk on all four paws"
+  },
+  {
+    "scene_id": "SCENE_04",
+    "timeStart": 38.0,
+    "timeEnd": 52.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_037/scene_04.jpg",
+    "description": "A 3D animated CGI render of the golden sun bear smiling gratefully, gently patting the little koala "
+  },
+  {
+    "scene_id": "SCENE_05",
+    "timeStart": 52.0,
+    "timeEnd": 64.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_037/scene_05.jpg",
+    "description": "A 3D animated CGI render of a tranquil eucalyptus forest at night, silver moonlight filtering throug"
+  }
+]

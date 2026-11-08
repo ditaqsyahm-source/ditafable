@@ -50,33 +50,28 @@
     "midjourney_flux_visual_cues": [
       {
         "scene_id": "SCENE_01",
-        "timeStart": 0.0,
-        "timeEnd": 8.0,
-        "prompt": "Adorable 3D Pixar animation style, Koli si Koala in serene vibrant enchanted fairytale forest, soft volumetric lighting, Disney Pixar render quality --ar 9:16"
+        "timecode": "00:00 - 00:08",
+        "prompt": "A 3D animated CGI render of an adorable grey koala with fluffy round ears, dark button nose, and gentle eyes, clinging naturally to a leafy eucalyptus branch in a sunlit grove, morning light, bedtime storybook aesthetic, vertical 9:16 aspect ratio."
       },
       {
         "scene_id": "SCENE_02",
-        "timeStart": 8.0,
-        "timeEnd": 22.0,
-        "prompt": "Close-up emotional 3D Pixar render, Koli si Koala expressing curiosity and kindness, natural animal anatomy, lush mossy background --ar 9:16"
+        "timecode": "00:08 - 00:22",
+        "prompt": "A 3D animated CGI render of a sick golden sun bear lying quietly on soft moss inside a shaded tree hollow, looking frail and sleepy beside an empty honey pot, vertical 9:16 aspect ratio."
       },
       {
         "scene_id": "SCENE_03",
-        "timeStart": 22.0,
-        "timeEnd": 38.0,
-        "prompt": "Heartwarming 3D Pixar scene of Koli si Koala meeting Beruang Madu under ancient glowing woodland canopy, golden ambient glow --ar 9:16"
+        "timecode": "00:22 - 00:38",
+        "prompt": "A 3D animated CGI render of the kind little koala carefully climbing down the trunk on all four paws, carrying a fresh bundle of fragrant green eucalyptus leaves and wild mint in its mouth toward the bear, vertical 9:16 aspect ratio."
       },
       {
         "scene_id": "SCENE_04",
-        "timeStart": 38.0,
-        "timeEnd": 52.0,
-        "prompt": "Touching emotional resolution, gentle harmony between Koli si Koala and Beruang Madu, glowing warm sparkles of empathy and peace --ar 9:16"
+        "timecode": "00:38 - 00:52",
+        "prompt": "A 3D animated CGI render of the golden sun bear smiling gratefully, gently patting the little koala with a soft warm paw as soothing steam rises from fresh herb leaves in the golden afternoon glow, vertical 9:16 aspect ratio."
       },
       {
         "scene_id": "SCENE_05",
-        "timeStart": 52.0,
-        "timeEnd": 64.0,
-        "prompt": "Panoramic dusk landscape of fairytale forest under crescent moon and twinkling stars, sparkling fireflies, peaceful bedtime atmosphere --ar 9:16"
+        "timecode": "00:52 - 01:04",
+        "prompt": "A 3D animated CGI render of a tranquil eucalyptus forest at night, silver moonlight filtering through the rounded leaves, the little koala sleeping comfortably curled in a tree fork under twinkling stars, vertical 9:16 aspect ratio."
       }
     ]
   }

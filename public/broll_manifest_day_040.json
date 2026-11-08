@@ -1,0 +1,42 @@
+[
+  {
+    "scene_id": "SCENE_01",
+    "timeStart": 0.0,
+    "timeEnd": 8.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_040/scene_01.jpg",
+    "description": "A 3D animated CGI render of an elegant golden-amber barking deer standing on four slender legs, with"
+  },
+  {
+    "scene_id": "SCENE_02",
+    "timeStart": 8.0,
+    "timeEnd": 22.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_040/scene_02.jpg",
+    "description": "A 3D animated CGI render of the little golden deer pausing near a fallen walnut branch on the mossy "
+  },
+  {
+    "scene_id": "SCENE_03",
+    "timeStart": 22.0,
+    "timeEnd": 38.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_040/scene_03.jpg",
+    "description": "A 3D animated CGI render of the golden deer using its gentle black hooves to carefully nudge the pri"
+  },
+  {
+    "scene_id": "SCENE_04",
+    "timeStart": 38.0,
+    "timeEnd": 52.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_040/scene_04.jpg",
+    "description": "A 3D animated CGI render of the ancient leafy walnut tree swaying its branches softly in the warm ev"
+  },
+  {
+    "scene_id": "SCENE_05",
+    "timeStart": 52.0,
+    "timeEnd": 64.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_040/scene_05.jpg",
+    "description": "A 3D animated CGI render of a tranquil walnut grove at night, deep indigo sky filled with glittering"
+  }
+]

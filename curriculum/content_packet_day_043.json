@@ -50,33 +50,28 @@
     "midjourney_flux_visual_cues": [
       {
         "scene_id": "SCENE_01",
-        "timeStart": 0.0,
-        "timeEnd": 8.0,
-        "prompt": "Adorable 3D Pixar animation style, Karakter Satwa Hutan Rimba in serene vibrant enchanted fairytale forest, soft volumetric lighting, Disney Pixar render quality --ar 9:16"
+        "timecode": "00:00 - 00:08",
+        "prompt": "A 3D animated CGI render of a young chestnut mouse deer and a fluffy white rabbit sitting politely together on a mossy boulder, sharing a single ripe wild fig in a bright morning sunlit forest, vertical 9:16 aspect ratio."
       },
       {
         "scene_id": "SCENE_02",
-        "timeStart": 8.0,
-        "timeEnd": 22.0,
-        "prompt": "Close-up emotional 3D Pixar render, Karakter Satwa Hutan Rimba expressing curiosity and kindness, natural animal anatomy, lush mossy background --ar 9:16"
+        "timecode": "00:08 - 00:22",
+        "prompt": "A 3D animated CGI render of the rabbit placing a small bundle of sweet clover in a hollow log, while the mouse deer nods solemnly with an honest, trustworthy expression, pledging to guard it, vertical 9:16 aspect ratio."
       },
       {
         "scene_id": "SCENE_03",
-        "timeStart": 22.0,
-        "timeEnd": 38.0,
-        "prompt": "Heartwarming 3D Pixar scene of Karakter Satwa Hutan Rimba meeting forest animal friends under ancient glowing woodland canopy, golden ambient glow --ar 9:16"
+        "timecode": "00:22 - 00:38",
+        "prompt": "A 3D animated CGI render of dry autumn leaves swirling in the wind as other animals pass by, but the little mouse deer stands faithfully beside the hollow log, keeping its promise steadfastly, vertical 9:16 aspect ratio."
       },
       {
         "scene_id": "SCENE_04",
-        "timeStart": 38.0,
-        "timeEnd": 52.0,
-        "prompt": "Touching emotional resolution, gentle harmony between Karakter Satwa Hutan Rimba and forest animal friends, glowing warm sparkles of empathy and peace --ar 9:16"
+        "timecode": "00:38 - 00:52",
+        "prompt": "A 3D animated CGI render of the rabbit returning at sunset, finding its bundle safe, hugging the honest mouse deer with joyful relief as warm golden sunbeams wrap around them, vertical 9:16 aspect ratio."
       },
       {
         "scene_id": "SCENE_05",
-        "timeStart": 52.0,
-        "timeEnd": 64.0,
-        "prompt": "Panoramic dusk landscape of fairytale forest under crescent moon and twinkling stars, sparkling fireflies, peaceful bedtime atmosphere --ar 9:16"
+        "timecode": "00:52 - 01:04",
+        "prompt": "A 3D animated CGI render of a tranquil forest clearing at night, glowing moonbeams shining on the mossy log, the two friends sleeping peacefully side by side under a silver starry sky, vertical 9:16 aspect ratio."
       }
     ]
   }

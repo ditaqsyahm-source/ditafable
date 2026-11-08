@@ -1,0 +1,42 @@
+[
+  {
+    "scene_id": "SCENE_01",
+    "timeStart": 0.0,
+    "timeEnd": 8.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_044/scene_01.jpg",
+    "description": "A 3D animated CGI render of a playful red squirrel with a giant bushy tail scampering along an ancie"
+  },
+  {
+    "scene_id": "SCENE_02",
+    "timeStart": 8.0,
+    "timeEnd": 22.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_044/scene_02.jpg",
+    "description": "A 3D animated CGI render of a tiny hedgehog with soft brown spines stuck in a shallow muddy ditch, l"
+  },
+  {
+    "scene_id": "SCENE_03",
+    "timeStart": 22.0,
+    "timeEnd": 38.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_044/scene_03.jpg",
+    "description": "A 3D animated CGI render of the agile red squirrel extending a sturdy leafy branch down into the dit"
+  },
+  {
+    "scene_id": "SCENE_04",
+    "timeStart": 38.0,
+    "timeEnd": 52.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_044/scene_04.jpg",
+    "description": "A 3D animated CGI render of the hedgehog safe on dry moss, shaking off mud while the squirrel gently"
+  },
+  {
+    "scene_id": "SCENE_05",
+    "timeStart": 52.0,
+    "timeEnd": 64.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_044/scene_05.jpg",
+    "description": "A 3D animated CGI render of a peaceful woodland grove under a glowing crescent moon and thousands of"
+  }
+]

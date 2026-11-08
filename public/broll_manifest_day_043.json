@@ -1,0 +1,42 @@
+[
+  {
+    "scene_id": "SCENE_01",
+    "timeStart": 0.0,
+    "timeEnd": 8.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_043/scene_01.jpg",
+    "description": "A 3D animated CGI render of a young chestnut mouse deer and a fluffy white rabbit sitting politely t"
+  },
+  {
+    "scene_id": "SCENE_02",
+    "timeStart": 8.0,
+    "timeEnd": 22.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_043/scene_02.jpg",
+    "description": "A 3D animated CGI render of the rabbit placing a small bundle of sweet clover in a hollow log, while"
+  },
+  {
+    "scene_id": "SCENE_03",
+    "timeStart": 22.0,
+    "timeEnd": 38.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_043/scene_03.jpg",
+    "description": "A 3D animated CGI render of dry autumn leaves swirling in the wind as other animals pass by, but the"
+  },
+  {
+    "scene_id": "SCENE_04",
+    "timeStart": 38.0,
+    "timeEnd": 52.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_043/scene_04.jpg",
+    "description": "A 3D animated CGI render of the rabbit returning at sunset, finding its bundle safe, hugging the hon"
+  },
+  {
+    "scene_id": "SCENE_05",
+    "timeStart": 52.0,
+    "timeEnd": 64.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_043/scene_05.jpg",
+    "description": "A 3D animated CGI render of a tranquil forest clearing at night, glowing moonbeams shining on the mo"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "scene_id": "SCENE_01",
+    "timeStart": 0.0,
+    "timeEnd": 8.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_042/scene_01.jpg",
+    "description": "A 3D animated CGI render of a colossal ancient banyan tree with massive sweeping branches, hanging a"
+  },
+  {
+    "scene_id": "SCENE_02",
+    "timeStart": 8.0,
+    "timeEnd": 22.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_042/scene_02.jpg",
+    "description": "A 3D animated CGI render of various cute woodland animals, baby squirrels, fawns, and birds, wanderi"
+  },
+  {
+    "scene_id": "SCENE_03",
+    "timeStart": 22.0,
+    "timeEnd": 38.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_042/scene_03.jpg",
+    "description": "A 3D animated CGI render of the ancient banyan trees roots forming cozy natural cradles lined with s"
+  },
+  {
+    "scene_id": "SCENE_04",
+    "timeStart": 38.0,
+    "timeEnd": 52.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_042/scene_04.jpg",
+    "description": "A 3D animated CGI render of the woodland animals nestled safely inside the roots and branches, closi"
+  },
+  {
+    "scene_id": "SCENE_05",
+    "timeStart": 52.0,
+    "timeEnd": 64.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_042/scene_05.jpg",
+    "description": "A 3D animated CGI render of the colossal banyan tree under a luminous full crescent moon and sparkli"
+  }
+]
