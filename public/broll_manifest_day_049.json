@@ -1,0 +1,42 @@
+[
+  {
+    "scene_id": "SCENE_01",
+    "timeStart": 0.0,
+    "timeEnd": 8.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_049/scene_01.jpg",
+    "description": "A 3D animated CGI render of a calm woodland lake at twilight, large circular green lily pads floatin"
+  },
+  {
+    "scene_id": "SCENE_02",
+    "timeStart": 8.0,
+    "timeEnd": 22.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_049/scene_02.jpg",
+    "description": "A 3D animated CGI render of a luminous golden firefly with translucent wings and glowing amber tail "
+  },
+  {
+    "scene_id": "SCENE_03",
+    "timeStart": 22.0,
+    "timeEnd": 38.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_049/scene_03.jpg",
+    "description": "A 3D animated CGI render of the glowing firefly whispering a gentle melody to the lotus bud, as swir"
+  },
+  {
+    "scene_id": "SCENE_04",
+    "timeStart": 38.0,
+    "timeEnd": 52.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_049/scene_04.jpg",
+    "description": "A 3D animated CGI render of the pink lotus flower slowly opening its fragrant petals in the cool nig"
+  },
+  {
+    "scene_id": "SCENE_05",
+    "timeStart": 52.0,
+    "timeEnd": 64.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_049/scene_05.jpg",
+    "description": "A 3D animated CGI render of the enchanting lake under a radiant silver crescent moon and thousands o"
+  }
+]

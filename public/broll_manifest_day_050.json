@@ -1,0 +1,42 @@
+[
+  {
+    "scene_id": "SCENE_01",
+    "timeStart": 0.0,
+    "timeEnd": 8.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_050/scene_01.jpg",
+    "description": "A 3D animated CGI render of a small plump quail with speckled brown-and-cream feathers and bright be"
+  },
+  {
+    "scene_id": "SCENE_02",
+    "timeStart": 8.0,
+    "timeEnd": 22.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_050/scene_02.jpg",
+    "description": "A 3D animated CGI render of a magnificent peacock strutting past with a massive shimmering emerald t"
+  },
+  {
+    "scene_id": "SCENE_03",
+    "timeStart": 22.0,
+    "timeEnd": 38.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_050/scene_03.jpg",
+    "description": "A 3D animated CGI render of the little quail easily darting through a dense low hedge to reach a sec"
+  },
+  {
+    "scene_id": "SCENE_04",
+    "timeStart": 38.0,
+    "timeEnd": 52.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_050/scene_04.jpg",
+    "description": "A 3D animated CGI render of the quail cheerfully rolling fresh ripe strawberries out of the hedge to"
+  },
+  {
+    "scene_id": "SCENE_05",
+    "timeStart": 52.0,
+    "timeEnd": 64.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_050/scene_05.jpg",
+    "description": "A 3D animated CGI render of a serene golden wheat field under twilight stars, the little quail sleep"
+  }
+]

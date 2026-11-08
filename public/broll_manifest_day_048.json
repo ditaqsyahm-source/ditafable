@@ -1,0 +1,42 @@
+[
+  {
+    "scene_id": "SCENE_01",
+    "timeStart": 0.0,
+    "timeEnd": 8.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_048/scene_01.jpg",
+    "description": "A 3D animated CGI render of a sleek brown river otter with webbed paws and a playful whisker smile s"
+  },
+  {
+    "scene_id": "SCENE_02",
+    "timeStart": 8.0,
+    "timeEnd": 22.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_048/scene_02.jpg",
+    "description": "A 3D animated CGI render of an energetic orange squirrel perched on an overhanging willow branch, po"
+  },
+  {
+    "scene_id": "SCENE_03",
+    "timeStart": 22.0,
+    "timeEnd": 38.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_048/scene_03.jpg",
+    "description": "A 3D animated CGI render of the otter swimming beneath the tangled branches to loosen the stones, wh"
+  },
+  {
+    "scene_id": "SCENE_04",
+    "timeStart": 38.0,
+    "timeEnd": 52.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_048/scene_04.jpg",
+    "description": "A 3D animated CGI render of the otter and squirrel sitting triumphantly on a flat boulder by the wat"
+  },
+  {
+    "scene_id": "SCENE_05",
+    "timeStart": 52.0,
+    "timeEnd": 64.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_048/scene_05.jpg",
+    "description": "A 3D animated CGI render of a tranquil moonlit riverbend at midnight, shimmering silver ripples on c"
+  }
+]

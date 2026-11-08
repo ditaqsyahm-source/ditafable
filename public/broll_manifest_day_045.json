@@ -1,0 +1,42 @@
+[
+  {
+    "scene_id": "SCENE_01",
+    "timeStart": 0.0,
+    "timeEnd": 8.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_045/scene_01.jpg",
+    "description": "A 3D animated CGI render of an industrious black ant with glossy segments, delicate antennae, and de"
+  },
+  {
+    "scene_id": "SCENE_02",
+    "timeStart": 8.0,
+    "timeEnd": 22.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_045/scene_02.jpg",
+    "description": "A 3D animated CGI render of the little black ant carrying a plump golden grain of wheat twice its si"
+  },
+  {
+    "scene_id": "SCENE_03",
+    "timeStart": 22.0,
+    "timeEnd": 38.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_045/scene_03.jpg",
+    "description": "A 3D animated CGI render of a friendly ladybug with bright scarlet wings and neat black spots hoveri"
+  },
+  {
+    "scene_id": "SCENE_04",
+    "timeStart": 38.0,
+    "timeEnd": 52.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_045/scene_04.jpg",
+    "description": "A 3D animated CGI render of the black ant arriving safely at the warm underground granary chamber, c"
+  },
+  {
+    "scene_id": "SCENE_05",
+    "timeStart": 52.0,
+    "timeEnd": 64.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_045/scene_05.jpg",
+    "description": "A 3D animated CGI render of the calm mossy forest floor at night, soft silver moonbeams filtering th"
+  }
+]

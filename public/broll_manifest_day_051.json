@@ -1,0 +1,42 @@
+[
+  {
+    "scene_id": "SCENE_01",
+    "timeStart": 0.0,
+    "timeEnd": 8.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_051/scene_01.jpg",
+    "description": "A 3D animated CGI render of a young mouse deer on four delicate hooves exploring a sunlit sandy rive"
+  },
+  {
+    "scene_id": "SCENE_02",
+    "timeStart": 8.0,
+    "timeEnd": 22.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_051/scene_02.jpg",
+    "description": "A 3D animated CGI render of an elderly tortoise with a weathered mossy shell slowly crawling on dry "
+  },
+  {
+    "scene_id": "SCENE_03",
+    "timeStart": 22.0,
+    "timeEnd": 38.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_051/scene_03.jpg",
+    "description": "A 3D animated CGI render of the nimble mouse deer running to a cool natural rock fissure, using a br"
+  },
+  {
+    "scene_id": "SCENE_04",
+    "timeStart": 38.0,
+    "timeEnd": 52.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_051/scene_04.jpg",
+    "description": "A 3D animated CGI render of the elderly tortoise drinking gratefully from the dewy green leaf bowl, "
+  },
+  {
+    "scene_id": "SCENE_05",
+    "timeStart": 52.0,
+    "timeEnd": 64.0,
+    "videoSrc": null,
+    "imageSrc": "images/day_051/scene_05.jpg",
+    "description": "A 3D animated CGI render of a tranquil desert oasis at midnight, cool crystal spring reflecting spar"
+  }
+]
