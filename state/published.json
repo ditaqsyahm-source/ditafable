@@ -954,5 +954,109 @@
         }
       }
     }
+  },
+  {
+    "channel_id": "DITA-04",
+    "day": 10,
+    "title": "Semut Merah Mini yang Membawa Sebutir Gula ke Puncak Bukit",
+    "video_file": "output/dita_fable_day_010_compressed.mp4",
+    "video_hash": "3b1521dbc2bdb3d86c55a9aaa7adfa2c3eb1ab506a065aa6f852dbea1c36e2ac",
+    "timestamp": "2026-11-10T04:17:11.452455",
+    "outcomes": {
+      "youtube": {
+        "platform": "youtube",
+        "ok": true,
+        "videoId": "ppLmXoChY6M",
+        "url": "https://youtube.com/shorts/ppLmXoChY6M"
+      },
+      "zernio": {
+        "platform": "zernio",
+        "ok": true,
+        "postId": "6af29abd201428d6744cae85",
+        "data": {
+          "_id": "6af29abd201428d6744cae85",
+          "userId": "6ad8ac50051330d72ee5b3f5",
+          "title": "Semut Merah Mini yang Membawa Sebutir Gula ke Puncak Bukit",
+          "content": "Semut Merah Mini yang Membawa Sebutir Gula ke Puncak Bukit\n\nDongeng fabel pengantar tidur penuh kehangatan dan pesan moral ramah anak. Mari temani si kecil tidur nyenyak malam ini. \u2728\ud83d\udecc\n\nPesan moral: Kerja keras di masa muda menjamin kehangatan di musim dingin.\n\n#DitaDongeng #FabelAnak #CeritaAnak #DongengSebelumTidur #KidsStories #BedtimeStory #KakDita",
+          "mediaItems": [
+            {
+              "_id": "6af29abf201428d6744cae9f",
+              "url": "https://media.zernio.com/media/1794284219304_771aa1729a5a1ea7_dita_fable_day_010_compressed.mp4",
+              "type": "video"
+            }
+          ],
+          "scheduledFor": "2026-11-10T04:17:01.177Z",
+          "timezone": "UTC",
+          "status": "publishing",
+          "tags": [],
+          "hashtags": [],
+          "mentions": [],
+          "visibility": "public",
+          "crosspostingEnabled": true,
+          "metadata": {
+            "usageCounted": true
+          },
+          "publishingClaimedAt": "2026-11-10T04:17:03.491Z",
+          "recycling": {
+            "enabled": false,
+            "gapFreq": "month",
+            "recycleCount": 0,
+            "contentVariations": [],
+            "contentVariationIndex": 0
+          },
+          "createdAt": "2026-11-10T04:17:03.432Z",
+          "updatedAt": "2026-11-10T04:17:11.359Z",
+          "platforms": [
+            {
+              "_id": "6af29abf201428d6744cae9b",
+              "platform": "tiktok",
+              "accountId": {
+                "_id": "6ad8acf3c24aa78753a651ef",
+                "platform": "tiktok",
+                "username": "ditafable",
+                "displayName": "ditafable",
+                "profilePicture": "https://p16-common-sign.tiktokcdn.com/tos-alisg-avt-0068/02b79ac3cf1d923dc733408ef593f1fd~tplv-tiktokx-cropcenter:168:168.jpeg?dr=14577&refresh_token=99bed99f&x-expires=1794380400&x-signature=3FtEvtlZDiSsLZ2qoQocZBgIm8g%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=8aecc5ac&idc=my",
+                "isActive": true,
+                "profileId": "6ad8ac50051330d72ee5b3f7"
+              },
+              "profileId": "6ad8ac50051330d72ee5b3f7",
+              "customMedia": [],
+              "scheduledFor": "2026-11-10T04:17:01.177Z",
+              "platformSpecificData": {
+                "videoCoverImageUrl": "https://media.zernio.com/media/1794284220365_4b6342a851e61c23_frame_01_day_010.jpg",
+                "tiktokBusinessPublishId": "v_pub_url~v2.7706391699848726535"
+              },
+              "status": "published",
+              "publishedAt": "2026-11-10T04:17:11.354Z",
+              "platformPostId": "v_pub_url~v2.7706391699848726535",
+              "publishAttempts": 1,
+              "contentHash": "3a8d45ae0197ad94bfa3319c58eadced"
+            },
+            {
+              "_id": "6af29abf201428d6744cae9c",
+              "platform": "instagram",
+              "accountId": {
+                "_id": "6ad8acd9aad76462b1a71e23",
+                "platform": "instagram",
+                "username": "ditafable",
+                "displayName": "Dita Dongeng Fabel",
+                "profilePicture": null,
+                "isActive": true,
+                "profileId": "6ad8ac50051330d72ee5b3f7"
+              },
+              "profileId": "6ad8ac50051330d72ee5b3f7",
+              "customMedia": [],
+              "scheduledFor": "2026-11-10T04:17:01.177Z",
+              "platformSpecificData": {
+                "instagramThumbnail": "https://media.zernio.com/media/1794284220365_4b6342a851e61c23_frame_01_day_010.jpg"
+              },
+              "status": "processing",
+              "publishAttempts": 1,
+              "contentHash": "3156dd29c7814aa5476c857bf810cbde"
+            }
+          ]
+        }
+      }
+    }
   }
 ]
