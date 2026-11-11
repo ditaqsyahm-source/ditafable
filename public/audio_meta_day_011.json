@@ -2,7 +2,7 @@
   "channel_id": "DITA-04",
   "channel_name": "Dita Dongeng & Fabel",
   "channel_handle": "@ditafable",
-  "audio_path": "C:\\Users\\K4G3\\Documents\\Github\\ditafable\\public\\voiceover_day_011.mp3",
+  "audio_path": "public/voiceover_day_011.mp3",
   "voice": "id-ID-GadisNeural",
   "rate": "-3%",
   "total_words": 117,
