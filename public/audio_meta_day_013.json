@@ -2,171 +2,155 @@
   "channel_id": "DITA-04",
   "channel_name": "Dita Dongeng & Fabel",
   "channel_handle": "@ditafable",
-  "audio_path": "C:\\Users\\K4G3\\Documents\\Github\\ditafable\\public\\voiceover_day_013.mp3",
+  "audio_path": "public/voiceover_day_013.mp3",
   "voice": "id-ID-GadisNeural",
   "rate": "-3%",
-  "total_words": 84,
-  "duration_seconds": 50.18,
-  "duration_frames": 1204,
+  "total_words": 80,
+  "duration_seconds": 45.91,
+  "duration_frames": 1102,
   "fps": 24,
   "sentences": [
     {
       "start": 0.05,
-      "end": 7.486,
-      "duration": 7.436,
-      "text": "Di tepi hutan kenari yang tenang, Hewan Hutan Rimba sedang duduk memandangi jalan setapak berkabut."
+      "end": 9.277,
+      "duration": 9.227,
+      "text": "Di atas dahan pohon kenari tua yang rimbun dan teduh, Hewan Hutan Rimba melompat lincah sambil menyapa hembusan angin semilir."
     },
     {
-      "start": 7.486,
-      "end": 10.759,
-      "duration": 3.273,
-      "text": "Tiba-tiba, 'Kletuk!'"
+      "start": 9.277,
+      "end": 17.949,
+      "duration": 8.673,
+      "text": "Ketika tugas besar terasa berat bila dipikul sendiri, sahabat rimba hadir menawarkan bantuan dengan riang gembira."
     },
     {
-      "start": 10.759,
-      "end": 16.996,
-      "duration": 6.237,
-      "text": "Ada sesuatu yang membuat hatinya berdebar cemas saat sahabatnya di hutan datang mendekat."
+      "start": 17.949,
+      "end": 24.38,
+      "duration": 6.43,
+      "text": "Bahu-membahu mereka menyatukan kekuatan hingga pekerjaan selesai dengan sempurna."
     },
     {
-      "start": 16.996,
-      "end": 25.063,
-      "duration": 8.067,
-      "text": "Meski sempat merasa takut, Hewan Hutan memilih untuk bersikap jujur dan berbicara dengan penuh kelembutan."
+      "start": 24.38,
+      "end": 32.202,
+      "duration": 7.822,
+      "text": "Di bawah langit malam bertabur bintang gemerlap, hati mereka dipenuhi rasa aman dan persaudaraan yang erat."
     },
     {
-      "start": 25.063,
-      "end": 36.455,
-      "duration": 11.392,
-      "text": "Mendengar kata-katanya yang tulus, sahabatnya di hutan tersenyum teduh dan memeluknya hangat: 'Kebaikan hatimu jauh lebih berharga daripada apa pun.'"
-    },
-    {
-      "start": 36.455,
-      "end": 41.661,
-      "duration": 5.206,
+      "start": 32.202,
+      "end": 37.395,
+      "duration": 5.193,
       "text": "Berbagi hidangan melipatgandakan rasa manis dan keakraban."
     },
     {
-      "start": 41.661,
-      "end": 50.166,
-      "duration": 8.505,
+      "start": 37.395,
+      "end": 45.888,
+      "duration": 8.492,
       "text": "Sekarang, tarik selimut hangatmu, pejamkan matamu ya... selamat tidur, dan mimpi indah."
     }
   ],
   "timed_subtitles": [
     {
       "start": 0.05,
-      "end": 1.599,
-      "text": "Di tepi hutan kenari"
+      "end": 1.487,
+      "text": "Di atas dahan pohon"
     },
     {
-      "start": 1.599,
-      "end": 3.458,
-      "text": "yang tenang, Hewan Hutan"
+      "start": 1.487,
+      "end": 3.151,
+      "text": "kenari tua yang rimbun"
     },
     {
-      "start": 3.458,
-      "end": 5.704,
-      "text": "Rimba sedang duduk memandangi"
+      "start": 3.151,
+      "end": 4.815,
+      "text": "dan teduh, Hewan Hutan"
     },
     {
-      "start": 5.704,
-      "end": 7.486,
-      "text": "jalan setapak berkabut."
+      "start": 4.815,
+      "end": 6.932,
+      "text": "Rimba melompat lincah sambil"
     },
     {
-      "start": 7.486,
-      "end": 10.759,
-      "text": "Tiba-tiba, 'Kletuk!'"
+      "start": 6.932,
+      "end": 9.277,
+      "text": "menyapa hembusan angin semilir."
     },
     {
-      "start": 10.759,
-      "end": 12.5,
-      "text": "Ada sesuatu yang membuat"
+      "start": 9.277,
+      "end": 11.23,
+      "text": "Ketika tugas besar terasa"
     },
     {
-      "start": 12.5,
-      "end": 14.458,
-      "text": "hatinya berdebar cemas saat"
+      "start": 11.23,
+      "end": 13.34,
+      "text": "berat bila dipikul sendiri,"
     },
     {
-      "start": 14.458,
-      "end": 16.343,
-      "text": "sahabatnya di hutan datang"
+      "start": 13.34,
+      "end": 15.683,
+      "text": "sahabat rimba hadir menawarkan"
     },
     {
-      "start": 16.343,
-      "end": 16.996,
-      "text": "mendekat."
+      "start": 15.683,
+      "end": 17.949,
+      "text": "bantuan dengan riang gembira."
     },
     {
-      "start": 16.996,
-      "end": 19.032,
-      "text": "Meski sempat merasa takut,"
+      "start": 17.949,
+      "end": 21.124,
+      "text": "Bahu-membahu mereka menyatukan kekuatan"
     },
     {
-      "start": 19.032,
-      "end": 20.99,
-      "text": "Hewan Hutan memilih untuk"
+      "start": 21.124,
+      "end": 23.647,
+      "text": "hingga pekerjaan selesai dengan"
     },
     {
-      "start": 20.99,
-      "end": 23.183,
-      "text": "bersikap jujur dan berbicara"
+      "start": 23.647,
+      "end": 24.38,
+      "text": "sempurna."
     },
     {
-      "start": 23.183,
-      "end": 25.063,
-      "text": "dengan penuh kelembutan."
+      "start": 24.38,
+      "end": 25.959,
+      "text": "Di bawah langit malam"
     },
     {
-      "start": 25.063,
-      "end": 27.734,
-      "text": "Mendengar kata-katanya yang tulus,"
+      "start": 25.959,
+      "end": 28.291,
+      "text": "bertabur bintang gemerlap, hati"
     },
     {
-      "start": 27.734,
-      "end": 30.013,
-      "text": "sahabatnya di hutan tersenyum"
+      "start": 28.291,
+      "end": 30.171,
+      "text": "mereka dipenuhi rasa aman"
     },
     {
-      "start": 30.013,
-      "end": 32.212,
-      "text": "teduh dan memeluknya hangat:"
+      "start": 30.171,
+      "end": 32.202,
+      "text": "dan persaudaraan yang erat."
     },
     {
-      "start": 32.212,
-      "end": 34.334,
-      "text": "'Kebaikan hatimu jauh lebih"
-    },
-    {
-      "start": 34.334,
-      "end": 36.455,
-      "text": "berharga daripada apa pun.'"
-    },
-    {
-      "start": 36.455,
-      "end": 39.834,
+      "start": 32.202,
+      "end": 35.573,
       "text": "Berbagi hidangan melipatgandakan rasa"
     },
     {
-      "start": 39.834,
-      "end": 41.661,
+      "start": 35.573,
+      "end": 37.395,
       "text": "manis dan keakraban."
     },
     {
-      "start": 41.661,
-      "end": 44.963,
+      "start": 37.395,
+      "end": 40.692,
       "text": "Sekarang, tarik selimut hangatmu,"
     },
     {
-      "start": 44.963,
-      "end": 47.865,
+      "start": 40.692,
+      "end": 43.59,
       "text": "pejamkan matamu ya... selamat"
     },
     {
-      "start": 47.865,
-      "end": 50.166,
+      "start": 43.59,
+      "end": 45.888,
       "text": "tidur, dan mimpi indah."
     }
   ]

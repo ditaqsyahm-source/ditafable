@@ -1266,5 +1266,109 @@
         }
       }
     }
+  },
+  {
+    "channel_id": "DITA-04",
+    "day": 13,
+    "title": "Pesta Buah Hutan Kenari: Siapa yang Menyiapkan Mangkok Terbesar?",
+    "video_file": "output/dita_fable_day_013_compressed.mp4",
+    "video_hash": "8ea2d59160ba7a969b9c5fbad2e3820364f4dc901da86a2cc6e2a450bd60b838",
+    "timestamp": "2026-11-13T02:45:05.853488",
+    "outcomes": {
+      "youtube": {
+        "platform": "youtube",
+        "ok": true,
+        "videoId": "uJwj6FrnQX8",
+        "url": "https://youtube.com/shorts/uJwj6FrnQX8"
+      },
+      "zernio": {
+        "platform": "zernio",
+        "ok": true,
+        "postId": "6af679a4de6bf9da1bdc32e0",
+        "data": {
+          "_id": "6af679a4de6bf9da1bdc32e0",
+          "userId": "6ad8ac50051330d72ee5b3f5",
+          "title": "Pesta Buah Hutan Kenari: Siapa yang Menyiapkan Mangkok Terbesar?",
+          "content": "Pesta Buah Hutan Kenari: Siapa yang Menyiapkan Mangkok Terbesar?\n\nDongeng fabel pengantar tidur penuh kehangatan dan pesan moral ramah anak. Mari temani si kecil tidur nyenyak malam ini. \u2728\ud83d\udecc\n\nPesan moral: Berbagi hidangan melipatgandakan rasa manis dan keakraban.\n\n#DitaDongeng #FabelAnak #CeritaAnak #DongengSebelumTidur #KidsStories #BedtimeStory #KakDita",
+          "mediaItems": [
+            {
+              "_id": "6af679a5de6bf9da1bdc32e9",
+              "url": "https://media.zernio.com/media/1794537890893_1195d98c2f3a97f4_dita_fable_day_013_compressed.mp4",
+              "type": "video"
+            }
+          ],
+          "scheduledFor": "2026-11-13T02:44:52.474Z",
+          "timezone": "UTC",
+          "status": "publishing",
+          "tags": [],
+          "hashtags": [],
+          "mentions": [],
+          "visibility": "public",
+          "crosspostingEnabled": true,
+          "metadata": {
+            "usageCounted": true
+          },
+          "publishingClaimedAt": "2026-11-13T02:44:53.462Z",
+          "recycling": {
+            "enabled": false,
+            "gapFreq": "month",
+            "recycleCount": 0,
+            "contentVariations": [],
+            "contentVariationIndex": 0
+          },
+          "createdAt": "2026-11-13T02:44:53.414Z",
+          "updatedAt": "2026-11-13T02:45:05.688Z",
+          "platforms": [
+            {
+              "_id": "6af679a5de6bf9da1bdc32e5",
+              "platform": "tiktok",
+              "accountId": {
+                "_id": "6ad8acf3c24aa78753a651ef",
+                "platform": "tiktok",
+                "username": "ditafable",
+                "displayName": "ditafable",
+                "profilePicture": "https://p16-common-sign.tiktokcdn.com/tos-alisg-avt-0068/02b79ac3cf1d923dc733408ef593f1fd~tplv-tiktokx-cropcenter:168:168.jpeg?dr=14577&refresh_token=3d7b999a&x-expires=1794646800&x-signature=q0YzVKeIXpD5h%2FYe4vKySPOMUWI%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=8aecc5ac&idc=my2",
+                "isActive": true,
+                "profileId": "6ad8ac50051330d72ee5b3f7"
+              },
+              "profileId": "6ad8ac50051330d72ee5b3f7",
+              "customMedia": [],
+              "scheduledFor": "2026-11-13T02:44:52.474Z",
+              "platformSpecificData": {
+                "videoCoverImageUrl": "https://media.zernio.com/media/1794537891846_6b121ef5e1e8dc0e_frame_01_day_013.jpg",
+                "tiktokBusinessPublishId": "v_pub_url~v2.7707481431810803732"
+              },
+              "status": "published",
+              "publishedAt": "2026-11-13T02:45:05.685Z",
+              "platformPostId": "v_pub_url~v2.7707481431810803732",
+              "publishAttempts": 1,
+              "contentHash": "0791cd133dca37ec7c91fd3be7db7568"
+            },
+            {
+              "_id": "6af679a5de6bf9da1bdc32e6",
+              "platform": "instagram",
+              "accountId": {
+                "_id": "6ad8acd9aad76462b1a71e23",
+                "platform": "instagram",
+                "username": "ditafable",
+                "displayName": "Dita Dongeng Fabel",
+                "profilePicture": null,
+                "isActive": true,
+                "profileId": "6ad8ac50051330d72ee5b3f7"
+              },
+              "profileId": "6ad8ac50051330d72ee5b3f7",
+              "customMedia": [],
+              "scheduledFor": "2026-11-13T02:44:52.474Z",
+              "platformSpecificData": {
+                "instagramThumbnail": "https://media.zernio.com/media/1794537891846_6b121ef5e1e8dc0e_frame_01_day_013.jpg"
+              },
+              "status": "processing",
+              "publishAttempts": 1,
+              "contentHash": "d9724c7d066bbbb97ca3c479f3f843b6"
+            }
+          ]
+        }
+      }
+    }
   }
 ]
