@@ -2,171 +2,160 @@
   "channel_id": "DITA-04",
   "channel_name": "Dita Dongeng & Fabel",
   "channel_handle": "@ditafable",
-  "audio_path": "C:\\Users\\K4G3\\Documents\\Github\\ditafable\\public\\voiceover_day_017.mp3",
+  "audio_path": "public/voiceover_day_017.mp3",
   "voice": "id-ID-GadisNeural",
   "rate": "-3%",
-  "total_words": 83,
-  "duration_seconds": 48.65,
-  "duration_frames": 1168,
+  "total_words": 77,
+  "duration_seconds": 43.56,
+  "duration_frames": 1045,
   "fps": 24,
   "sentences": [
     {
       "start": 0.05,
-      "end": 7.254,
-      "duration": 7.204,
-      "text": "Di tepi hutan kenari yang tenang, Piko si Pelatuk sedang duduk memandangi jalan setapak berkabut."
+      "end": 7.937,
+      "duration": 7.887,
+      "text": "Di tepian telaga jernih berhias teratai mekar, Piko si Pelatuk berenang tenang menyusuri riak air yang sejuk."
     },
     {
-      "start": 7.254,
-      "end": 10.501,
-      "duration": 3.247,
-      "text": "Tiba-tiba, 'Kletuk!'"
+      "start": 7.937,
+      "end": 15.823,
+      "duration": 7.887,
+      "text": "Jalan yang terbentang di hadapannya memang berbatu dan panjang, namun ia tidak menyerah barang selangkah pun."
     },
     {
-      "start": 10.501,
-      "end": 16.016,
-      "duration": 5.515,
-      "text": "Ada sesuatu yang membuat hatinya berdebar cemas saat Katak datang mendekat."
+      "start": 15.823,
+      "end": 22.279,
+      "duration": 6.456,
+      "text": "Melihat kegigihan itu, Katak datang menyemangati dengan kata-kata penuh kasih."
     },
     {
-      "start": 16.016,
-      "end": 24.393,
-      "duration": 8.376,
-      "text": "Meski sempat merasa takut, Piko si Pelatuk memilih untuk bersikap jujur dan berbicara dengan penuh kelembutan."
+      "start": 22.279,
+      "end": 29.857,
+      "duration": 7.577,
+      "text": "Saat senja keemasan menyapu langit, keberhasilan manis pun diraih bersama penuh rasa syukur."
     },
     {
-      "start": 24.393,
-      "end": 34.87,
-      "duration": 10.477,
-      "text": "Mendengar kata-katanya yang tulus, Katak tersenyum teduh dan memeluknya hangat: 'Kebaikan hatimu jauh lebih berharga daripada apa pun.'"
-    },
-    {
-      "start": 34.87,
-      "end": 40.089,
-      "duration": 5.219,
+      "start": 29.857,
+      "end": 35.089,
+      "duration": 5.232,
       "text": "Ketukan kecil berulang kali mampu menembus kayu paling keras."
     },
     {
-      "start": 40.089,
-      "end": 48.632,
-      "duration": 8.544,
+      "start": 35.089,
+      "end": 43.542,
+      "duration": 8.454,
       "text": "Sekarang, tarik selimut hangatmu, pejamkan matamu ya... selamat tidur, dan mimpi indah."
     }
   ],
   "timed_subtitles": [
     {
       "start": 0.05,
-      "end": 1.583,
-      "text": "Di tepi hutan kenari"
+      "end": 1.778,
+      "text": "Di tepian telaga jernih"
     },
     {
-      "start": 1.583,
-      "end": 3.116,
-      "text": "yang tenang, Piko si"
+      "start": 1.778,
+      "end": 3.806,
+      "text": "berhias teratai mekar, Piko"
     },
     {
-      "start": 3.116,
-      "end": 5.491,
-      "text": "Pelatuk sedang duduk memandangi"
+      "start": 3.806,
+      "end": 5.759,
+      "text": "si Pelatuk berenang tenang"
     },
     {
-      "start": 5.491,
-      "end": 7.254,
-      "text": "jalan setapak berkabut."
+      "start": 5.759,
+      "end": 7.486,
+      "text": "menyusuri riak air yang"
     },
     {
-      "start": 7.254,
-      "end": 10.501,
-      "text": "Tiba-tiba, 'Kletuk!'"
+      "start": 7.486,
+      "end": 7.937,
+      "text": "sejuk."
     },
     {
-      "start": 10.501,
-      "end": 12.314,
-      "text": "Ada sesuatu yang membuat"
+      "start": 7.937,
+      "end": 9.723,
+      "text": "Jalan yang terbentang di"
     },
     {
-      "start": 12.314,
-      "end": 14.354,
-      "text": "hatinya berdebar cemas saat"
+      "start": 9.723,
+      "end": 11.88,
+      "text": "hadapannya memang berbatu dan"
     },
     {
-      "start": 14.354,
-      "end": 16.016,
-      "text": "Katak datang mendekat."
+      "start": 11.88,
+      "end": 13.591,
+      "text": "panjang, namun ia tidak"
     },
     {
-      "start": 16.016,
-      "end": 18.052,
-      "text": "Meski sempat merasa takut,"
+      "start": 13.591,
+      "end": 15.823,
+      "text": "menyerah barang selangkah pun."
     },
     {
-      "start": 18.052,
-      "end": 19.852,
-      "text": "Piko si Pelatuk memilih"
+      "start": 15.823,
+      "end": 18.202,
+      "text": "Melihat kegigihan itu, Katak"
     },
     {
-      "start": 19.852,
-      "end": 21.731,
-      "text": "untuk bersikap jujur dan"
+      "start": 18.202,
+      "end": 21.26,
+      "text": "datang menyemangati dengan kata-kata"
     },
     {
-      "start": 21.731,
-      "end": 24.393,
-      "text": "berbicara dengan penuh kelembutan."
+      "start": 21.26,
+      "end": 22.279,
+      "text": "penuh kasih."
     },
     {
-      "start": 24.393,
-      "end": 27.112,
-      "text": "Mendengar kata-katanya yang tulus,"
+      "start": 22.279,
+      "end": 24.578,
+      "text": "Saat senja keemasan menyapu"
     },
     {
-      "start": 27.112,
-      "end": 29.112,
-      "text": "Katak tersenyum teduh dan"
+      "start": 24.578,
+      "end": 27.132,
+      "text": "langit, keberhasilan manis pun"
     },
     {
-      "start": 29.112,
-      "end": 31.911,
-      "text": "memeluknya hangat: 'Kebaikan hatimu"
+      "start": 27.132,
+      "end": 29.261,
+      "text": "diraih bersama penuh rasa"
     },
     {
-      "start": 31.911,
-      "end": 34.15,
-      "text": "jauh lebih berharga daripada"
+      "start": 29.261,
+      "end": 29.857,
+      "text": "syukur."
     },
     {
-      "start": 34.15,
-      "end": 34.87,
-      "text": "apa pun.'"
-    },
-    {
-      "start": 34.87,
-      "end": 37.258,
+      "start": 29.857,
+      "end": 32.251,
       "text": "Ketukan kecil berulang kali"
     },
     {
-      "start": 37.258,
-      "end": 39.558,
+      "start": 32.251,
+      "end": 34.557,
       "text": "mampu menembus kayu paling"
     },
     {
-      "start": 39.558,
-      "end": 40.089,
+      "start": 34.557,
+      "end": 35.089,
       "text": "keras."
     },
     {
-      "start": 40.089,
-      "end": 43.406,
+      "start": 35.089,
+      "end": 38.371,
       "text": "Sekarang, tarik selimut hangatmu,"
     },
     {
-      "start": 43.406,
-      "end": 46.32,
+      "start": 38.371,
+      "end": 41.255,
       "text": "pejamkan matamu ya... selamat"
     },
     {
-      "start": 46.32,
-      "end": 48.632,
+      "start": 41.255,
+      "end": 43.542,
       "text": "tidur, dan mimpi indah."
     }
   ]

@@ -1682,5 +1682,109 @@
         }
       }
     }
+  },
+  {
+    "channel_id": "DITA-04",
+    "day": 17,
+    "title": "Burung Pelatuk Kecil yang Melubangi Batang Kayu Kering",
+    "video_file": "output/dita_fable_day_017_compressed.mp4",
+    "video_hash": "e5ae85d7c6a51eeb68ebb545a117edfecde735580a702655e1381aeb8466ece1",
+    "timestamp": "2026-11-17T04:35:45.383227",
+    "outcomes": {
+      "youtube": {
+        "platform": "youtube",
+        "ok": true,
+        "videoId": "w31GP4AfY3c",
+        "url": "https://youtube.com/shorts/w31GP4AfY3c"
+      },
+      "zernio": {
+        "platform": "zernio",
+        "ok": true,
+        "postId": "6afbd99975073d3edccd6a83",
+        "data": {
+          "_id": "6afbd99975073d3edccd6a83",
+          "userId": "6ad8ac50051330d72ee5b3f5",
+          "title": "Burung Pelatuk Kecil yang Melubangi Batang Kayu Kering",
+          "content": "Burung Pelatuk Kecil yang Melubangi Batang Kayu Kering\n\nDongeng fabel pengantar tidur penuh kehangatan dan pesan moral ramah anak. Mari temani si kecil tidur nyenyak malam ini. \u2728\ud83d\udecc\n\nPesan moral: Ketukan kecil berulang kali mampu menembus kayu paling keras.\n\n#DitaDongeng #FabelAnak #CeritaAnak #DongengSebelumTidur #KidsStories #BedtimeStory #KakDita",
+          "mediaItems": [
+            {
+              "_id": "6afbd99975073d3edccd6a8a",
+              "url": "https://media.zernio.com/media/1794890135178_f21663c6df8c3d1b_dita_fable_day_017_compressed.mp4",
+              "type": "video"
+            }
+          ],
+          "scheduledFor": "2026-11-17T04:35:37.412Z",
+          "timezone": "UTC",
+          "status": "publishing",
+          "tags": [],
+          "hashtags": [],
+          "mentions": [],
+          "visibility": "public",
+          "crosspostingEnabled": true,
+          "metadata": {
+            "usageCounted": true
+          },
+          "publishingClaimedAt": "2026-11-17T04:35:37.917Z",
+          "recycling": {
+            "enabled": false,
+            "gapFreq": "month",
+            "recycleCount": 0,
+            "contentVariations": [],
+            "contentVariationIndex": 0
+          },
+          "createdAt": "2026-11-17T04:35:37.885Z",
+          "updatedAt": "2026-11-17T04:35:45.275Z",
+          "platforms": [
+            {
+              "_id": "6afbd99975073d3edccd6a86",
+              "platform": "tiktok",
+              "accountId": {
+                "_id": "6ad8acf3c24aa78753a651ef",
+                "platform": "tiktok",
+                "username": "ditafable",
+                "displayName": "ditafable",
+                "profilePicture": "https://p16-common-sign.tiktokcdn.com/tos-alisg-avt-0068/02b79ac3cf1d923dc733408ef593f1fd~tplv-tiktokx-cropcenter:168:168.jpeg?dr=14577&refresh_token=6c586156&x-expires=1794988800&x-signature=9ISD1LY8skLzC0ni9aEoM0G9oKQ%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=8aecc5ac&idc=my2",
+                "isActive": true,
+                "profileId": "6ad8ac50051330d72ee5b3f7"
+              },
+              "profileId": "6ad8ac50051330d72ee5b3f7",
+              "customMedia": [],
+              "scheduledFor": "2026-11-17T04:35:37.412Z",
+              "platformSpecificData": {
+                "videoCoverImageUrl": "https://media.zernio.com/media/1794890136331_2f9861672801493e_frame_01_day_017.jpg",
+                "tiktokBusinessPublishId": "v_pub_url~v2.7708994025851799572"
+              },
+              "status": "published",
+              "publishedAt": "2026-11-17T04:35:45.273Z",
+              "platformPostId": "v_pub_url~v2.7708994025851799572",
+              "publishAttempts": 1,
+              "contentHash": "be2c26b630e13ed700df9e91d02f9dae"
+            },
+            {
+              "_id": "6afbd99975073d3edccd6a87",
+              "platform": "instagram",
+              "accountId": {
+                "_id": "6ad8acd9aad76462b1a71e23",
+                "platform": "instagram",
+                "username": "ditafable",
+                "displayName": "Dita Dongeng Fabel",
+                "profilePicture": null,
+                "isActive": true,
+                "profileId": "6ad8ac50051330d72ee5b3f7"
+              },
+              "profileId": "6ad8ac50051330d72ee5b3f7",
+              "customMedia": [],
+              "scheduledFor": "2026-11-17T04:35:37.412Z",
+              "platformSpecificData": {
+                "instagramThumbnail": "https://media.zernio.com/media/1794890136331_2f9861672801493e_frame_01_day_017.jpg"
+              },
+              "status": "processing",
+              "publishAttempts": 1,
+              "contentHash": "50ab12f1acb19b9b2e5d3858f40391c3"
+            }
+          ]
+        }
+      }
+    }
   }
 ]
