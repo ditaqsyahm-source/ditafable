@@ -1,9 +1,9 @@
 {
   "channel": "@ditafable",
-  "active_day": 17,
-  "next_day": 18,
-  "total_published": 17,
-  "last_updated": "2026-11-17T04:35:45.393Z",
+  "active_day": 18,
+  "next_day": 19,
+  "total_published": 18,
+  "last_updated": "2026-11-18T03:47:45.532Z",
   "pipeline_status": {
     "day_001": "PUBLISHED",
     "day_002": "PUBLISHED",
@@ -21,7 +21,8 @@
     "day_014": "PUBLISHED",
     "day_015": "PUBLISHED",
     "day_016": "PUBLISHED",
-    "day_017": "PUBLISHED"
+    "day_017": "PUBLISHED",
+    "day_018": "PUBLISHED"
   },
   "distribution": {
     "tiktok": {
@@ -41,5 +42,5 @@
       "status": "CONNECTED"
     }
   },
-  "last_published_video": "output/dita_fable_day_017_compressed.mp4"
+  "last_published_video": "output/dita_fable_day_018_compressed.mp4"
 }

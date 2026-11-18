@@ -1786,5 +1786,109 @@
         }
       }
     }
+  },
+  {
+    "channel_id": "DITA-04",
+    "day": 18,
+    "title": "Kuda Belang yang Bangga dengan Garis Hitam Putihnya",
+    "video_file": "output/dita_fable_day_018_compressed.mp4",
+    "video_hash": "ad7f19f730f003fa7355dd26da40293e0d1f343188a9b84fb4bf9bf4b00330af",
+    "timestamp": "2026-11-18T03:47:45.521985",
+    "outcomes": {
+      "youtube": {
+        "platform": "youtube",
+        "ok": true,
+        "videoId": "rtSJh0mMqpc",
+        "url": "https://youtube.com/shorts/rtSJh0mMqpc"
+      },
+      "zernio": {
+        "platform": "zernio",
+        "ok": true,
+        "postId": "6afd1fd9d64dfe4eedef89df",
+        "data": {
+          "_id": "6afd1fd9d64dfe4eedef89df",
+          "userId": "6ad8ac50051330d72ee5b3f5",
+          "title": "Kuda Belang yang Bangga dengan Garis Hitam Putihnya",
+          "content": "Kuda Belang yang Bangga dengan Garis Hitam Putihnya\n\nDongeng fabel pengantar tidur penuh kehangatan dan pesan moral ramah anak. Mari temani si kecil tidur nyenyak malam ini. \u2728\ud83d\udecc\n\nPesan moral: Kelebihan fisik adalah anugerah untuk disyukuri, bukan disombongkan.\n\n#DitaDongeng #FabelAnak #CeritaAnak #DongengSebelumTidur #KidsStories #BedtimeStory #KakDita",
+          "mediaItems": [
+            {
+              "_id": "6afd1fdad64dfe4eedef89e6",
+              "url": "https://media.zernio.com/media/1794973655250_928f1953dadf966a_dita_fable_day_018_compressed.mp4",
+              "type": "video"
+            }
+          ],
+          "scheduledFor": "2026-11-18T03:47:37.710Z",
+          "timezone": "UTC",
+          "status": "publishing",
+          "tags": [],
+          "hashtags": [],
+          "mentions": [],
+          "visibility": "public",
+          "crosspostingEnabled": true,
+          "metadata": {
+            "usageCounted": true
+          },
+          "publishingClaimedAt": "2026-11-18T03:47:38.466Z",
+          "recycling": {
+            "enabled": false,
+            "gapFreq": "month",
+            "recycleCount": 0,
+            "contentVariations": [],
+            "contentVariationIndex": 0
+          },
+          "createdAt": "2026-11-18T03:47:38.430Z",
+          "updatedAt": "2026-11-18T03:47:45.419Z",
+          "platforms": [
+            {
+              "_id": "6afd1fdad64dfe4eedef89e2",
+              "platform": "tiktok",
+              "accountId": {
+                "_id": "6ad8acf3c24aa78753a651ef",
+                "platform": "tiktok",
+                "username": "ditafable",
+                "displayName": "ditafable",
+                "profilePicture": "https://p16-common-sign.tiktokcdn.com/tos-alisg-avt-0068/02b79ac3cf1d923dc733408ef593f1fd~tplv-tiktokx-cropcenter:168:168.jpeg?dr=14577&refresh_token=d878fd30&x-expires=1795078800&x-signature=RtPziXLiLn1lPMrUGB98ke3fQgw%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=8aecc5ac&idc=my3",
+                "isActive": true,
+                "profileId": "6ad8ac50051330d72ee5b3f7"
+              },
+              "profileId": "6ad8ac50051330d72ee5b3f7",
+              "customMedia": [],
+              "scheduledFor": "2026-11-18T03:47:37.710Z",
+              "platformSpecificData": {
+                "videoCoverImageUrl": "https://media.zernio.com/media/1794973656829_6490a01e53904846_frame_01_day_018.jpg",
+                "tiktokBusinessPublishId": "v_pub_url~v2.7709352520249968647"
+              },
+              "status": "published",
+              "publishedAt": "2026-11-18T03:47:45.417Z",
+              "platformPostId": "v_pub_url~v2.7709352520249968647",
+              "publishAttempts": 1,
+              "contentHash": "f8268045357771dad22b6efcde135da3"
+            },
+            {
+              "_id": "6afd1fdad64dfe4eedef89e3",
+              "platform": "instagram",
+              "accountId": {
+                "_id": "6ad8acd9aad76462b1a71e23",
+                "platform": "instagram",
+                "username": "ditafable",
+                "displayName": "Dita Dongeng Fabel",
+                "profilePicture": null,
+                "isActive": true,
+                "profileId": "6ad8ac50051330d72ee5b3f7"
+              },
+              "profileId": "6ad8ac50051330d72ee5b3f7",
+              "customMedia": [],
+              "scheduledFor": "2026-11-18T03:47:37.710Z",
+              "platformSpecificData": {
+                "instagramThumbnail": "https://media.zernio.com/media/1794973656829_6490a01e53904846_frame_01_day_018.jpg"
+              },
+              "status": "processing",
+              "publishAttempts": 1,
+              "contentHash": "fe58776a6d85047c6807d608acd893c5"
+            }
+          ]
+        }
+      }
+    }
   }
 ]
