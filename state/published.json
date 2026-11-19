@@ -1890,5 +1890,109 @@
         }
       }
     }
+  },
+  {
+    "channel_id": "DITA-04",
+    "day": 19,
+    "title": "Monyet Ciko yang Belajar Menahan Diri dari Buah Mentah",
+    "video_file": "output/dita_fable_day_019_compressed.mp4",
+    "video_hash": "fe10c133111774374555b882c17a22c3a0a0d3947723857c93db5f254af3e0df",
+    "timestamp": "2026-11-19T03:37:42.457793",
+    "outcomes": {
+      "youtube": {
+        "platform": "youtube",
+        "ok": true,
+        "videoId": "zVzWbfndSVk",
+        "url": "https://youtube.com/shorts/zVzWbfndSVk"
+      },
+      "zernio": {
+        "platform": "zernio",
+        "ok": true,
+        "postId": "6afe6ef93afb510af77be270",
+        "data": {
+          "_id": "6afe6ef93afb510af77be270",
+          "userId": "6ad8ac50051330d72ee5b3f5",
+          "title": "Monyet Ciko yang Belajar Menahan Diri dari Buah Mentah",
+          "content": "Monyet Ciko yang Belajar Menahan Diri dari Buah Mentah\n\nDongeng fabel pengantar tidur penuh kehangatan dan pesan moral ramah anak. Mari temani si kecil tidur nyenyak malam ini. \u2728\ud83d\udecc\n\nPesan moral: Sabar menunggu saat yang tepat mendatangkan rasa buah yang termanis.\n\n#DitaDongeng #FabelAnak #CeritaAnak #DongengSebelumTidur #KidsStories #BedtimeStory #KakDita",
+          "mediaItems": [
+            {
+              "_id": "6afe6efa3afb510af77be277",
+              "url": "https://media.zernio.com/media/1795059446615_e77a9410b2151b5b_dita_fable_day_019_compressed.mp4",
+              "type": "video"
+            }
+          ],
+          "scheduledFor": "2026-11-19T03:37:29.146Z",
+          "timezone": "UTC",
+          "status": "publishing",
+          "tags": [],
+          "hashtags": [],
+          "mentions": [],
+          "visibility": "public",
+          "crosspostingEnabled": true,
+          "metadata": {
+            "usageCounted": true
+          },
+          "publishingClaimedAt": "2026-11-19T03:37:30.193Z",
+          "recycling": {
+            "enabled": false,
+            "gapFreq": "month",
+            "recycleCount": 0,
+            "contentVariations": [],
+            "contentVariationIndex": 0
+          },
+          "createdAt": "2026-11-19T03:37:30.098Z",
+          "updatedAt": "2026-11-19T03:37:42.281Z",
+          "platforms": [
+            {
+              "_id": "6afe6efa3afb510af77be273",
+              "platform": "tiktok",
+              "accountId": {
+                "_id": "6ad8acf3c24aa78753a651ef",
+                "platform": "tiktok",
+                "username": "ditafable",
+                "displayName": "ditafable",
+                "profilePicture": "https://p16-common-sign.tiktokcdn.com/tos-alisg-avt-0068/02b79ac3cf1d923dc733408ef593f1fd~tplv-tiktokx-cropcenter:168:168.jpeg?dr=14577&refresh_token=af5f9d5e&x-expires=1795161600&x-signature=fzQSgkYizyq9DJ90wnOEMajjf5M%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=8aecc5ac&idc=my",
+                "isActive": true,
+                "profileId": "6ad8ac50051330d72ee5b3f7"
+              },
+              "profileId": "6ad8ac50051330d72ee5b3f7",
+              "customMedia": [],
+              "scheduledFor": "2026-11-19T03:37:29.146Z",
+              "platformSpecificData": {
+                "videoCoverImageUrl": "https://media.zernio.com/media/1795059447792_75c34c692d8502e0_frame_01_day_019.jpg",
+                "tiktokBusinessPublishId": "v_pub_url~v2.7709721307662829586"
+              },
+              "status": "published",
+              "publishedAt": "2026-11-19T03:37:42.277Z",
+              "platformPostId": "v_pub_url~v2.7709721307662829586",
+              "publishAttempts": 1,
+              "contentHash": "0011b4c68dd2d172826af118ee3fa836"
+            },
+            {
+              "_id": "6afe6efa3afb510af77be274",
+              "platform": "instagram",
+              "accountId": {
+                "_id": "6ad8acd9aad76462b1a71e23",
+                "platform": "instagram",
+                "username": "ditafable",
+                "displayName": "Dita Dongeng Fabel",
+                "profilePicture": null,
+                "isActive": true,
+                "profileId": "6ad8ac50051330d72ee5b3f7"
+              },
+              "profileId": "6ad8ac50051330d72ee5b3f7",
+              "customMedia": [],
+              "scheduledFor": "2026-11-19T03:37:29.146Z",
+              "platformSpecificData": {
+                "instagramThumbnail": "https://media.zernio.com/media/1795059447792_75c34c692d8502e0_frame_01_day_019.jpg"
+              },
+              "status": "processing",
+              "publishAttempts": 1,
+              "contentHash": "7d5683a4a11f60a906281f68fb499aa0"
+            }
+          ]
+        }
+      }
+    }
   }
 ]
