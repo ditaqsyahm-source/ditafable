@@ -2098,5 +2098,110 @@
         }
       }
     }
+  },
+  {
+    "channel_id": "DITA-04",
+    "day": 21,
+    "title": "Tetes Embun yang Berbisik Selamat Malam pada Bunga Mawar",
+    "video_file": "output/dita_fable_day_021_compressed.mp4",
+    "video_hash": "a65217466ce8e5fd10235d8a959e034c1867aa8d8fc1397abe19596f9d5274c1",
+    "timestamp": "2026-11-21T03:20:20.095750",
+    "outcomes": {
+      "youtube": {
+        "platform": "youtube",
+        "ok": true,
+        "videoId": "NaakYFtDaJA",
+        "url": "https://youtube.com/shorts/NaakYFtDaJA"
+      },
+      "zernio": {
+        "platform": "zernio",
+        "ok": true,
+        "postId": "6b010dec3d49de1b6701c973",
+        "data": {
+          "_id": "6b010dec3d49de1b6701c973",
+          "userId": "6ad8ac50051330d72ee5b3f5",
+          "workspaceId": "6b004e9bdb5770c0e801f201",
+          "title": "Tetes Embun yang Berbisik Selamat Malam pada Bunga Mawar",
+          "content": "Tetes Embun yang Berbisik Selamat Malam pada Bunga Mawar\n\nDongeng fabel pengantar tidur penuh kehangatan dan pesan moral ramah anak. Mari temani si kecil tidur nyenyak malam ini. \u2728\ud83d\udecc\n\nPesan moral: Rebahkan badan dengan tenang, esok fajar menjanjikan harapan baru.\n\n#DitaDongeng #FabelAnak #CeritaAnak #DongengSebelumTidur #KidsStories #BedtimeStory #KakDita",
+          "mediaItems": [
+            {
+              "_id": "6b010dec3d49de1b6701c979",
+              "url": "https://media.zernio.com/media/1795231209735_2b4dec29872bbfc0_dita_fable_day_021_compressed.mp4",
+              "type": "video"
+            }
+          ],
+          "scheduledFor": "2026-11-21T03:20:12.312Z",
+          "timezone": "UTC",
+          "status": "publishing",
+          "tags": [],
+          "hashtags": [],
+          "mentions": [],
+          "visibility": "public",
+          "crosspostingEnabled": true,
+          "metadata": {
+            "usageCounted": true
+          },
+          "publishingClaimedAt": "2026-11-21T03:20:12.962Z",
+          "recycling": {
+            "enabled": false,
+            "gapFreq": "month",
+            "recycleCount": 0,
+            "contentVariations": [],
+            "contentVariationIndex": 0
+          },
+          "createdAt": "2026-11-21T03:20:12.837Z",
+          "updatedAt": "2026-11-21T03:20:19.946Z",
+          "platforms": [
+            {
+              "_id": "6b010dec3d49de1b6701c975",
+              "platform": "tiktok",
+              "accountId": {
+                "_id": "6ad8acf3c24aa78753a651ef",
+                "platform": "tiktok",
+                "username": "ditafable",
+                "displayName": "ditafable",
+                "profilePicture": "https://p16-common-sign.tiktokcdn.com/tos-alisg-avt-0068/02b79ac3cf1d923dc733408ef593f1fd~tplv-tiktokx-cropcenter:168:168.jpeg?dr=14577&refresh_token=4657a249&x-expires=1795334400&x-signature=tyDGP5Rhcptmx90eiK0tnWbb7TU%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=8aecc5ac&idc=my2",
+                "isActive": true,
+                "profileId": "6ad8ac50051330d72ee5b3f7"
+              },
+              "profileId": "6ad8ac50051330d72ee5b3f7",
+              "customMedia": [],
+              "scheduledFor": "2026-11-21T03:20:12.312Z",
+              "platformSpecificData": {
+                "videoCoverImageUrl": "https://media.zernio.com/media/1795231211011_def1a9f18921a6d6_frame_01_day_021.jpg",
+                "tiktokBusinessPublishId": "v_pub_url~v2.7710458643187206165"
+              },
+              "status": "published",
+              "publishedAt": "2026-11-21T03:20:19.942Z",
+              "platformPostId": "v_pub_url~v2.7710458643187206165",
+              "publishAttempts": 1,
+              "contentHash": "ecf186d5c0c36260d3a7295ebf59173c"
+            },
+            {
+              "_id": "6b010dec3d49de1b6701c976",
+              "platform": "instagram",
+              "accountId": {
+                "_id": "6ad8acd9aad76462b1a71e23",
+                "platform": "instagram",
+                "username": "ditafable",
+                "displayName": "Dita Dongeng Fabel",
+                "profilePicture": null,
+                "isActive": true,
+                "profileId": "6ad8ac50051330d72ee5b3f7"
+              },
+              "profileId": "6ad8ac50051330d72ee5b3f7",
+              "customMedia": [],
+              "scheduledFor": "2026-11-21T03:20:12.312Z",
+              "platformSpecificData": {
+                "instagramThumbnail": "https://media.zernio.com/media/1795231211011_def1a9f18921a6d6_frame_01_day_021.jpg"
+              },
+              "status": "processing",
+              "publishAttempts": 1,
+              "contentHash": "07e41da56cf14553c8cda036abbdfec4"
+            }
+          ]
+        }
+      }
+    }
   }
 ]

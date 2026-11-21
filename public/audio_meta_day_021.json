@@ -1,0 +1,177 @@
+{
+  "channel_id": "DITA-04",
+  "channel_name": "Dita Dongeng & Fabel",
+  "channel_handle": "@ditafable",
+  "audio_path": "public/voiceover_day_021.mp3",
+  "voice": "id-ID-GadisNeural",
+  "rate": "-3%",
+  "total_words": 86,
+  "duration_seconds": 49.68,
+  "duration_frames": 1192,
+  "fps": 24,
+  "sentences": [
+    {
+      "start": 0.05,
+      "end": 9.573,
+      "duration": 9.523,
+      "text": "Di sudut hutan rimba yang dipenuhi aroma bunga mekar, Bunga Mawar sedang mengamati indahnya alam dengan tatapan penuh rasa ingin tahu."
+    },
+    {
+      "start": 9.573,
+      "end": 16.519,
+      "duration": 6.946,
+      "text": "Namun saat menjaga titipan berharga di sarang, sebuah keraguan sempat singgah di hatinya."
+    },
+    {
+      "start": 16.519,
+      "end": 25.089,
+      "duration": 8.57,
+      "text": "Alih-alih menyembunyikan rahasia, Bunga Mawar segera menemui Kupu-kupu Malam dan berkata jujur apa adanya."
+    },
+    {
+      "start": 25.089,
+      "end": 35.372,
+      "duration": 10.284,
+      "text": "Kupu-kupu Malam tersenyum teduh dan merangkulnya penuh rasa bangga: 'Kejujuran hatimu jauh lebih berkilau daripada mutiara rimba.'"
+    },
+    {
+      "start": 35.372,
+      "end": 41.158,
+      "duration": 5.786,
+      "text": "Rebahkan badan dengan tenang, esok fajar menjanjikan harapan baru."
+    },
+    {
+      "start": 41.158,
+      "end": 49.676,
+      "duration": 8.518,
+      "text": "Sekarang, tarik selimut hangatmu, pejamkan matamu ya... selamat tidur, dan mimpi indah."
+    }
+  ],
+  "timed_subtitles": [
+    {
+      "start": 0.05,
+      "end": 1.526,
+      "text": "Di sudut hutan rimba"
+    },
+    {
+      "start": 1.526,
+      "end": 3.372,
+      "text": "yang dipenuhi aroma bunga"
+    },
+    {
+      "start": 3.372,
+      "end": 5.218,
+      "text": "mekar, Bunga Mawar sedang"
+    },
+    {
+      "start": 5.218,
+      "end": 7.432,
+      "text": "mengamati indahnya alam dengan"
+    },
+    {
+      "start": 7.432,
+      "end": 9.204,
+      "text": "tatapan penuh rasa ingin"
+    },
+    {
+      "start": 9.204,
+      "end": 9.573,
+      "text": "tahu."
+    },
+    {
+      "start": 9.573,
+      "end": 11.673,
+      "text": "Namun saat menjaga titipan"
+    },
+    {
+      "start": 11.673,
+      "end": 13.773,
+      "text": "berharga di sarang, sebuah"
+    },
+    {
+      "start": 13.773,
+      "end": 15.873,
+      "text": "keraguan sempat singgah di"
+    },
+    {
+      "start": 15.873,
+      "end": 16.519,
+      "text": "hatinya."
+    },
+    {
+      "start": 16.519,
+      "end": 19.764,
+      "text": "Alih-alih menyembunyikan rahasia, Bunga"
+    },
+    {
+      "start": 19.764,
+      "end": 22.26,
+      "text": "Mawar segera menemui Kupu-kupu"
+    },
+    {
+      "start": 22.26,
+      "end": 24.174,
+      "text": "Malam dan berkata jujur"
+    },
+    {
+      "start": 24.174,
+      "end": 25.089,
+      "text": "apa adanya."
+    },
+    {
+      "start": 25.089,
+      "end": 27.619,
+      "text": "Kupu-kupu Malam tersenyum teduh"
+    },
+    {
+      "start": 27.619,
+      "end": 29.822,
+      "text": "dan merangkulnya penuh rasa"
+    },
+    {
+      "start": 29.822,
+      "end": 32.271,
+      "text": "bangga: 'Kejujuran hatimu jauh"
+    },
+    {
+      "start": 32.271,
+      "end": 34.801,
+      "text": "lebih berkilau daripada mutiara"
+    },
+    {
+      "start": 34.801,
+      "end": 35.372,
+      "text": "rimba.'"
+    },
+    {
+      "start": 35.372,
+      "end": 37.994,
+      "text": "Rebahkan badan dengan tenang,"
+    },
+    {
+      "start": 37.994,
+      "end": 40.706,
+      "text": "esok fajar menjanjikan harapan"
+    },
+    {
+      "start": 40.706,
+      "end": 41.158,
+      "text": "baru."
+    },
+    {
+      "start": 41.158,
+      "end": 44.465,
+      "text": "Sekarang, tarik selimut hangatmu,"
+    },
+    {
+      "start": 44.465,
+      "end": 47.371,
+      "text": "pejamkan matamu ya... selamat"
+    },
+    {
+      "start": 47.371,
+      "end": 49.676,
+      "text": "tidur, dan mimpi indah."
+    }
+  ]
+}
