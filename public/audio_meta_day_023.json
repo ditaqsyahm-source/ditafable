@@ -1,0 +1,172 @@
+{
+  "channel_id": "DITA-04",
+  "channel_name": "Dita Dongeng & Fabel",
+  "channel_handle": "@ditafable",
+  "audio_path": "public/voiceover_day_023.mp3",
+  "voice": "id-ID-GadisNeural",
+  "rate": "-3%",
+  "total_words": 88,
+  "duration_seconds": 47.83,
+  "duration_frames": 1148,
+  "fps": 24,
+  "sentences": [
+    {
+      "start": 0.05,
+      "end": 8.426,
+      "duration": 8.376,
+      "text": "Di hamparan padang rumput hijau berembun segar, Kelo si Kelelawar melangkah riang menikmati hangatnya cahaya mentari."
+    },
+    {
+      "start": 8.426,
+      "end": 18.774,
+      "duration": 10.348,
+      "text": "Ketika melihat Kiki Kelinci sedang kelelahan dan membutuhkan pertolongan, Kelo si Kelelawar tidak ragu sedetik pun untuk berbagi apa yang dimilikinya."
+    },
+    {
+      "start": 18.774,
+      "end": 25.256,
+      "duration": 6.482,
+      "text": "Keduanya pun saling bertukar senyum hangat di bawah naungan dedaunan rimba yang damai."
+    },
+    {
+      "start": 25.256,
+      "end": 33.632,
+      "duration": 8.376,
+      "text": "Kiki Kelinci berbisik penuh rasa haru: 'Tangan yang memberi selalu merasakan kehangatan yang tak pernah padam.'"
+    },
+    {
+      "start": 33.632,
+      "end": 39.251,
+      "duration": 5.619,
+      "text": "Makhluk malam pun memiliki cinta kasih dan ketulusan menjaga sesama."
+    },
+    {
+      "start": 39.251,
+      "end": 47.808,
+      "duration": 8.557,
+      "text": "Sekarang, tarik selimut hangatmu, pejamkan matamu ya... selamat tidur, dan mimpi indah."
+    }
+  ],
+  "timed_subtitles": [
+    {
+      "start": 0.05,
+      "end": 1.887,
+      "text": "Di hamparan padang rumput"
+    },
+    {
+      "start": 1.887,
+      "end": 3.797,
+      "text": "hijau berembun segar, Kelo"
+    },
+    {
+      "start": 3.797,
+      "end": 5.854,
+      "text": "si Kelelawar melangkah riang"
+    },
+    {
+      "start": 5.854,
+      "end": 8.426,
+      "text": "menikmati hangatnya cahaya mentari."
+    },
+    {
+      "start": 8.426,
+      "end": 10.353,
+      "text": "Ketika melihat Kiki Kelinci"
+    },
+    {
+      "start": 10.353,
+      "end": 12.637,
+      "text": "sedang kelelahan dan membutuhkan"
+    },
+    {
+      "start": 12.637,
+      "end": 14.778,
+      "text": "pertolongan, Kelo si Kelelawar"
+    },
+    {
+      "start": 14.778,
+      "end": 16.348,
+      "text": "tidak ragu sedetik pun"
+    },
+    {
+      "start": 16.348,
+      "end": 17.918,
+      "text": "untuk berbagi apa yang"
+    },
+    {
+      "start": 17.918,
+      "end": 18.774,
+      "text": "dimilikinya."
+    },
+    {
+      "start": 18.774,
+      "end": 20.961,
+      "text": "Keduanya pun saling bertukar"
+    },
+    {
+      "start": 20.961,
+      "end": 22.679,
+      "text": "senyum hangat di bawah"
+    },
+    {
+      "start": 22.679,
+      "end": 24.787,
+      "text": "naungan dedaunan rimba yang"
+    },
+    {
+      "start": 24.787,
+      "end": 25.256,
+      "text": "damai."
+    },
+    {
+      "start": 25.256,
+      "end": 27.35,
+      "text": "Kiki Kelinci berbisik penuh"
+    },
+    {
+      "start": 27.35,
+      "end": 29.134,
+      "text": "rasa haru: 'Tangan yang"
+    },
+    {
+      "start": 29.134,
+      "end": 31.848,
+      "text": "memberi selalu merasakan kehangatan"
+    },
+    {
+      "start": 31.848,
+      "end": 33.632,
+      "text": "yang tak pernah padam.'"
+    },
+    {
+      "start": 33.632,
+      "end": 35.846,
+      "text": "Makhluk malam pun memiliki"
+    },
+    {
+      "start": 35.846,
+      "end": 37.974,
+      "text": "cinta kasih dan ketulusan"
+    },
+    {
+      "start": 37.974,
+      "end": 39.251,
+      "text": "menjaga sesama."
+    },
+    {
+      "start": 39.251,
+      "end": 42.573,
+      "text": "Sekarang, tarik selimut hangatmu,"
+    },
+    {
+      "start": 42.573,
+      "end": 45.493,
+      "text": "pejamkan matamu ya... selamat"
+    },
+    {
+      "start": 45.493,
+      "end": 47.808,
+      "text": "tidur, dan mimpi indah."
+    }
+  ]
+}
