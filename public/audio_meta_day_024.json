@@ -1,0 +1,167 @@
+{
+  "channel_id": "DITA-04",
+  "channel_name": "Dita Dongeng & Fabel",
+  "channel_handle": "@ditafable",
+  "audio_path": "public/voiceover_day_024.mp3",
+  "voice": "id-ID-GadisNeural",
+  "rate": "-3%",
+  "total_words": 82,
+  "duration_seconds": 46.06,
+  "duration_frames": 1105,
+  "fps": 24,
+  "sentences": [
+    {
+      "start": 0.05,
+      "end": 9.689,
+      "duration": 9.639,
+      "text": "Di sudut hutan rimba yang dipenuhi aroma bunga mekar, Uli si Ulat sedang mengamati indahnya alam dengan tatapan penuh rasa ingin tahu."
+    },
+    {
+      "start": 9.689,
+      "end": 17.537,
+      "duration": 7.848,
+      "text": "Jalan yang terbentang di hadapannya memang berbatu dan panjang, namun ia tidak menyerah barang selangkah pun."
+    },
+    {
+      "start": 17.537,
+      "end": 24.148,
+      "duration": 6.611,
+      "text": "Melihat kegigihan itu, Belalang datang menyemangati dengan kata-kata penuh kasih."
+    },
+    {
+      "start": 24.148,
+      "end": 31.712,
+      "duration": 7.564,
+      "text": "Saat senja keemasan menyapu langit, keberhasilan manis pun diraih bersama penuh rasa syukur."
+    },
+    {
+      "start": 31.712,
+      "end": 37.487,
+      "duration": 5.774,
+      "text": "Perubahan indah membutuhkan masa penantian dan kesabaran dalam kepompong."
+    },
+    {
+      "start": 37.487,
+      "end": 46.042,
+      "duration": 8.556,
+      "text": "Sekarang, tarik selimut hangatmu, pejamkan matamu ya... selamat tidur, dan mimpi indah."
+    }
+  ],
+  "timed_subtitles": [
+    {
+      "start": 0.05,
+      "end": 1.544,
+      "text": "Di sudut hutan rimba"
+    },
+    {
+      "start": 1.544,
+      "end": 3.412,
+      "text": "yang dipenuhi aroma bunga"
+    },
+    {
+      "start": 3.412,
+      "end": 4.757,
+      "text": "mekar, Uli si Ulat"
+    },
+    {
+      "start": 4.757,
+      "end": 6.999,
+      "text": "sedang mengamati indahnya alam"
+    },
+    {
+      "start": 6.999,
+      "end": 8.867,
+      "text": "dengan tatapan penuh rasa"
+    },
+    {
+      "start": 8.867,
+      "end": 9.689,
+      "text": "ingin tahu."
+    },
+    {
+      "start": 9.689,
+      "end": 11.466,
+      "text": "Jalan yang terbentang di"
+    },
+    {
+      "start": 11.466,
+      "end": 13.613,
+      "text": "hadapannya memang berbatu dan"
+    },
+    {
+      "start": 13.613,
+      "end": 15.316,
+      "text": "panjang, namun ia tidak"
+    },
+    {
+      "start": 15.316,
+      "end": 17.537,
+      "text": "menyerah barang selangkah pun."
+    },
+    {
+      "start": 17.537,
+      "end": 20.131,
+      "text": "Melihat kegigihan itu, Belalang"
+    },
+    {
+      "start": 20.131,
+      "end": 23.144,
+      "text": "datang menyemangati dengan kata-kata"
+    },
+    {
+      "start": 23.144,
+      "end": 24.148,
+      "text": "penuh kasih."
+    },
+    {
+      "start": 24.148,
+      "end": 26.443,
+      "text": "Saat senja keemasan menyapu"
+    },
+    {
+      "start": 26.443,
+      "end": 28.992,
+      "text": "langit, keberhasilan manis pun"
+    },
+    {
+      "start": 28.992,
+      "end": 31.117,
+      "text": "diraih bersama penuh rasa"
+    },
+    {
+      "start": 31.117,
+      "end": 31.712,
+      "text": "syukur."
+    },
+    {
+      "start": 31.712,
+      "end": 34.315,
+      "text": "Perubahan indah membutuhkan masa"
+    },
+    {
+      "start": 34.315,
+      "end": 36.674,
+      "text": "penantian dan kesabaran dalam"
+    },
+    {
+      "start": 36.674,
+      "end": 37.487,
+      "text": "kepompong."
+    },
+    {
+      "start": 37.487,
+      "end": 40.808,
+      "text": "Sekarang, tarik selimut hangatmu,"
+    },
+    {
+      "start": 40.808,
+      "end": 43.727,
+      "text": "pejamkan matamu ya... selamat"
+    },
+    {
+      "start": 43.727,
+      "end": 46.042,
+      "text": "tidur, dan mimpi indah."
+    }
+  ]
+}
