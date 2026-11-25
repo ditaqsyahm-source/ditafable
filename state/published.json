@@ -2517,5 +2517,109 @@
         }
       }
     }
+  },
+  {
+    "channel_id": "DITA-04",
+    "day": 25,
+    "title": "Bebek Berbulu Kusam yang Bahagia Berenang di Danau Embun",
+    "video_file": "output/dita_fable_day_025_compressed.mp4",
+    "video_hash": "660d959b6b0e3c8e93c1827f644e2b47debd29e7c12bc3498290dadf361fb9fe",
+    "timestamp": "2026-11-25T05:00:19.746670",
+    "outcomes": {
+      "youtube": {
+        "platform": "youtube",
+        "ok": true,
+        "videoId": "CGpEpsnmkSU",
+        "url": "https://youtube.com/shorts/CGpEpsnmkSU"
+      },
+      "zernio": {
+        "platform": "zernio",
+        "ok": true,
+        "postId": "6b066b5e51fd6ef261cbbc1c",
+        "data": {
+          "_id": "6b066b5e51fd6ef261cbbc1c",
+          "userId": "6ad8ac50051330d72ee5b3f5",
+          "workspaceId": "6b004e9bdb5770c0e801f201",
+          "title": "Bebek Berbulu Kusam yang Bahagia Berenang di Danau Embun",
+          "content": "Bebek Berbulu Kusam yang Bahagia Berenang di Danau Embun\n\nDongeng fabel pengantar tidur penuh kehangatan dan pesan moral ramah anak. Mari temani si kecil tidur nyenyak malam ini. \u2728\ud83d\udecc\n\nPesan moral: Rasa syukur membuat warna bulu yang kusam tampak berkilau menawan.\n\n#DitaDongeng #FabelAnak #CeritaAnak #DongengSebelumTidur #KidsStories #BedtimeStory #KakDita",
+          "mediaItems": [
+            {
+              "_id": "6b066b5f51fd6ef261cbbc27",
+              "url": "https://media.zernio.com/media/1795582810161_153c394b862c666c_dita_fable_day_025_compressed.mp4",
+              "type": "video"
+            }
+          ],
+          "scheduledFor": "2026-11-25T05:00:14.595Z",
+          "timezone": "UTC",
+          "status": "publishing",
+          "tags": [],
+          "hashtags": [],
+          "mentions": [],
+          "visibility": "public",
+          "crosspostingEnabled": true,
+          "metadata": {
+            "usageCounted": true
+          },
+          "publishingClaimedAt": "2026-11-25T05:00:16.283Z",
+          "recycling": {
+            "enabled": false,
+            "gapFreq": "month",
+            "recycleCount": 0,
+            "contentVariations": [],
+            "contentVariationIndex": 0
+          },
+          "createdAt": "2026-11-25T05:00:15.292Z",
+          "updatedAt": "2026-11-25T05:00:18.877Z",
+          "platforms": [
+            {
+              "_id": "6b066b5f51fd6ef261cbbc23",
+              "platform": "tiktok",
+              "accountId": {
+                "_id": "6ad8acf3c24aa78753a651ef",
+                "platform": "tiktok",
+                "username": "ditafable",
+                "displayName": "ditafable",
+                "profilePicture": "https://p16-common-sign.tiktokcdn.com/tos-alisg-avt-0068/02b79ac3cf1d923dc733408ef593f1fd~tplv-tiktokx-cropcenter:168:168.jpeg?dr=14577&refresh_token=6331cd5c&x-expires=1795676400&x-signature=sQS7GtAvmJHMBRshQu9n3rdhpuo%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=8aecc5ac&idc=my3",
+                "isActive": true,
+                "profileId": "6ad8ac50051330d72ee5b3f7"
+              },
+              "profileId": "6ad8ac50051330d72ee5b3f7",
+              "customMedia": [],
+              "scheduledFor": "2026-11-25T05:00:14.595Z",
+              "platformSpecificData": {
+                "videoCoverImageUrl": "https://media.zernio.com/media/1795582813007_a3b1ddedee0311a1_frame_01_day_025.jpg",
+                "tiktokUploadTimeoutAt": "2026-11-25T05:00:18.717Z",
+                "tiktokBusinessPublishId": "v_pub_url~v2.7711969455056619521"
+              },
+              "status": "uploading",
+              "publishAttempts": 1,
+              "contentHash": "a56302c1c1806a4aa7883c2f542a3753"
+            },
+            {
+              "_id": "6b066b5f51fd6ef261cbbc24",
+              "platform": "instagram",
+              "accountId": {
+                "_id": "6ad8acd9aad76462b1a71e23",
+                "platform": "instagram",
+                "username": "ditafable",
+                "displayName": "Dita Dongeng Fabel",
+                "profilePicture": null,
+                "isActive": true,
+                "profileId": "6ad8ac50051330d72ee5b3f7"
+              },
+              "profileId": "6ad8ac50051330d72ee5b3f7",
+              "customMedia": [],
+              "scheduledFor": "2026-11-25T05:00:14.595Z",
+              "platformSpecificData": {
+                "instagramThumbnail": "https://media.zernio.com/media/1795582813007_a3b1ddedee0311a1_frame_01_day_025.jpg"
+              },
+              "status": "processing",
+              "publishAttempts": 1,
+              "contentHash": "e4b1f5b0791360ee9340f7ed2169189e"
+            }
+          ]
+        }
+      }
+    }
   }
 ]

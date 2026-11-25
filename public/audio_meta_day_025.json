@@ -1,0 +1,167 @@
+{
+  "channel_id": "DITA-04",
+  "channel_name": "Dita Dongeng & Fabel",
+  "channel_handle": "@ditafable",
+  "audio_path": "public/voiceover_day_025.mp3",
+  "voice": "id-ID-GadisNeural",
+  "rate": "-3%",
+  "total_words": 84,
+  "duration_seconds": 47.04,
+  "duration_frames": 1129,
+  "fps": 24,
+  "sentences": [
+    {
+      "start": 0.05,
+      "end": 7.962,
+      "duration": 7.912,
+      "text": "Di tepian telaga jernih berhias teratai mekar, Diko si Bebek berenang tenang menyusuri riak air yang sejuk."
+    },
+    {
+      "start": 7.962,
+      "end": 17.511,
+      "duration": 9.549,
+      "text": "Meski dianugerahi kelebihan istimewa, Diko si Bebek belajar bahwa kebanggaan berlebih hanya akan menjauhkan kawan sejati."
+    },
+    {
+      "start": 17.511,
+      "end": 25.475,
+      "duration": 7.964,
+      "text": "Dengan rendah hati, ia mengulurkan salam persahabatan kepada Angsa Putih yang menyambutnya dengan gembira."
+    },
+    {
+      "start": 25.475,
+      "end": 33.078,
+      "duration": 7.603,
+      "text": "Angsa Putih tersenyum bijak: 'Budi pekerti yang santun membuat siapa pun merasa aman di dekatmu.'"
+    },
+    {
+      "start": 33.078,
+      "end": 38.465,
+      "duration": 5.387,
+      "text": "Rasa syukur membuat warna bulu yang kusam tampak berkilau menawan."
+    },
+    {
+      "start": 38.465,
+      "end": 47.035,
+      "duration": 8.57,
+      "text": "Sekarang, tarik selimut hangatmu, pejamkan matamu ya... selamat tidur, dan mimpi indah."
+    }
+  ],
+  "timed_subtitles": [
+    {
+      "start": 0.05,
+      "end": 1.817,
+      "text": "Di tepian telaga jernih"
+    },
+    {
+      "start": 1.817,
+      "end": 3.891,
+      "text": "berhias teratai mekar, Diko"
+    },
+    {
+      "start": 3.891,
+      "end": 5.734,
+      "text": "si Bebek berenang tenang"
+    },
+    {
+      "start": 5.734,
+      "end": 7.501,
+      "text": "menyusuri riak air yang"
+    },
+    {
+      "start": 7.501,
+      "end": 7.962,
+      "text": "sejuk."
+    },
+    {
+      "start": 7.962,
+      "end": 10.956,
+      "text": "Meski dianugerahi kelebihan istimewa,"
+    },
+    {
+      "start": 10.956,
+      "end": 12.656,
+      "text": "Diko si Bebek belajar"
+    },
+    {
+      "start": 12.656,
+      "end": 15.164,
+      "text": "bahwa kebanggaan berlebih hanya"
+    },
+    {
+      "start": 15.164,
+      "end": 17.511,
+      "text": "akan menjauhkan kawan sejati."
+    },
+    {
+      "start": 17.511,
+      "end": 19.212,
+      "text": "Dengan rendah hati, ia"
+    },
+    {
+      "start": 19.212,
+      "end": 22.073,
+      "text": "mengulurkan salam persahabatan kepada"
+    },
+    {
+      "start": 22.073,
+      "end": 24.315,
+      "text": "Angsa Putih yang menyambutnya"
+    },
+    {
+      "start": 24.315,
+      "end": 25.475,
+      "text": "dengan gembira."
+    },
+    {
+      "start": 25.475,
+      "end": 27.74,
+      "text": "Angsa Putih tersenyum bijak:"
+    },
+    {
+      "start": 27.74,
+      "end": 29.762,
+      "text": "'Budi pekerti yang santun"
+    },
+    {
+      "start": 29.762,
+      "end": 31.703,
+      "text": "membuat siapa pun merasa"
+    },
+    {
+      "start": 31.703,
+      "end": 33.078,
+      "text": "aman di dekatmu.'"
+    },
+    {
+      "start": 33.078,
+      "end": 35.182,
+      "text": "Rasa syukur membuat warna"
+    },
+    {
+      "start": 35.182,
+      "end": 37.034,
+      "text": "bulu yang kusam tampak"
+    },
+    {
+      "start": 37.034,
+      "end": 38.465,
+      "text": "berkilau menawan."
+    },
+    {
+      "start": 38.465,
+      "end": 41.792,
+      "text": "Sekarang, tarik selimut hangatmu,"
+    },
+    {
+      "start": 41.792,
+      "end": 44.716,
+      "text": "pejamkan matamu ya... selamat"
+    },
+    {
+      "start": 44.716,
+      "end": 47.035,
+      "text": "tidur, dan mimpi indah."
+    }
+  ]
+}
