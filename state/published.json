@@ -2621,5 +2621,109 @@
         }
       }
     }
+  },
+  {
+    "channel_id": "DITA-04",
+    "day": 26,
+    "title": "Burung Gagak yang Belajar Mencintai Bulu Hitamnya yang Mengkilap",
+    "video_file": "output/dita_fable_day_026_compressed.mp4",
+    "video_hash": "fb25578f22f1cf110fb6b102fc84eb53b5a755492b7b84b66ef5025e10e32a85",
+    "timestamp": "2026-11-26T04:14:48.214134",
+    "outcomes": {
+      "youtube": {
+        "platform": "youtube",
+        "ok": true,
+        "videoId": "3KGkRtIAQAs",
+        "url": "https://youtube.com/shorts/3KGkRtIAQAs"
+      },
+      "zernio": {
+        "platform": "zernio",
+        "ok": true,
+        "postId": "6b07b233cd13a53545ea13b3",
+        "data": {
+          "_id": "6b07b233cd13a53545ea13b3",
+          "userId": "6ad8ac50051330d72ee5b3f5",
+          "workspaceId": "6b004e9bdb5770c0e801f201",
+          "title": "Burung Gagak yang Belajar Mencintai Bulu Hitamnya yang Mengkilap",
+          "content": "Burung Gagak yang Belajar Mencintai Bulu Hitamnya yang Mengkilap\n\nDongeng fabel pengantar tidur penuh kehangatan dan pesan moral ramah anak. Mari temani si kecil tidur nyenyak malam ini. \u2728\ud83d\udecc\n\nPesan moral: Setiap makhluk diciptakan dengan keunikan dan keindahan tak ternilai.\n\n#DitaDongeng #FabelAnak #CeritaAnak #DongengSebelumTidur #KidsStories #BedtimeStory #KakDita",
+          "mediaItems": [
+            {
+              "_id": "6b07b234cd13a53545ea13bf",
+              "url": "https://media.zernio.com/media/1795666480369_ddb908160af30dba_dita_fable_day_026_compressed.mp4",
+              "type": "video"
+            }
+          ],
+          "scheduledFor": "2026-11-26T04:14:43.918Z",
+          "timezone": "UTC",
+          "status": "publishing",
+          "tags": [],
+          "hashtags": [],
+          "mentions": [],
+          "visibility": "public",
+          "crosspostingEnabled": true,
+          "metadata": {
+            "usageCounted": true
+          },
+          "publishingClaimedAt": "2026-11-26T04:14:44.718Z",
+          "recycling": {
+            "enabled": false,
+            "gapFreq": "month",
+            "recycleCount": 0,
+            "contentVariations": [],
+            "contentVariationIndex": 0
+          },
+          "createdAt": "2026-11-26T04:14:44.647Z",
+          "updatedAt": "2026-11-26T04:14:48.083Z",
+          "platforms": [
+            {
+              "_id": "6b07b234cd13a53545ea13bb",
+              "platform": "tiktok",
+              "accountId": {
+                "_id": "6ad8acf3c24aa78753a651ef",
+                "platform": "tiktok",
+                "username": "ditafable",
+                "displayName": "ditafable",
+                "profilePicture": "https://p19-common-sign.tiktokcdn.com/tos-alisg-avt-0068/02b79ac3cf1d923dc733408ef593f1fd~tplv-tiktokx-cropcenter:168:168.jpeg?dr=14577&refresh_token=49d64a69&x-expires=1795766400&x-signature=iIjizbzVw419JfswOUl%2BGg6h%2FKU%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=8aecc5ac&idc=my",
+                "isActive": true,
+                "profileId": "6ad8ac50051330d72ee5b3f7"
+              },
+              "profileId": "6ad8ac50051330d72ee5b3f7",
+              "customMedia": [],
+              "scheduledFor": "2026-11-26T04:14:43.918Z",
+              "platformSpecificData": {
+                "videoCoverImageUrl": "https://media.zernio.com/media/1795666482829_1f586aae5055b637_frame_01_day_026.jpg",
+                "tiktokUploadTimeoutAt": "2026-11-26T04:14:48.080Z",
+                "tiktokBusinessPublishId": "v_pub_url~v2.7712328248885102593"
+              },
+              "status": "uploading",
+              "publishAttempts": 1,
+              "contentHash": "4014fe46420d3106f5fc214bb8f5b8cd"
+            },
+            {
+              "_id": "6b07b234cd13a53545ea13bc",
+              "platform": "instagram",
+              "accountId": {
+                "_id": "6ad8acd9aad76462b1a71e23",
+                "platform": "instagram",
+                "username": "ditafable",
+                "displayName": "Dita Dongeng Fabel",
+                "profilePicture": null,
+                "isActive": true,
+                "profileId": "6ad8ac50051330d72ee5b3f7"
+              },
+              "profileId": "6ad8ac50051330d72ee5b3f7",
+              "customMedia": [],
+              "scheduledFor": "2026-11-26T04:14:43.918Z",
+              "platformSpecificData": {
+                "instagramThumbnail": "https://media.zernio.com/media/1795666482829_1f586aae5055b637_frame_01_day_026.jpg"
+              },
+              "status": "processing",
+              "publishAttempts": 1,
+              "contentHash": "f4564d5fe8c874e034168289aeb2c7f9"
+            }
+          ]
+        }
+      }
+    }
   }
 ]

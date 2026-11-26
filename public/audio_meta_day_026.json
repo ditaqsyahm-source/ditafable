@@ -1,0 +1,167 @@
+{
+  "channel_id": "DITA-04",
+  "channel_name": "Dita Dongeng & Fabel",
+  "channel_handle": "@ditafable",
+  "audio_path": "public/voiceover_day_026.mp3",
+  "voice": "id-ID-GadisNeural",
+  "rate": "-3%",
+  "total_words": 85,
+  "duration_seconds": 48.0,
+  "duration_frames": 1152,
+  "fps": 24,
+  "sentences": [
+    {
+      "start": 0.05,
+      "end": 9.135,
+      "duration": 9.085,
+      "text": "Di atas dahan pohon kenari tua yang rimbun dan teduh, Gaga si Gagak melompat lincah sambil menyapa hembusan angin semilir."
+    },
+    {
+      "start": 9.135,
+      "end": 19.921,
+      "duration": 10.786,
+      "text": "Ketika kesalahpahaman kecil sempat membuat dada terasa sesak, Gaga si Gagak memilih menarik napas panjang dan membasuh rasa kesalnya dengan ketenangan."
+    },
+    {
+      "start": 19.921,
+      "end": 26.828,
+      "duration": 6.907,
+      "text": "Dengan lapang dada, ia mendengarkan Cendrawasih dan saling memaafkan dengan tulus."
+    },
+    {
+      "start": 26.828,
+      "end": 33.98,
+      "duration": 7.152,
+      "text": "Suasana rimba pun kembali tenteram, ditemani alunan desau angin yang menyejukkan kalbu."
+    },
+    {
+      "start": 33.98,
+      "end": 39.483,
+      "duration": 5.503,
+      "text": "Setiap makhluk diciptakan dengan keunikan dan keindahan tak ternilai."
+    },
+    {
+      "start": 39.483,
+      "end": 47.988,
+      "duration": 8.505,
+      "text": "Sekarang, tarik selimut hangatmu, pejamkan matamu ya... selamat tidur, dan mimpi indah."
+    }
+  ],
+  "timed_subtitles": [
+    {
+      "start": 0.05,
+      "end": 1.513,
+      "text": "Di atas dahan pohon"
+    },
+    {
+      "start": 1.513,
+      "end": 3.207,
+      "text": "kenari tua yang rimbun"
+    },
+    {
+      "start": 3.207,
+      "end": 4.592,
+      "text": "dan teduh, Gaga si"
+    },
+    {
+      "start": 4.592,
+      "end": 6.748,
+      "text": "Gagak melompat lincah sambil"
+    },
+    {
+      "start": 6.748,
+      "end": 9.135,
+      "text": "menyapa hembusan angin semilir."
+    },
+    {
+      "start": 9.135,
+      "end": 11.647,
+      "text": "Ketika kesalahpahaman kecil sempat"
+    },
+    {
+      "start": 11.647,
+      "end": 13.568,
+      "text": "membuat dada terasa sesak,"
+    },
+    {
+      "start": 13.568,
+      "end": 15.119,
+      "text": "Gaga si Gagak memilih"
+    },
+    {
+      "start": 15.119,
+      "end": 16.966,
+      "text": "menarik napas panjang dan"
+    },
+    {
+      "start": 16.966,
+      "end": 19.108,
+      "text": "membasuh rasa kesalnya dengan"
+    },
+    {
+      "start": 19.108,
+      "end": 19.921,
+      "text": "ketenangan."
+    },
+    {
+      "start": 19.921,
+      "end": 21.82,
+      "text": "Dengan lapang dada, ia"
+    },
+    {
+      "start": 21.82,
+      "end": 24.842,
+      "text": "mendengarkan Cendrawasih dan saling"
+    },
+    {
+      "start": 24.842,
+      "end": 26.828,
+      "text": "memaafkan dengan tulus."
+    },
+    {
+      "start": 26.828,
+      "end": 28.932,
+      "text": "Suasana rimba pun kembali"
+    },
+    {
+      "start": 28.932,
+      "end": 31.54,
+      "text": "tenteram, ditemani alunan desau"
+    },
+    {
+      "start": 31.54,
+      "end": 33.98,
+      "text": "angin yang menyejukkan kalbu."
+    },
+    {
+      "start": 33.98,
+      "end": 36.608,
+      "text": "Setiap makhluk diciptakan dengan"
+    },
+    {
+      "start": 36.608,
+      "end": 38.744,
+      "text": "keunikan dan keindahan tak"
+    },
+    {
+      "start": 38.744,
+      "end": 39.483,
+      "text": "ternilai."
+    },
+    {
+      "start": 39.483,
+      "end": 42.785,
+      "text": "Sekarang, tarik selimut hangatmu,"
+    },
+    {
+      "start": 42.785,
+      "end": 45.687,
+      "text": "pejamkan matamu ya... selamat"
+    },
+    {
+      "start": 45.687,
+      "end": 47.988,
+      "text": "tidur, dan mimpi indah."
+    }
+  ]
+}
