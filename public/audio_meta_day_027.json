@@ -1,0 +1,152 @@
+{
+  "channel_id": "DITA-04",
+  "channel_name": "Dita Dongeng & Fabel",
+  "channel_handle": "@ditafable",
+  "audio_path": "public/voiceover_day_027.mp3",
+  "voice": "id-ID-GadisNeural",
+  "rate": "-3%",
+  "total_words": 77,
+  "duration_seconds": 45.02,
+  "duration_frames": 1081,
+  "fps": 24,
+  "sentences": [
+    {
+      "start": 0.05,
+      "end": 8.478,
+      "duration": 8.428,
+      "text": "Di hamparan padang rumput hijau berembun segar, Tiko si Tikus melangkah riang menikmati hangatnya cahaya mentari."
+    },
+    {
+      "start": 8.478,
+      "end": 16.97,
+      "duration": 8.492,
+      "text": "Ketika tugas besar terasa berat bila dipikul sendiri, Singa Rimba hadir menawarkan bantuan dengan riang gembira."
+    },
+    {
+      "start": 16.97,
+      "end": 23.388,
+      "duration": 6.418,
+      "text": "Bahu-membahu mereka menyatukan kekuatan hingga pekerjaan selesai dengan sempurna."
+    },
+    {
+      "start": 23.388,
+      "end": 31.21,
+      "duration": 7.822,
+      "text": "Di bawah langit malam bertabur bintang gemerlap, hati mereka dipenuhi rasa aman dan persaudaraan yang erat."
+    },
+    {
+      "start": 31.21,
+      "end": 36.519,
+      "duration": 5.309,
+      "text": "Bantuan dari makhluk terkecil mampu melepaskan jeratan terbesar."
+    },
+    {
+      "start": 36.519,
+      "end": 45.011,
+      "duration": 8.492,
+      "text": "Sekarang, tarik selimut hangatmu, pejamkan matamu ya... selamat tidur, dan mimpi indah."
+    }
+  ],
+  "timed_subtitles": [
+    {
+      "start": 0.05,
+      "end": 1.965,
+      "text": "Di hamparan padang rumput"
+    },
+    {
+      "start": 1.965,
+      "end": 3.958,
+      "text": "hijau berembun segar, Tiko"
+    },
+    {
+      "start": 3.958,
+      "end": 5.796,
+      "text": "si Tikus melangkah riang"
+    },
+    {
+      "start": 5.796,
+      "end": 8.478,
+      "text": "menikmati hangatnya cahaya mentari."
+    },
+    {
+      "start": 8.478,
+      "end": 10.426,
+      "text": "Ketika tugas besar terasa"
+    },
+    {
+      "start": 10.426,
+      "end": 12.529,
+      "text": "berat bila dipikul sendiri,"
+    },
+    {
+      "start": 12.529,
+      "end": 14.711,
+      "text": "Singa Rimba hadir menawarkan"
+    },
+    {
+      "start": 14.711,
+      "end": 16.97,
+      "text": "bantuan dengan riang gembira."
+    },
+    {
+      "start": 16.97,
+      "end": 20.138,
+      "text": "Bahu-membahu mereka menyatukan kekuatan"
+    },
+    {
+      "start": 20.138,
+      "end": 22.657,
+      "text": "hingga pekerjaan selesai dengan"
+    },
+    {
+      "start": 22.657,
+      "end": 23.388,
+      "text": "sempurna."
+    },
+    {
+      "start": 23.388,
+      "end": 24.967,
+      "text": "Di bawah langit malam"
+    },
+    {
+      "start": 24.967,
+      "end": 27.299,
+      "text": "bertabur bintang gemerlap, hati"
+    },
+    {
+      "start": 27.299,
+      "end": 29.179,
+      "text": "mereka dipenuhi rasa aman"
+    },
+    {
+      "start": 29.179,
+      "end": 31.21,
+      "text": "dan persaudaraan yang erat."
+    },
+    {
+      "start": 31.21,
+      "end": 33.654,
+      "text": "Bantuan dari makhluk terkecil"
+    },
+    {
+      "start": 33.654,
+      "end": 36.519,
+      "text": "mampu melepaskan jeratan terbesar."
+    },
+    {
+      "start": 36.519,
+      "end": 39.816,
+      "text": "Sekarang, tarik selimut hangatmu,"
+    },
+    {
+      "start": 39.816,
+      "end": 42.713,
+      "text": "pejamkan matamu ya... selamat"
+    },
+    {
+      "start": 42.713,
+      "end": 45.011,
+      "text": "tidur, dan mimpi indah."
+    }
+  ]
+}
