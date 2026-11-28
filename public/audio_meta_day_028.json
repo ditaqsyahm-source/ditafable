@@ -1,0 +1,172 @@
+{
+  "channel_id": "DITA-04",
+  "channel_name": "Dita Dongeng & Fabel",
+  "channel_handle": "@ditafable",
+  "audio_path": "public/voiceover_day_028.mp3",
+  "voice": "id-ID-GadisNeural",
+  "rate": "-3%",
+  "total_words": 87,
+  "duration_seconds": 49.58,
+  "duration_frames": 1190,
+  "fps": 24,
+  "sentences": [
+    {
+      "start": 0.05,
+      "end": 10.153,
+      "duration": 10.103,
+      "text": "Di sudut hutan rimba yang dipenuhi aroma bunga mekar, Keluarga Beruang Hutan sedang mengamati indahnya alam dengan tatapan penuh rasa ingin tahu."
+    },
+    {
+      "start": 10.153,
+      "end": 17.099,
+      "duration": 6.946,
+      "text": "Namun saat menjaga titipan berharga di sarang, sebuah keraguan sempat singgah di hatinya."
+    },
+    {
+      "start": 17.099,
+      "end": 26.158,
+      "duration": 9.059,
+      "text": "Alih-alih menyembunyikan rahasia, Keluarga Beruang Hutan segera menemui sahabat rimba dan berkata jujur apa adanya."
+    },
+    {
+      "start": 26.158,
+      "end": 36.403,
+      "duration": 10.245,
+      "text": "sahabat rimba tersenyum teduh dan merangkulnya penuh rasa bangga: 'Kejujuran hatimu jauh lebih berkilau daripada mutiara rimba.'"
+    },
+    {
+      "start": 36.403,
+      "end": 40.991,
+      "duration": 4.588,
+      "text": "Tidurlah nyenyak di bawah naungan kasih sayang semesta."
+    },
+    {
+      "start": 40.991,
+      "end": 49.56,
+      "duration": 8.57,
+      "text": "Sekarang, tarik selimut hangatmu, pejamkan matamu ya... selamat tidur, dan mimpi indah."
+    }
+  ],
+  "timed_subtitles": [
+    {
+      "start": 0.05,
+      "end": 1.493,
+      "text": "Di sudut hutan rimba"
+    },
+    {
+      "start": 1.493,
+      "end": 3.297,
+      "text": "yang dipenuhi aroma bunga"
+    },
+    {
+      "start": 3.297,
+      "end": 5.39,
+      "text": "mekar, Keluarga Beruang Hutan"
+    },
+    {
+      "start": 5.39,
+      "end": 7.555,
+      "text": "sedang mengamati indahnya alam"
+    },
+    {
+      "start": 7.555,
+      "end": 9.359,
+      "text": "dengan tatapan penuh rasa"
+    },
+    {
+      "start": 9.359,
+      "end": 10.153,
+      "text": "ingin tahu."
+    },
+    {
+      "start": 10.153,
+      "end": 12.253,
+      "text": "Namun saat menjaga titipan"
+    },
+    {
+      "start": 12.253,
+      "end": 14.353,
+      "text": "berharga di sarang, sebuah"
+    },
+    {
+      "start": 14.353,
+      "end": 16.453,
+      "text": "keraguan sempat singgah di"
+    },
+    {
+      "start": 16.453,
+      "end": 17.099,
+      "text": "hatinya."
+    },
+    {
+      "start": 17.099,
+      "end": 20.496,
+      "text": "Alih-alih menyembunyikan rahasia, Keluarga"
+    },
+    {
+      "start": 20.496,
+      "end": 22.761,
+      "text": "Beruang Hutan segera menemui"
+    },
+    {
+      "start": 22.761,
+      "end": 24.783,
+      "text": "sahabat rimba dan berkata"
+    },
+    {
+      "start": 24.783,
+      "end": 26.158,
+      "text": "jujur apa adanya."
+    },
+    {
+      "start": 26.158,
+      "end": 28.554,
+      "text": "sahabat rimba tersenyum teduh"
+    },
+    {
+      "start": 28.554,
+      "end": 30.785,
+      "text": "dan merangkulnya penuh rasa"
+    },
+    {
+      "start": 30.785,
+      "end": 33.263,
+      "text": "bangga: 'Kejujuran hatimu jauh"
+    },
+    {
+      "start": 33.263,
+      "end": 35.825,
+      "text": "lebih berkilau daripada mutiara"
+    },
+    {
+      "start": 35.825,
+      "end": 36.403,
+      "text": "rimba.'"
+    },
+    {
+      "start": 36.403,
+      "end": 38.527,
+      "text": "Tidurlah nyenyak di bawah"
+    },
+    {
+      "start": 38.527,
+      "end": 40.991,
+      "text": "naungan kasih sayang semesta."
+    },
+    {
+      "start": 40.991,
+      "end": 44.318,
+      "text": "Sekarang, tarik selimut hangatmu,"
+    },
+    {
+      "start": 44.318,
+      "end": 47.241,
+      "text": "pejamkan matamu ya... selamat"
+    },
+    {
+      "start": 47.241,
+      "end": 49.56,
+      "text": "tidur, dan mimpi indah."
+    }
+  ]
+}

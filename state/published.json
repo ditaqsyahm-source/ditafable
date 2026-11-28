@@ -2829,5 +2829,109 @@
         }
       }
     }
+  },
+  {
+    "channel_id": "DITA-04",
+    "day": 28,
+    "title": "Cahaya Bulan Sabit yang Menyinari Sarang-Sarang Hangat",
+    "video_file": "output/dita_fable_day_028_compressed.mp4",
+    "video_hash": "49ac76b3a4c46ddae1250f2ac8068f939f9d8e76d753874e3c6b44895f86d7f1",
+    "timestamp": "2026-11-28T04:00:32.829484",
+    "outcomes": {
+      "youtube": {
+        "platform": "youtube",
+        "ok": true,
+        "videoId": "eVl0GbbkakE",
+        "url": "https://youtube.com/shorts/eVl0GbbkakE"
+      },
+      "zernio": {
+        "platform": "zernio",
+        "ok": true,
+        "postId": "6b0a51dc91bddcef428977e5",
+        "data": {
+          "_id": "6b0a51dc91bddcef428977e5",
+          "userId": "6ad8ac50051330d72ee5b3f5",
+          "workspaceId": "6b004e9bdb5770c0e801f201",
+          "title": "Cahaya Bulan Sabit yang Menyinari Sarang-Sarang Hangat",
+          "content": "Cahaya Bulan Sabit yang Menyinari Sarang-Sarang Hangat\n\nDongeng fabel pengantar tidur penuh kehangatan dan pesan moral ramah anak. Mari temani si kecil tidur nyenyak malam ini. \u2728\ud83d\udecc\n\nPesan moral: Tidurlah nyenyak di bawah naungan kasih sayang semesta.\n\n#DitaDongeng #FabelAnak #CeritaAnak #DongengSebelumTidur #KidsStories #BedtimeStory #KakDita",
+          "mediaItems": [
+            {
+              "_id": "6b0a51dd91bddcef428977f2",
+              "url": "https://media.zernio.com/media/1795838426404_564236a690f25fb0_dita_fable_day_028_compressed.mp4",
+              "type": "video"
+            }
+          ],
+          "scheduledFor": "2026-11-28T04:00:28.830Z",
+          "timezone": "UTC",
+          "status": "publishing",
+          "tags": [],
+          "hashtags": [],
+          "mentions": [],
+          "visibility": "public",
+          "crosspostingEnabled": true,
+          "metadata": {
+            "usageCounted": true
+          },
+          "publishingClaimedAt": "2026-11-28T04:00:29.572Z",
+          "recycling": {
+            "enabled": false,
+            "gapFreq": "month",
+            "recycleCount": 0,
+            "contentVariations": [],
+            "contentVariationIndex": 0
+          },
+          "createdAt": "2026-11-28T04:00:29.487Z",
+          "updatedAt": "2026-11-28T04:00:32.345Z",
+          "platforms": [
+            {
+              "_id": "6b0a51dd91bddcef428977ee",
+              "platform": "tiktok",
+              "accountId": {
+                "_id": "6ad8acf3c24aa78753a651ef",
+                "platform": "tiktok",
+                "username": "ditafable",
+                "displayName": "ditafable",
+                "profilePicture": "https://p16-common-sign.tiktokcdn.com/tos-alisg-avt-0068/02b79ac3cf1d923dc733408ef593f1fd~tplv-tiktokx-cropcenter:168:168.jpeg?dr=14577&refresh_token=716f25fc&x-expires=1795935600&x-signature=icE5OhqkkYASBQf41xYEIseGqFc%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=8aecc5ac&idc=my",
+                "isActive": true,
+                "profileId": "6ad8ac50051330d72ee5b3f7"
+              },
+              "profileId": "6ad8ac50051330d72ee5b3f7",
+              "customMedia": [],
+              "scheduledFor": "2026-11-28T04:00:28.830Z",
+              "platformSpecificData": {
+                "videoCoverImageUrl": "https://media.zernio.com/media/1795838427966_5f339789fe31975d_frame_01_day_028.jpg",
+                "tiktokUploadTimeoutAt": "2026-11-28T04:00:31.693Z",
+                "tiktokBusinessPublishId": "v_pub_url~v2.7713066103240493077"
+              },
+              "status": "uploading",
+              "publishAttempts": 1,
+              "contentHash": "1936c906d8d3b4d839721276d9572520"
+            },
+            {
+              "_id": "6b0a51dd91bddcef428977ef",
+              "platform": "instagram",
+              "accountId": {
+                "_id": "6ad8acd9aad76462b1a71e23",
+                "platform": "instagram",
+                "username": "ditafable",
+                "displayName": "Dita Dongeng Fabel",
+                "profilePicture": null,
+                "isActive": true,
+                "profileId": "6ad8ac50051330d72ee5b3f7"
+              },
+              "profileId": "6ad8ac50051330d72ee5b3f7",
+              "customMedia": [],
+              "scheduledFor": "2026-11-28T04:00:28.830Z",
+              "platformSpecificData": {
+                "instagramThumbnail": "https://media.zernio.com/media/1795838427966_5f339789fe31975d_frame_01_day_028.jpg"
+              },
+              "status": "processing",
+              "publishAttempts": 1,
+              "contentHash": "ef24644efb1ec4892bb2b21aed4161ed"
+            }
+          ]
+        }
+      }
+    }
   }
 ]
